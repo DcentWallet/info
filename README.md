@@ -1,5 +1,5 @@
 # info
-Information to use D'CENT wallet. (http://idcent.io)
+Information to use D'CENT wallet. (https://DcentWallet.com)
 
 ## Wiki
 https://github.com/DcentWallet/info/wiki
