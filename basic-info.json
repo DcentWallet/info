@@ -1,0 +1,79 @@
+{
+    "version": {
+        "android": "v2.2.0",
+        "ios": "v2.0",
+        "firmware": "v1.5.1.e40f"
+    },
+    "supportedCoinList": [
+        { 
+            "symbol": "BTC", 
+            "name": "Bitcoin", 
+            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/asset-bitcoin.png" 
+        },
+        { 
+            "symbol": "ETH", 
+            "name": "Ethereum", 
+            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/asset-ethereum.png" 
+        },
+        { 
+            "symbol": "Token", 
+            "name": "ERC20", 
+            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/asset-erc20.png" 
+        },
+        { 
+            "symbol": "RBTC", 
+            "name": "Rootstock", 
+            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/asset-rootstock.png" 
+        },
+        { 
+            "symbol": "Token", 
+            "name": "RRC20", 
+            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/asset-rrc20.png" 
+        },
+        { 
+            "symbol": "XRP", 
+            "name": "Ripple", 
+            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/asset-ripple.png" 
+        },
+        { 
+            "symbol": "MONA", 
+            "name": "MonaCoin", 
+            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/asset-monacoin.png" 
+        },
+        { 
+            "symbol": "BCH", 
+            "name": "Bitcoin Cash", 
+            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/asset-bitcoin-cash.png" 
+        },
+        { 
+            "symbol": "LTC", 
+            "name": "LiteCoin", 
+            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/asset-litecoin.png" 
+        },
+        { 
+            "symbol": "ZEC", 
+            "name": "Zcash", 
+            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/asset-zcash.png" 
+        },
+        { 
+            "symbol": "DASH", 
+            "name": "Dash", 
+            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/asset-dash.png" 
+        },
+        { 
+            "symbol": "BTG", 
+            "name": "Bitcoin Gold", 
+            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/asset-bitcoin-gold.png" 
+        },
+        { 
+            "symbol": "KLAY", 
+            "name": "Klaytn", 
+            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/asset-klaytn.png" 
+        },
+        { 
+            "symbol": "Token", 
+            "name": "KLAY KCT", 
+            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/asset-klay-kct.png" 
+        }
+    ]
+}
