@@ -1,8 +1,14 @@
 {
     "version": {
-        "android": "v2.2.0",
-        "ios": "v2.0",
-        "firmware": "v1.5.1.e40f"
+        "biometric": {
+            "android": "v2.2.0",
+            "ios": "v2.0",
+            "firmware": "v1.5.1.e40f"
+        },
+        "card": {
+            "android": "v2.2.0",
+            "ios": "v2.2"
+        }
     },
     "supportedCoinList": [
         { 
