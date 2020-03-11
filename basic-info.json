@@ -79,6 +79,11 @@
             "symbol": "Token", 
             "name": "KLAY KCT", 
             "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/asset-klay-kct.png" 
+        },
+        { 
+            "symbol": "DGB", 
+            "name": "DigiByte", 
+            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/asset-digibyte.png" 
         }
     ]
 }
