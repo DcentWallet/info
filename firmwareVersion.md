@@ -1,6 +1,7 @@
 |Kernel Version|Release Date|Notes|
 |----|----|------|
-|v1.6.0.0369|2018-12-20|• Added supporting coin : DigiByte(DGB)|
+|v1.7.0.085a|2020-03-13|• Digibyte segwit(bech32) account support <br>• Trsansaction support for Bitcoin / LiteCoin / Digibyte segwit(bech32) address|
+|v1.6.0.0369|2019-12-20|• Added supporting coin : DigiByte(DGB)|
 |v1.5.1.e40f|2019-10-24|• Added supporting coins<br>: Bitcoin Cash(BCH),Bitcoin Gold(BTG), Zcash(ZEC), Dash(DASH), Litecoin(LTC), Klaytn(KLAY)<br>• Improved synchronization stability<br>• Added a button to delete account|
 |v1.4.0.c9b3|2019-10-01|• Updated BLE Page UI<br>• Improved stability for BTC based Address<br>• Minor bug fixed|
 |v1.3.0|2019-08-01|• Added ETH message sign<br>• Minor bug fixed|
