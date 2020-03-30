@@ -84,6 +84,10 @@
             "symbol": "DGB", 
             "name": "DigiByte", 
             "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/asset-digibyte.png" 
+        },
+        {
+            "symbol": "RVN",
+            "name": "Ravencoin"
         }
     ],
     "cardSupportedCoinList": [
