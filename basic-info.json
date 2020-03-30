@@ -87,7 +87,8 @@
         },
         {
             "symbol": "RVN",
-            "name": "Ravencoin"
+            "name": "Ravencoin",
+            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/asset-raven.png"
         }
     ],
     "cardSupportedCoinList": [
