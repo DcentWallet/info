@@ -1,8 +1,8 @@
 {
     "version": {
         "biometric": {
-            "android": "v2.2.0",
-            "ios": "v2.0"
+            "android": "v3.2.0",
+            "ios": "v2.4.0"
         },
         "card": {
             "android": "v2.2.0",
