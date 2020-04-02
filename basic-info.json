@@ -12,8 +12,9 @@
     "supportedCoinList": [
         { 
             "symbol": "BTC", 
-            "name": "Bitcoin", 
-            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/asset-bitcoin.png" 
+            "name": "Bitcoin",
+            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/asset-bitcoin.png",
+            "segwit": true
         },
         { 
             "symbol": "ETH", 
@@ -53,7 +54,8 @@
         { 
             "symbol": "LTC", 
             "name": "LiteCoin", 
-            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/asset-litecoin.png" 
+            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/asset-litecoin.png",
+            "segwit": true
         },
         { 
             "symbol": "ZEC", 
@@ -83,7 +85,8 @@
         { 
             "symbol": "DGB", 
             "name": "DigiByte", 
-            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/asset-digibyte.png" 
+            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/asset-digibyte.png",
+            "segwit": true
         },
         {
             "symbol": "RVN",
