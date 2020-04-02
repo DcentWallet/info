@@ -13,8 +13,7 @@
         { 
             "symbol": "BTC", 
             "name": "Bitcoin",
-            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/asset-bitcoin.png",
-            "segwit": true
+            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/asset-bitcoin.png"
         },
         { 
             "symbol": "ETH", 
@@ -54,8 +53,7 @@
         { 
             "symbol": "LTC", 
             "name": "LiteCoin", 
-            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/asset-litecoin.png",
-            "segwit": true
+            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/asset-litecoin.png"
         },
         { 
             "symbol": "ZEC", 
