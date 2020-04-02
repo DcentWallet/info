@@ -1,5 +1,6 @@
 |Kernel Version|Release Date|Notes|
 |----|----|------|
+|v1.8.0.640b|2020-03-30|• Added supporting coin : Ravencoin(RVN) |
 |v1.7.0.085a|2020-03-13|• Digibyte segwit(bech32) account support <br>• Trsansaction support for Bitcoin / LiteCoin / Digibyte segwit(bech32) address|
 |v1.6.0.0369|2019-12-20|• Added supporting coin : DigiByte(DGB)|
 |v1.5.1.e40f|2019-10-24|• Added supporting coins<br>: Bitcoin Cash(BCH),Bitcoin Gold(BTG), Zcash(ZEC), Dash(DASH), Litecoin(LTC), Klaytn(KLAY)<br>• Improved synchronization stability<br>• Added a button to delete account|
