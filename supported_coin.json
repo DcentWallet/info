@@ -2251,7 +2251,6 @@
     }
   },
   {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2143.png",
     "symbol": "DATA",
     "name": "Streamr DATAcoin",
     "type": "ERC20",
@@ -6543,6 +6542,7 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5528.png",
     "symbol": "XNN",
     "name": "XENON",
     "type": "ERC20",
@@ -9808,7 +9808,6 @@
     }
   },
   {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3048.png",
     "symbol": "BTK",
     "name": "Bitcoin Turbo Koin",
     "type": "ERC20",
@@ -10325,7 +10324,6 @@
     }
   },
   {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3088.png",
     "symbol": "BTCONE",
     "name": "BitCoin One",
     "type": "ERC20",
@@ -11418,7 +11416,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/1839.png",
     "symbol": "BNB",
     "name": "Binance Coin",
-    "type": "ERC20-Mainnet",
+    "type": "ERC20",
     "contract": "0xb8c77482e45f1f44de1745f52c74426c631bdd52",
     "support": {
       "biometric": true,
@@ -11430,7 +11428,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3077.png",
     "symbol": "VEN",
     "name": "VeChain",
-    "type": "ERC20-Mainnet",
+    "type": "ERC20",
     "contract": "0xd850942ef8811f2a866692a623011bde52a462c1",
     "support": {
       "biometric": true,
@@ -11442,7 +11440,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2416.png",
     "symbol": "THETA",
     "name": "THETA",
-    "type": "ERC20-Mainnet",
+    "type": "ERC20",
     "contract": "0x3883f5e181fccaf8410fa61e12b59bad963fb645",
     "support": {
       "biometric": true,
@@ -11454,7 +11452,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2099.png",
     "symbol": "ICX",
     "name": "ICON",
-    "type": "ERC20-Mainnet",
+    "type": "ERC20",
     "contract": "0xb5a5f22694352c15b00323844ad545abb2b11028",
     "support": {
       "biometric": true,
@@ -11466,7 +11464,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/1700.png",
     "symbol": "AE",
     "name": "Aeternity",
-    "type": "ERC20-Mainnet",
+    "type": "ERC20",
     "contract": "0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d",
     "support": {
       "biometric": true,
@@ -11478,7 +11476,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/1866.png",
     "symbol": "BTM",
     "name": "Bytom",
-    "type": "ERC20-Mainnet",
+    "type": "ERC20",
     "contract": "0xcb97e65f07da24d46bcdd078ebebd7c6e6e3d750",
     "support": {
       "biometric": true,
@@ -11490,7 +11488,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2405.png",
     "symbol": "IOST",
     "name": "IOST",
-    "type": "ERC20-Mainnet",
+    "type": "ERC20",
     "contract": "0xfa1a856cfa3409cfa145fa4e20eb270df3eb21ab",
     "support": {
       "biometric": true,
@@ -11502,7 +11500,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2062.png",
     "symbol": "AION",
     "name": "Aion",
-    "type": "ERC20-Mainnet",
+    "type": "ERC20",
     "contract": "0x4ceda7906a5ed2179785cd3a40a69ee8bc99c466",
     "support": {
       "biometric": true,
@@ -11514,7 +11512,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2474.png",
     "symbol": "MAN",
     "name": "Matrix AI Network",
-    "type": "ERC20-Mainnet",
+    "type": "ERC20",
     "contract": "0xe25bcec5d3801ce3a794079bf94adf1b8ccd802d",
     "support": {
       "biometric": true,
@@ -11526,7 +11524,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2246.png",
     "symbol": "CMT",
     "name": "CyberMiles",
-    "type": "ERC20-Mainnet",
+    "type": "ERC20",
     "contract": "0xf85feea2fdd81d51177f6b8f35f0e6734ce45f5f",
     "support": {
       "biometric": true,
@@ -11538,7 +11536,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3418.png",
     "symbol": "META",
     "name": "Metadium",
-    "type": "ERC20-Mainnet",
+    "type": "ERC20",
     "contract": "0xde2f7766c8bf14ca67193128535e5c7454f8387c",
     "support": {
       "biometric": true,
@@ -11550,7 +11548,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/1993.png",
     "symbol": "KIN",
     "name": "Kin",
-    "type": "ERC20-Mainnet",
+    "type": "ERC20",
     "contract": "0x818fc6c2ec5986bc6e2cbf00939d90556ab12ce5",
     "support": {
       "biometric": true,
@@ -11561,7 +11559,7 @@
   {
     "symbol": "ZCO",
     "name": "Zebi",
-    "type": "ERC20-Mainnet",
+    "type": "ERC20",
     "contract": "0x2008e3057bd734e10ad13c9eae45ff132abc1722",
     "support": {
       "biometric": true,
@@ -11572,7 +11570,7 @@
   {
     "symbol": "CPY",
     "name": "COPYTRACK",
-    "type": "ERC20-Mainnet",
+    "type": "ERC20",
     "contract": "0xf44745fbd41f6a1ba151df190db0564c5fcc4410",
     "support": {
       "biometric": true,
@@ -11584,7 +11582,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/1765.png",
     "symbol": "EOS",
     "name": "EOS",
-    "type": "ERC20-Mainnet",
+    "type": "ERC20",
     "contract": "0x86fa049857e0209aa7d9e616f7eb3b3b78ecfdb0",
     "support": {
       "biometric": true,
@@ -11596,7 +11594,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3144.png",
     "symbol": "THR",
     "name": "ThoreCoin",
-    "type": "ERC20-Mainnet",
+    "type": "ERC20",
     "contract": "0x1cb3209d45b2a60b7fbca1ccdbf87f674237a4aa",
     "support": {
       "biometric": true,
@@ -11608,7 +11606,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/1958.png",
     "symbol": "TRX",
     "name": "TRON",
-    "type": "ERC20-Mainnet",
+    "type": "ERC20",
     "contract": "0xf230b790e05390fc8295f4d3f60332c93bed42e2",
     "support": {
       "biometric": true,
