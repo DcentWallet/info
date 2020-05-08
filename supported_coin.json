@@ -12095,6 +12095,17 @@
     }
   },
   {
+    "symbol": "VCT",
+    "name": "Victor-M",
+    "type": "ERC20",
+    "contract": "0x7f2cba46d826bb0d249f22afb040a08498afa62d",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "software": true
+    }
+  },
+  {
     "symbol": "RIF",
     "name": "RIF Token",
     "type": "RRC20",
