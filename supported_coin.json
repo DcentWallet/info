@@ -7861,7 +7861,6 @@
     }
   },
   {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2680.png",
     "symbol": "HBZ",
     "name": "HBZ coin",
     "type": "ERC20",
@@ -12099,6 +12098,40 @@
     "name": "Victor-M",
     "type": "ERC20",
     "contract": "0x7f2cba46d826bb0d249f22afb040a08498afa62d",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "software": true
+    }
+  },
+  {
+    "symbol": "VCT",
+    "name": "VICTOR",
+    "type": "ERC20",
+    "contract": "0xe3bd1319abc56a62ad98851526b8bde973963d48",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "software": true
+    }
+  },
+  {
+    "symbol": "PEC",
+    "name": "Payecoin",
+    "type": "ERC20",
+    "contract": "0x7e197e2824afe46280ffdc6b702a6932e5bd8994",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4162.png",
+    "symbol": "STO",
+    "name": "storeum",
+    "type": "ERC20",
+    "contract": "0xd1410a4fc39be5ff5cd328e3a23f382423936ebd",
     "support": {
       "biometric": true,
       "card": true,
