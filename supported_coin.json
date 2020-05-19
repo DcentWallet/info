@@ -12139,6 +12139,17 @@
     }
   },
   {
+    "symbol": "NECC",
+    "name": "Natural Eco Carbon",
+    "type": "ERC20",
+    "contract": "0x25caf15e1cc43e7bfa9853a68de463bfb0d27021",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "software": true
+    }
+  },
+  {
     "symbol": "RIF",
     "name": "RIF Token",
     "type": "RRC20",
