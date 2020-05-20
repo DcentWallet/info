@@ -17,7 +17,8 @@
             "imgSize": {
                 "width": "24px",
                 "height": "32px"
-            }
+            },
+            "segwit": true
         },
         { 
             "symbol": "ETH", 
