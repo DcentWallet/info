@@ -154,6 +154,24 @@
                 "width": "20px",
                 "height": "32px"
             }
+        },
+        {
+            "symbol": "BNB",
+            "name": "Binacne",
+            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/asset-binance.svg",
+            "imgSize": {
+                "width": "32px",
+                "height": "32px"
+            }
+        },
+        {
+            "symbol": "Token",
+            "name": "BEP2",
+            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/asset-bep2.svg",
+            "imgSize": {
+                "width": "32px",
+                "height": "32px"
+            }
         }
     ],
     "cardSupportedCoinList": [

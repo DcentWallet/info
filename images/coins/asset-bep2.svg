@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__구성_요소_204_1" width="32" height="32" data-name="구성 요소 204 – 1" viewBox="0 0 32 32">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:#1e2323}
+        </style>
+    </defs>
+    <g id="prefix__그룹_4111" data-name="그룹 4111">
+        <path id="prefix__패스_4031" d="M27.5 13.342l6.245-6.166 6.248 6.169 3.634-3.588L33.742 0l-9.878 9.754z" class="prefix__cls-1" data-name="패스 4031" transform="translate(-17.743)"/>
+        <path id="prefix__사각형_2492" d="M0 0H5.074V5.074H0z" class="prefix__cls-1" data-name="사각형 2492" transform="rotate(-45 19.314 8)"/>
+        <path id="prefix__패스_4032" d="M27.482 73.4l6.245 6.166 6.247-6.166 3.636 3.586-9.882 9.757-9.879-9.754-.005-.005z" class="prefix__cls-1" data-name="패스 4032" transform="translate(-17.727 -54.741)"/>
+        <path id="prefix__사각형_2493" d="M0 0H5.074V5.074H0z" class="prefix__cls-1" data-name="사각형 2493" transform="rotate(-45 31.727 -21.965)"/>
+        <path id="prefix__패스_4033" d="M55.516 52.421l-3.64-3.641-2.69 2.69-.309.309-.638.638-.005.005.005.005 3.637 3.637 3.641-3.641z" class="prefix__cls-1" data-name="패스 4033" transform="translate(-35.877 -36.423)"/>
+    </g>
+</svg>
