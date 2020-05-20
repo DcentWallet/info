@@ -1,11 +1,11 @@
 # info
 Information to use D'CENT wallet. (https://DcentWallet.com)
 
-## Wiki
-https://github.com/DcentWallet/info/wiki
+## User Guide
+https://userguide.dcentwallet.com/
 
 ## Supporting Coin List
-https://github.com/DcentWallet/info/wiki/Supported-Coin-List
+https://dcentwallet.com/SupportedCoin
 
 ## Firmware Version List
 https://github.com/DcentWallet/info/blob/master/firmwareVersion.md

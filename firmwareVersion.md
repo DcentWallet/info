@@ -1,5 +1,6 @@
 |Kernel Version|Release Date|Notes|
 |----|----|------|
+|v1.9.2.8b2d|2020-05-19|• Added supporting coin : Binance Coin(BNB) <br>• Bitcoin segwit account support |
 |v1.8.0.640b|2020-03-30|• Added supporting coin : Ravencoin(RVN) |
 |v1.7.0.085a|2020-03-13|• Digibyte segwit(bech32) account support <br>• Trsansaction support for Bitcoin / LiteCoin / Digibyte segwit(bech32) address|
 |v1.6.0.0369|2019-12-20|• Added supporting coin : DigiByte(DGB)|
