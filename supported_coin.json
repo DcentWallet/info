@@ -592,8 +592,9 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/1776.png",
     "symbol": "MCO",
-    "name": "Crypto.com",
+    "name": "MCO",
     "type": "ERC20",
     "contract": "0xb63b606ac810a52cca15e44bb630fd42d8d1d83d",
     "support": {
@@ -2260,8 +2261,9 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2143.png",
     "symbol": "DATA",
-    "name": "Streamr DATAcoin",
+    "name": "Streamr",
     "type": "ERC20",
     "contract": "0x0cf0ee63788a0849fe5297f3407f701e122cc023",
     "support": {
@@ -12152,6 +12154,18 @@
     "name": "Natural Eco Carbon",
     "type": "ERC20",
     "contract": "0x25caf15e1cc43e7bfa9853a68de463bfb0d27021",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4300.png",
+    "symbol": "VID",
+    "name": "VideoCoin",
+    "type": "ERC20",
+    "contract": "0x2c9023bbc572ff8dc1228c7858a280046ea8c9e5",
     "support": {
       "biometric": true,
       "card": true,
