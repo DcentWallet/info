@@ -5994,7 +5994,6 @@
     }
   },
   {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3651.png",
     "symbol": "NEXT",
     "name": "Next.exchange",
     "type": "ERC20",
@@ -11846,6 +11845,7 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5636.png",
     "symbol": "cETH",
     "name": "Compound Ether",
     "type": "ERC20",
@@ -12166,6 +12166,28 @@
     "name": "VideoCoin",
     "type": "ERC20",
     "contract": "0x2c9023bbc572ff8dc1228c7858a280046ea8c9e5",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "software": true
+    }
+  },
+  {
+    "symbol": "WAFL",
+    "name": "Wafl",
+    "type": "ERC20",
+    "contract": "0x3fee076a0f0218899b89fe7e3f54dd2dc18917e0",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "software": true
+    }
+  },
+  {
+    "symbol": "VCT-K",
+    "name": "VICTOR-K",
+    "type": "ERC20",
+    "contract": "0x31c785fcba8429e1e566a0110d75ee42687aac9b",
     "support": {
       "biometric": true,
       "card": true,
