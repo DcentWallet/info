@@ -5366,7 +5366,6 @@
     }
   },
   {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3598.png",
     "symbol": "OSA",
     "name": "Optimal Shelf Availability Token",
     "type": "ERC20",
@@ -11997,6 +11996,29 @@
     "name": "VICTOR-K",
     "type": "ERC20",
     "contract": "0x31c785fcba8429e1e566a0110d75ee42687aac9b",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "software": true
+    }
+  },
+  {
+    "symbol": "SNGJ",
+    "name": "Singular Japan",
+    "type": "ERC20",
+    "contract": "0x249f71f8d9da86c60f485e021b509a206667a079",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5208.png",
+    "symbol": "WPX",
+    "name": "Wallet Plus X",
+    "type": "ERC20",
+    "contract": "0xb3bace433288645114fe8e8aa91f87659cbf665b",
     "support": {
       "biometric": true,
       "card": true,
