@@ -181,8 +181,8 @@
             "name": "Ethereum", 
             "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/asset-ethereum.png" ,
             "imgSize": {
-                "width": "18px",
-                "height": "32px"
+                "width": "30px",
+                "height": "54px"
             }
         },
         { 
@@ -190,8 +190,8 @@
             "name": "ERC20", 
             "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/asset-erc20.png" ,
             "imgSize": {
-                "width": "18px",
-                "height": "32px"
+                "width": "30px",
+                "height": "54px"
             }
         },
         { 
@@ -199,8 +199,8 @@
             "name": "ERC721", 
             "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/asset-erc20.png" ,
             "imgSize": {
-                "width": "18px",
-                "height": "32px"
+                "width": "30px",
+                "height": "54px"
             }
         }
     ]
