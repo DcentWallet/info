@@ -140,6 +140,7 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/512.png",
     "symbol": "XLM",
     "name": "Stellar  Lumen",
     "support": {
@@ -5375,6 +5376,7 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3598.png",
     "symbol": "OSA",
     "name": "Optimal Shelf Availability Token",
     "type": "ERC20",
@@ -11605,6 +11607,7 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4943.png",
     "symbol": "DAI",
     "name": "Multi-collateral DAI",
     "type": "ERC20",
@@ -12047,6 +12050,28 @@
     }
   },
   {
+    "symbol": "plDai",
+    "name": "Pool Dai",
+    "type": "ERC20",
+    "contract": "0x49d716dfe60b37379010a75329ae09428f17118d",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "software": true
+    }
+  },
+  {
+    "symbol": "SGT",
+    "name": "snglsDAO Governance Token",
+    "type": "ERC20",
+    "contract": "0xc4199fb6ffdb30a829614beca030f9042f1c3992",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3701.png",
     "symbol": "RIF",
     "name": "RSK Infrastructure Framework",
@@ -12154,6 +12179,7 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2446.png",
     "symbol": "DTA",
     "name": "DATA Token",
     "type": "KCT",
@@ -13695,6 +13721,7 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4157.png",
     "symbol": "RUNE-B1A",
     "name": "Rune",
     "type": "BEP2",
