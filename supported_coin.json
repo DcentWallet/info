@@ -12072,6 +12072,29 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5709.png",
+    "symbol": "CHI",
+    "name": "Chi Gastoken",
+    "type": "ERC20",
+    "contract": "0x0000000000004946c0e9f43f4dee607b0ef1fa1c",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "software": true
+    }
+  },
+  {
+    "symbol": "I9C",
+    "name": "I9Coin",
+    "type": "ERC20",
+    "contract": "0x7cf74238d48ce383db00a1efff8da99303552cb0",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3701.png",
     "symbol": "RIF",
     "name": "RSK Infrastructure Framework",
