@@ -5959,7 +5959,6 @@
     }
   },
   {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2360.png",
     "symbol": "HKN",
     "name": "Hacken",
     "type": "ERC20",
@@ -7173,6 +7172,7 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2584.png",
     "symbol": "DEB",
     "name": "DEBITUM",
     "type": "ERC20",
@@ -12088,6 +12088,41 @@
     "name": "I9Coin",
     "type": "ERC20",
     "contract": "0x7cf74238d48ce383db00a1efff8da99303552cb0",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "software": true
+    }
+  },
+  {
+    "symbol": "FZZ",
+    "name": "F1ZZToken",
+    "type": "ERC20",
+    "contract": "0xe3f2ca1e20263a581c1ea86f88f2b8930d148f0e",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4758.png",
+    "symbol": "DF",
+    "name": "dForce",
+    "type": "ERC20",
+    "contract": "0x431ad2ff6a9c365805ebad47ee021148d6f7dbe0",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3964.png",
+    "symbol": "RSR",
+    "name": "Reserve Rights",
+    "type": "ERC20",
+    "contract": "0x8762db106b2c2a0bccb3a80d1ed41273552616e8",
     "support": {
       "biometric": true,
       "card": true,
