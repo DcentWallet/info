@@ -150,18 +150,6 @@
     }
   },
   {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3722.png",
-    "symbol": "TEMCO",
-    "name": "TEMCO",
-    "type": "ERC20",
-    "contract": "0x2fc246aa66f0da5bb1368f688548ecbbe9bdee5d",
-    "support": {
-      "biometric": true,
-      "card": true,
-      "software": true
-    }
-  },
-  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/825.png",
     "symbol": "USDT",
     "name": "Tether",
@@ -2233,18 +2221,6 @@
     }
   },
   {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2955.png",
-    "symbol": "COSM",
-    "name": "Cosmo Coin",
-    "type": "ERC20",
-    "contract": "0xd1e10c37a27d95d95720291b1dc6f12f74c71443",
-    "support": {
-      "biometric": true,
-      "card": true,
-      "software": true
-    }
-  },
-  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2304.png",
     "symbol": "DEW",
     "name": "DEW",
@@ -2495,7 +2471,6 @@
     }
   },
   {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2767.png",
     "symbol": "APIS",
     "name": "APIS",
     "type": "ERC20",
@@ -4572,18 +4547,6 @@
     "name": "ATN",
     "type": "ERC20",
     "contract": "0x461733c17b0755ca5649b6db08b3e213fcf22546",
-    "support": {
-      "biometric": true,
-      "card": true,
-      "software": true
-    }
-  },
-  {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3466.png",
-    "symbol": "ISR",
-    "name": "Insureum",
-    "type": "ERC20",
-    "contract": "0xd4a293ae8bb9e0be12e99eb19d48239e8c83a136",
     "support": {
       "biometric": true,
       "card": true,
@@ -12130,23 +12093,46 @@
     }
   },
   {
+    "symbol": "QM",
+    "name": "QuickMining Token",
+    "type": "ERC20",
+    "contract": "0xb73404280697080da0116cfac0e577fafdf44b37",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3592.png",
+    "symbol": "LION",
+    "name": "Coin Lion",
+    "type": "ERC20",
+    "contract": "0x2167fb82309cf76513e83b25123f8b0559d6b48f",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4679.png",
+    "symbol": "BAND",
+    "name": "Band Protocol",
+    "type": "ERC20",
+    "contract": "0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3701.png",
     "symbol": "RIF",
     "name": "RSK Infrastructure Framework",
     "type": "RRC20",
     "contract": "0x2acc95758f8b5f583470ba265eb685a8f45fc9d5",
-    "support": {
-      "biometric": true,
-      "card": false,
-      "software": false
-    }
-  },
-  {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3722.png",
-    "symbol": "TEMCO",
-    "name": "TEMCO",
-    "type": "RRC20",
-    "contract": "0x32345597c3398981bdb77419280dab89becd90be",
     "support": {
       "biometric": true,
       "card": false,
