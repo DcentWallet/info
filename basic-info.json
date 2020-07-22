@@ -219,8 +219,8 @@
             "name": "Klaytn", 
             "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/asset-klaytn.png",
             "imgSize": {
-                "width": "32px",
-                "height": "32px"
+                "width": "48px",
+                "height": "48px"
             } 
         },
         { 
@@ -228,8 +228,8 @@
             "name": "Klaytn Compatible Token", 
             "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/asset-klay-kct.png",
             "imgSize": {
-                "width": "32px",
-                "height": "32px"
+                "width": "48px",
+                "height": "48px"
             } 
         }
     ]
