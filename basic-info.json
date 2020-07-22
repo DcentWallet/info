@@ -213,7 +213,7 @@
             }
         }
     ],
-    "klayCardSupportedCoinLIst": [
+    "klayCardSupportedCoinList": [
         { 
             "symbol": "KLAY", 
             "name": "Klaytn", 
