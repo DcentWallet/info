@@ -678,20 +678,6 @@
     }
   },
   {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2469.png",
-    "symbol": "ZIL",
-    "name": "Zilliqa",
-    "type": "ERC20",
-    "contract": "0x05f4a42e251f2d52b8ed15e9fedaacfcef1fad27",
-    "support": {
-      "biometric": true,
-      "card": true,
-      "ethCard": true,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/1455.png",
     "symbol": "GNT",
     "name": "Golem",
@@ -14207,6 +14193,33 @@
     "name": "Band Protocol",
     "type": "ERC20",
     "contract": "0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4705.png",
+    "symbol": "PAXG",
+    "name": "PAX Gold",
+    "type": "ERC20",
+    "contract": "0x45804880de22913dafe09f4980848ece6ecbaf78",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "symbol": "MARS",
+    "name": "MARS Context Network",
+    "type": "ERC20",
+    "contract": "0xedd8da5c20eb014e550008df3304213dde5e29f0",
     "support": {
       "biometric": true,
       "card": true,
