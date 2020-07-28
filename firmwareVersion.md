@@ -1,5 +1,6 @@
 |Kernel Version|Release Date|Notes|
 |----|----|------|
+|v2.2.2.2820|2020-07-27|• Added supporting coin : Tron(TRX), Ethereum Classic(ETC), BitcoinSV(BSV) |
 |v2.1.0.0ea7|2020-07-01|• Added supporting coin : Stellar Lumens(XLM) |
 |v1.9.2.8b2d|2020-05-19|• Added supporting coin : Binance Coin(BNB) <br>• Bitcoin segwit account support |
 |v1.8.0.640b|2020-03-30|• Added supporting coin : Ravencoin(RVN) |
