@@ -1,0 +1,25 @@
+{
+  "img": {
+    "ko": {
+      "desktop": {
+        "path": "../images/klay_preorder_banner.png",
+        "height": "120px",
+        "background-color": "#443b34"
+      },
+      "tablet": {
+        "path": "../images/klay_preorder_banner_tablet.png",
+        "height": "120px",
+        "background-color": "#443b34"
+      },
+      "mobile": {
+        "path": "../images/klay_preorder_banner_mobile.png",
+        "height": "56.3px",
+        "background-color": "#443b34"
+      }
+    }
+  },
+  "link": {
+    "internal": "/Shop",
+    "external": false
+  }
+}
