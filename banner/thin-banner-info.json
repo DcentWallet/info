@@ -19,7 +19,9 @@
     }
   },
   "link": {
-    "internal": "/Shop",
-    "external": false
+    "ko": {
+      "internal": "/Shop/detail/d237f83005e54ffd9613abd1091a09c2",
+      "external": false
+    }
   }
 }
