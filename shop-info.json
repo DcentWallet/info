@@ -1,0 +1,20 @@
+{
+  "link": {
+    "ko": {
+      "biometric": "/Shop/detail/b15125cd52814be19a3f0edf54c8bc17",
+      "biometric_2x": "/Shop/detail/abc0c9c658f74ae4b10fc48495b66d07",
+      "bio_card_bundle": "/Shop/detail/38e416a375c7494187202b8837b1b308",
+      "ethcard": "/Shop/detail/54aa5dae021a42d2b2079a4dc1c69cba",
+      "eth_backup_package": "/Shop/detail/54aa5dae021a42d2b2079a4dc1c69cba",
+      "backupcard": "/Shop/detail/35013f5e171b4b9c9852a2bc97e77592",
+      "klaycard": "/Shop/detail/d237f83005e54ffd9613abd1091a09c2",
+      "klay_backup_package": "/Shop/detail/d237f83005e54ffd9613abd1091a09c2"
+    },
+    "en": {
+      "biometric": "/Shop/detail/b15125cd52814be19a3f0edf54c8bc17",
+      "biometric_2x": "/Shop/detail/abc0c9c658f74ae4b10fc48495b66d07",
+      "bio_card_bundle": "/Shop/detail/38e416a375c7494187202b8837b1b308",
+      "ethcard": "/Shop/detail/2c1a29996e2842158d33cc593e7d1f2d"
+    }
+  }
+}
