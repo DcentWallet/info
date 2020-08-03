@@ -14229,6 +14229,74 @@
     }
   },
   {
+    "symbol": "MI",
+    "name": "Minhwa International Token",
+    "type": "ERC20",
+    "contract": "0x93efbc2cfbc6232d8e068100bfd2e1d8e98db105",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4837.png",
+    "symbol": "VEEN",
+    "name": "LIVEEN",
+    "type": "ERC20",
+    "contract": "0x54f0e3b0d7ccbb65e56d166350aa86f7e71ce20b",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "symbol": "Live",
+    "name": "Live token",
+    "type": "ERC20",
+    "contract": "0xbe5bdbaf2853fba08877c50ec9c25d9462025164",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3935.png",
+    "symbol": "SRK",
+    "name": "SparkPoint",
+    "type": "ERC20",
+    "contract": "0x0488401c3F535193Fa8Df029d9fFe615A06E74E6",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5864.png",
+    "symbol": "YFI",
+    "name": "yearn.finance",
+    "type": "ERC20",
+    "contract": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3701.png",
     "symbol": "RIF",
     "name": "RSK Infrastructure Framework",
@@ -14243,11 +14311,10 @@
     }
   },
   {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2955.png",
-    "symbol": "COSM",
-    "name": "Cosmo Coin",
+    "symbol": "BOX",
+    "name": "BOX",
     "type": "KCT",
-    "contract": "0x52CFDA3E278837d852C4315586C9464BE762647E",
+    "contract": "0x5288f80F4145035866aC4cB45a4D8DEa889ec827",
     "support": {
       "biometric": true,
       "card": false,
@@ -14257,11 +14324,52 @@
     }
   },
   {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4073.png",
-    "symbol": "SPIN",
-    "name": "SPIN Protocol",
+    "symbol": "BNS",
+    "name": "Beans",
     "type": "KCT",
-    "contract": "0x472fac08cf4836bee54343edfb49023746b27933",
+    "contract": "0x67B79DF99416aD638267Ec8D89eB61EaE330A005",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": true,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3466.png",
+    "symbol": "ISR",
+    "name": "Insureum",
+    "type": "KCT",
+    "contract": "0x9657fb399847d85a9c1a234ece9ca09d5c00f466",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": true,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3722.png",
+    "symbol": "TEMCO",
+    "name": "TEMCO",
+    "type": "KCT",
+    "contract": "0x3B3b30A76d169F72A0A38AE01b0D6e0FbeE3cc2e",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": true,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3768.png",
+    "symbol": "PIB",
+    "name": "PIBBLE",
+    "type": "KCT",
+    "contract": "0xAfdE910130C335fA5bD5fe991053E3E0a49dcE7b",
     "support": {
       "biometric": true,
       "card": false,
@@ -14299,38 +14407,80 @@
     }
   },
   {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3768.png",
-    "symbol": "PIB",
-    "name": "PIBBLE",
-    "type": "KCT",
-    "contract": "0x6Db4Ff5c5312a745cB04a87d7906eFe99d0Daa3D",
-    "support": {
-      "biometric": true,
-      "card": false,
-      "ethCard": false,
-      "klayCard": true,
-      "software": true
-    }
-  },
-  {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3466.png",
-    "symbol": "ISR",
-    "name": "Insureum",
-    "type": "KCT",
-    "contract": "0x9657fb399847d85a9c1a234ece9ca09d5c00f466",
-    "support": {
-      "biometric": true,
-      "card": false,
-      "ethCard": false,
-      "klayCard": true,
-      "software": true
-    }
-  },
-  {
     "symbol": "ATT",
     "name": "Antube Token",
     "type": "KCT",
     "contract": "0xbe7377db700664331beb28023cfbd46de079efac",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": true,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3712.png",
+    "symbol": "CLBK",
+    "name": "Cloudbric",
+    "type": "KCT",
+    "contract": "0xc4407f7dc4b37275c9ce0f839652b393e13ff3d1",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": true,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3789.png",
+    "symbol": "BOLTT",
+    "name": "Boltt",
+    "type": "KCT",
+    "contract": "0xa9CB7345Db22034F607c12Dd8E10ee703F6bAd61",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": true,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3327.png",
+    "symbol": "SIX",
+    "name": "SIX",
+    "type": "KCT",
+    "contract": "0xEf82b1C6A550e730D8283E1eDD4977cd01FAF435",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": true,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2955.png",
+    "symbol": "COSM",
+    "name": "Cosmo Coin",
+    "type": "KCT",
+    "contract": "0x52CFDA3E278837d852C4315586C9464BE762647E",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": true,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4073.png",
+    "symbol": "SPIN",
+    "name": "SPIN Protocol",
+    "type": "KCT",
+    "contract": "0x472fac08cf4836bee54343edfb49023746b27933",
     "support": {
       "biometric": true,
       "card": false,
@@ -14345,34 +14495,6 @@
     "name": "DATA Token",
     "type": "KCT",
     "contract": "0x8177ac20455f31d8cb777923f0c632436568c719",
-    "support": {
-      "biometric": true,
-      "card": false,
-      "ethCard": false,
-      "klayCard": true,
-      "software": true
-    }
-  },
-  {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3722.png",
-    "symbol": "TEMCO",
-    "name": "TEMCO",
-    "type": "KCT",
-    "contract": "0x3B3b30A76d169F72A0A38AE01b0D6e0FbeE3cc2e",
-    "support": {
-      "biometric": true,
-      "card": false,
-      "ethCard": false,
-      "klayCard": true,
-      "software": true
-    }
-  },
-  {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3712.png",
-    "symbol": "CLB",
-    "name": "Cloudbric",
-    "type": "KCT",
-    "contract": "0xdfb25178d7b59e33f7805c00c4a354ae1c46139a",
     "support": {
       "biometric": true,
       "card": false,
