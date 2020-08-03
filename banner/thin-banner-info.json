@@ -12,8 +12,8 @@
         "background-color": "#443b34"
       },
       "mobile": {
-        "path": "../images/klay_preorder_banner_mobile.png",
-        "height": "56.3px",
+        "path": "../images/klay_preorder_banner_tablet.png",
+        "height": "15.64vw",
         "background-color": "#443b34"
       }
     }
