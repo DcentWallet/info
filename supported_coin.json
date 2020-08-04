@@ -14321,7 +14321,8 @@
       "ethCard": false,
       "klayCard": true,
       "software": true
-    }
+    },
+    "klaytn_verify": true
   },
   {
     "symbol": "BNS",
@@ -14334,7 +14335,8 @@
       "ethCard": false,
       "klayCard": true,
       "software": true
-    }
+    },
+    "klaytn_verify": true
   },
   {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3466.png",
@@ -14348,7 +14350,8 @@
       "ethCard": false,
       "klayCard": true,
       "software": true
-    }
+    },
+    "klaytn_verify": true
   },
   {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3722.png",
@@ -14362,7 +14365,8 @@
       "ethCard": false,
       "klayCard": true,
       "software": true
-    }
+    },
+    "klaytn_verify": true
   },
   {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3768.png",
@@ -14376,7 +14380,8 @@
       "ethCard": false,
       "klayCard": true,
       "software": true
-    }
+    },
+    "klaytn_verify": true
   },
   {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4091.png",
@@ -14390,7 +14395,8 @@
       "ethCard": false,
       "klayCard": true,
       "software": true
-    }
+    },
+    "klaytn_verify": true
   },
   {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4254.png",
@@ -14404,7 +14410,8 @@
       "ethCard": false,
       "klayCard": true,
       "software": true
-    }
+    },
+    "klaytn_verify": true
   },
   {
     "symbol": "ATT",
@@ -14417,7 +14424,8 @@
       "ethCard": false,
       "klayCard": true,
       "software": true
-    }
+    },
+    "klaytn_verify": true
   },
   {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3712.png",
@@ -14431,7 +14439,8 @@
       "ethCard": false,
       "klayCard": true,
       "software": true
-    }
+    },
+    "klaytn_verify": true
   },
   {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3789.png",
@@ -14445,7 +14454,8 @@
       "ethCard": false,
       "klayCard": true,
       "software": true
-    }
+    },
+    "klaytn_verify": true
   },
   {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3327.png",
@@ -14459,7 +14469,8 @@
       "ethCard": false,
       "klayCard": true,
       "software": true
-    }
+    },
+    "klaytn_verify": true
   },
   {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2955.png",
@@ -15493,6 +15504,7 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6075.png",
     "symbol": "GIV-94E",
     "name": "Givly Coin",
     "type": "BEP2",
