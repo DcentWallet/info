@@ -2,17 +2,34 @@
   "img": {
     "ko": {
       "desktop": {
-        "path": "../images/klay_preorder_banner.png",
+        "path": "../images/ko/klay_preorder_banner.png",
         "height": "120px",
         "background-color": "#443b34"
       },
       "tablet": {
-        "path": "../images/klay_preorder_banner_tablet.png",
+        "path": "../images/ko/klay_preorder_banner_tablet.png",
         "height": "120px",
         "background-color": "#443b34"
       },
       "mobile": {
-        "path": "../images/klay_preorder_banner_tablet.png",
+        "path": "../images/ko/klay_preorder_banner_tablet.png",
+        "height": "15.64vw",
+        "background-color": "#443b34"
+      }
+    },
+    "en": {
+      "desktop": {
+        "path": "../images/en/klay_preorder_banner.png",
+        "height": "120px",
+        "background-color": "#443b34"
+      },
+      "tablet": {
+        "path": "../images/en/klay_preorder_banner_tablet.png",
+        "height": "120px",
+        "background-color": "#443b34"
+      },
+      "mobile": {
+        "path": "../images/en/klay_preorder_banner_tablet.png",
         "height": "15.64vw",
         "background-color": "#443b34"
       }
@@ -20,6 +37,10 @@
   },
   "link": {
     "ko": {
+      "internal": "/Shop/detail/d237f83005e54ffd9613abd1091a09c2",
+      "external": false
+    },
+    "en": {
       "internal": "/Shop/detail/d237f83005e54ffd9613abd1091a09c2",
       "external": false
     }
