@@ -186,7 +186,7 @@
         {
             "symbol": "TRX",
             "name": "Tron",
-            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/asset-tron.svg",
+            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/asset-tron.png",
             "imgSize": {
                 "width": "32px",
                 "height": "32px"
