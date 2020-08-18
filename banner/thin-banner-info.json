@@ -37,12 +37,12 @@
   },
   "link": {
     "ko": {
-      "internal": "https://medium.com/@dcent/get-10-dai-stablecoin-for-free-945bc72a6f23",
-      "external": true
+      "internal": false,
+      "external": "https://medium.com/@dcent/get-10-dai-stablecoin-for-free-945bc72a6f23"
     },
     "en": {
-      "internal": "https://medium.com/@dcent/get-10-dai-stablecoin-for-free-945bc72a6f23",
-      "external": true
+      "internal": false,
+      "external": "https://medium.com/@dcent/get-10-dai-stablecoin-for-free-945bc72a6f23"
     }
   }
 }
