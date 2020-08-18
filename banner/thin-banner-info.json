@@ -1,6 +1,48 @@
 {
   "img": {
+    "ko": {
+      "desktop": {
+        "path": "../images/ko/dai_preorder_banner.png",
+        "height": "120px",
+        "background-color": "#ffffff"
+      },
+      "tablet": {
+        "path": "../images/ko/dai_preorder_banner_tablet.png",
+        "height": "120px",
+        "background-color": "#ffffff"
+      },
+      "mobile": {
+        "path": "../images/ko/dai_preorder_banner_tablet.png",
+        "height": "15.64vw",
+        "background-color": "#ffffff"
+      }
+    },
+    "en": {
+      "desktop": {
+        "path": "../images/en/dai_preorder_banner.png",
+        "height": "120px",
+        "background-color": "#ffffff"
+      },
+      "tablet": {
+        "path": "../images/en/dai_preorder_banner_tablet.png",
+        "height": "120px",
+        "background-color": "#ffffff"
+      },
+      "mobile": {
+        "path": "../images/en/dai_preorder_banner_tablet.png",
+        "height": "15.64vw",
+        "background-color": "#ffffff"
+      }
+    }
   },
   "link": {
+    "ko": {
+      "internal": "https://medium.com/@dcent/get-10-dai-stablecoin-for-free-945bc72a6f23",
+      "external": true
+    },
+    "en": {
+      "internal": "https://medium.com/@dcent/get-10-dai-stablecoin-for-free-945bc72a6f23",
+      "external": true
+    }
   }
 }
