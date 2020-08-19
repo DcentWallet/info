@@ -2,17 +2,17 @@
   "img": {
     "ko": {
       "desktop": {
-        "path": "../images/ko/dai_preorder_banner.png",
+        "path": "../images/ko/dai_event_banner.png",
         "height": "120px",
         "background-color": "#ffffff"
       },
       "tablet": {
-        "path": "../images/ko/dai_preorder_banner.png",
+        "path": "../images/ko/dai_event_banner.png",
         "height": "120px",
         "background-color": "#ffffff"
       },
       "mobile": {
-        "path": "../images/ko/dai_preorder_banner_tablet.png",
+        "path": "../images/ko/dai_event_banner_tablet.png",
         "height": "15.64vw",
         "background-color": "#ffffff"
       }
