@@ -7,7 +7,7 @@
         "background-color": "#ffffff"
       },
       "tablet": {
-        "path": "../images/ko/dai_preorder_banner_tablet.png",
+        "path": "../images/ko/dai_preorder_banner.png",
         "height": "120px",
         "background-color": "#ffffff"
       },
@@ -24,7 +24,7 @@
         "background-color": "#ffffff"
       },
       "tablet": {
-        "path": "../images/en/dai_preorder_banner_tablet.png",
+        "path": "../images/en/dai_preorder_banner.png",
         "height": "120px",
         "background-color": "#ffffff"
       },
