@@ -191,6 +191,24 @@
                 "width": "32px",
                 "height": "32px"
             }
+        },
+        {
+            "symbol": "Token",
+            "name": "TRC10/TRC20",
+            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/asset-trc.png",
+            "imgSize": {
+                "width": "32px",
+                "height": "32px"
+            }
+        },
+        {
+            "symbol": "DOGE",
+            "name": "Dogecoin",
+            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/asset-doge.png",
+            "imgSize": {
+                "width": "32px",
+                "height": "32px"
+            }
         }
     ],
     "cardSupportedCoinList": [
