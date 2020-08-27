@@ -216,6 +216,18 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/74.png",
+    "symbol": "DOGE",
+    "name": "Dogecoin",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": false
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/825.png",
     "symbol": "USDT",
     "name": "Tether",
@@ -3092,6 +3104,7 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2600.png",
     "symbol": "LGO",
     "name": "LGO Token",
     "type": "ERC20",
@@ -13789,6 +13802,7 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6529.png",
     "symbol": "NAN",
     "name": "NanTrade",
     "type": "ERC20",
@@ -14288,6 +14302,87 @@
     "name": "yearn.finance",
     "type": "ERC20",
     "contract": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5802.png",
+    "symbol": "XOR",
+    "name": "Sora",
+    "type": "ERC20",
+    "contract": "0x40fd72257597aa14c7231a7b1aaa29fce868f677",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6479.png",
+    "symbol": "GXC",
+    "name": "GameXCoin",
+    "type": "ERC20",
+    "contract": "0x953e22945b416730bad05009af05b420e598e412",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5267.png",
+    "symbol": "QBZ",
+    "name": "QUEENBEE",
+    "type": "ERC20",
+    "contract": "0x38bc89cf1f634c71896620bcd807af235cbdecd1",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "symbol": "G-CRE",
+    "name": "Gluwa Creditcoin Vesting Token",
+    "type": "ERC20",
+    "contract": "0xa3ee21c306a700e682abcdfe9baa6a08f3820419",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "symbol": "EMB",
+    "name": "Emblem",
+    "type": "ERC20",
+    "contract": "0x28b94f58b11ac945341329dbf2e5ef7f8bd44225",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "symbol": "BPTC",
+    "name": "Business Platform Tomato Coin",
+    "type": "ERC20",
+    "contract": "0x05237e2bd2dfab39a135d254cabae94b183c8bad",
     "support": {
       "biometric": true,
       "card": true,
@@ -16659,6 +16754,7 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6471.png",
     "symbol": "USDH-5B5",
     "name": "HonestCoin",
     "type": "BEP2",
@@ -16848,7 +16944,6 @@
     }
   },
   {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3815.png",
     "symbol": "XBASE-CD2",
     "name": "Eterbase Coin",
     "type": "BEP2",
@@ -16974,6 +17069,188 @@
     "name": "ZEBI",
     "type": "BEP2",
     "contract": "ZEBI-84Fgca96lw9zlr8fct47wznsae67pc5wjwsjzamaf",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": false
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3718.png",
+    "symbol": "BTT",
+    "name": "BitTorrent",
+    "type": "TRC10",
+    "contract": "1002000",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": false
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4206.png",
+    "symbol": "WIN",
+    "name": "WINk",
+    "type": "TRC20",
+    "contract": "TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": false
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5488.png",
+    "symbol": "JST",
+    "name": "JUST",
+    "type": "TRC20",
+    "contract": "TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": false
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5446.png",
+    "symbol": "USDJ",
+    "name": "USDJ",
+    "type": "TRC20",
+    "contract": "TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": false
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4054.png",
+    "symbol": "IGG",
+    "name": "IG Gold",
+    "type": "TRC20",
+    "contract": "TVQ6jYV5yTtRsKcD8aRc1a4Kei4V45ixLn",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": false
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3922.png",
+    "symbol": "TAS",
+    "name": "Tarush",
+    "type": "TRC20",
+    "contract": "TVimprG4oe3i2HapWzPuTh4WtuosRAh5Ew",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": false
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4867.png",
+    "symbol": "BTZC",
+    "name": "BeatzCoin",
+    "type": "TRC10",
+    "contract": "1002413",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": false
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5610.png",
+    "symbol": "ZASH",
+    "name": "ZIMBOCASH",
+    "type": "TRC10",
+    "contract": "1002984",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": false
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3633.png",
+    "symbol": "PLAT",
+    "name": "BitGuild PLAT",
+    "type": "TRC20",
+    "contract": "TG37mUxRUaH1E8DWSrrmoQ79BnZn1yHztb",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": false
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5407.png",
+    "symbol": "KDG",
+    "name": "Kingdom Game 4.0",
+    "type": "TRC20",
+    "contract": "TYM9eM22SCynRc5YaMxE2PX1kwv7H2rXAu",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": false
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5563.png",
+    "symbol": "CBC",
+    "name": "CryptoBharatCoin",
+    "type": "TRC20",
+    "contract": "TTcrrfqhaMs5Y3pE7jnSk8j8g3J3t52GVC",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": false
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4495.png",
+    "symbol": "VENA",
+    "name": "VENA",
+    "type": "TRC20",
+    "contract": "TUL5yxRKeSWvceLZ3BSU5iNJcQmNxkWayh",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": false
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5411.png",
+    "symbol": "PYRO",
+    "name": "PYRO Network (TRON)",
+    "type": "TRC20",
+    "contract": "TMCMPzmosnQ8UAYW1zcBwjLTxDq8ce4Y5e",
     "support": {
       "biometric": true,
       "card": false,
