@@ -228,6 +228,20 @@
     }
   },
   {
+    "iconUrl": "https://github.com/DcentWallet/info/raw/master/images/coins/asset-bptc.png",
+    "symbol": "BPTC",
+    "name": "Business Platform Tomato Coin",
+    "type": "ERC20",
+    "contract": "0x05237e2bd2dfab39a135d254cabae94b183c8bad",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/825.png",
     "symbol": "USDT",
     "name": "Tether",
@@ -13829,19 +13843,6 @@
     }
   },
   {
-    "symbol": "BPTC",
-    "name": "Business Platform Tomato Coin",
-    "type": "ERC20",
-    "contract": "0x05237e2bd2dfab39a135d254cabae94b183c8bad",
-    "support": {
-      "biometric": true,
-      "card": true,
-      "ethCard": true,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
     "symbol": "VSS",
     "name": "Vault Smart Security",
     "type": "ERC20",
@@ -14370,19 +14371,6 @@
     "name": "Emblem",
     "type": "ERC20",
     "contract": "0x28b94f58b11ac945341329dbf2e5ef7f8bd44225",
-    "support": {
-      "biometric": true,
-      "card": true,
-      "ethCard": true,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
-    "symbol": "BPTC",
-    "name": "Business Platform Tomato Coin",
-    "type": "ERC20",
-    "contract": "0x05237e2bd2dfab39a135d254cabae94b183c8bad",
     "support": {
       "biometric": true,
       "card": true,
