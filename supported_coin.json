@@ -14380,6 +14380,20 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6210.png",
+    "symbol": "SAND",
+    "name": "The Sandbox",
+    "type": "ERC20",
+    "contract": "0x3845badade8e6dff049820680d1f14bd3903a5d0",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3701.png",
     "symbol": "RIF",
     "name": "RSK Infrastructure Framework",
