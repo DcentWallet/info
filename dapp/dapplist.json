@@ -98,6 +98,23 @@
             "externalWindow": false
         },
         {
+            "name": "uniswap",
+            "title": {
+                "ko": "Uniswap",
+                "en": "Uniswap"
+            },
+            "description": {
+                "ko": "Uniswap은 유동성을 공급하고 토큰을 교환할 수 있는 이더리움 기반의 자동화된 탈중앙 프로토콜입니다.",
+                "en": " Uniswap is a fully decentralized protocol for automated liquidity provision on Ethereum."
+            },
+            "link": "https://app.uniswap.org/?utm_source=dcentwallet",
+            "kind": ["eth"],
+            "category": [],
+            "iconPath": "icon_uniswap.png",
+            "type": "dapp",
+            "externalWindow": false
+        },
+        {
             "name": "1inch.exchange",
             "title": {
                 "ko": "1inch.exchange",
@@ -111,23 +128,6 @@
             "kind": ["eth"],
             "category": [],
             "iconPath": "icon_1inch.exchange.png",
-            "type": "dapp",
-            "externalWindow": false
-        },
-        {
-            "name": "uniswap",
-            "title": {
-                "ko": "Uniswap",
-                "en": "Uniswap"
-            },
-            "description": {
-                "ko": "1inch Exchange는 모든 주요 DEX 거래소의 유동성과 가격 정보를 하나의 플랫폼에서 제공합니다. 원하는 거래의 가격을 쉽게 조회하여 토큰을 교환할 수 있습니다.",
-                "en": "1inch Exchange is a decentralized exchange (DEX) aggregator. It's designed to roll liquidity and pricing from all major DEXes into one platform, making it easy to get the best price for the desired trade."
-            },
-            "link": "https://app.uniswap.org/#/swap/?utm_source=dcentwallet",
-            "kind": ["eth"],
-            "category": [],
-            "iconPath": "icon_uniswap.png",
             "type": "dapp",
             "externalWindow": false
         },
