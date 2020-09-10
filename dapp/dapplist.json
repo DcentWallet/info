@@ -1,0 +1,173 @@
+{
+    "list": [
+        {
+            "name": "moonpay",
+            "title": {
+                "ko": "MoonPay (테스트넷)",
+                "en": "MoonPay (Testnet)"
+            },
+            "description": {
+                "ko": "MoonPay는 비자나 마스터카드로 암호화폐를 간단하고 안전하게 구매할 수 있는 서비스입니다",
+                "en": "MoonPay offers simple and safer way to buy crypto instantly using VISA/Mastercard payment"
+            },
+            "link": {
+                "ko": "https://buy-staging.moonpay.io?language=ko",
+                "en": "https://buy-staging.moonpay.io?language=en",
+                "default": "https://buy-staging.moonpay.io"
+            },
+            "kind": [],
+            "category": [],
+            "iconPath": "icon_moonpay.png",
+            "testnet": true,
+            "externalWindow": false
+        },
+        {
+            "name": "moonpay",
+            "title": {
+                "ko": "MoonPay",
+                "en": "MoonPay"
+            },
+            "description": {
+                "ko": "MoonPay는 비자나 마스터카드로 암호화폐를 간단하고 안전하게 구매할 수 있는 서비스입니다",
+                "en": "MoonPay offers simple and safer way to buy crypto instantly using VISA/Mastercard payment"
+            },
+            "link": {
+                "ko": "https://buy.moonpay.io?language=ko",
+                "en": "https://buy.moonpay.io?language=en",
+                "default": "https://buy.moonpay.io"
+            },
+            "kind": [],
+            "category": [],
+            "iconPath": "icon_moonpay.png",
+            "testnet": false,
+            "externalWindow": false
+        },
+        {
+            "name": "compound.finance",
+            "title": {
+                "ko": "Compound",
+                "en": "Compound"
+            },
+            "description": {
+                "ko": "Compound는 담보를 통해 이자를 얻거나 자산을 빌릴 수 있는 이더리움 기반의 머니 마켓 프로토콜입니다. 컴파운드의 유동성 풀에 자산을 공급하면 복리이자를 얻을 수 있습니다.",
+                "en": "Compound is Ethereum's algorithmic money market protocol that allows users to earn interest or borrow assets through collateral. Anyone can supply assets to Compound's liquidity pool and earn continuous compound interest immediately."
+            },
+            "link": "https://app.compound.finance/?utm_source=dcentwallet",
+            "kind": [ "eth" ],
+            "category": [],
+            "iconPath": "icon_compound.png",
+            "type": "dapp",
+            "externalWindow": false
+        },
+        {
+            "name": "makerdao oasis",
+            "title": {
+                "ko": "MakerDAO Oasis",
+                "en": "MakerDAO Oasis"
+            },
+            "description": {
+                "ko": "MakerDAO는 이더리움 기반의 탈중앙화 신용 플랫폼입니다. 암호화폐를 담보로 대출을 받거나, DAI 스테이블코인을 사용한 거래, 대출 및 이자받기가 가능합니다.",
+                "en": "MakerDAO is a decentralized credit platform based on Ethereum where user can Trade, Borrow, and Save using DAI stablecoin"
+            },
+            "link": "https://oasis.app/?utm_source=dcentwallet",
+            "kind": [ "eth" ],
+            "category": [],
+            "iconPath": "icon_oasis.png",
+            "type": "dapp",
+            "externalWindow": false
+        },
+        {
+            "name": "pooltogether",
+            "title": {
+                "ko": "PoolTogether",
+                "en": "PoolTogether"
+            },
+            "description": {
+                "ko": "PoolTogether는 저축을 재미있게 하는 이더리움 기반의 서비스입니다. 자산을 예치하면 “저축 티켓“을 받아 '풀'에 참여합니다. 각 저축 티켓은 풀에서 발생한 이자를 받을 수있는 기회를 제공하지만, 당첨되지 않더라도 손실이 없습니다.",
+                "en": "PoolTogether is an Ethereum based application that makes saving money as fun as a game. You join a pool by getting a “savings ticket”. Each Savings Ticket gives you a chance to win a prize, but even if you don’t win, you keep all your money!"
+            },
+            "link": {
+                "en": "https://app.pooltogether.com/en?utm_source=dcentwallet",
+                "ko": "https://app.pooltogether.com/ko?utm_source=dcentwallet",
+                "default": "https://app.pooltogether.com/?utm_source=dcentwallet"
+            },
+            "kind": ["eth"],
+            "category": [],
+            "iconPath": "icon_pooltogether.png",
+            "type": "dapp",
+            "externalWindow": false
+        },
+        {
+            "name": "uniswap",
+            "title": {
+                "ko": "Uniswap",
+                "en": "Uniswap"
+            },
+            "description": {
+                "ko": "Uniswap은 유동성을 공급하고 토큰을 교환할 수 있는 이더리움 기반의 자동화된 탈중앙 프로토콜입니다.",
+                "en": " Uniswap is a fully decentralized protocol for automated liquidity provision on Ethereum."
+            },
+            "link": "https://app.uniswap.org/?utm_source=dcentwallet",
+            "kind": ["eth"],
+            "category": [],
+            "iconPath": "icon_uniswap.png",
+            "type": "dapp",
+            "externalWindow": false
+        },
+        {
+            "name": "1inch.exchange",
+            "title": {
+                "ko": "1inch.exchange",
+                "en": "1inch.exchange"
+            },
+            "description": {
+                "ko": "1inch Exchange는 모든 주요 DEX 거래소의 유동성과 가격 정보를 하나의 플랫폼에서 제공합니다. 원하는 거래의 가격을 쉽게 조회하여 토큰을 교환할 수 있습니다.",
+                "en": "1inch Exchange is a decentralized exchange (DEX) aggregator. It's designed to roll liquidity and pricing from all major DEXes into one platform, making it easy to get the best price for the desired trade."
+            },
+            "link": "https://1inch.exchange/?utm_source=dcentwallet",
+            "kind": ["eth"],
+            "category": [],
+            "iconPath": "icon_1inch.exchange.png",
+            "type": "dapp",
+            "externalWindow": false
+        },
+        {
+            "name": "opensea",
+            "title": {
+                "ko": "OpenSea",
+                "en": "OpenSea"
+            },
+            "description": {
+                "ko": "OpenSea는 수집품, 게임 아이템, 디지털 아트와 같은 이더리움 기반의 디지털 상품 및 디지털 자산을 거래할 수 있는 마켓 플레이스입니다.",
+                "en": "OpenSea is a marketplace for digital goods, including collectibles, game items, digital art, and other digital assets backed by blockchain such as Ethereum."
+            },
+            "link": "https://opensea.io/?utm_source=dcentwallet",
+            "kind": ["eth"],
+            "category": [],
+            "iconPath": "icon_opensea.png",
+            "type": "dapp",
+            "externalWindow": false
+        },
+        {
+            "name": "changenow",
+            "title": {
+                "ko": "ChangeNOW",
+                "en": "ChangeNOW"
+            },
+            "description": {
+                "ko": "ChangeNOW는 간단하고 빠른 암호화폐 교환을 제공하는 스왑 서비스입니다. 계정이 필요없고, 걱정없이, 빠르고 간편합니다.",
+                "en": "ChangeNOW is a non-custodial service created for simple and fast cryptocurrency exchanges. It is account-free, worry-free, faster than light."
+            },
+            "link": {
+                "en": "https://changenow.io/en",
+                "ko": "https://changenow.io/ko",
+                "default": "https://changenow.io/"
+            },
+            "kind": [],
+            "category": [],
+            "iconPath": "icon_changenow.png",
+            "type": "widget",
+            "externalWindow": false
+        }
+    ]
+}

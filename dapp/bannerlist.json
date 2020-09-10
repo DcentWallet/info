@@ -1,0 +1,18 @@
+{
+    "list": [
+        {
+            "name": "dcent",
+            "title": {
+                "ko": "디센트",
+                "en": "D'CENT"
+            },
+            "description": {
+                "ko": "",
+                "en": ""
+            },
+            "link": "https://dcentwallet.com",
+            "imagePath": "banner_dcent.png",
+            "externalWindow": true
+        }
+    ]
+}
