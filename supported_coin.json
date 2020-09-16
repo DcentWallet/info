@@ -14394,6 +14394,117 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6566.png",
+    "symbol": "LOCK",
+    "name": "Meridian Network",
+    "type": "ERC20",
+    "contract": "0x95172ccbe8344fecd73d0a30f54123652981bd6f",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3866.png",
+    "symbol": "CON",
+    "name": "CONUN",
+    "type": "ERC20",
+    "contract": "0x4dd672e77c795844fe3a464ef8ef0faae617c8fb",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5326.png",
+    "symbol": "ORC",
+    "name": "Orbit Chain",
+    "type": "ERC20",
+    "contract": "0x662b67d00a13faf93254714dd601f5ed49ef2f51",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2262.png",
+    "symbol": "CMS",
+    "name": "COMSA [ETH]",
+    "type": "ERC20",
+    "contract": "0xf83301c5cd1ccbb86f466a6b3c53316ed2f8465a",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6743.png",
+    "symbol": "FSW",
+    "name": "Falconswap",
+    "type": "ERC20",
+    "contract": "0xfffffffFf15AbF397dA76f1dcc1A1604F45126DB",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "symbol": "AXIE",
+    "name": "Axie",
+    "type": "ERC20",
+    "contract": "0xf5b0a3efb8e8e4c201e2a935f110eaaf3ffecb8d",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5824.png",
+    "symbol": "SLP",
+    "name": "Small Love Potion",
+    "type": "ERC20",
+    "contract": "0x37236cd05b34cc79d3715af2383e96dd7443dcf1",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3801.png",
+    "symbol": "BORA",
+    "name": "BORA",
+    "type": "ERC20",
+    "contract": "0x26fb86579e371c7aedc461b2ddef0a8628c93d3b",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3701.png",
     "symbol": "RIF",
     "name": "RSK Infrastructure Framework",
@@ -17253,6 +17364,34 @@
     "name": "PYRO Network (TRON)",
     "type": "TRC20",
     "contract": "TMCMPzmosnQ8UAYW1zcBwjLTxDq8ce4Y5e",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": false
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/825.png",
+    "symbol": "USDT",
+    "name": "Tether (TRON)",
+    "type": "TRC20",
+    "contract": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": false
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6990.png",
+    "symbol": "SUN",
+    "name": "SUN",
+    "type": "TRC20",
+    "contract": "TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9",
     "support": {
       "biometric": true,
       "card": false,
