@@ -1,0 +1,12 @@
+{
+    "list": [
+        {
+            "name": "dcent",
+            "title": "D'CENT",
+            "description": "",
+            "link": "https://dcentwallet.com",
+            "imagePath": "banner_dcent.png",
+            "externalWindow": true
+        }
+    ]
+}
