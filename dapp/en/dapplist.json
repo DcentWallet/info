@@ -1,0 +1,103 @@
+{
+    "list": [
+        {
+            "name": "moonpay",
+            "title": "MoonPay (Testnet)",
+            "description": "MoonPay offers simple and safer way to buy crypto instantly using VISA/Mastercard payment",
+            "link": "https://buy-staging.moonpay.io?language=en",
+            "kind": [],
+            "category": [],
+            "iconPath": "icon_moonpay.png",
+            "testnet": true,
+            "externalWindow": false
+        },
+        {
+            "name": "moonpay",
+            "title": "MoonPay",
+            "description": "MoonPay offers simple and safer way to buy crypto instantly using VISA/Mastercard payment",
+            "link": "https://buy.moonpay.io?language=en",
+            "kind": [],
+            "category": [],
+            "iconPath": "icon_moonpay.png",
+            "testnet": false,
+            "externalWindow": false
+        },
+        {
+            "name": "compound.finance",
+            "title":"Compound",
+            "description": "Compound is Ethereum's algorithmic money market protocol that allows users to earn interest or borrow assets through collateral. Anyone can supply assets to Compound's liquidity pool and earn continuous compound interest immediately.",
+            "link": "https://app.compound.finance/?utm_source=dcentwallet",
+            "kind": [ "eth" ],
+            "category": [],
+            "iconPath": "icon_compound.png",
+            "type": "dapp",
+            "externalWindow": false
+        },
+        {
+            "name": "makerdao oasis",
+            "title": "MakerDAO Oasis",
+            "description": "MakerDAO is a decentralized credit platform based on Ethereum where user can Trade, Borrow, and Save using DAI stablecoin",
+            "link": "https://oasis.app/?utm_source=dcentwallet",
+            "kind": [ "eth" ],
+            "category": [],
+            "iconPath": "icon_oasis.png",
+            "type": "dapp",
+            "externalWindow": false
+        },
+        {
+            "name": "pooltogether",
+            "title": "PoolTogether",
+            "description": "PoolTogether is an Ethereum based application that makes saving money as fun as a game. You join a pool by getting a “savings ticket”. Each Savings Ticket gives you a chance to win a prize, but even if you don’t win, you keep all your money!",
+            "link": "https://app.pooltogether.com/en?utm_source=dcentwallet",
+            "kind": ["eth"],
+            "category": [],
+            "iconPath": "icon_pooltogether.png",
+            "type": "dapp",
+            "externalWindow": false
+        },
+        {
+            "name": "uniswap",
+            "title": "Uniswap",
+            "description": " Uniswap is a fully decentralized protocol for automated liquidity provision on Ethereum.",
+            "link": "https://app.uniswap.org/?utm_source=dcentwallet",
+            "kind": ["eth"],
+            "category": [],
+            "iconPath": "icon_uniswap.png",
+            "type": "dapp",
+            "externalWindow": false
+        },
+        {
+            "name": "1inch.exchange",
+            "title": "1inch.exchange",
+            "description": "1inch Exchange is a decentralized exchange (DEX) aggregator. It's designed to roll liquidity and pricing from all major DEXes into one platform, making it easy to get the best price for the desired trade.",
+            "link": "https://1inch.exchange/?utm_source=dcentwallet",
+            "kind": ["eth"],
+            "category": [],
+            "iconPath": "icon_1inch.exchange.png",
+            "type": "dapp",
+            "externalWindow": false
+        },
+        {
+            "name": "opensea",
+            "title": "OpenSea",
+            "description": "OpenSea is a marketplace for digital goods, including collectibles, game items, digital art, and other digital assets backed by blockchain such as Ethereum.",
+            "link": "https://opensea.io/?utm_source=dcentwallet",
+            "kind": ["eth"],
+            "category": [],
+            "iconPath": "icon_opensea.png",
+            "type": "dapp",
+            "externalWindow": false
+        },
+        {
+            "name": "changenow",
+            "title": "ChangeNOW",
+            "description": "ChangeNOW is a non-custodial service created for simple and fast cryptocurrency exchanges. It is account-free, worry-free, faster than light.",
+            "link": "https://changenow.io/en",
+            "kind": [],
+            "category": [],
+            "iconPath": "icon_changenow.png",
+            "type": "widget",
+            "externalWindow": false
+        }
+    ]
+}
