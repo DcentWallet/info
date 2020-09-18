@@ -1,6 +1,14 @@
 {
     "list": [
         {
+            "name": "stake_klay",
+            "title": "Stake KLAY with D'CENT",
+            "description": "",
+            "link": "https://dcentwallet.com",
+            "imagePath": "banner_klay_en.png",
+            "externalWindow": true
+        },
+        {
             "name": "dcent",
             "title": "D'CENT",
             "description": "",
