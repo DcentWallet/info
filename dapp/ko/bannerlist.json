@@ -1,0 +1,20 @@
+{
+    "list": [
+        {
+            "name": "stake_klay",
+            "title": "디센트로 클레이 스테이션",
+            "description": "",
+            "link": "https://link.medium.com/73IMOF8pS9",
+            "imagePath": "banner_klay_ko.png",
+            "externalWindow": true
+        },
+        {
+            "name": "dcent",
+            "title": "디센트",
+            "description": "",
+            "link": "https://dcentwallet.com",
+            "imagePath": "banner_dcent.png",
+            "externalWindow": true
+        }
+    ]
+}
