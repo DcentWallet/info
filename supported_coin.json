@@ -14505,6 +14505,172 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7083.png",
+    "symbol": "UNI",
+    "name": "Uniswap",
+    "type": "ERC20",
+    "contract": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2048.png",
+    "symbol": "ECASH",
+    "name": "Ethereum Cash",
+    "type": "ERC20",
+    "contract": "0x5d21ef5f25a985380b65c8e943a0082feda0db84",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2048.png",
+    "symbol": "ETHC",
+    "name": "ETHEREUM CASH",
+    "type": "ERC20",
+    "contract": "0x35590207477dab4d11cd24f7f27896dff96989a5",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6138.png",
+    "symbol": "DIA",
+    "name": "DIA",
+    "type": "ERC20",
+    "contract": "0x84ca8bc7997272c7cfb4d0cd3d55cd942b3c9419",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7102.png",
+    "symbol": "LINA",
+    "name": "Linear",
+    "type": "ERC20",
+    "contract": "0x3e9bc21c9b189c09df3ef1b824798658d5011937",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7078.png",
+    "symbol": "VNS",
+    "name": "Va Na Su",
+    "type": "ERC20",
+    "contract": "0x97941ff1962026955852e9609e202d1058bc0f48",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5810.png",
+    "symbol": "BZRX",
+    "name": "bZx Protocol",
+    "type": "ERC20",
+    "contract": "0x56d811088235f11c8920698a204a5010a788f4b3",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "symbol": "UNI-V2",
+    "name": "Uniswap V2",
+    "type": "ERC20",
+    "contract": "0x9896bd979f9da57857322cc15e154222c4658a5a",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4997.png",
+    "symbol": "XIO",
+    "name": "XIO",
+    "type": "ERC20",
+    "contract": "0x0f7f961648ae6db43c75663ac7e5414eb79b5704",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6597.png",
+    "symbol": "MEME",
+    "name": "Meme",
+    "type": "ERC20",
+    "contract": "0xd5525d397898e5502075ea5e830d8914f6f0affe",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6937.png",
+    "symbol": "JUL",
+    "name": "JustLiquidity",
+    "type": "ERC20",
+    "contract": "0x5580ab97f226c324c671746a1787524aef42e415",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "symbol": "SEOT",
+    "name": "SEOToken",
+    "type": "ERC20",
+    "contract": "0x0bc8b9610351a1bc7cbfe554e7a27234081df172",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3701.png",
     "symbol": "RIF",
     "name": "RSK Infrastructure Framework",
