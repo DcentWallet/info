@@ -108,7 +108,7 @@
             "category": [],
             "iconPath": "icon_flare.png",
             "testnet": false,
-            "type": "cointx",
+            "type": "ex_service",
             "externalWindow": false
         }
     ]
