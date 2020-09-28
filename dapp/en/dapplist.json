@@ -8,7 +8,7 @@
             "kind": ["klay"],
             "category": [],
             "iconPath": "icon_klaystation.png",
-            "testnet": false,
+            "type": "dapp",
             "externalWindow": false
         },
         {
