@@ -103,7 +103,7 @@
             "name": "claimspark",
             "title": "Spark Airdrop",
             "description": "Register your flare address to receive sparks through this page. Anyone with XRP can participate in Spark(The base token of the Flare Network) Airdrop.",
-            "link": "http://192.168.0.7:8123/",
+            "link": "https://sparkairdrop.dcentwallet.com/flareService",
             "kind": [],
             "category": [],
             "iconPath": "icon_flare.png",
