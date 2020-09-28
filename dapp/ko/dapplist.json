@@ -1,6 +1,17 @@
 {
     "list": [
         {
+            "name": "KLAYSTATION",
+            "title": "KLAYSTATION",
+            "description": "클레이스테이션은 클레이튼 네트워크 기반 공식 스테이킹 툴입니다.",
+            "link": "https://klaystation.io/?utm_source=dcentwallet",
+            "kind": ["klay"],
+            "category": [],
+            "iconPath": "icon_klaystation.png",
+            "testnet": false,
+            "externalWindow": false
+        },
+        {
             "name": "moonpay",
             "title": "MoonPay (테스트넷)",
             "description": "MoonPay는 비자나 마스터카드로 암호화폐를 간단하고 안전하게 구매할 수 있는 서비스입니다",
