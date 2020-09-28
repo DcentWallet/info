@@ -1,5 +1,6 @@
 |Kernel Version|Release Date|Notes|
 |----|----|------|
+|v2.4.0.339f|2020-09-28|• Added supporting Full XRP Transaction |
 |v2.3.0.b023|2020-08-19|• Added supporting coin : Dogecoin(DOGE), TRC10, TRC20 |
 |v2.2.2.2820|2020-07-27|• Added supporting coin : Tron(TRX), Ethereum Classic(ETC), BitcoinSV(BSV) |
 |v2.1.0.0ea7|2020-07-01|• Added supporting coin : Stellar Lumens(XLM) |
