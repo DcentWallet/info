@@ -72,7 +72,7 @@
     }
   },
   {
-    "iconUrl": "https://www.bitcoincash.org/media-kit/12-bitcoin-cash-square-crop.svg",
+    "iconUrl": "https://github.com/DcentWallet/info/raw/master/images/coins/original/12-bitcoin-cash-square-crop-small.png",
     "symbol": "BCH",
     "name": "Bitcoin Cash",
     "support": {
@@ -228,7 +228,7 @@
     }
   },
   {
-    "iconUrl": "https://github.com/DcentWallet/info/raw/master/images/coins/asset-bptc.png",
+    "iconUrl": "https://github.com/DcentWallet/info/raw/master/images/coins/original/asset-bptc.png",
     "symbol": "BPTC",
     "name": "Business Platform Tomato Coin",
     "type": "ERC20",
@@ -1653,7 +1653,6 @@
     }
   },
   {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3175.png",
     "symbol": "TTC",
     "name": "TTC",
     "type": "ERC20",
@@ -14603,19 +14602,6 @@
     }
   },
   {
-    "symbol": "UNI-V2",
-    "name": "Uniswap V2",
-    "type": "ERC20",
-    "contract": "0x9896bd979f9da57857322cc15e154222c4658a5a",
-    "support": {
-      "biometric": true,
-      "card": true,
-      "ethCard": true,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4997.png",
     "symbol": "XIO",
     "name": "XIO",
@@ -14662,6 +14648,114 @@
     "name": "SEOToken",
     "type": "ERC20",
     "contract": "0x0bc8b9610351a1bc7cbfe554e7a27234081df172",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6725.png",
+    "symbol": "PICK",
+    "name": "PICK",
+    "type": "ERC20",
+    "contract": "0x287609a15a683640a5bbc4d93d4d5f4ed6bad3a0",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6116.png",
+    "symbol": "BONK",
+    "name": "Bonk",
+    "type": "ERC20",
+    "contract": "0x6d6506e6f438ede269877a0a720026559110b7d5",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "symbol": "AVRA",
+    "name": "AVRA",
+    "type": "ERC20",
+    "contract": "0xf8a2429d6b6879c45ee1c5fcda311fb2b5f7ac8f",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "symbol": "ECN",
+    "name": "EtherChain",
+    "type": "ERC20",
+    "contract": "0x0f2e4a70d3a0392f59e5fe4fd778ef1155e7702f",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4360.png",
+    "symbol": "FAB",
+    "name": "FABRK",
+    "type": "ERC20",
+    "contract": "0x12683dc9eec95a5f742d40206e73319e6b9d8a91",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "symbol": "FK",
+    "name": "FK Coin",
+    "type": "ERC20",
+    "contract": "0x903d78ca7d892e4518586d0b64f418bd4ca9a82d",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "symbol": "BRI",
+    "name": "Baroin",
+    "type": "ERC20",
+    "contract": "0x4893a1938df49f4178c37e4e965cc8a1b3882173",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3698.png",
+    "symbol": "OBSR",
+    "name": "Observer",
+    "type": "ERC20",
+    "contract": "0x87def9265b40ba7f867f73d4af519cd9f074bed6",
     "support": {
       "biometric": true,
       "card": true,
@@ -17558,6 +17652,62 @@
     "name": "SUN",
     "type": "TRC20",
     "contract": "TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": false
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/1958.png",
+    "symbol": "WTRX",
+    "name": "Wrapped TRX",
+    "type": "TRC20",
+    "contract": "TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": false
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3718.png",
+    "symbol": "WBTT",
+    "name": "Wrapped BTT",
+    "type": "TRC20",
+    "contract": "TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": false
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2502.png",
+    "symbol": "HT",
+    "name": "HuobiToken (TRON)",
+    "type": "TRC20",
+    "contract": "TDyvndWuvX5xTBwHPYJi7J3Yq8pq8yh62h",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": false
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/1.png",
+    "symbol": "BTC",
+    "name": "Bitcoin (TRON)",
+    "type": "TRC20",
+    "contract": "TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9",
     "support": {
       "biometric": true,
       "card": false,
