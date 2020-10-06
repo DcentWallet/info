@@ -120,7 +120,8 @@
             "iconPath": "icon_flare.png",
             "testnet": false,
             "type": "ex_service",
-            "externalWindow": false
+            "externalWindow": false,
+            "preRelease" : true
         }
     ]
 }
