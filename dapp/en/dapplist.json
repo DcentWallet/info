@@ -112,8 +112,8 @@
         },
         {
             "name": "claimspark",
-            "title": "Claim Spark Airdrop",
-            "description": "Register your Flare network address to receive sparks through this page. Anyone with XRP can participate in Spark(The base token of the Flare Network) Airdrop.",
+            "title": "Claim Spark distribution",
+            "description": "Register your Flare network address to receive sparks through this page. Anyone with XRP can participate in Spark(The base token of the Flare Network) distribution.",
             "link": "https://claim-spark.dcentwallet.com/flareService",
             "kind": [],
             "category": [],
