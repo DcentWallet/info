@@ -2396,7 +2396,7 @@
     "symbol": "UTK",
     "name": "Utrust",
     "type": "ERC20",
-    "contract": "0x70a72833d6bf7f508c8224ce59ea1ef3d0ea3a38",
+    "contract": "0xdc9Ac3C20D1ed0B540dF9b1feDC10039Df13F99c",
     "support": {
       "biometric": true,
       "card": true,
@@ -3343,7 +3343,7 @@
     "symbol": "OCEAN",
     "name": "Ocean Protocol",
     "type": "ERC20",
-    "contract": "0x985dd3d42de1e256d09e1c10f112bccb8015ad41",
+    "contract": "0x967da4048cD07aB37855c090aAF366e4ce1b9F48",
     "support": {
       "biometric": true,
       "card": true,
@@ -14765,6 +14765,75 @@
     }
   },
   {
+    "symbol": "GV",
+    "name": "Global Vmp",
+    "type": "ERC20",
+    "contract": "0xb599db81769fade2a7087aaaa975c248c7de5ef4",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6867.png",
+    "symbol": "STA",
+    "name": "STABLE ASSET",
+    "type": "ERC20",
+    "contract": "0xd7d05bda4bf5876ba1254b3eaaf8b47d2f5676eb",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5397.png",
+    "symbol": "CTT",
+    "name": "Castweet",
+    "type": "ERC20",
+    "contract": "0x1a4743cf1af4c289351390a2b3fe7c13d2f7c235",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5530.png",
+    "symbol": "KEYT",
+    "name": "REBIT",
+    "type": "ERC20",
+    "contract": "0xce13abce0db5a8224616ef24d3979d466f19cf90",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3858.png",
+    "symbol": "FNB",
+    "name": "FNB Protocol",
+    "type": "ERC20",
+    "contract": "0x47b28f365bf4cb38db4b6356864bde7bc4b35129",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3701.png",
     "symbol": "RIF",
     "name": "RSK Infrastructure Framework",
@@ -16888,6 +16957,7 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7354.png",
     "symbol": "TAUDB-888",
     "name": "TrueAUD",
     "type": "BEP2",
@@ -16914,6 +16984,7 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7339.png",
     "symbol": "TCADB-888",
     "name": "TrueCAD",
     "type": "BEP2",
@@ -16940,6 +17011,7 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7340.png",
     "symbol": "TGBPB-888",
     "name": "TrueGBP",
     "type": "BEP2",
