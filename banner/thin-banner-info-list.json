@@ -8,7 +8,7 @@
           "background-color": "#ffffff"
         },
         "tablet": {
-          "path": "../images/ko/spark_airdrop_tablet.png",
+          "path": "../images/ko/spark_airdrop.png",
           "height": "120px",
           "background-color": "#ffffff"
         },
@@ -25,7 +25,7 @@
           "background-color": "#ffffff"
         },
         "tablet": {
-          "path": "../images/en/spark_airdrop_tablet.png",
+          "path": "../images/en/spark_airdrop.png",
           "height": "120px",
           "background-color": "#ffffff"
         },
