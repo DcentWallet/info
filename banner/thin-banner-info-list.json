@@ -1,0 +1,98 @@
+[
+  {
+    "img": {
+      "ko": {
+        "desktop": {
+          "path": "../images/ko/spark_airdrop.png",
+          "height": "160px",
+          "background-color": "#ffffff"
+        },
+        "tablet": {
+          "path": "../images/ko/spark_airdrop_tablet.png",
+          "height": "120px",
+          "background-color": "#ffffff"
+        },
+        "mobile": {
+          "path": "../images/ko/spark_airdrop_tablet.png",
+          "height": "15.64vw",
+          "background-color": "#ffffff"
+        }
+      },
+      "en": {
+        "desktop": {
+          "path": "../images/en/spark_airdrop.png",
+          "height": "160px",
+          "background-color": "#ffffff"
+        },
+        "tablet": {
+          "path": "../images/en/spark_airdrop_tablet.png",
+          "height": "120px",
+          "background-color": "#ffffff"
+        },
+        "mobile": {
+          "path": "../images/en/spark_airdrop_tablet.png",
+          "height": "15.64vw",
+          "background-color": "#ffffff"
+        }
+      }
+    },
+    "link": {
+      "ko": {
+        "internal": false,
+        "external": "https://link.medium.com/73IMOF8pS9"
+      },
+      "en": {
+        "internal": false,
+        "external": "https://link.medium.com/BzXcUD7pS9"
+      }
+    }
+  },
+  {
+    "img": {
+      "ko": {
+        "desktop": {
+          "path": "../images/ko/klaystation_banner.png",
+          "height": "160px",
+          "background-color": "#31271f"
+        },
+        "tablet": {
+          "path": "../images/ko/klaystation_banner_tablet.png",
+          "height": "120px",
+          "background-color": "#31271f"
+        },
+        "mobile": {
+          "path": "../images/ko/klaystation_banner_tablet.png",
+          "height": "15.64vw",
+          "background-color": "#31271f"
+        }
+      },
+      "en": {
+        "desktop": {
+          "path": "../images/en/klaystation_banner.png",
+          "height": "160px",
+          "background-color": "#31271f"
+        },
+        "tablet": {
+          "path": "../images/en/klaystation_banner_tablet.png",
+          "height": "120px",
+          "background-color": "#31271f"
+        },
+        "mobile": {
+          "path": "../images/en/klaystation_banner_tablet.png",
+          "height": "15.64vw",
+          "background-color": "#31271f"
+        }
+      }
+    },
+    "link": {
+      "ko": {
+        "internal": false,
+        "external": "https://link.medium.com/73IMOF8pS9"
+      },
+      "en": {
+        "internal": false,
+        "external": "https://link.medium.com/BzXcUD7pS9"
+      }
+    }
+  }
+]
