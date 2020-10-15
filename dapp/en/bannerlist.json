@@ -1,10 +1,19 @@
 {
     "list": [
         {
+            "name": "Claim-Spark",
+            "title": "Registration to Spark Token distribution",
+            "description": "",
+            "link": "https://medium.com/dcentwallet/dcent-wallet-provides-the-most-easy-method-of-claiming-spark-token-f55635b3d9f3",
+            "imagePath": "banner_claim_spark_en.png",
+            "externalWindow": true,            
+            "preRelease": true
+        },
+        {
             "name": "stake_klay",
             "title": "Stake KLAY with D'CENT",
             "description": "",
-            "link": "https://link.medium.com/BzXcUD7pS9",
+            "link": "https://medium.com/dcentwallet/klay-airdrop-event-chance-to-receive-up-to-100-klay-by-using-dcent-biometric-wallet-at-c5b8dce86e1",
             "imagePath": "banner_klay_en.png",
             "externalWindow": true
         },
