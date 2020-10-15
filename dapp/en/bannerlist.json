@@ -6,8 +6,7 @@
             "description": "",
             "link": "https://medium.com/dcentwallet/dcent-wallet-provides-the-most-easy-method-of-claiming-spark-token-f55635b3d9f3",
             "imagePath": "banner_claim_spark_en.png",
-            "externalWindow": true,            
-            "preRelease": true
+            "externalWindow": true
         },
         {
             "name": "stake_klay",
