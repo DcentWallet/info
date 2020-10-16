@@ -9,14 +9,6 @@
             "externalWindow": true
         },
         {
-            "name": "stake_klay",
-            "title": "디센트로 클레이 스테이션",
-            "description": "",
-            "link": "https://medium.com/dcentwallet/klay-%EC%97%90%EC%96%B4%EB%93%9C%EB%A1%AD-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%94%94%EC%84%BC%ED%8A%B8-%EC%A7%80%EB%AC%B8%EC%9D%B8%EC%A6%9D%ED%98%95-%EC%A7%80%EA%B0%91%EC%9C%BC%EB%A1%9C-%ED%81%B4%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%85%98-%EC%82%AC%EC%9A%A9%ED%95%98%EB%A9%B4-%EC%B5%9C%EB%8C%80-100-klay%EB%A5%BC-%EB%B0%9B%EC%9D%84-%EC%88%98-%EC%9E%88%EB%8A%94-%EA%B8%B0%ED%9A%8C-925a6d2333da",
-            "imagePath": "banner_klay_ko.png",
-            "externalWindow": true
-        },
-        {
             "name": "ChangeNow",
             "title": "암호화폐 교환하기",
             "description": "",
