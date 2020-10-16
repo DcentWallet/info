@@ -46,53 +46,5 @@
         "external": "https://medium.com/dcentwallet/dcent-wallet-provides-the-most-easy-method-of-claiming-spark-token-f55635b3d9f3"
       }
     }
-  },
-  {
-    "img": {
-      "ko": {
-        "desktop": {
-          "path": "../images/ko/klaystation_banner.png",
-          "height": "160px",
-          "background-color": "#31271f"
-        },
-        "tablet": {
-          "path": "../images/ko/klaystation_banner_tablet.png",
-          "height": "120px",
-          "background-color": "#31271f"
-        },
-        "mobile": {
-          "path": "../images/ko/klaystation_banner_tablet.png",
-          "height": "15.64vw",
-          "background-color": "#31271f"
-        }
-      },
-      "en": {
-        "desktop": {
-          "path": "../images/en/klaystation_banner.png",
-          "height": "160px",
-          "background-color": "#31271f"
-        },
-        "tablet": {
-          "path": "../images/en/klaystation_banner_tablet.png",
-          "height": "120px",
-          "background-color": "#31271f"
-        },
-        "mobile": {
-          "path": "../images/en/klaystation_banner_tablet.png",
-          "height": "15.64vw",
-          "background-color": "#31271f"
-        }
-      }
-    },
-    "link": {
-      "ko": {
-        "internal": false,
-        "external": "https://link.medium.com/73IMOF8pS9"
-      },
-      "en": {
-        "internal": false,
-        "external": "https://link.medium.com/BzXcUD7pS9"
-      }
-    }
   }
 ]
