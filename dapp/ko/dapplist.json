@@ -4,24 +4,12 @@
             "name": "KLAYSTATION",
             "title": "KLAYSTATION",
             "description": "클레이스테이션은 클레이튼 네트워크 기반 공식 스테이킹 툴입니다.",
-            "link": "https://klaystation.io/?utm_source=dcentwallet",
-            "kind": ["klay"],
-            "category": [],
-            "iconPath": "icon_klaystation.png",
-            "type": "dapp",
-            "externalWindow": false
-        },
-        {
-            "name": "KLAYSTATION",
-            "title": "KLAYSTATION",
-            "description": "클레이스테이션은 클레이튼 네트워크 기반 공식 스테이킹 툴입니다.",
             "link": "https://klaystation.io/dashboard?utm_source=dcentwallet",
             "kind": ["klay"],
             "category": [],
             "iconPath": "icon_klaystation.png",
             "type": "dapp",
-            "externalWindow": false,
-            "preRelease": true
+            "externalWindow": false
         },
         {
             "name": "moonpay",

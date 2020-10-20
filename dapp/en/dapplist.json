@@ -4,7 +4,7 @@
             "name": "KLAYSTATION",
             "title": "KLAYSTATION",
             "description": "The Official Staking Tool based on Klaytn Network.",
-            "link": "https://klaystation.io/?utm_source=dcentwallet",
+            "link": "https://klaystation.io/dashboard?utm_source=dcentwallet",
             "kind": ["klay"],
             "category": [],
             "iconPath": "icon_klaystation.png",
