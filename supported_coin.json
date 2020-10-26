@@ -4623,7 +4623,7 @@
     "symbol": "MTV",
     "name": "MultiVAC",
     "type": "ERC20",
-    "contract": "0x8aa688ab789d1848d131c65d98ceaa8875d97ef1",
+    "contract": "0x6226e00bCAc68b0Fe55583B90A1d727C14fAB77f",
     "support": {
       "biometric": true,
       "card": true,
@@ -14834,6 +14834,32 @@
     }
   },
   {
+    "symbol": "WHINT",
+    "name": "WHint Token",
+    "type": "ERC20",
+    "contract": "0x099540cea8919d103ba1954af970b9753d9f0bf1",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "symbol": "ANSW",
+    "name": "AnswerToken",
+    "type": "ERC20",
+    "contract": "0x6a49ff839ff928da0a9e078d91e59d4cb1dd9b33",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3701.png",
     "symbol": "RIF",
     "name": "RSK Infrastructure Framework",
@@ -14940,7 +14966,7 @@
     "symbol": "HINT",
     "name": "Hintchain",
     "type": "KCT",
-    "contract": "0x8A4727B93d1644FC732bda43112bdD3cAc7B686F",
+    "contract": "0x4dd402a7d54eaa8147cb6ff252afe5be742bdf40",
     "support": {
       "biometric": true,
       "card": false,
@@ -15083,6 +15109,58 @@
     "name": "Sound Blockchain Protocol",
     "type": "KCT",
     "contract": "0xa01efa8e7d3014a920f21487d7662db2800d0312",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": true,
+      "software": true
+    }
+  },
+  {
+    "symbol": "SKLAY",
+    "name": "sKlay",
+    "type": "KCT",
+    "contract": "0xa323d7386b671e8799dca3582d6658fdcdcd940a",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": true,
+      "software": true
+    }
+  },
+  {
+    "symbol": "ETT",
+    "name": "egg coin",
+    "type": "KCT",
+    "contract": "0x991743d5e7c47242d4740bd68584afb7b6f67deb",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": true,
+      "software": true
+    }
+  },
+  {
+    "symbol": "PER",
+    "name": "Supercommunity",
+    "type": "KCT",
+    "contract": "0x55743029ee88c3613cbef4baa4f2b28e15ecfaab",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": true,
+      "software": true
+    }
+  },
+  {
+    "symbol": "SSX",
+    "name": "Somesing Exchange",
+    "type": "KCT",
+    "contract": "0xdcd62c57182e780e23d2313c4782709da85b9d6c",
     "support": {
       "biometric": true,
       "card": false,
@@ -16069,6 +16147,7 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7399.png",
     "symbol": "GMNG-F3E",
     "name": "Global Gaming",
     "type": "BEP2",
