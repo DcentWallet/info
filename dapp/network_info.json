@@ -1,0 +1,67 @@
+{
+    "interface": [
+        {
+            "name": "ethereum",
+            "network": [
+                {
+                    "name": "ethereum",
+                    "description": "Ethereum Mainnet",
+                    "chainId": 1,
+                    "iconPath" : "network_ethereum.png"
+                },
+                {
+                    "name": "ropsten",
+                    "description": "Ethereum Ropsten Testnet",
+                    "chainId": 3,
+                    "iconPath" : "network_ethereum.png",
+                    "isTestNet": true
+                },
+                {
+                    "name": "rinkeby",
+                    "description": "Ethereum Rinkeby Testnet",
+                    "chainId": 4,
+                    "iconPath" : "network_ethereum.png",
+                    "isTestNet": true
+                },
+                {
+                    "name": "kovan",
+                    "description": "Ethereum Kovan Testnet",
+                    "chainId": 42,
+                    "iconPath" : "network_ethereum.png",
+                    "isTestNet": true
+                }
+            ]
+        },
+        {
+            "name": "klaytn",
+            "network": [
+                {
+                    "name": "klaytn",
+                    "description": "Klaytn Mainnet",
+                    "chainId": 8217,
+                    "iconPath" : "network_klaytn.png"
+                },
+                {
+                    "name": "baobab",
+                    "description": "Ethereum Baobab Testnet",
+                    "chainId": 1001,
+                    "iconPath" : "network_klaytn.png",
+                    "isTestNet": true
+                }
+            ]
+        },
+        {
+            "name": "tron",
+            "notSupport": true,
+            "network": [
+                {
+                    "name": "tron",
+                    "description": "Tron Mainnet",
+                    "chainId": 0,
+                    "iconPath" : "network_tron.png"
+                }
+            ]
+        }
+        
+    ]
+}
