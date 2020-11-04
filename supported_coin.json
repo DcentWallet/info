@@ -44,7 +44,7 @@
       "card": false,
       "ethCard": false,
       "klayCard": false,
-      "software": false
+      "software": true
     }
   },
   {
