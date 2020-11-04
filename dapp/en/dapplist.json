@@ -59,7 +59,7 @@
             "name": "pooltogether",
             "title": "PoolTogether",
             "description": "PoolTogether is an Ethereum based application that makes saving money as fun as a game. You join a pool by getting a “savings ticket”. Each Savings Ticket gives you a chance to win a prize, but even if you don’t win, you keep all your money!",
-            "link": "https://app.pooltogether.com/en?utm_source=dcentwallet",
+            "link": "https://app.pooltogether.com/?utm_source=dcentwallet",
             "kind": ["eth"],
             "category": [],
             "iconPath": "icon_pooltogether.png",
