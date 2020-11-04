@@ -59,7 +59,7 @@
             "name": "pooltogether",
             "title": "PoolTogether",
             "description": "PoolTogether는 저축을 재미있게 하는 이더리움 기반의 서비스입니다. 자산을 예치하면 “저축 티켓“을 받아 '풀'에 참여합니다. 각 저축 티켓은 풀에서 발생한 이자를 받을 수있는 기회를 제공하지만, 당첨되지 않더라도 손실이 없습니다.",
-            "link": "https://app.pooltogether.com/ko?utm_source=dcentwallet",
+            "link": "https://app.pooltogether.com/?utm_source=dcentwallet",
             "kind": ["eth"],
             "category": [],
             "iconPath": "icon_pooltogether.png",
