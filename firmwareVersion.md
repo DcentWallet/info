@@ -1,5 +1,6 @@
 |Kernel Version|Release Date|Notes|
 |----|----|------|
+|v2.4.2.cf5a|2020-11-09|• TRX Transaction Bug Fix |
 |v2.4.1.62f9|2020-10-28|• TRX Transaction Bug Fix |
 |v2.4.0.339f|2020-09-28|• Added supporting Full XRP Transaction |
 |v2.3.0.b023|2020-08-19|• Added supporting coin : Dogecoin(DOGE), TRC10, TRC20 |
