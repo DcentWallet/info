@@ -14911,6 +14911,7 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7607.png",
     "symbol": "BRI",
     "name": "Baroin",
     "type": "ERC20",
@@ -15079,6 +15080,114 @@
     "name": "TrustVerse",
     "type": "ERC20",
     "contract": "0x72955ecff76e48f2c8abcce11d54e5734d6f3657",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "symbol": "BOK",
+    "name": "BOK coin",
+    "type": "ERC20",
+    "contract": "0xec5b8074d8e274488906cf360c742fc62626014d",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7424.png",
+    "symbol": "CORE",
+    "name": "cVault.finance",
+    "type": "ERC20",
+    "contract": "0x62359ed7505efc61ff1d56fef82158ccaffa23d7",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "symbol": "UPXAU",
+    "name": "Universal Gold",
+    "type": "ERC20",
+    "contract": "0x0557df767419296474c3f551bb0a0ed4c2dd3380",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5644.png",
+    "symbol": "BBC",
+    "name": "Blue Baikal",
+    "type": "ERC20",
+    "contract": "0x675ce995953136814cb05aaaa5d02327e7dc8c93",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6445.png",
+    "symbol": "FPT",
+    "name": "FINPLE",
+    "type": "ERC20",
+    "contract": "0x9d5e6b92ba3f75589943372df82dbd3a8a802e80",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "symbol": "ANG",
+    "name": "ANAGRAM",
+    "type": "ERC20",
+    "contract": "0x5805c59772d3eb28b622eb55e36daf590ee47588",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "symbol": "ExC",
+    "name": "ExCash for ExMind",
+    "type": "ERC20",
+    "contract": "0xd46c213b00d3ea63e9efd50e2a873937dc635da5",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7590.png",
+    "symbol": "DVI",
+    "name": "Dvision Network",
+    "type": "ERC20",
+    "contract": "0x10633216e7e8281e33c86f02bf8e565a635d9770",
     "support": {
       "biometric": true,
       "card": true,
@@ -15389,6 +15498,71 @@
     "name": "Somesing Exchange",
     "type": "KCT",
     "contract": "0xdcd62c57182e780e23d2313c4782709da85b9d6c",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": true,
+      "software": true
+    }
+  },
+  {
+    "symbol": "KDAI",
+    "name": "Klaytn Dai",
+    "type": "KCT",
+    "contract": "0x5c74070fdea071359b86082bd9f9b3deaafbe32b",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": true,
+      "software": true
+    }
+  },
+  {
+    "symbol": "KETH",
+    "name": "Orbit Bridge Klaytn Ethereum",
+    "type": "KCT",
+    "contract": "0x34d21b1e550d73cee41151c77f3c73359527a396",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": true,
+      "software": true
+    }
+  },
+  {
+    "symbol": "KWBTC",
+    "name": "Orbit Bridge Klaytn Wrapped BTC",
+    "type": "KCT",
+    "contract": "0x16d0e1fbd024c600ca0380a4c5d57ee7a2ecbf9c",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": true,
+      "software": true
+    }
+  },
+  {
+    "symbol": "KORC",
+    "name": "Orbit Bridge Klaytn Orbit Chain",
+    "type": "KCT",
+    "contract": "0xfe41102f325deaa9f303fdd9484eb5911a7ba557",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": true,
+      "software": true
+    }
+  },
+  {
+    "symbol": "KUSDT",
+    "name": "Orbit Bridge Klaytn USD Tether",
+    "type": "KCT",
+    "contract": "0xcee8faf64bb97a73bb51e115aa89c17ffa8dd167",
     "support": {
       "biometric": true,
       "card": false,
