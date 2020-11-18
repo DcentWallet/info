@@ -1,67 +1,62 @@
 {
-    "interface": [
+    "networks": [
         {
             "name": "ethereum",
-            "network": [
+            "list": [
                 {
                     "name": "ethereum",
                     "description": "Ethereum Mainnet",
+                    "coinType": "ETHREUM",
                     "chainId": 1,
-                    "iconPath" : "network_ethereum.png"
+                    "iconPath" : "network_ethereum.png",
+                    "default" : true
                 },
                 {
                     "name": "ropsten",
                     "description": "Ethereum Ropsten Testnet",
+                    "coinType": "ETHREUM",
                     "chainId": 3,
                     "iconPath" : "network_ethereum.png",
-                    "isTestNet": true
+                    "testnet": true
                 },
                 {
                     "name": "rinkeby",
                     "description": "Ethereum Rinkeby Testnet",
+                    "coinType": "ETHREUM",
                     "chainId": 4,
                     "iconPath" : "network_ethereum.png",
-                    "isTestNet": true
+                    "testnet": true
                 },
                 {
                     "name": "kovan",
                     "description": "Ethereum Kovan Testnet",
+                    "coinType": "ETHREUM",
                     "chainId": 42,
                     "iconPath" : "network_ethereum.png",
-                    "isTestNet": true
+                    "testnet": true
                 }
             ]
         },
         {
             "name": "klaytn",
-            "network": [
+            "list": [
                 {
                     "name": "klaytn",
                     "description": "Klaytn Mainnet",
+                    "coinType": "KLAYTN",
                     "chainId": 8217,
-                    "iconPath" : "network_klaytn.png"
+                    "iconPath" : "network_klaytn.png",
+                    "default" : true
                 },
                 {
                     "name": "baobab",
                     "description": "Ethereum Baobab Testnet",
+                    "coinType": "KLAYTN",
                     "chainId": 1001,
                     "iconPath" : "network_klaytn.png",
-                    "isTestNet": true
+                    "testnet": true
                 }
             ]
-        },
-        {
-            "name": "tron",
-            "notSupport": true,
-            "network": [
-                {
-                    "name": "tron",
-                    "description": "Tron Mainnet",
-                    "chainId": 0,
-                    "iconPath" : "network_tron.png"
-                }
-            ]
-        }
-        
+        }        
     ]
 }
