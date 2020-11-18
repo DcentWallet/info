@@ -43,6 +43,7 @@
             "category": [],
             "iconPath": "icon_compound.png",
             "type": "dapp",
+            "device": "ble_dongle",
             "externalWindow": false
         },
         {
@@ -54,6 +55,7 @@
             "category": [],
             "iconPath": "icon_oasis.png",
             "type": "dapp",
+            "device": "ble_dongle",
             "externalWindow": false
         },
         {
@@ -65,6 +67,7 @@
             "category": [],
             "iconPath": "icon_pooltogether.png",
             "type": "dapp",
+            "device": "ble_dongle",
             "externalWindow": false
         },
         {
@@ -76,6 +79,7 @@
             "category": [],
             "iconPath": "icon_uniswap.png",
             "type": "dapp",
+            "device": "ble_dongle",
             "externalWindow": false
         },
         {
@@ -87,6 +91,7 @@
             "category": [],
             "iconPath": "icon_1inch.exchange.png",
             "type": "dapp",
+            "device": "ble_dongle",
             "externalWindow": false
         },
         {
@@ -98,6 +103,7 @@
             "category": [],
             "iconPath": "icon_opensea.png",
             "type": "dapp",
+            "device": "ble_dongle",
             "externalWindow": false
         },
         {
