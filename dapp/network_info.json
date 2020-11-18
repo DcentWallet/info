@@ -9,7 +9,7 @@
                     "coinType": "ETHREUM",
                     "chainId": 1,
                     "iconPath" : "network_ethereum.png",
-                    "default" : true
+                    "selected" : true
                 },
                 {
                     "name": "ropsten",
@@ -46,7 +46,7 @@
                     "coinType": "KLAYTN",
                     "chainId": 8217,
                     "iconPath" : "network_klaytn.png",
-                    "default" : true
+                    "selected" : true
                 },
                 {
                     "name": "baobab",
@@ -68,7 +68,7 @@
                     "coinType": "TRON",
                     "chainId": 0,
                     "iconPath" : "network_tron.png",
-                    "default" : true
+                    "selected" : true
                 }
             ]
         }            
