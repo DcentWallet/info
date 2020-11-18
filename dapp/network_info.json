@@ -57,6 +57,20 @@
                     "testnet": true
                 }
             ]
-        }        
+        },
+        {
+            "name": "tron",
+            "preRelease": true,
+            "list": [
+                {
+                    "name": "trom",
+                    "description": "Tron Mainnet",
+                    "coinType": "TRON",
+                    "chainId": 0,
+                    "iconPath" : "network_tron.png",
+                    "default" : true
+                }
+            ]
+        }            
     ]
 }
