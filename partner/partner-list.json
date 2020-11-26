@@ -1,0 +1,38 @@
+[
+  {
+    "name": "DDEX1",
+    "imageUrl": "../images/ddex.jpg",
+    "gotoLink": "https://ddex.io/"
+  },
+  {
+    "name": "DDEX2",
+    "imageUrl": "../images/ddex.jpg",
+    "gotoLink": "https://ddex.io/"
+  },
+  {
+    "name": "DDEX3",
+    "imageUrl": "../images/ddex.jpg",
+    "gotoLink": "https://ddex.io/"
+  },
+  {
+    "name": "DDEX4",
+    "imageUrl": "../images/ddex.jpg",
+    "gotoLink": "https://ddex.io/"
+  },
+  {
+    "name": "DDEX5",
+    "imageUrl": "../images/ddex.jpg",
+    "gotoLink": "https://ddex.io/"
+  },
+  {
+    "name": "DDEX6",
+    "imageUrl": "../images/ddex.jpg",
+    "gotoLink": "https://ddex.io/"
+  },
+  {
+    "name": "DDEX7",
+    "imageUrl": "../images/ddex.jpg",
+    "gotoLink": "https://ddex.io/"
+  }
+]
+             
