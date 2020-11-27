@@ -1,38 +1,107 @@
 [
   {
-    "name": "DDEX1",
-    "imageUrl": "../images/ddex.jpg",
+    "name": "DDEX",
+    "imageUrl": "../images/ddex.png",
     "gotoLink": "https://ddex.io/"
   },
   {
-    "name": "DDEX2",
-    "imageUrl": "../images/ddex.jpg",
-    "gotoLink": "https://ddex.io/"
+    "name": "TOTLE",
+    "imageUrl": "../images/totle.png",
+    "gotoLink": "https://www.totle.com/"
   },
   {
-    "name": "DDEX3",
-    "imageUrl": "../images/ddex.jpg",
-    "gotoLink": "https://ddex.io/"
+    "name": "ChangeNOW",
+    "imageUrl": "../images/changenow.png",
+    "gotoLink": "https://changenow.io/"
   },
   {
-    "name": "DDEX4",
-    "imageUrl": "../images/ddex.jpg",
-    "gotoLink": "https://ddex.io/"
+    "name": "MakerDAO",
+    "imageUrl": "../images/makerdao.png",
+    "gotoLink": "https://makerdao.com/"
   },
   {
-    "name": "DDEX5",
-    "imageUrl": "../images/ddex.jpg",
-    "gotoLink": "https://ddex.io/"
+    "name": "ozys",
+    "imageUrl": "../images/ozys.png",
+    "gotoLink": "https://orbitchain.io/"
   },
   {
-    "name": "DDEX6",
-    "imageUrl": "../images/ddex.jpg",
-    "gotoLink": "https://ddex.io/"
+    "name": "MoonPay",
+    "imageUrl": "../images/moonpay.png",
+    "gotoLink": "https://www.moonpay.io/"
   },
   {
-    "name": "DDEX7",
-    "imageUrl": "../images/ddex.jpg",
-    "gotoLink": "https://ddex.io/"
+    "name": "GroundX",
+    "imageUrl": "../images/groundx.png",
+    "gotoLink": "https://www.groundx.xyz/"
+  },
+  {
+    "name": "ATOMRIGS",
+    "imageUrl": "../images/atomrigs.png",
+    "gotoLink": "https://www.atomrigs.io/"
+  },
+  {
+    "name": "Animoca Brands",
+    "imageUrl": "../images/animoca.png",
+    "gotoLink": "https://www.animocabrands.com/"
+  },
+  {
+    "name": "Asobi Coin",
+    "imageUrl": "../images/asobi.png",
+    "gotoLink": "https://asobimo.io/"
+  },
+  {
+    "name": "coinspect",
+    "imageUrl": "../images/coinspect.png",
+    "gotoLink": "https://coinspect.com/"
+  },
+  {
+    "name": "temco",
+    "imageUrl": "../images/temco.png",
+    "gotoLink": "https://temco.io/"
+  },
+  {
+    "name": "ens",
+    "imageUrl": "../images/ens.png",
+    "gotoLink": "https://ens.domains/"
+  },
+  {
+    "name": "towo labs",
+    "imageUrl": "../images/towolabs.png",
+    "gotoLink": "https://towo.io/"
+  },
+  {
+    "name": "DigiByte",
+    "imageUrl": "../images/digibyte.png",
+    "gotoLink": "https://digibyte.io/"
+  },
+  {
+    "name": "1inch.exchange",
+    "imageUrl": "../images/1inch.exchange.png",
+    "gotoLink": "https://1inch.exchange/"
+  },
+  {
+    "name": "OpenSea",
+    "imageUrl": "../images/opensea.png",
+    "gotoLink": "https://opensea.io/"
+  },
+  {
+    "name": "Compound",
+    "imageUrl": "../images/compound.png",
+    "gotoLink": "https://compound.finance/"
+  },
+  {
+    "name": "PoolTogether",
+    "imageUrl": "../images/pooltogether.png",
+    "gotoLink": "https://pooltogether.com/"
+  },
+  {
+    "name": "artbloc",
+    "imageUrl": "../images/artbloc.png",
+    "gotoLink": "https://artbloc.io/"
+  },
+  {
+    "name": "Flare Networks",
+    "imageUrl": "../images/flare.png",
+    "gotoLink": "https://flare.xyz/"
   }
 ]
-             
