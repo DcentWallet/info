@@ -5,7 +5,7 @@
             "list": [
                 {
                     "name": "ethereum",
-                    "description": "Ethereum Mainnet",
+                    "description": "Ethereum",
                     "coinType": "ETHREUM",
                     "chainId": 1,
                     "iconPath" : "network_ethereum.png",
@@ -13,7 +13,7 @@
                 },
                 {
                     "name": "ropsten",
-                    "description": "Ethereum Ropsten Testnet",
+                    "description": "Ethereum-Ropsten",
                     "coinType": "ETHREUM",
                     "chainId": 3,
                     "iconPath" : "network_ethereum.png",
@@ -21,7 +21,7 @@
                 },
                 {
                     "name": "rinkeby",
-                    "description": "Ethereum Rinkeby Testnet",
+                    "description": "Ethereum-Rinkeby",
                     "coinType": "ETHREUM",
                     "chainId": 4,
                     "iconPath" : "network_ethereum.png",
@@ -29,7 +29,7 @@
                 },
                 {
                     "name": "kovan",
-                    "description": "Ethereum Kovan Testnet",
+                    "description": "Ethereum-Kovan",
                     "coinType": "ETHREUM",
                     "chainId": 42,
                     "iconPath" : "network_ethereum.png",
@@ -42,7 +42,7 @@
             "list": [
                 {
                     "name": "klaytn",
-                    "description": "Klaytn Mainnet",
+                    "description": "Klaytn",
                     "coinType": "KLAYTN",
                     "chainId": 8217,
                     "iconPath" : "network_klaytn.png",
@@ -50,7 +50,7 @@
                 },
                 {
                     "name": "baobab",
-                    "description": "Ethereum Baobab Testnet",
+                    "description": "Klaytn-Baobab",
                     "coinType": "KLAYTN",
                     "chainId": 1001,
                     "iconPath" : "network_klaytn.png",
