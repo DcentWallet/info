@@ -25,17 +25,6 @@
         },
         {
             "name": "moonpay",
-            "title": "MoonPay (테스트넷)",
-            "description": "MoonPay는 비자나 마스터카드로 암호화폐를 간단하고 안전하게 구매할 수 있는 서비스입니다",
-            "link": "https://buy-staging.moonpay.io?language=ko",
-            "kind": [],
-            "category": [],
-            "iconPath": "icon_moonpay.png",
-            "testnet": true,
-            "externalWindow": false
-        },
-        {
-            "name": "moonpay",
             "title": "MoonPay",
             "description": "MoonPay는 비자나 마스터카드로 암호화폐를 간단하고 안전하게 구매할 수 있는 서비스입니다",
             "link": "https://buy.moonpay.io?language=ko",
