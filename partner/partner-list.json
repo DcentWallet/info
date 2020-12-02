@@ -1,13 +1,18 @@
 [
   {
-    "name": "DDEX",
-    "imageUrl": "../images/ddex.png",
-    "gotoLink": "https://ddex.io/"
+    "name": "Flare Networks",
+    "imageUrl": "../images/flare.png",
+    "gotoLink": "https://flare.xyz/"
   },
   {
-    "name": "TOTLE",
-    "imageUrl": "../images/totle.png",
-    "gotoLink": "https://www.totle.com/"
+    "name": "DLA Piper",
+    "imageUrl": "../images/DlaPiper.png",
+    "gotoLink": "https://www.dlapiper.com/"
+  },
+  {
+    "name": "Korea Investment Partners",
+    "imageUrl": "../images/KoreaInvestmentPartners.png",
+    "gotoLink": "http://partners.koreainvestment.com/"
   },
   {
     "name": "ChangeNOW",
@@ -15,19 +20,19 @@
     "gotoLink": "https://changenow.io/"
   },
   {
-    "name": "MakerDAO",
-    "imageUrl": "../images/makerdao.png",
-    "gotoLink": "https://makerdao.com/"
+    "name": "Jiran Security",
+    "imageUrl": "../images/JiranSecurity.png",
+    "gotoLink": "https://www.jiransecurity.com/"
   },
   {
-    "name": "ozys",
-    "imageUrl": "../images/ozys.png",
-    "gotoLink": "https://orbitchain.io/"
+    "name": "Pay Protocol",
+    "imageUrl": "../images/pay_protocol.png",
+    "gotoLink": "https://www.payprotocol.io/"
   },
   {
-    "name": "MoonPay",
-    "imageUrl": "../images/moonpay.png",
-    "gotoLink": "https://www.moonpay.io/"
+    "name": "Delio",
+    "imageUrl": "../images/delio.png",
+    "gotoLink": "https://www.delio.io/"
   },
   {
     "name": "GroundX",
@@ -35,7 +40,62 @@
     "gotoLink": "https://www.groundx.xyz/"
   },
   {
-    "name": "ATOMRIGS",
+    "name": "Unstoppable Domains",
+    "imageUrl": "../images/unstoppable_domains.png",
+    "gotoLink": "https://unstoppabledomains.com/"
+  },
+  {
+    "name": "Flare Finance",
+    "imageUrl": "../images/flare_finance.png",
+    "gotoLink": "https://flr.finance/"
+  },
+  {
+    "name": "Luniverse",
+    "imageUrl": "../images/luniverse.png",
+    "gotoLink": "https://luniverse.io/"
+  },
+  {
+    "name": "MakerDAO",
+    "imageUrl": "../images/makerdao.png",
+    "gotoLink": "https://makerdao.com/"
+  },
+  {
+    "name": "MoonPay",
+    "imageUrl": "../images/moonpay.png",
+    "gotoLink": "https://www.moonpay.io/"
+  },
+  {
+    "name": "Haechi Labs",
+    "imageUrl": "../images/heachi_labs.png",
+    "gotoLink": "https://haechi.io/"
+  },
+  {
+    "name": "blockchair",
+    "imageUrl": "../images/blockchair.png",
+    "gotoLink": "https://blockchair.com/"
+  },
+  {
+    "name": "dapp.com",
+    "imageUrl": "../images/dapp.png",
+    "gotoLink": "https://www.dapp.com/"
+  },
+  {
+    "name": "State of the Dapps",
+    "imageUrl": "../images/state_of_the_dapps.png",
+    "gotoLink": "https://www.stateofthedapps.com/"
+  },
+  {
+    "name": "IOV labs",
+    "imageUrl": "../images/iov_labs.png",
+    "gotoLink": "https://www.iovlabs.org/"
+  },
+  {
+    "name": "ozys",
+    "imageUrl": "../images/ozys.png",
+    "gotoLink": "https://orbitchain.io/"
+  },
+  {
+    "name": "Atomrigs Lab",
     "imageUrl": "../images/atomrigs.png",
     "gotoLink": "https://www.atomrigs.io/"
   },
@@ -50,6 +110,11 @@
     "gotoLink": "https://asobimo.io/"
   },
   {
+    "name": "PoolTogether",
+    "imageUrl": "../images/pooltogether.png",
+    "gotoLink": "https://pooltogether.com/"
+  },
+  {
     "name": "coinspect",
     "imageUrl": "../images/coinspect.png",
     "gotoLink": "https://coinspect.com/"
@@ -58,6 +123,11 @@
     "name": "temco",
     "imageUrl": "../images/temco.png",
     "gotoLink": "https://temco.io/"
+  },
+  {
+    "name": "Ravencoin",
+    "imageUrl": "../images/ravencoin.png",
+    "gotoLink": "https://ravencoin.org/"
   },
   {
     "name": "ens",
@@ -75,33 +145,13 @@
     "gotoLink": "https://digibyte.io/"
   },
   {
-    "name": "1inch.exchange",
-    "imageUrl": "../images/1inch.exchange.png",
-    "gotoLink": "https://1inch.exchange/"
+    "name": "DDEX",
+    "imageUrl": "../images/ddex.png",
+    "gotoLink": "https://ddex.io/"
   },
   {
-    "name": "OpenSea",
-    "imageUrl": "../images/opensea.png",
-    "gotoLink": "https://opensea.io/"
-  },
-  {
-    "name": "Compound",
-    "imageUrl": "../images/compound.png",
-    "gotoLink": "https://compound.finance/"
-  },
-  {
-    "name": "PoolTogether",
-    "imageUrl": "../images/pooltogether.png",
-    "gotoLink": "https://pooltogether.com/"
-  },
-  {
-    "name": "artbloc",
-    "imageUrl": "../images/artbloc.png",
-    "gotoLink": "https://artbloc.io/"
-  },
-  {
-    "name": "Flare Networks",
-    "imageUrl": "../images/flare.png",
-    "gotoLink": "https://flare.xyz/"
+    "name": "GamePer",
+    "imageUrl": "../images/gameper.png",
+    "gotoLink": "https://gameper.io/"
   }
 ]
