@@ -1,29 +1,8 @@
 [
   {
     "img": {
-      "en": {
-        "desktop": {
-          "path": "../images/en/spark_airdrop.png",
-          "height": "160px",
-          "background-color": "#ffffff"
-        },
-        "tablet": {
-          "path": "../images/en/spark_airdrop.png",
-          "height": "120px",
-          "background-color": "#ffffff"
-        },
-        "mobile": {
-          "path": "../images/en/spark_airdrop_tablet.png",
-          "height": "15.64vw",
-          "background-color": "#ffffff"
-        }
-      }
     },
     "link": {
-      "en": {
-        "internal": false,
-        "external": "https://medium.com/dcentwallet/dcent-wallet-provides-the-most-easy-method-of-claiming-spark-token-f55635b3d9f3"
-      }
     }
   }
 ]
