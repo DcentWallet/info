@@ -73,7 +73,7 @@
         {
             "name": "uniswap",
             "title": "Uniswap",
-            "description": " Uniswap is a fully decentralized protocol for automated liquidity provision on Ethereum.",
+            "description": "Uniswap is a fully decentralized protocol for automated liquidity provision on Ethereum.",
             "link": "https://app.uniswap.org/?from=dcentwallet",
             "kind": ["eth"],
             "category": [],
@@ -81,6 +81,19 @@
             "type": "dapp",
             "device": "ble_dongle",
             "externalWindow": false
+        },
+        {
+            "name": "yearn",
+            "title": "yearn.finance",
+            "description": "yearn.finance is an DeFi aggregator service that uses automation to maximize profits from yield farming for investors.",
+            "link": "https://yearn.finance/?from=dcentwallet",
+            "kind": ["eth"],
+            "category": [],
+            "iconPath": "icon_yearn.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false,
+            "preRelease": true
         },
         {
             "name": "1inch.exchange",
