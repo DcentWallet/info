@@ -1,18 +1,6 @@
 {
     "list": [
         {
-            "name": "KLAYSTATION",
-            "title": "KLAYSTATION",
-            "description": "The Official Staking Tool based on Klaytn Network.",
-            "link": "https://klaystation.io/dashboard?from=dcentwallet",
-            "kind": ["klay"],
-            "category": [],
-            "iconPath": "icon_klaystation.png",
-            "type": "dapp",
-            "device": "ble_dongle",
-            "externalWindow": false
-        },
-        {
             "name": "changenow",
             "title": "ChangeNOW",
             "description": "ChangeNOW is a non-custodial service created for simple and fast cryptocurrency exchanges. It is account-free, worry-free, faster than light.",
@@ -32,6 +20,18 @@
             "category": [],
             "iconPath": "icon_moonpay.png",
             "testnet": false,
+            "externalWindow": false
+        },
+        {
+            "name": "KLAYSTATION",
+            "title": "KLAYSTATION",
+            "description": "The Official Staking Tool based on Klaytn Network.",
+            "link": "https://klaystation.io/dashboard?from=dcentwallet",
+            "kind": ["klay"],
+            "category": [],
+            "iconPath": "icon_klaystation.png",
+            "type": "dapp",
+            "device": "ble_dongle",
             "externalWindow": false
         },
         {
