@@ -47,18 +47,6 @@
             "externalWindow": false
         },
         {
-            "name": "makerdao oasis",
-            "title": "MakerDAO Oasis",
-            "description": "MakerDAO is a decentralized credit platform based on Ethereum where user can Trade, Borrow, and Save using DAI stablecoin",
-            "link": "https://oasis.app/",
-            "kind": [ "eth" ],
-            "category": [],
-            "iconPath": "icon_oasis.png",
-            "type": "dapp",
-            "device": "ble_dongle",
-            "externalWindow": false
-        },
-        {
             "name": "pooltogether",
             "title": "PoolTogether",
             "description": "PoolTogether is an Ethereum based application that makes saving money as fun as a game. You join a pool by getting a “savings ticket”. Each Savings Ticket gives you a chance to win a prize, but even if you don’t win, you keep all your money!",

@@ -47,18 +47,6 @@
             "externalWindow": false
         },
         {
-            "name": "makerdao oasis",
-            "title": "MakerDAO Oasis",
-            "description": "MakerDAO는 이더리움 기반의 탈중앙화 신용 플랫폼입니다. 암호화폐를 담보로 대출을 받거나, DAI 스테이블코인을 사용한 거래, 대출 및 이자받기가 가능합니다.",
-            "link": "https://oasis.app/",
-            "kind": [ "eth" ],
-            "category": [],
-            "iconPath": "icon_oasis.png",
-            "type": "dapp",
-            "device": "ble_dongle",
-            "externalWindow": false
-        },
-        {
             "name": "pooltogether",
             "title": "PoolTogether",
             "description": "PoolTogether는 저축을 재미있게 하는 이더리움 기반의 서비스입니다. 자산을 예치하면 “저축 티켓“을 받아 '풀'에 참여합니다. 각 저축 티켓은 풀에서 발생한 이자를 받을 수있는 기회를 제공하지만, 당첨되지 않더라도 손실이 없습니다.",
