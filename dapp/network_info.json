@@ -29,7 +29,7 @@
                 },
                 {
                     "name": "goerli",
-                    "description": "Ethereum-GOERLI",
+                    "description": "Ethereum-Goerli",
                     "coinType": "ETH-GOERLI",
                     "chainId": 5,
                     "iconPath" : "network_ethereum.png",
