@@ -33,6 +33,19 @@
             "type": "dapp",
             "device": "ble_dongle",
             "externalWindow": false
+        },        
+        {
+            "name": "KLAYswap",
+            "title": "KLAYswap",
+            "description": "클레이스왑은 유동성 풀 기반의 KLAY, ETH, WBTC, USDT, ORC 토큰 교환과 유동성 마이닝을 통해 클레이튼 DeFi 생태계를 확장합니다.",
+            "link": "https://klayswap.com/",
+            "kind": ["klay"],
+            "category": [],
+            "iconPath": "icon_klayswap.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false,
+            "preRelease": true
         },
         {
             "name": "compound.finance",

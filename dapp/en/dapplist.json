@@ -35,6 +35,19 @@
             "externalWindow": false
         },
         {
+            "name": "KLAYswap",
+            "title": "KLAYswap",
+            "description": "KLAYswap extends the Klaytn DeFi ecosystem through liquidity pool-based KLAY, ETH, WBTC, USDT, ORC instant token swapping and liquidity mining.",
+            "link": "https://klayswap.com/",
+            "kind": ["klay"],
+            "category": [],
+            "iconPath": "icon_klayswap.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false,
+            "preRelease": true
+        },
+        {
             "name": "compound.finance",
             "title":"Compound",
             "description": "Compound is Ethereum's algorithmic money market protocol that allows users to earn interest or borrow assets through collateral. Anyone can supply assets to Compound's liquidity pool and earn continuous compound interest immediately.",
