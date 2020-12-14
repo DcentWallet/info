@@ -48,6 +48,19 @@
             "preRelease": true
         },
         {
+            "name": "KLAYportal",
+            "title": "KLAYportal",
+            "description": "KLAYportal was designed and developed by HashQuark as a lightweight tool to help KLAY holders participate in Klaytn staking in a simple, secure way.",
+            "link": "https://klayportal.hashquark.io/#/?inApp=true",
+            "kind": ["klay"],
+            "category": [],
+            "iconPath": "icon_klayportal.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false,
+            "preRelease": true
+        },
+        {
             "name": "compound.finance",
             "title":"Compound",
             "description": "Compound is Ethereum's algorithmic money market protocol that allows users to earn interest or borrow assets through collateral. Anyone can supply assets to Compound's liquidity pool and earn continuous compound interest immediately.",

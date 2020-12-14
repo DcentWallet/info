@@ -50,7 +50,7 @@
         {
             "name": "KLAYportal",
             "title": "KLAYportal",
-            "description": "클레이포털은 해시쿼크에서 개발한 간단하고 안전한 방식으로 클레이(KLAY)를 스테이킹할 수 있는 클레이튼 스테이킹 툴입니다.",
+            "description": "클레이포탈은 해시쿼크에서 개발한 간단하고 안전한 방식으로 클레이(KLAY)를 스테이킹할 수 있는 클레이튼 스테이킹 툴입니다.",
             "link": "https://klayportal.hashquark.io/#/?inApp=true",
             "kind": ["klay"],
             "category": [],
