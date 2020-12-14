@@ -118,18 +118,6 @@
             "type": "dapp",
             "device": "ble_dongle",
             "externalWindow": false
-        },        
-        {
-            "name": "claimspark",
-            "title": "스파크 토큰 신청",
-            "description": "이 신청 페이지를 통해 스파크를 받을 플레어(Flare) 네트워크의 주소를 등록 하세요. XRP를 보유한 사람 누구나 플레어 네트워크의 기본 토큰인 스파크 배포 이벤트에 참여 할 수 있습니다.",
-            "link": "https://claim-spark.dcentwallet.com/flareService",
-            "kind": [],
-            "category": [],
-            "iconPath": "icon_flare.png",
-            "testnet": false,
-            "type": "ex_service",
-            "externalWindow": false
         }
     ]
 }
