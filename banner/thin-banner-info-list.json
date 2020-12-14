@@ -1,8 +1,50 @@
 [
   {
     "img": {
+      "ko": {
+        "desktop": {
+          "path": "../images/ko/2x_package_50xrp_desktop.png",
+          "height": "160px",
+          "background-color": "#376953"
+        },
+        "tablet": {
+          "path": "../images/ko/2x_package_50xrp_desktop.png",
+          "height": "120px",
+          "background-color": "#376953"
+        },
+        "mobile": {
+          "path": "../images/ko/2x_package_50xrp_mobile.png",
+          "height": "15.64vw",
+          "background-color": "#376953"
+        }
+      },
+      "en": {
+        "desktop": {
+          "path": "../images/en/2x_package_50xrp_desktop.png",
+          "height": "160px",
+          "background-color": "#376953"
+        },
+        "tablet": {
+          "path": "../images/en/2x_package_50xrp_desktop.png",
+          "height": "120px",
+          "background-color": "#376953"
+        },
+        "mobile": {
+          "path": "../images/en/2x_package_50xrp_mobile.png",
+          "height": "15.64vw",
+          "background-color": "#376953"
+        }
+      }
     },
     "link": {
+      "ko": {
+        "internal": false,
+        "external": "https://medium.com/dcentwallet/%EA%B5%BF%EB%B0%94%EC%9D%B42020-%EC%8A%A4%ED%8E%98%EC%85%9C-%EC%9D%B4%EB%B2%A4%ED%8A%B8-50-xrp-%EC%A6%9D%EC%A0%95-833702e757e8"
+      },
+      "en": {
+        "internal": false,
+        "external": "https://medium.com/dcentwallet/goodbye-2020-special-get-50-xrp-reward-96475cb06212"
+      }
     }
   }
 ]
