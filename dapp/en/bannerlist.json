@@ -1,6 +1,14 @@
 {
     "list": [
         {
+            "name": "goodbye_event",
+            "title": "goodbye_event",
+            "description": "",
+            "link": "https://medium.com/dcentwallet/goodbye-2020-special-get-50-xrp-reward-96475cb06212",
+            "imagePath": "banner_goodbye2020_en.png",
+            "externalWindow": true
+        },
+        {
             "name": "dcent",
             "title": "D'CENT",
             "description": "",
