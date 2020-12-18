@@ -48,18 +48,6 @@
             "preRelease": true
         },
         {
-            "name": "KLAYportal",
-            "title": "KLAYportal",
-            "description": "클레이포탈은 해시쿼크에서 개발한 간단하고 안전한 방식으로 클레이(KLAY)를 스테이킹할 수 있는 클레이튼 스테이킹 툴입니다.",
-            "link": "https://klayportal.hashquark.io/#/?inApp=true",
-            "kind": ["klay"],
-            "category": [],
-            "iconPath": "icon_klayportal.png",
-            "type": "dapp",
-            "device": "ble_dongle",
-            "externalWindow": false
-        },
-        {
             "name": "compound.finance",
             "title": "Compound",
             "description": "Compound는 담보를 통해 이자를 얻거나 자산을 빌릴 수 있는 이더리움 기반의 머니 마켓 프로토콜입니다. 컴파운드의 유동성 풀에 자산을 공급하면 복리이자를 얻을 수 있습니다.",
@@ -130,7 +118,19 @@
             "type": "dapp",
             "device": "ble_dongle",
             "externalWindow": false
-        },        
+        },
+        {
+            "name": "KLAYportal",
+            "title": "KLAYportal",
+            "description": "클레이포탈은 해시쿼크에서 개발한 간단하고 안전한 방식으로 클레이(KLAY)를 스테이킹할 수 있는 클레이튼 스테이킹 툴입니다.",
+            "link": "https://klayportal.hashquark.io/#/?inApp=true",
+            "kind": ["klay"],
+            "category": [],
+            "iconPath": "icon_klayportal.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false
+        },
         {
             "name": "claimspark",
             "title": "스파크 토큰 신청",
