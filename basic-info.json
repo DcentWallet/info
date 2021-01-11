@@ -222,7 +222,7 @@
         { 
             "symbol": "LUK", 
             "name": "Luniverse",
-            "imgUrl": "https://github.com/DcentWallet/info/raw/master/images/coins/original/asset-bptc.png",
+            "imgUrl": "https://github.com/DcentWallet/info/raw/master/images/coins/original/asset-luniverse.png",
             "imgSize": {
                 "width": "32px",
                 "height": "32px"
@@ -231,7 +231,7 @@
         { 
             "symbol": "Token", 
             "name": "Luniverse Token",
-            "imgUrl": "https://github.com/DcentWallet/info/raw/master/images/coins/original/asset-bptc.png",
+            "imgUrl": "https://github.com/DcentWallet/info/raw/master/images/coins/original/asset-luniverse.png",
             "imgSize": {
                 "width": "32px",
                 "height": "32px"
