@@ -209,6 +209,33 @@
                 "width": "32px",
                 "height": "32px"
             }
+        },
+        { 
+            "symbol": "BCHA", 
+            "name": "Bitcoin Cash ABC", 
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/7686.png",
+            "imgSize": {
+                "width": "32px",
+                "height": "32px"
+            } 
+        },
+        { 
+            "symbol": "LUK", 
+            "name": "Luniverse",
+            "imgUrl": "https://github.com/DcentWallet/info/raw/master/images/coins/original/asset-bptc.png",
+            "imgSize": {
+                "width": "32px",
+                "height": "32px"
+            } 
+        },
+        { 
+            "symbol": "Token", 
+            "name": "Luniverse Token",
+            "imgUrl": "https://github.com/DcentWallet/info/raw/master/images/coins/original/asset-bptc.png",
+            "imgSize": {
+                "width": "32px",
+                "height": "32px"
+            } 
         }
     ],
     "cardSupportedCoinList": [
