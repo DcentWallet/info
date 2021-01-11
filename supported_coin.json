@@ -240,6 +240,17 @@
     }
   },
   {
+    "symbol": "LUK",
+    "name": "Luniverse",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": false
+    }
+  },
+  {
     "iconUrl": "https://github.com/DcentWallet/info/raw/master/images/coins/original/asset-bptc.png",
     "symbol": "BPTC",
     "name": "Business Platform Tomato Coin",
@@ -15586,6 +15597,74 @@
     "name": "OctoFi",
     "type": "ERC20",
     "contract": "0x7240aC91f01233BaAf8b064248E80feaA5912BA3",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5423.png",
+    "symbol": "DSLA",
+    "name": "DSLA Protocol",
+    "type": "ERC20",
+    "contract": "0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "symbol": "FIT",
+    "name": "300FIT",
+    "type": "ERC20",
+    "contract": "0x3c72fca8523686fd9e5740b0826fa4bb376e0241",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5778.png",
+    "symbol": "ETHP",
+    "name": "ETHPlus",
+    "type": "ERC20",
+    "contract": "0xeed736b2b809550d89a941c2005de93588c628e2",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "symbol": "APEX",
+    "name": "ApexDao",
+    "type": "ERC20",
+    "contract": "0xc4bc0e75faf0fe219c32c153e4728608c217d729",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/1455.png",
+    "symbol": "GLM",
+    "name": "Golem",
+    "type": "ERC20",
+    "contract": "0x7dd9c5cba05e151c895fde1cf355c9a1d5da6429",
     "support": {
       "biometric": true,
       "card": true,

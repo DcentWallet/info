@@ -42,6 +42,31 @@
                     "chainId": 42,
                     "iconPath" : "network_ethereum.png",
                     "testnet": true
+                },
+                {
+                    "name": "rsk",
+                    "description": "RSK",
+                    "coinType": "RSK",
+                    "chainId": 30,
+                    "iconPath": "network_rsk.png",
+                    "preRelease": true
+                },
+                {
+                    "name": "rsk_testnet",
+                    "description": "RSK-Testnet",
+                    "coinType": "RSK-TESTNET",
+                    "chainId": 31,
+                    "iconPath" : "network_rsk.png",
+                    "testnet": true,
+                    "preRelease": true
+                },
+                {
+                    "name": "flr_coston",
+                    "description": "Flare-Coston",
+                    "coinType": "FLR-COSTON",
+                    "chainId": 1,
+                    "iconPath" : "network_flare.png",
+                    "testnet": true
                 }
             ]
         },

@@ -1,5 +1,6 @@
 |Kernel Version|Release Date|Notes|
 |----|----|------|
+|v2.4.6.cae9|2020-12-18|• Added supporting coin : Luniverse(LUX) |
 |v2.4.3.d9de|2020-11-23|• Added supporting coin : Bitcoin Cash ABC(BCHA) |
 |v2.4.2.cf5a|2020-11-09|• TRX Transaction Bug Fix |
 |v2.4.1.62f9|2020-10-28|• TRX Transaction Bug Fix |

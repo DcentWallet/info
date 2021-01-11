@@ -44,21 +44,7 @@
             "iconPath": "icon_klayswap.png",
             "type": "dapp",
             "device": "ble_dongle",
-            "externalWindow": false,
-            "preRelease": true
-        },
-        {
-            "name": "KLAYportal",
-            "title": "KLAYportal",
-            "description": "KLAYportal was designed and developed by HashQuark as a lightweight tool to help KLAY holders participate in Klaytn staking in a simple, secure way.",
-            "link": "https://klayportal.hashquark.io/#/?inApp=true",
-            "kind": ["klay"],
-            "category": [],
-            "iconPath": "icon_klayportal.png",
-            "type": "dapp",
-            "device": "ble_dongle",
-            "externalWindow": false,
-            "preRelease": true
+            "externalWindow": false
         },
         {
             "name": "compound.finance",
@@ -131,7 +117,19 @@
             "type": "dapp",
             "device": "ble_dongle",
             "externalWindow": false
-        },        
+        },    
+        {
+            "name": "KLAYportal",
+            "title": "KLAYportal",
+            "description": "KLAYportal was designed and developed by HashQuark as a lightweight tool to help KLAY holders participate in Klaytn staking in a simple, secure way.",
+            "link": "https://klayportal.hashquark.io/#/?inApp=true",
+            "kind": ["klay"],
+            "category": [],
+            "iconPath": "icon_klayportal.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false
+        },    
         {
             "name": "claimspark",
             "title": "Claim Spark distribution",
