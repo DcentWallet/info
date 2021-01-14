@@ -14745,6 +14745,31 @@
     }
   },
   {
+    "symbol": "FACO",
+    "name": "Falcon",
+    "type": "ERC20",
+    "contract": "0x8e0a8931bd86075f026f3087e9cca819d7bde177",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5126.png",
+    "symbol": "SOC",
+    "name": "Soda Coin",
+    "type": "ERC20",
+    "contract": "0xcad49c39b72c37b32cee8b14f33f316d3a8bc335",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3701.png",
     "symbol": "RIF",
     "name": "RSK Infrastructure Framework",
@@ -14754,6 +14779,19 @@
       "biometric": true,
       "ethCard": false,
       "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://klayexchange-stat.s3.ap-northeast-2.amazonaws.com/token/ksp.png",
+    "symbol": "KSP",
+    "name": "KlaySwap Protocol",
+    "type": "KCT",
+    "contract": "0xc6a2ad8cc6e4a7e08fc37cc5954be07d499e7654",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": true,
       "software": true
     }
   },
@@ -15112,10 +15150,11 @@
     }
   },
   {
-    "symbol": "KSP",
-    "name": "KlaySwap Protocol",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7548.png",
+    "symbol": "WEMIX",
+    "name": "WEMIX",
     "type": "KCT",
-    "contract": "0xc6a2ad8cc6e4a7e08fc37cc5954be07d499e7654",
+    "contract": "0x5096db80b21ef45230c9e423c373f1fc9c0198dd",
     "support": {
       "biometric": true,
       "ethCard": false,
