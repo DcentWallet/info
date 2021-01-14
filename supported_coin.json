@@ -61,7 +61,7 @@
     "support": {
       "biometric": true,
       "ethCard": false,
-      "klayCard": false,
+      "klayCard": true,
       "software": true
     }
   },
@@ -14763,10 +14763,10 @@
     "type": "KCT",
     "contract": "0x5288f80F4145035866aC4cB45a4D8DEa889ec827",
     "support": {
-      "biometric": false,
+      "biometric": true,
       "ethCard": false,
-      "klayCard": false,
-      "software": false
+      "klayCard": true,
+      "software": true
     },
     "klaytn_verify": true
   },
@@ -14776,10 +14776,10 @@
     "type": "KCT",
     "contract": "0x67B79DF99416aD638267Ec8D89eB61EaE330A005",
     "support": {
-      "biometric": false,
+      "biometric": true,
       "ethCard": false,
-      "klayCard": false,
-      "software": false
+      "klayCard": true,
+      "software": true
     },
     "klaytn_verify": true
   },
@@ -14790,10 +14790,10 @@
     "type": "KCT",
     "contract": "0x9657fb399847d85a9c1a234ece9ca09d5c00f466",
     "support": {
-      "biometric": false,
+      "biometric": true,
       "ethCard": false,
-      "klayCard": false,
-      "software": false
+      "klayCard": true,
+      "software": true
     },
     "klaytn_verify": true
   },
@@ -14804,10 +14804,10 @@
     "type": "KCT",
     "contract": "0x3B3b30A76d169F72A0A38AE01b0D6e0FbeE3cc2e",
     "support": {
-      "biometric": false,
+      "biometric": true,
       "ethCard": false,
-      "klayCard": false,
-      "software": false
+      "klayCard": true,
+      "software": true
     },
     "klaytn_verify": true
   },
@@ -14818,10 +14818,10 @@
     "type": "KCT",
     "contract": "0xAfdE910130C335fA5bD5fe991053E3E0a49dcE7b",
     "support": {
-      "biometric": false,
+      "biometric": true,
       "ethCard": false,
-      "klayCard": false,
-      "software": false
+      "klayCard": true,
+      "software": true
     },
     "klaytn_verify": true
   },
@@ -14832,10 +14832,10 @@
     "type": "KCT",
     "contract": "0x5425B810432Bc7E7DBC74859eD3c37bB39d9dF00",
     "support": {
-      "biometric": false,
+      "biometric": true,
       "ethCard": false,
-      "klayCard": false,
-      "software": false
+      "klayCard": true,
+      "software": true
     },
     "klaytn_verify": true
   },
@@ -14846,10 +14846,10 @@
     "type": "KCT",
     "contract": "0x4dd402a7d54eaa8147cb6ff252afe5be742bdf40",
     "support": {
-      "biometric": false,
+      "biometric": true,
       "ethCard": false,
-      "klayCard": false,
-      "software": false
+      "klayCard": true,
+      "software": true
     },
     "klaytn_verify": true
   },
@@ -14859,10 +14859,10 @@
     "type": "KCT",
     "contract": "0xbe7377db700664331beb28023cfbd46de079efac",
     "support": {
-      "biometric": false,
+      "biometric": true,
       "ethCard": false,
-      "klayCard": false,
-      "software": false
+      "klayCard": true,
+      "software": true
     },
     "klaytn_verify": true
   },
@@ -14873,10 +14873,10 @@
     "type": "KCT",
     "contract": "0xc4407f7dc4b37275c9ce0f839652b393e13ff3d1",
     "support": {
-      "biometric": false,
+      "biometric": true,
       "ethCard": false,
-      "klayCard": false,
-      "software": false
+      "klayCard": true,
+      "software": true
     },
     "klaytn_verify": true
   },
@@ -14887,10 +14887,10 @@
     "type": "KCT",
     "contract": "0xa9CB7345Db22034F607c12Dd8E10ee703F6bAd61",
     "support": {
-      "biometric": false,
+      "biometric": true,
       "ethCard": false,
-      "klayCard": false,
-      "software": false
+      "klayCard": true,
+      "software": true
     },
     "klaytn_verify": true
   },
@@ -14901,10 +14901,10 @@
     "type": "KCT",
     "contract": "0xEf82b1C6A550e730D8283E1eDD4977cd01FAF435",
     "support": {
-      "biometric": false,
+      "biometric": true,
       "ethCard": false,
-      "klayCard": false,
-      "software": false
+      "klayCard": true,
+      "software": true
     },
     "klaytn_verify": true
   },
@@ -14915,10 +14915,10 @@
     "type": "KCT",
     "contract": "0x52CFDA3E278837d852C4315586C9464BE762647E",
     "support": {
-      "biometric": false,
+      "biometric": true,
       "ethCard": false,
-      "klayCard": false,
-      "software": false
+      "klayCard": true,
+      "software": true
     }
   },
   {
@@ -14928,10 +14928,10 @@
     "type": "KCT",
     "contract": "0x472fac08cf4836bee54343edfb49023746b27933",
     "support": {
-      "biometric": false,
+      "biometric": true,
       "ethCard": false,
-      "klayCard": false,
-      "software": false
+      "klayCard": true,
+      "software": true
     }
   },
   {
@@ -14941,10 +14941,10 @@
     "type": "KCT",
     "contract": "0x8177ac20455f31d8cb777923f0c632436568c719",
     "support": {
-      "biometric": false,
+      "biometric": true,
       "ethCard": false,
-      "klayCard": false,
-      "software": false
+      "klayCard": true,
+      "software": true
     }
   },
   {
@@ -14953,10 +14953,10 @@
     "type": "KCT",
     "contract": "0x28052f558a2BbC04bdE9BBE2e7DCDd31eDb90B56",
     "support": {
-      "biometric": false,
+      "biometric": true,
       "ethCard": false,
-      "klayCard": false,
-      "software": false
+      "klayCard": true,
+      "software": true
     }
   },
   {
@@ -14966,10 +14966,10 @@
     "type": "KCT",
     "contract": "0x275f942985503d8ce9558f8377cc526a3aba3566",
     "support": {
-      "biometric": false,
+      "biometric": true,
       "ethCard": false,
-      "klayCard": false,
-      "software": false
+      "klayCard": true,
+      "software": true
     }
   },
   {
@@ -14978,10 +14978,10 @@
     "type": "KCT",
     "contract": "0xa01efa8e7d3014a920f21487d7662db2800d0312",
     "support": {
-      "biometric": false,
+      "biometric": true,
       "ethCard": false,
-      "klayCard": false,
-      "software": false
+      "klayCard": true,
+      "software": true
     }
   },
   {
@@ -14991,10 +14991,10 @@
     "type": "KCT",
     "contract": "0xa323d7386b671e8799dca3582d6658fdcdcd940a",
     "support": {
-      "biometric": false,
+      "biometric": true,
       "ethCard": false,
-      "klayCard": false,
-      "software": false
+      "klayCard": true,
+      "software": true
     }
   },
   {
@@ -15003,10 +15003,10 @@
     "type": "KCT",
     "contract": "0x991743d5e7c47242d4740bd68584afb7b6f67deb",
     "support": {
-      "biometric": false,
+      "biometric": true,
       "ethCard": false,
-      "klayCard": false,
-      "software": false
+      "klayCard": true,
+      "software": true
     }
   },
   {
@@ -15015,10 +15015,10 @@
     "type": "KCT",
     "contract": "0x7eee60a000986e9efe7f5c90340738558c24317b",
     "support": {
-      "biometric": false,
+      "biometric": true,
       "ethCard": false,
-      "klayCard": false,
-      "software": false
+      "klayCard": true,
+      "software": true
     }
   },
   {
@@ -15027,10 +15027,10 @@
     "type": "KCT",
     "contract": "0xdcd62c57182e780e23d2313c4782709da85b9d6c",
     "support": {
-      "biometric": false,
+      "biometric": true,
       "ethCard": false,
-      "klayCard": false,
-      "software": false
+      "klayCard": true,
+      "software": true
     }
   },
   {
@@ -15040,10 +15040,10 @@
     "type": "KCT",
     "contract": "0x5c74070fdea071359b86082bd9f9b3deaafbe32b",
     "support": {
-      "biometric": false,
+      "biometric": true,
       "ethCard": false,
-      "klayCard": false,
-      "software": false
+      "klayCard": true,
+      "software": true
     }
   },
   {
@@ -15053,10 +15053,10 @@
     "type": "KCT",
     "contract": "0x34d21b1e550d73cee41151c77f3c73359527a396",
     "support": {
-      "biometric": false,
+      "biometric": true,
       "ethCard": false,
-      "klayCard": false,
-      "software": false
+      "klayCard": true,
+      "software": true
     }
   },
   {
@@ -15066,10 +15066,10 @@
     "type": "KCT",
     "contract": "0x16d0e1fbd024c600ca0380a4c5d57ee7a2ecbf9c",
     "support": {
-      "biometric": false,
+      "biometric": true,
       "ethCard": false,
-      "klayCard": false,
-      "software": false
+      "klayCard": true,
+      "software": true
     }
   },
   {
@@ -15079,10 +15079,10 @@
     "type": "KCT",
     "contract": "0xfe41102f325deaa9f303fdd9484eb5911a7ba557",
     "support": {
-      "biometric": false,
+      "biometric": true,
       "ethCard": false,
-      "klayCard": false,
-      "software": false
+      "klayCard": true,
+      "software": true
     }
   },
   {
@@ -15092,10 +15092,10 @@
     "type": "KCT",
     "contract": "0xcee8faf64bb97a73bb51e115aa89c17ffa8dd167",
     "support": {
-      "biometric": false,
+      "biometric": true,
       "ethCard": false,
-      "klayCard": false,
-      "software": false
+      "klayCard": true,
+      "software": true
     }
   },
   {
@@ -15105,10 +15105,10 @@
     "type": "KCT",
     "contract": "0x46f307b58bf05ff089ba23799fae0e518557f87c",
     "support": {
-      "biometric": false,
+      "biometric": true,
       "ethCard": false,
-      "klayCard": false,
-      "software": false
+      "klayCard": true,
+      "software": true
     }
   },
   {
@@ -15117,10 +15117,10 @@
     "type": "KCT",
     "contract": "0xc6a2ad8cc6e4a7e08fc37cc5954be07d499e7654",
     "support": {
-      "biometric": false,
+      "biometric": true,
       "ethCard": false,
-      "klayCard": false,
-      "software": false
+      "klayCard": true,
+      "software": true
     }
   },
   {
@@ -17379,7 +17379,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3718.png",
     "symbol": "BTT",
     "name": "BitTorrent",
-    "type": "TRC-TOKEN",
+    "type": "TRC10",
     "contract": "1002000",
     "support": {
       "biometric": true,
@@ -17392,7 +17392,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4206.png",
     "symbol": "WIN",
     "name": "WINk",
-    "type": "TRC-TOKEN",
+    "type": "TRC20",
     "contract": "TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7",
     "support": {
       "biometric": true,
@@ -17405,7 +17405,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5488.png",
     "symbol": "JST",
     "name": "JUST",
-    "type": "TRC-TOKEN",
+    "type": "TRC20",
     "contract": "TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9",
     "support": {
       "biometric": true,
@@ -17418,7 +17418,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5446.png",
     "symbol": "USDJ",
     "name": "USDJ",
-    "type": "TRC-TOKEN",
+    "type": "TRC20",
     "contract": "TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT",
     "support": {
       "biometric": true,
@@ -17431,7 +17431,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4054.png",
     "symbol": "IGG",
     "name": "IG Gold",
-    "type": "TRC-TOKEN",
+    "type": "TRC20",
     "contract": "TVQ6jYV5yTtRsKcD8aRc1a4Kei4V45ixLn",
     "support": {
       "biometric": true,
@@ -17444,7 +17444,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3922.png",
     "symbol": "TAS",
     "name": "Tarush",
-    "type": "TRC-TOKEN",
+    "type": "TRC20",
     "contract": "TVimprG4oe3i2HapWzPuTh4WtuosRAh5Ew",
     "support": {
       "biometric": true,
@@ -17457,7 +17457,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4867.png",
     "symbol": "BTZC",
     "name": "BeatzCoin",
-    "type": "TRC-TOKEN",
+    "type": "TRC10",
     "contract": "1002413",
     "support": {
       "biometric": true,
@@ -17470,7 +17470,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5610.png",
     "symbol": "ZASH",
     "name": "ZIMBOCASH",
-    "type": "TRC-TOKEN",
+    "type": "TRC10",
     "contract": "1002984",
     "support": {
       "biometric": true,
@@ -17483,7 +17483,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3633.png",
     "symbol": "PLAT",
     "name": "BitGuild PLAT",
-    "type": "TRC-TOKEN",
+    "type": "TRC20",
     "contract": "TG37mUxRUaH1E8DWSrrmoQ79BnZn1yHztb",
     "support": {
       "biometric": true,
@@ -17496,7 +17496,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5407.png",
     "symbol": "KDG",
     "name": "Kingdom Game 4.0",
-    "type": "TRC-TOKEN",
+    "type": "TRC20",
     "contract": "TYM9eM22SCynRc5YaMxE2PX1kwv7H2rXAu",
     "support": {
       "biometric": true,
@@ -17509,7 +17509,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5563.png",
     "symbol": "CBC",
     "name": "CryptoBharatCoin",
-    "type": "TRC-TOKEN",
+    "type": "TRC20",
     "contract": "TTcrrfqhaMs5Y3pE7jnSk8j8g3J3t52GVC",
     "support": {
       "biometric": true,
@@ -17522,7 +17522,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4495.png",
     "symbol": "VENA",
     "name": "VENA",
-    "type": "TRC-TOKEN",
+    "type": "TRC20",
     "contract": "TUL5yxRKeSWvceLZ3BSU5iNJcQmNxkWayh",
     "support": {
       "biometric": true,
@@ -17535,7 +17535,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5411.png",
     "symbol": "PYRO",
     "name": "PYRO Network (TRON)",
-    "type": "TRC-TOKEN",
+    "type": "TRC20",
     "contract": "TMCMPzmosnQ8UAYW1zcBwjLTxDq8ce4Y5e",
     "support": {
       "biometric": true,
@@ -17548,7 +17548,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/825.png",
     "symbol": "USDT",
     "name": "Tether (TRON)",
-    "type": "TRC-TOKEN",
+    "type": "TRC20",
     "contract": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
     "support": {
       "biometric": true,
@@ -17561,7 +17561,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6990.png",
     "symbol": "SUN",
     "name": "SUN",
-    "type": "TRC-TOKEN",
+    "type": "TRC20",
     "contract": "TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9",
     "support": {
       "biometric": true,
@@ -17574,7 +17574,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/1958.png",
     "symbol": "WTRX",
     "name": "Wrapped TRX",
-    "type": "TRC-TOKEN",
+    "type": "TRC20",
     "contract": "TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR",
     "support": {
       "biometric": true,
@@ -17587,7 +17587,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3718.png",
     "symbol": "WBTT",
     "name": "Wrapped BTT",
-    "type": "TRC-TOKEN",
+    "type": "TRC20",
     "contract": "TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt",
     "support": {
       "biometric": true,
@@ -17600,7 +17600,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2502.png",
     "symbol": "HT",
     "name": "HuobiToken (TRON)",
-    "type": "TRC-TOKEN",
+    "type": "TRC20",
     "contract": "TDyvndWuvX5xTBwHPYJi7J3Yq8pq8yh62h",
     "support": {
       "biometric": true,
@@ -17613,7 +17613,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/1.png",
     "symbol": "BTC",
     "name": "Bitcoin (TRON)",
-    "type": "TRC-TOKEN",
+    "type": "TRC20",
     "contract": "TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9",
     "support": {
       "biometric": true,
@@ -17625,7 +17625,7 @@
   {
     "symbol": "BNKRX",
     "name": "Bankroll Extended Token",
-    "type": "TRC-TOKEN",
+    "type": "TRC20",
     "contract": "TKSLNVrDjb7xCiAySZvjXB9SxxVFieZA7C",
     "support": {
       "biometric": true,
@@ -17638,7 +17638,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4918.png",
     "symbol": "BNKR",
     "name": "Bankroll Network",
-    "type": "TRC-TOKEN",
+    "type": "TRC20",
     "contract": "TNo59Khpq46FGf4sD7XSWYFNfYfbc8CqNK",
     "support": {
       "biometric": true,
