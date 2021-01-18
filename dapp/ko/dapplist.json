@@ -56,8 +56,7 @@
             "iconPath": "icon_neverlose.png",
             "type": "dapp",
             "device": "ble_dongle",
-            "externalWindow": false,
-            "preRelease": true
+            "externalWindow": false
         },
         {
             "name": "compound.finance",
