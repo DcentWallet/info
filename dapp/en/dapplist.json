@@ -47,6 +47,19 @@
             "externalWindow": false
         },
         {
+            "name": "neverlose.money",
+            "title": "Neverlose.money",
+            "description": "Neverlose.money is the first-ever gamified DeFi protocol that pays a bonus to long-term investors, known as HODLers, using the penalty charge paid by users who fail to HODL.",
+            "link": "https://neverlose.money/",
+            "kind": ["eth"],
+            "category": [],
+            "iconPath": "icon_neverlose.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false,
+            "preRelease": true
+        },
+        {
             "name": "compound.finance",
             "title":"Compound",
             "description": "Compound is Ethereum's algorithmic money market protocol that allows users to earn interest or borrow assets through collateral. Anyone can supply assets to Compound's liquidity pool and earn continuous compound interest immediately.",
