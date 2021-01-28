@@ -1,6 +1,6 @@
 |Kernel Version|Release Date|Notes|
 |----|----|------|
-|v2.5.2.84cd|2021-01-28|• Added supporting coin : Xinfin coin (XDC), Xinfin ERC20 (XRC20)|
+|v2.5.2.84cd|2021-01-28|• Added supporting coin : Xinfin coin (XDC), Xinfin ERC20 (XRC20), Flare Network Coston Testnet(FLRt) |
 |v2.4.6.cae9|2020-12-18|• Added supporting coin : Luniverse(LUX) |
 |v2.4.3.d9de|2020-11-23|• Added supporting coin : Bitcoin Cash ABC(BCHA) |
 |v2.4.2.cf5a|2020-11-09|• TRX Transaction Bug Fix |
