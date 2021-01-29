@@ -230,6 +230,17 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2634.png",
+    "symbol": "XDC",
+    "name": "XinFin Network",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://github.com/DcentWallet/info/raw/master/images/coins/original/asset-bptc.png",
     "symbol": "BPTC",
     "name": "Business Platform Tomato Coin",
@@ -17904,6 +17915,18 @@
     "name": "GMCoin",
     "type": "TRC10",
     "contract": "1002357",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "symbol": "FT9754",
+    "name": "FT9754",
+    "type": "LUNIVERSE-TKN",
+    "contract": "0x0567F057F6B93bDE83785996BfBB111725D51318",
     "support": {
       "biometric": true,
       "ethCard": false,
