@@ -227,6 +227,15 @@
                 "width": "32px",
                 "height": "32px"
             } 
+        },
+        { 
+            "symbol": "XDC", 
+            "name": "XinFin Network",
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2634.png",
+            "imgSize": {
+                "width": "32px",
+                "height": "32px"
+            } 
         }
     ],
     "cardSupportedCoinList": [
