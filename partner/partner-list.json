@@ -1,5 +1,20 @@
 [
   {
+    "name": "XinFin(XDC) Network",
+    "imageUrl": "../images/xinfin.svg",
+    "gotoLink": "https://xinfin.org/"
+  },
+  {
+    "name": "WEMIX",
+    "imageUrl": "../images/wemix.png",
+    "gotoLink": "https://wemixnetwork.com/"
+  },
+  {
+    "name": "HUNT",
+    "imageUrl": "../images/hunt.png",
+    "gotoLink": "https://token.hunt.town/"
+  },
+  {
     "name": "Flare Networks",
     "imageUrl": "../images/flare.png",
     "gotoLink": "https://flare.xyz/"
