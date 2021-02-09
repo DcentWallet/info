@@ -4,6 +4,7 @@
             "type": "ethereum",
             "list": [
                 {
+                    "networkId": "ethereum-mainnet",
                     "name": "mainnet",
                     "description": "Ethereum",
                     "coinType": "ETHEREUM",
@@ -12,6 +13,7 @@
                     "selected" : true
                 },
                 {
+                    "networkId": "ethereum-ropsten",
                     "name": "ropsten",
                     "description": "Ethereum-Ropsten",
                     "coinType": "ETH-ROPSTEN",
@@ -20,6 +22,7 @@
                     "testnet": true
                 },
                 {
+                    "networkId": "ethereum-rinkeby",
                     "name": "rinkeby",
                     "description": "Ethereum-Rinkeby",
                     "coinType": "ETH-RINKEBY",
@@ -28,6 +31,7 @@
                     "testnet": true
                 },
                 {
+                    "networkId": "ethereum-goerli",
                     "name": "goerli",
                     "description": "Ethereum-Goerli",
                     "coinType": "ETH-GOERLI",
@@ -36,6 +40,7 @@
                     "testnet": true
                 },
                 {
+                    "networkId": "ethereum-kovan",
                     "name": "kovan",
                     "description": "Ethereum-Kovan",
                     "coinType": "ETH-KOVAN",
@@ -44,6 +49,7 @@
                     "testnet": true
                 },
                 {
+                    "networkId": "rsk-mainnet",
                     "name": "rsk",
                     "description": "RSK",
                     "coinType": "RSK",
@@ -51,6 +57,7 @@
                     "iconPath": "network_rsk.png"
                 },
                 {
+                    "networkId": "rsk-testnet",
                     "name": "rsk_testnet",
                     "description": "RSK-Testnet",
                     "coinType": "RSK-TESTNET",
@@ -59,6 +66,7 @@
                     "testnet": true
                 },
                 {
+                    "networkId": "flare-coston",
                     "name": "flr_coston",
                     "description": "Flare-Coston",
                     "coinType": "FLR-COSTON",
@@ -72,6 +80,7 @@
             "type": "klaytn",
             "list": [
                 {
+                    "networkId": "klaytn-mainnet",
                     "name": "cypress",
                     "description": "Klaytn",
                     "coinType": "KLAYTN",
@@ -80,6 +89,7 @@
                     "selected" : true
                 },
                 {
+                    "networkId": "klaytn-baobab",
                     "name": "baobab",
                     "description": "Klaytn-Baobab",
                     "coinType": "KLAYTN-TESTNET",
