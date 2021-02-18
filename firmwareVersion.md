@@ -1,5 +1,6 @@
 |Kernel Version|Release Date|Notes|
 |----|----|------|
+|v2.5.5.53c7|2021-02-18|• Added strength in PIN : 4 to 8 digits in length is possible <br>• Improved stability |
 |v2.5.2.84cd|2021-01-28|• Added supporting coin : Xinfin coin (XDC), Xinfin ERC20 (XRC20), Flare Network Coston Testnet(FLRt) |
 |v2.4.6.cae9|2020-12-18|• Added supporting coin : Luniverse(LUX) |
 |v2.4.3.d9de|2020-11-23|• Added supporting coin : Bitcoin Cash ABC(BCHA) |
