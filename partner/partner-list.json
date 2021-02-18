@@ -1,4 +1,10 @@
 [
+  
+  {
+    "name": "Pluto",
+    "imageUrl": "../images/pluto.svg",
+    "gotoLink": "http://www.plutochain.io/"
+  },
   {
     "name": "XinFin(XDC) Network",
     "imageUrl": "../images/xinfin.svg",
@@ -168,10 +174,5 @@
     "name": "GamePer",
     "imageUrl": "../images/gameper.png",
     "gotoLink": "https://gameper.io/"
-  },
-  {
-    "name": "Pluto",
-    "imageUrl": "../images/pluto.svg",
-    "gotoLink": "http://www.plutochain.io/"
   }
 ]
