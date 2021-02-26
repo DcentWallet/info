@@ -358,6 +358,19 @@
     }
   },
   {
+    "iconUrl": "https://assets.coingecko.com/coins/images/12634/small/DEXTFiconNEGATIVE-page-001.jpg",
+    "symbol": "DEXTF",
+    "name": "DEXTF",
+    "type": "ERC20",
+    "contract": "0x5f64ab1544d28732f0a24f4713c2c8ec0da089f0",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/825.png",
     "symbol": "USDT",
     "name": "Tether",
@@ -5190,19 +5203,6 @@
     "name": "DCORP",
     "type": "ERC20",
     "contract": "0x621d78f2ef2fd937bfca696cabaf9a779f59b3ed",
-    "support": {
-      "biometric": true,
-      "ethCard": true,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2634.png",
-    "symbol": "XDCE",
-    "name": "XinFin Network",
-    "type": "ERC20",
-    "contract": "0x41ab1b6fcbb2fa9dced81acbdec13ea6315f2bf2",
     "support": {
       "biometric": true,
       "ethCard": true,
@@ -15370,6 +15370,123 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8508.png",
+    "symbol": "POOL",
+    "name": "PoolTogether",
+    "type": "ERC20",
+    "contract": "0x0cec1a9154ff802e7934fc916ed7ca50bde6844e",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4279.png",
+    "symbol": "SXP",
+    "name": "Swipe",
+    "type": "ERC20",
+    "contract": "0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8409.png",
+    "symbol": "RAZOR",
+    "name": "Razor Network",
+    "type": "ERC20",
+    "contract": "0x50de6856358cc35f3a9a57eaaa34bd4cb707d2cd",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8492.png",
+    "symbol": "VSP",
+    "name": "Vesper",
+    "type": "ERC20",
+    "contract": "0x1b40183efb4dd766f11bda7a7c3ad8982e998421",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5350.png",
+    "symbol": "XPR",
+    "name": "Proton",
+    "type": "ERC20",
+    "contract": "0xd7efb00d12c2c13131fd319336fdf952525da2af",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6957.png",
+    "symbol": "ALBT",
+    "name": "AllianceBlock",
+    "type": "ERC20",
+    "contract": "0x00a8b738e453ffd858a7edf03bccfe20412f0eb0",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5728.png",
+    "symbol": "BAL",
+    "name": "Balancer",
+    "type": "ERC20",
+    "contract": "0xba100000625a3754423978a60c9317c58a424e3d",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5829.png",
+    "symbol": "SWAP",
+    "name": "TrustSwap",
+    "type": "ERC20",
+    "contract": "0xcc4304a31d09258b0029ea7fe63d032f52e44efe",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6237.png",
+    "symbol": "TMED",
+    "name": "MDsquare",
+    "type": "ERC20",
+    "contract": "0xd32641191578ea9b208125ddd4ec5e7b84fcab4c",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/7558.png",
     "symbol": "DOC",
     "name": "Dollar on Chain",
@@ -15453,6 +15570,19 @@
       "biometric": true,
       "ethCard": false,
       "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://www.percommunity.com/assets/images/sub_01_point_logo.png",
+    "symbol": "PER",
+    "name": "PER Project",
+    "type": "KCT",
+    "contract": "0x7eee60a000986e9efe7f5c90340738558c24317b",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": true,
       "software": true
     }
   },
@@ -15727,18 +15857,6 @@
     "name": "egg coin",
     "type": "KCT",
     "contract": "0x991743d5e7c47242d4740bd68584afb7b6f67deb",
-    "support": {
-      "biometric": true,
-      "ethCard": false,
-      "klayCard": true,
-      "software": true
-    }
-  },
-  {
-    "symbol": "PER",
-    "name": "PER Project",
-    "type": "KCT",
-    "contract": "0x7eee60a000986e9efe7f5c90340738558c24317b",
     "support": {
       "biometric": true,
       "ethCard": false,
@@ -18553,10 +18671,10 @@
     }
   },
   {
-    "symbol": "xUSD",
-    "name": "xUSD",
+    "symbol": "bYFLR",
+    "name": "FF Beta YFLR",
     "type": "FLR20-COSTON",
-    "contract": "0xDCd9e0250c315e79Ad2164205a8AeF408B0b230f",
+    "contract": "0x880903167d7665c28c3ec0e9b85741d1dfa4feeb",
     "support": {
       "biometric": true,
       "ethCard": false,
@@ -18565,10 +18683,10 @@
     }
   },
   {
-    "symbol": "YFLR",
-    "name": "YFLR",
+    "symbol": "bYFIN",
+    "name": "FF Beta YFIN",
     "type": "FLR20-COSTON",
-    "contract": "0x4d62C39BA6AC75ecBfeE1261F7599ccaD6bd1198",
+    "contract": "0x4ee1d121ccf3bf6f5b2218f82ec227264098a53b",
     "support": {
       "biometric": true,
       "ethCard": false,
@@ -18577,10 +18695,10 @@
     }
   },
   {
-    "symbol": "YFIN",
-    "name": "YFIN",
+    "symbol": "bxUSD",
+    "name": "FF Beta xUSD",
     "type": "FLR20-COSTON",
-    "contract": "0x09842e3495B5cABd8dcE69Fd058Ba76D1b09B2d2",
+    "contract": "0x3a71f101ad5f3bd0fb72a37474c31ed68babf6bf",
     "support": {
       "biometric": true,
       "ethCard": false,
@@ -18589,10 +18707,10 @@
     }
   },
   {
-    "symbol": "FXRP",
-    "name": "FXRP",
+    "symbol": "bFXRP",
+    "name": "FF Beta FXRP",
     "type": "FLR20-COSTON",
-    "contract": "0x2d0Eadb55df10A9f83AcD9C30EA59213aad13134",
+    "contract": "0x4140a324d7e60e633bb7cbd7bdce330ff5702b5e",
     "support": {
       "biometric": true,
       "ethCard": false,
@@ -18601,10 +18719,10 @@
     }
   },
   {
-    "symbol": "cYFLR",
-    "name": "cYFLR",
+    "symbol": "bFLTC",
+    "name": "FF Beta FLTC",
     "type": "FLR20-COSTON",
-    "contract": "0xA156A408D0E82E2123F0e3310747E77c251543b0",
+    "contract": "0x539f3bb9b7953450016b4933db6fd847b0e7803f",
     "support": {
       "biometric": true,
       "ethCard": false,
@@ -18613,46 +18731,10 @@
     }
   },
   {
-    "symbol": "cYFIN",
-    "name": "cYFIN",
+    "symbol": "bFDOGE",
+    "name": "FF Beta FDOGE",
     "type": "FLR20-COSTON",
-    "contract": "0xE12BE54d5f6D7719534d682f90Ee9701F6D2810f",
-    "support": {
-      "biometric": true,
-      "ethCard": false,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
-    "symbol": "cUSD",
-    "name": "cUSD",
-    "type": "FLR20-COSTON",
-    "contract": "0x7F3aF0D4572180055ceDFf580422e0D8AfE7Cddc",
-    "support": {
-      "biometric": true,
-      "ethCard": false,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
-    "symbol": "cFXRP",
-    "name": "cFXRP",
-    "type": "FLR20-COSTON",
-    "contract": "0x906318d62cFD33Ecde6700AcE50c22640369B7a7",
-    "support": {
-      "biometric": true,
-      "ethCard": false,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
-    "symbol": "cCEL",
-    "name": "cCEL",
-    "type": "FLR20-COSTON",
-    "contract": "0xE5B18bDe6301A249d6b60794F48dfbe41B723F03",
+    "contract": "0xd08a154255339a1ad359ed204374cf967b4d72df",
     "support": {
       "biometric": true,
       "ethCard": false,
