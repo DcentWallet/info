@@ -73,6 +73,23 @@
                     "chainId": 1,
                     "iconPath" : "network_flare.png",
                     "testnet": true
+                },                
+                {
+                    "networkId": "smartchain",
+                    "name": "smartchain",
+                    "description": "SmartChain",
+                    "coinType": "SMARTCHAIN",
+                    "chainId": 56,
+                    "iconPath" : "network_bnb.png"
+                },
+                {
+                    "networkId": "bsc-testnet",
+                    "name": "bsc_testnet",
+                    "description": "BSC-Testnet",
+                    "coinType": "BSC-TESTNET",
+                    "chainId": 97,
+                    "iconPath" : "network_bnb.png",
+                    "testnet": true
                 }
             ]
         },
