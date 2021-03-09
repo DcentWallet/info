@@ -80,7 +80,7 @@
                     "description": "SmartChain",
                     "coinType": "SMARTCHAIN",
                     "chainId": 56,
-                    "iconPath" : "network_bnb.png"
+                    "iconPath" : "network_bsc.png"
                 },
                 {
                     "networkId": "bsc-testnet",
@@ -88,7 +88,7 @@
                     "description": "BSC-Testnet",
                     "coinType": "BSC-TESTNET",
                     "chainId": 97,
-                    "iconPath" : "network_bnb.png",
+                    "iconPath" : "network_bsc.png",
                     "testnet": true
                 }
             ]
