@@ -75,21 +75,23 @@
                     "testnet": true
                 },                
                 {
-                    "networkId": "smartchain",
-                    "name": "smartchain",
-                    "description": "SmartChain",
-                    "coinType": "SMARTCHAIN",
+                    "networkId": "bsc-mainnet",
+                    "name": "bsc",
+                    "description": "Smart Chain",
+                    "coinType": "BSC",
                     "chainId": 56,
-                    "iconPath" : "network_bsc.png"
+                    "iconPath": "network_bsc.png",
+                    "preRelease": true
                 },
                 {
                     "networkId": "bsc-testnet",
                     "name": "bsc_testnet",
-                    "description": "BSC-Testnet",
+                    "description": "Smart Chain-Testnet",
                     "coinType": "BSC-TESTNET",
                     "chainId": 97,
                     "iconPath" : "network_bsc.png",
-                    "testnet": true
+                    "testnet": true,
+                    "preRelease": true
                 }
             ]
         },
