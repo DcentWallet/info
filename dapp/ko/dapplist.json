@@ -141,7 +141,20 @@
             "type": "dapp",
             "device": "ble_dongle",
             "externalWindow": false
-        },
+        },            
+        {
+            "name": "rarible",
+            "title": "Rarible",
+            "description": "Rarible은 크리에이터 중심의 NFT 마켓 플레이스 서비스입니다. 예술 작품, 게임 아이템 등과 같은 고유한 디지털 아이템을 대체 불가능한 토큰 (NFT)으로 쉽게 만들 수 있습니다.",
+            "link": "https://rarible.com/",
+            "kind": ["eth"],
+            "category": [],
+            "iconPath": "icon_rarible.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false,
+            "preRelease": true
+        },    
         {
             "name": "KLAYportal",
             "title": "KLAYportal",

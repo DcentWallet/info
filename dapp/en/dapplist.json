@@ -143,6 +143,19 @@
             "externalWindow": false
         },    
         {
+            "name": "rarible",
+            "title": "Rarible",
+            "description": "Rarible is a creator-centric NFT marketplace and issuance platform where users can easily create non-fungible tokens (NFTs) for unique digital items like artworks, game items and more.",
+            "link": "https://rarible.com/",
+            "kind": ["eth"],
+            "category": [],
+            "iconPath": "icon_rarible.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false,
+            "preRelease": true
+        },    
+        {
             "name": "KLAYportal",
             "title": "KLAYportal",
             "description": "KLAYportal was designed and developed by HashQuark as a lightweight tool to help KLAY holders participate in Klaytn staking in a simple, secure way.",
