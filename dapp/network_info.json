@@ -49,6 +49,25 @@
                     "testnet": true
                 },
                 {
+                    "networkId": "bsc-mainnet",
+                    "name": "bsc",
+                    "description": "Binance Smart Chain",
+                    "coinType": "BSC",
+                    "chainId": 56,
+                    "iconPath": "network_bsc.png",
+                    "preRelease": true
+                },
+                {
+                    "networkId": "bsc-testnet",
+                    "name": "bsc_testnet",
+                    "description": "Smart Chain-Testnet",
+                    "coinType": "BSC-TESTNET",
+                    "chainId": 97,
+                    "iconPath" : "network_bsc.png",
+                    "testnet": true,
+                    "preRelease": true
+                },
+                {
                     "networkId": "rsk-mainnet",
                     "name": "rsk",
                     "description": "RSK",
@@ -72,25 +91,6 @@
                     "coinType": "FLR-COSTON",
                     "chainId": 1,
                     "iconPath" : "network_flare.png",
-                    "testnet": true,
-                    "preRelease": true
-                },                
-                {
-                    "networkId": "bsc-mainnet",
-                    "name": "bsc",
-                    "description": "Smart Chain",
-                    "coinType": "BSC",
-                    "chainId": 56,
-                    "iconPath": "network_bsc.png",
-                    "preRelease": true
-                },
-                {
-                    "networkId": "bsc-testnet",
-                    "name": "bsc_testnet",
-                    "description": "Smart Chain-Testnet",
-                    "coinType": "BSC-TESTNET",
-                    "chainId": 97,
-                    "iconPath" : "network_bsc.png",
                     "testnet": true,
                     "preRelease": true
                 }
