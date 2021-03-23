@@ -54,8 +54,7 @@
                     "description": "Binance Smart Chain",
                     "coinType": "BSC",
                     "chainId": 56,
-                    "iconPath": "network_bsc.png",
-                    "preRelease": true
+                    "iconPath": "network_bsc.png"
                 },
                 {
                     "networkId": "bsc-testnet",
@@ -64,8 +63,7 @@
                     "coinType": "BSC-TESTNET",
                     "chainId": 97,
                     "iconPath" : "network_bsc.png",
-                    "testnet": true,
-                    "preRelease": true
+                    "testnet": true
                 },
                 {
                     "networkId": "rsk-mainnet",
