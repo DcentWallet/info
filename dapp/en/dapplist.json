@@ -152,8 +152,7 @@
             "iconPath": "icon_rarible.png",
             "type": "dapp",
             "device": "ble_dongle",
-            "externalWindow": false,
-            "preRelease": true
+            "externalWindow": false
         },    
         {
             "name": "KLAYportal",
