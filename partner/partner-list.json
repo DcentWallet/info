@@ -1,5 +1,9 @@
 [
-  
+  {
+    "name": "DAO Maker",
+    "imageUrl": "../images/daomaker.png",
+    "gotoLink": "https://daomaker.com/"
+  },
   {
     "name": "Pluto",
     "imageUrl": "../images/pluto.svg",
