@@ -175,6 +175,24 @@
             }
         },
         {
+            "symbol": "Token",
+            "name": "Binance Smart Chain",
+            "imgUrl": "https://github.com/DcentWallet/info/raw/master/images/coins/original/binance-logo.png",
+            "imgSize": {
+                "width": "32px",
+                "height": "32px"
+            }
+        },
+        {
+            "symbol": "Token",
+            "name": "BEP20",
+            "imgUrl": "https://github.com/DcentWallet/info/raw/master/images/coins/original/binance-logo.png",
+            "imgSize": {
+                "width": "32px",
+                "height": "32px"
+            }
+        },
+        {
             "symbol": "XLM",
             "name": "Stellar",
             "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/512.png",
