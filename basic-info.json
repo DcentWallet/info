@@ -175,7 +175,7 @@
             }
         },
         {
-            "symbol": "Token",
+            "symbol": "BNB",
             "name": "Binance Smart Chain",
             "imgUrl": "https://github.com/DcentWallet/info/raw/master/images/coins/original/binance-logo.png",
             "imgSize": {
