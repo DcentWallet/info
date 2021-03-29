@@ -89,8 +89,7 @@
                     "coinType": "FLR-COSTON",
                     "chainId": 1,
                     "iconPath" : "network_flare.png",
-                    "testnet": true,
-                    "preRelease": true
+                    "testnet": true
                 }
             ]
         },
