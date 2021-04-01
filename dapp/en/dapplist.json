@@ -171,7 +171,7 @@
             "title": "Claim Spark distribution",
             "description": "Register your Flare network address to receive sparks through this page. Anyone with XRP can participate in Spark(The base token of the Flare Network) distribution.",
             "link": "https://claim-spark.dcentwallet.com/flareService",
-            "kind": [],
+            "kind": ["eth"],
             "category": [],
             "iconPath": "icon_flare.png",
             "testnet": false,
