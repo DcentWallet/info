@@ -66,6 +66,25 @@
                     "testnet": true
                 },
                 {
+                    "networkId": "polygon-mainnet",
+                    "name": "polygon",
+                    "description": "Polygon",
+                    "coinType": "POLYGON",
+                    "chainId": 137,
+                    "iconPath": "network_polygon.png",
+                    "preRelease": true
+                },
+                {
+                    "networkId": "polygon-mumbai",
+                    "name": "polygon_mumbai",
+                    "description": "Polygon-Mumbai",
+                    "coinType": "POLYGON-TESTNET",
+                    "chainId": 80001,
+                    "iconPath" : "network_polygon.png",
+                    "testnet": true,
+                    "preRelease": true
+                },
+                {
                     "networkId": "rsk-mainnet",
                     "name": "rsk",
                     "description": "RSK",
