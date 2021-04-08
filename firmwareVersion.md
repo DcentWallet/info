@@ -1,5 +1,6 @@
 |Kernel Version|Release Date|Notes|
 |----|----|------|
+|v2.6.1.f657|2021-04-08|• Added supporting coin : Cardano (ADA) |
 |v2.6.1.f657|2021-03-23|• Added supporting coin : BSC - Binance Smart Chain (BNB), BEP20 |
 |v2.5.8.0f0c|2021-02-24|• Spanish language stability |
 |v2.5.5.53c7|2021-02-18|• Added strength in PIN : 4 to 8 digits in length is possible <br>• Improved stability |
