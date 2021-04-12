@@ -16237,6 +16237,214 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6997.png",
+    "symbol": "SAKE",
+    "name": "SakeToken",
+    "type": "ERC20",
+    "contract": "0x066798d9ef0833ccc719076dab77199ecbd178b0",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7553.png",
+    "symbol": "eRSDL",
+    "name": "UnFederalReserve",
+    "type": "ERC20",
+    "contract": "0x5218e472cfcfe0b64a064f055b43b4cdc9efd3a6",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3182.png",
+    "symbol": "HIT",
+    "name": "HitChain",
+    "type": "ERC20",
+    "contract": "0x7995ab36bb307afa6a683c24a25d90dc1ea83566",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6951.png",
+    "symbol": "REEF",
+    "name": "Reef",
+    "type": "ERC20",
+    "contract": "0xfe3e6a25e6b192a42a44ecddcd13796471735acf",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6538.png",
+    "symbol": "CRV",
+    "name": "Curve DAO Token",
+    "type": "ERC20",
+    "contract": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7424.png",
+    "symbol": "HEZ",
+    "name": "Hermez Network",
+    "type": "ERC20",
+    "contract": "0xeef9f339514298c6a857efcfc1a762af84438dee",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8963.png",
+    "symbol": "MARSH",
+    "name": "UnMarshal",
+    "type": "ERC20",
+    "contract": "0x5a666c7d92e5fa7edcb6390e4efd6d0cdd69cf37",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5117.png",
+    "symbol": "OGN",
+    "name": "Origin Protocol",
+    "type": "ERC20",
+    "contract": "0x8207c1ffc5b6804f6024322ccf34f29c3541ae26",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4872.png",
+    "symbol": "BNP",
+    "name": "BenePit Protocol",
+    "type": "ERC20",
+    "contract": "0xd27d76a1ba55ce5c0291ccd04febbe793d22ebf4",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5481.png",
+    "symbol": "BASIC",
+    "name": "BASIC",
+    "type": "ERC20",
+    "contract": "0xf25c91c87e0b1fd9b4064af0f427157aab0193a7",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6945.png",
+    "symbol": "AMP",
+    "name": "Amp",
+    "type": "ERC20",
+    "contract": "0xff20817765cb7f73d4bde2e66e067e58d11095c2",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/9029.png",
+    "symbol": "GLQ",
+    "name": "Graphlinq Protocol",
+    "type": "ERC20",
+    "contract": "0x9f9c8ec3534c3ce16f928381372bfbfbfb9f4d24",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7455.png",
+    "symbol": "AUDIO",
+    "name": "Audius",
+    "type": "ERC20",
+    "contract": "0x18aaa7115705e8be94bffebde57af9bfc265b998",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2953.png",
+    "symbol": "BWX",
+    "name": "Blue Whale EXchange",
+    "type": "ERC20",
+    "contract": "0xce5114d7fa8361f0c088ee26fa3a5446c4a1f50b",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4647.png",
+    "symbol": "NEWS",
+    "name": "PUBLISH",
+    "type": "ERC20",
+    "contract": "0x777fd20c983d6658c1d50b3958b3a1733d1cd1e1",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4956.png",
+    "symbol": "MAP",
+    "name": "MAP Protocol",
+    "type": "ERC20",
+    "contract": "0x9e976f211daea0d652912ab99b0dc21a7fd728e4",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/7558.png",
     "symbol": "DOC",
     "name": "Dollar on Chain",
@@ -16329,19 +16537,6 @@
     "name": "PER Project",
     "type": "KCT",
     "contract": "0x7eee60a000986e9efe7f5c90340738558c24317b",
-    "support": {
-      "biometric": true,
-      "ethCard": false,
-      "klayCard": true,
-      "software": true
-    }
-  },
-  {
-    "iconUrl": "https://klayexchange-stat.s3.ap-northeast-2.amazonaws.com/token/redi_logo.png",
-    "symbol": "REDi",
-    "name": "REDiToken",
-    "type": "KCT",
-    "contract": "0x1cd3828a2b62648dbe98d6f5748a6b1df08ac7bb",
     "support": {
       "biometric": true,
       "ethCard": false,
@@ -16719,6 +16914,19 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8388.png",
+    "symbol": "REDi",
+    "name": "REDiToken",
+    "type": "KCT",
+    "contract": "0x1cd3828a2b62648dbe98d6f5748a6b1df08ac7bb",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": true,
+      "software": true
+    }
+  },
+  {
     "symbol": "AGOV",
     "name": "Answer Governance",
     "type": "KCT",
@@ -16786,6 +16994,19 @@
     "name": "Hiblocks",
     "type": "KCT",
     "contract": "0xe06b40df899b9717b4e6b50711e1dc72d08184cf",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": true,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6801.png",
+    "symbol": "KTRIX",
+    "name": "Orbit Bridge Klaytn TriumphX",
+    "type": "KCT",
+    "contract": "0x0c1d7ce4982fd63b1bc77044be1da05c995e4463",
     "support": {
       "biometric": true,
       "ethCard": false,
@@ -19541,6 +19762,32 @@
     }
   },
   {
+    "iconUrl": "https://assets.coingecko.com/coins/images/14424/small/NMX_c_200px.png",
+    "symbol": "NMX",
+    "name": "Nominex",
+    "type": "BEP20",
+    "contract": "0xd32d01a43c869edcd1117c640fbdcfcfd97d9d65",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://assets.coingecko.com/coins/images/14718/small/BGOV_Logo.png",
+    "symbol": "BGOV",
+    "name": "BGOV",
+    "type": "BEP20",
+    "contract": "0xf8e026dc4c0860771f691ecffbbdfe2fa51c77cf",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/74.png",
     "symbol": "DOGE",
     "name": "Dogecoin",
@@ -21478,6 +21725,19 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8966.png",
+    "symbol": "SAFEMARS",
+    "name": "Safemars",
+    "type": "BEP20",
+    "contract": "0x3ad9594151886ce8538c1ff615efa2385a8c3a88",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://coin.top/production/logo/TNjt5fShPVJ4YpsLuU4THuBbg58g2bZoLk.png",
     "symbol": "HORA",
     "name": "HORA Token",
@@ -21946,6 +22206,78 @@
     "name": "PUBLISH",
     "type": "LUNIVERSE-TKN",
     "contract": "0xa3036f584f4f1c3b352739ca60785e44947e5560",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "symbol": "dYFLR",
+    "name": "dYFLR (Coston)",
+    "type": "FLR20-COSTON",
+    "contract": "0xA4150e893e74A0d4d2F31C5d176069A54E379D69",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "symbol": "dYFIN",
+    "name": "dYFIN (Coston)",
+    "type": "FLR20-COSTON",
+    "contract": "0xC326B16b85FE29184889e3d913DAbBfA4B52d6d4",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "symbol": "dxUSD",
+    "name": "dxUSD (Coston)",
+    "type": "FLR20-COSTON",
+    "contract": "0x2bb2ff65D551F8509255a81a715dECC6a833500D",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "symbol": "dFXRP",
+    "name": "dFXRP (Coston)",
+    "type": "FLR20-COSTON",
+    "contract": "0xb88DBbb61eBbA9c9D7cC6C793F85D939aC989B62",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "symbol": "dFLTC",
+    "name": "dFLTC (Coston)",
+    "type": "FLR20-COSTON",
+    "contract": "0x6Bd7Fe771ffb295b5013b40C3cd3dbA85189f6a6",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "symbol": "dFDOGE",
+    "name": "dFDOGE (Coston)",
+    "type": "FLR20-COSTON",
+    "contract": "0x22aC23D8b9d283E17A2b059A01b573ED0Cf23681",
     "support": {
       "biometric": true,
       "ethCard": false,
