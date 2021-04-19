@@ -1,5 +1,6 @@
 |Kernel Version|Release Date|Notes|
 |----|----|------|
+|v2.7.1.4740|2021-04-19|• Enhanced large size transation |
 |v2.7.0.f8a9|2021-04-08|• Added supporting coin : Cardano (ADA) |
 |v2.6.1.f657|2021-03-23|• Added supporting coin : BSC - Binance Smart Chain (BNB), BEP20 |
 |v2.5.8.0f0c|2021-02-24|• Spanish language stability |
