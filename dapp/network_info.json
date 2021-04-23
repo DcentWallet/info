@@ -134,6 +134,31 @@
                     "testnet": true
                 }
             ]
-        }    
+        },
+        {
+            "type": "tron",
+            "list": [
+                {
+                    "networkId": "tron-mainnet",
+                    "name": "mainnet",
+                    "description": "Tron",
+                    "coinType": "TRON",
+                    "chainId": 1,
+                    "iconPath" : "network_tron.png",
+                    "selected" : true,
+                    "preRelease": true
+                },
+                {
+                    "networkId": "tron-shasta",
+                    "name": "shasta",
+                    "description": "Tron-Shasta",
+                    "coinType": "TRX-TESTNET",
+                    "chainId": 2,
+                    "iconPath" : "network_tron.png",
+                    "testnet": true,
+                    "preRelease": true
+                }
+            ]
+        }
     ]
 }
