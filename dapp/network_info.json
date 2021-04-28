@@ -145,8 +145,7 @@
                     "coinType": "TRON",
                     "chainId": 1,
                     "iconPath" : "network_tron.png",
-                    "selected" : true,
-                    "preRelease": true
+                    "selected" : true
                 },
                 {
                     "networkId": "tron-shasta",
@@ -155,8 +154,7 @@
                     "coinType": "TRX-TESTNET",
                     "chainId": 2,
                     "iconPath" : "network_tron.png",
-                    "testnet": true,
-                    "preRelease": true
+                    "testnet": true
                 }
             ]
         }
