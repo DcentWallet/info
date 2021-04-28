@@ -71,8 +71,7 @@
                     "description": "Polygon",
                     "coinType": "POLYGON",
                     "chainId": 137,
-                    "iconPath": "network_polygon.png",
-                    "preRelease": true
+                    "iconPath": "network_polygon.png"
                 },
                 {
                     "networkId": "polygon-mumbai",
@@ -81,8 +80,7 @@
                     "coinType": "POLYGON-TESTNET",
                     "chainId": 80001,
                     "iconPath" : "network_polygon.png",
-                    "testnet": true,
-                    "preRelease": true
+                    "testnet": true
                 },
                 {
                     "networkId": "rsk-mainnet",
