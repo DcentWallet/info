@@ -263,6 +263,15 @@
                 "width": "32px",
                 "height": "32px"
             } 
+        },
+        { 
+            "symbol": "MATIC", 
+            "name": "Polygon",
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3890.png",
+            "imgSize": {
+                "width": "32px",
+                "height": "32px"
+            } 
         }
     ],
     "cardSupportedCoinList": [
