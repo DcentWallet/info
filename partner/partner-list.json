@@ -1,5 +1,15 @@
 [
   {
+    "name": "Polygon",
+    "imageUrl": "../images/polygon.png",
+    "gotoLink": "https://polygon.technology/"
+  },
+  {
+    "name": "Covalent",
+    "imageUrl": "../images/covalent.png",
+    "gotoLink": "https://www.covalenthq.com/"
+  },
+  {
     "name": "DAO Maker",
     "imageUrl": "../images/daomaker.png",
     "gotoLink": "https://daomaker.com/"
