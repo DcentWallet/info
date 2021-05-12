@@ -59,6 +59,18 @@
             "externalWindow": false
         },
         {
+            "name": "TokamakDAO",
+            "title": "Tokamak DAO",
+            "description": "Tokamak DAO refers to a smart contract system and autonomous organization built on a blockchain that allows Tokamak Network token(TON) holders to directly participate in decisions on major agendas that affect the ecosystem of Tokamak Network.",
+            "link": "https://dao.tokamak.network/#/",
+            "kind": ["eth"],
+            "category": [],
+            "iconPath": "icon_tokamak.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false
+        },
+        {
             "name": "zapper",
             "title": "Zapper",
             "description": "Zapper is a Ethereum based DeFi dashboard for monitoring and managing your DeFi assets and liabilities in one simple interface.",
@@ -141,19 +153,7 @@
             "type": "dapp",
             "device": "ble_dongle",
             "externalWindow": false
-        },
-        {
-            "name": "TokamakDAO",
-            "title": "Tokamak DAO",
-            "description": "Tokamak DAO refers to a smart contract system and autonomous organization built on a blockchain that allows Tokamak Network token(TON) holders to directly participate in decisions on major agendas that affect the ecosystem of Tokamak Network.",
-            "link": "https://dao.tokamak.network/#/",
-            "kind": ["eth"],
-            "category": [],
-            "iconPath": "icon_tokamak.png",
-            "type": "dapp",
-            "device": "ble_dongle",
-            "externalWindow": false
-        },
+        },        
         {
             "name": "opensea",
             "title": "OpenSea",
