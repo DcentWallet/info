@@ -143,6 +143,18 @@
             "externalWindow": false
         },
         {
+            "name": "TokamakDAO",
+            "title": "Tokamak DAO",
+            "description": "Tokamak DAO는 토카막 네트워크 토큰(TON)의 보유자들이 토카막 네트워크의 생태계에 영향을 주는 주요한 의제(Agenda)에 관한 의사결정에 직접 참여할 수 있는 블록체인 상의 구축된 스마트 콘트랙트 시스템이자 자치기구를 뜻합니다.",
+            "link": "https://dao.tokamak.network/#/",
+            "kind": ["eth"],
+            "category": [],
+            "iconPath": "icon_tokamak.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false
+        },
+        {
             "name": "opensea",
             "title": "OpenSea",
             "description": "OpenSea는 수집품, 게임 아이템, 디지털 아트와 같은 이더리움 기반의 디지털 상품 및 디지털 자산을 거래할 수 있는 마켓 플레이스입니다.",

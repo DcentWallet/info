@@ -143,6 +143,18 @@
             "externalWindow": false
         },
         {
+            "name": "TokamakDAO",
+            "title": "Tokamak DAO",
+            "description": "Tokamak DAO refers to a smart contract system and autonomous organization built on a blockchain that allows Tokamak Network token(TON) holders to directly participate in decisions on major agendas that affect the ecosystem of Tokamak Network.",
+            "link": "https://dao.tokamak.network/#/",
+            "kind": ["eth"],
+            "category": [],
+            "iconPath": "icon_tokamak.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false
+        },
+        {
             "name": "opensea",
             "title": "OpenSea",
             "description": "OpenSea is a marketplace for digital goods, including collectibles, game items, digital art, and other digital assets backed by blockchain such as Ethereum.",
