@@ -1,5 +1,15 @@
 [
   {
+    "name": "Tokamak",
+    "imageUrl": "../images/tokamak.png",
+    "gotoLink": "https://tokamak.network/"
+  },
+  {
+    "name": "Sologenic",
+    "imageUrl": "../images/sologenic.png",
+    "gotoLink": "https://www.sologenic.com/"
+  },
+  {
     "name": "Polygon",
     "imageUrl": "../images/polygon.png",
     "gotoLink": "https://polygon.technology/"
