@@ -57,6 +57,18 @@
             "type": "dapp",
             "device": "ble_dongle",
             "externalWindow": false
+        },        
+        {
+            "name": "TokamakDAO",
+            "title": "Tokamak DAO",
+            "description": "Tokamak DAO는 토카막 네트워크 토큰(TON)의 보유자들이 토카막 네트워크의 생태계에 영향을 주는 주요한 의제(Agenda)에 관한 의사결정에 직접 참여할 수 있는 블록체인 상의 구축된 스마트 콘트랙트 시스템이자 자치기구를 뜻합니다.",
+            "link": "https://dao.tokamak.network/#/",
+            "kind": ["eth"],
+            "category": [],
+            "iconPath": "icon_tokamak.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false
         },
         {
             "name": "neverlose.money",
