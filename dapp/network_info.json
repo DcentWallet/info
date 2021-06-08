@@ -86,7 +86,7 @@
                     "networkId": "heco-mainnet",
                     "name": "heco",
                     "description": "HECO",
-                    "coinType": "HECO",
+                    "coinType": "CHAN:128",
                     "chainId": 128,
                     "iconPath": "network_heco.png",
                     "preRelease": true
