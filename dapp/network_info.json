@@ -83,6 +83,15 @@
                     "testnet": true
                 },
                 {
+                    "networkId": "heco-mainnet",
+                    "name": "heco",
+                    "description": "HECO",
+                    "coinType": "HECO",
+                    "chainId": 128,
+                    "iconPath": "network_heco.png",
+                    "preRelease": true
+                },
+                {
                     "networkId": "rsk-mainnet",
                     "name": "rsk",
                     "description": "RSK",
