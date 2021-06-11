@@ -1,5 +1,10 @@
 [
   {
+    "name": "Storx",
+    "imageUrl": "../images/storx.svg",
+    "gotoLink": "https://storx.tech/"
+  },
+  {
     "name": "Tokamak",
     "imageUrl": "../images/tokamak.png",
     "gotoLink": "https://tokamak.network/"
