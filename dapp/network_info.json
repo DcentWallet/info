@@ -88,8 +88,7 @@
                     "description": "HECO",
                     "coinType": "CHAN:128",
                     "chainId": 128,
-                    "iconPath": "network_heco.png",
-                    "preRelease": true
+                    "iconPath": "network_heco.png"
                 },
                 {
                     "networkId": "rsk-mainnet",
