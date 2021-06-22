@@ -1,5 +1,10 @@
 [
   {
+    "name": "Trustline",
+    "imageUrl": "../images/trustline.png",
+    "gotoLink": "https://trustline.co/"
+  },
+  {
     "name": "Storx",
     "imageUrl": "../images/storx.svg",
     "gotoLink": "https://storx.tech/"
