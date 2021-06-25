@@ -256,6 +256,15 @@
             } 
         },
         { 
+            "symbol": "Token", 
+            "name": "XRC20",
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2634.png",
+            "imgSize": {
+                "width": "32px",
+                "height": "32px"
+            } 
+        },
+        { 
             "symbol": "ADA", 
             "name": "Cardano",
             "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2010.png",
