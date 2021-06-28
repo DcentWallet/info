@@ -18205,6 +18205,19 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/10661.png",
+    "symbol": "FINIX",
+    "name": "Definix",
+    "type": "KCT",
+    "contract": "0xd51c337147c8033a43f3b5ce0023382320c113aa",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": true,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://assets.coingecko.com/coins/images/9686/small/12-122739_xrp-logo-png-clipart.png",
     "symbol": "XRP-BF2",
     "name": "XRP BEP2",
@@ -23279,6 +23292,58 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/10158.png",
+    "symbol": "GRIMEX",
+    "name": "SpaceGrime",
+    "type": "BEP20",
+    "contract": "0x89671544190ee39e469c8393009875df6565457a",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/10213.png",
+    "symbol": "X",
+    "name": "X By SpaceGrime",
+    "type": "BEP20",
+    "contract": "0x42e83f8b9fadcfcbaabec2ba3133c9751d9812a0",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/10661.png",
+    "symbol": "FINIX",
+    "name": "Definix",
+    "type": "BEP20",
+    "contract": "0x0f02b1f5af54e04fb6dd6550f009ac2429c4e30d",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/10407.png",
+    "symbol": "BABYDOGE",
+    "name": "Baby Doge Coin",
+    "type": "BEP20",
+    "contract": "0xc748673057861a797275cd8a068abb95a902e8de",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://coin.top/production/logo/TNjt5fShPVJ4YpsLuU4THuBbg58g2bZoLk.png",
     "symbol": "HORA",
     "name": "HORA Token",
@@ -23709,6 +23774,18 @@
     "name": "AABC Token",
     "type": "TRC20",
     "contract": "TUnGR1giNU8t7mMAimqoxTnE5bP941rTe6",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "symbol": "APLN",
+    "name": "Apolline",
+    "type": "TRC10",
+    "contract": "1003984",
     "support": {
       "biometric": true,
       "ethCard": false,
