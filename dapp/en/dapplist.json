@@ -50,7 +50,7 @@
             "name": "belt.fi",
             "title": "Belt.fi",
             "description": "Belt.fi is an AMM protocol with multi-strategy yield optimization on BSC that also provides aggregation through auto-compounding and yield generation for maximum returns.",
-            "link": "https://beta.belt.fi/",
+            "link": "https://belt.fi/",
             "kind": ["bsc"],
             "category": [],
             "iconPath": "icon_belt_fi.png",
