@@ -1,5 +1,15 @@
 [
   {
+    "name": "zswap",
+    "imageUrl": "../images/zswap.jpg",
+    "gotoLink": "https://zeroswap.io/"
+  },
+  {
+    "name": "Trustline",
+    "imageUrl": "../images/trustline.png",
+    "gotoLink": "https://trustline.co/"
+  },
+  {
     "name": "Storx",
     "imageUrl": "../images/storx.svg",
     "gotoLink": "https://storx.tech/"

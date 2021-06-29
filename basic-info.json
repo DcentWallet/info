@@ -256,6 +256,15 @@
             } 
         },
         { 
+            "symbol": "Token", 
+            "name": "XRC20",
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2634.png",
+            "imgSize": {
+                "width": "32px",
+                "height": "32px"
+            } 
+        },
+        { 
             "symbol": "ADA", 
             "name": "Cardano",
             "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2010.png",
@@ -268,6 +277,24 @@
             "symbol": "MATIC", 
             "name": "Polygon",
             "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3890.png",
+            "imgSize": {
+                "width": "32px",
+                "height": "32px"
+            } 
+        },
+        { 
+            "symbol": "HT", 
+            "name": "HECO",
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2502.png",
+            "imgSize": {
+                "width": "32px",
+                "height": "32px"
+            } 
+        },
+        { 
+            "symbol": "Token", 
+            "name": "HRC20",
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2502.png",
             "imgSize": {
                 "width": "32px",
                 "height": "32px"
