@@ -1,5 +1,15 @@
 [
   {
+    "name": "six",
+    "imageUrl": "../images/sixnw_logo",
+    "gotoLink": "https://six.network/"
+  },
+  {
+    "name": "definix",
+    "imageUrl": "../images/definix_logo",
+    "gotoLink": "https://definix.com/en"
+  },
+  {
     "name": "zswap",
     "imageUrl": "../images/zswap.jpg",
     "gotoLink": "https://zeroswap.io/"
