@@ -71,6 +71,18 @@
             "externalWindow": false
         },
         {
+            "name": "definix",
+            "title": "Definix",
+            "description": "멀티체인 기반 탈중앙 자산 관리 프로토콜. 디피닉스는 암호화폐 투자자가 디파이에 투자할 수 있도록 투명성를 제공하는 암호화폐 투자 플랫폼입니다. 투자자들은 자신만의 펀드를 구성하고 투자 기술을 이용하여 더 많은 수익을 올릴 수 있습니다.",
+            "link": "https://definix.com/",
+            "kind": ["bsc"],
+            "category": [],
+            "iconPath": "icon_definix.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false
+        },
+        {
             "name": "neverlose.money",
             "title": "Neverlose.money",
             "description": "네버루즈머니는 이더리움 기반의 게미피케이션을 적용한 암호화폐 장기 투자 촉진 프로토콜 입니다. 사용자가 스스로 목표 기간을 설정해서 코인을 락업 (Lock-up)하고, 기간을 못 지키고 출금하면 10%의 패널티가 부과되고 이를 풀에 참여하고 있는 다른 사용자들에게 보너스로 지급함으로써 장기 투자를 유도합니다.",
