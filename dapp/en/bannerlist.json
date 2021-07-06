@@ -7,6 +7,24 @@
             "link": "https://medium.com/dcentwallet/dcent-x-changenow-token-giveaway-event-buy-d-cent-get-now-token-b5903e834d1d",
             "imagePath": "banner_now_en.png",
             "externalWindow": true
+        },
+        {
+            "name": "dcent",
+            "title": "D'CENT",
+            "description": "",
+            "link": "https://dcentwallet.com",
+            "imagePath": "banner_dcent.png",
+            "externalWindow": true,
+            "preRelease": true
+        },
+        {
+            "name": "dcent",
+            "title": "D'CENT",
+            "description": "",
+            "link": "https://dcentwallet.com",
+            "imagePath": "banner_dcent.png",
+            "externalWindow": true,
+            "preRelease": true
         }
     ]
 }
