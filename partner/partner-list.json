@@ -1,4 +1,10 @@
 [
+  
+  {
+    "name": "xdai",
+    "imageUrl": "../images/xdai.jpg",
+    "gotoLink": "https://www.xdaichain.com/"
+  },
   {
     "name": "six",
     "imageUrl": "../images/sixnw_logo.jpg",
