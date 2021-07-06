@@ -122,8 +122,7 @@
                     "description": "xDai",
                     "coinType": "CHAN:100",
                     "chainId": 100,
-                    "iconPath": "network_xdai.svg",
-                    "preRelease": true
+                    "iconPath": "network_xdai.svg"
                 }
             ]
         },
