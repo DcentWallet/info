@@ -1,12 +1,12 @@
 [
   {
     "name": "crypto agent",
-    "imageUrl": "../images_en/crypto_agent_logo.svg",
+    "imageUrl": "../images_en/crypto_agent_logo.png",
     "gotoLink": "http://cryptowalletshop.com.au/"
   },
   {
     "name": "bitcoin safety",
-    "imageUrl": "../images_en/bitcoin_safety_logo.svg",
+    "imageUrl": "../images_en/bitcoin_safety_logo.png",
     "gotoLink": "https://www.bitcoinsafety.com/products/dcent-biometric-hardware-wallet"
   },
   {
