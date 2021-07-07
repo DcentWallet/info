@@ -24520,7 +24520,7 @@
     }
   },
   {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8635.png",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5601.png",
     "name": "xDAI Stake",
     "contract": "0xb7d311e2eb55f2f68a9440da38e7989210b9a05e",
     "symbol": "STAKE",
@@ -24533,7 +24533,7 @@
     }
   },
   {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8635.png",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3408.png",
     "name": "USDC",
     "contract": "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83",
     "symbol": "USDC",
@@ -24546,7 +24546,7 @@
     }
   },
   {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8635.png",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2396.png",
     "name": "Wrapped Ether",
     "contract": "0x6a023ccd1ff6f2045c3309768ead9e68f978f6e1",
     "symbol": "WETH",
@@ -24559,7 +24559,7 @@
     }
   },
   {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8635.png",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/1975.png",
     "name": "ChainLink",
     "contract": "0xe2e73a1c69ecf83f464efce6a5be353a37ca09b2",
     "symbol": "LINK",
@@ -24572,7 +24572,7 @@
     }
   },
   {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8635.png",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/825.png",
     "name": "Tether USD",
     "contract": "0x4ecaba5870353805a9f068101a40e0f32ed605c6",
     "symbol": "USDT",
@@ -24585,7 +24585,7 @@
     }
   },
   {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8635.png",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4943.png",
     "name": "Dai Stablecoin",
     "contract": "0x44fa8e6f47987339850636f88629646662444217",
     "symbol": "DAI",
@@ -24598,7 +24598,7 @@
     }
   },
   {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8635.png",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3717.png",
     "name": "Wrapped BTC",
     "contract": "0x8e5bBbb09Ed1ebdE8674Cda39A0c169401db4252",
     "symbol": "WBTC",
@@ -24611,7 +24611,6 @@
     }
   },
   {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2502.png",
     "name": "HBNB",
     "contract": "0xb6813fa50b4bf1fe9fde9ecfef98f3ae7f6d5988",
     "symbol": "HBNB",
