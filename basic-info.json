@@ -299,6 +299,24 @@
                 "width": "32px",
                 "height": "32px"
             } 
+        },
+        { 
+            "symbol": "XDAI", 
+            "name": "xDAI",
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8635.png",
+            "imgSize": {
+                "width": "32px",
+                "height": "32px"
+            } 
+        },
+        { 
+            "symbol": "Token", 
+            "name": "xDai-ERC20",
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8635.png",
+            "imgSize": {
+                "width": "32px",
+                "height": "32px"
+            } 
         }
     ],
     "cardSupportedCoinList": [
