@@ -123,6 +123,24 @@
                     "coinType": "CHAN:100",
                     "chainId": 100,
                     "iconPath": "network_xdai.svg"
+                },
+                {
+                    "networkId": "ftm-mainnet",
+                    "name": "ftm",
+                    "description": "Fantom Opera",
+                    "coinType": "CHAN:250",
+                    "chainId": 250,
+                    "iconPath": "network_ftm.svg",
+                    "preRelease": true
+                },
+                {
+                    "networkId": "xdc-mainnet",
+                    "name": "xdc",
+                    "description": "XinFin Network",
+                    "coinType": "XINFIN",
+                    "chainId": 50,
+                    "iconPath": "network_xdc.svg",
+                    "preRelease": true
                 }
             ]
         },
