@@ -122,7 +122,7 @@
                     "description": "xDai",
                     "coinType": "CHAN:100",
                     "chainId": 100,
-                    "iconPath": "network_xdai.svg"
+                    "iconPath": "network_xdai.png"
                 },
                 {
                     "networkId": "ftm-mainnet",
@@ -131,6 +131,15 @@
                     "coinType": "CHAN:250",
                     "chainId": 250,
                     "iconPath": "network_ftm.svg",
+                    "preRelease": true
+                },
+                {
+                    "networkId": "xdc-mainnet",
+                    "name": "xdc",
+                    "description": "XinFin Network",
+                    "coinType": "XDC",
+                    "chainId": 50,
+                    "iconPath": "network_xdc.png",
                     "preRelease": true
                 }
             ]
