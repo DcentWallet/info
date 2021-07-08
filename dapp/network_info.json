@@ -140,7 +140,7 @@
                     "coinType": "XINFIN",
                     "chainId": 50,
                     "iconPath": "network_xdc.svg",
-                    "preRelease": true
+                    "testnet": true
                 }
             ]
         },
