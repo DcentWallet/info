@@ -138,8 +138,7 @@
                     "description": "XinFin Network",
                     "coinType": "XINFIN",
                     "chainId": 50,
-                    "iconPath": "network_xdc.svg",
-                    "testnet": true
+                    "iconPath": "network_xdc.svg"
                 }
             ]
         },
