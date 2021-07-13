@@ -296,6 +296,17 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3513.png",
+    "name": "Fantom",
+    "symbol": "FTM",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://assets.coingecko.com/coins/images/14899/small/RwdVsGcw_400x400.jpg",
     "symbol": "KNC",
     "name": "Kyber Network Crystal v2",
@@ -24611,10 +24622,140 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8635.png",
+    "name": "Wrapped XDAI",
+    "contract": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d",
+    "symbol": "WXDAI",
+    "type": "xDai-ERC20",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "name": "HBNB",
     "contract": "0xb6813fa50b4bf1fe9fde9ecfef98f3ae7f6d5988",
     "symbol": "HBNB",
     "type": "HRC20",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3408.png",
+    "name": "USDC",
+    "contract": "0x04068da6c83afcfa0e13ba15a6696662335d5b75",
+    "symbol": "USDC",
+    "type": "FTM-ERC20",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/1975.png",
+    "name": "Chainlink",
+    "contract": "0xb3654dc3d10ea7645f8319668e8f54d2574fbdc8",
+    "symbol": "LINK",
+    "type": "FTM-ERC20",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3717.png",
+    "name": "Bitcoin",
+    "contract": "0x321162Cd933E2Be498Cd2267a90534A804051b11",
+    "symbol": "BTC",
+    "type": "FTM-ERC20",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4943.png",
+    "name": "Dai",
+    "contract": "0x8d11ec38a3eb5e956b052f67da8bdc9bef8abf3e",
+    "symbol": "DAI",
+    "type": "FTM-ERC20",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/9608.png",
+    "name": "Spookyswap",
+    "contract": "0x841fad6eae12c286d1fd18d1d525dffa75c7effe",
+    "symbol": "BOO",
+    "type": "FTM-ERC20",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/10239.png",
+    "name": "SpiritSwap",
+    "contract": "0x5cc61a78f164885776aa610fb0fe1257df78e59b",
+    "symbol": "SPIRIT",
+    "type": "FTM-ERC20",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://assets.coingecko.com/coins/images/15739/small/discord_icon.png",
+    "name": "Ghost Finance",
+    "contract": "0x2241fabdf45c54ca330c34c783b114e6bcaae7e7",
+    "symbol": "GHOST",
+    "type": "FTM-ERC20",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/10240.png",
+    "name": "Wrapped Fantom",
+    "contract": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
+    "symbol": "WFTM",
+    "type": "FTM-ERC20",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2396.png",
+    "name": "Ethereum",
+    "contract": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
+    "symbol": "ETH",
+    "type": "FTM-ERC20",
     "support": {
       "biometric": true,
       "ethCard": false,
