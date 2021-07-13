@@ -130,8 +130,7 @@
                     "description": "Fantom Opera",
                     "coinType": "CHAN:250",
                     "chainId": 250,
-                    "iconPath": "network_ftm.svg",
-                    "preRelease": true
+                    "iconPath": "network_ftm.svg"
                 },
                 {
                     "networkId": "xdc-mainnet",
