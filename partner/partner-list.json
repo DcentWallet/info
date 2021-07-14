@@ -1,5 +1,9 @@
 [
-  
+  {
+    "name": "fantom",
+    "imageUrl": "../images/fantom.svg",
+    "gotoLink": "https://fantom.foundation/"
+  },
   {
     "name": "xdai",
     "imageUrl": "../images/xdai.png",
