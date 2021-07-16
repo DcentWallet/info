@@ -139,6 +139,15 @@
                     "coinType": "XINFIN",
                     "chainId": 50,
                     "iconPath": "network_xdc.svg"
+                },
+                {
+                    "networkId": "celo-mainnet",
+                    "name": "celo",
+                    "description": "Celo",
+                    "coinType": "CHAN:42220",
+                    "chainId": 42220,
+                    "iconPath": "network_celo.svg",
+                    "preRelease": true
                 }
             ]
         },
