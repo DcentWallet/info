@@ -1,4 +1,10 @@
 [
+  
+  {
+    "name": "FTSO",
+    "imageUrl": "../images/ftso.png",
+    "gotoLink": "https://fantom.foundation/"
+  },
   {
     "name": "fantom",
     "imageUrl": "../images/fantom.png",
