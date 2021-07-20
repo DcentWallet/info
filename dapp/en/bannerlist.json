@@ -2,10 +2,18 @@
     "list": [
         {
             "name": "fantom",
-            "title": "Fantom",
+            "title": "Fantom Event",
             "description": "",
             "link": "https://medium.com/dcentwallet/dcent-biometric-wallet-89-deal-is-happening-now-at-the-fantom-integration-event-1d9df2d6e85c",
             "imagePath": "banner_fantom.png",
+            "externalWindow": true
+        },
+        {
+            "name": "dcent",
+            "title": "D'CENT",
+            "description": "",
+            "link": "https://dcentwallet.com",
+            "imagePath": "banner_dcent.png",
             "externalWindow": true
         }
     ]
