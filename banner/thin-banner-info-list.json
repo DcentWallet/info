@@ -8,7 +8,7 @@
           "background-color": "#1969FF"
         },
         "tablet": {
-          "path": "../images/en/fantom_mobile.png",
+          "path": "../images/en/fantom_desktop.png",
           "height": "65px",
           "background-color": "#1969FF"
         },
