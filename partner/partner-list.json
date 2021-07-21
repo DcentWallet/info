@@ -1,5 +1,10 @@
 [
   {
+    "name": "taalswap",
+    "imageUrl": "../images/taalswap.svg",
+    "gotoLink": "https://taalswap.finance/"
+  },
+  {
     "name": "FTSO_EU",
     "imageUrl": "../images/ftso.eu.png",
     "gotoLink": "https://ftso.eu/"
