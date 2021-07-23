@@ -3,12 +3,12 @@
     "img": {
       "en": {
         "desktop": {
-          "path": "../images/en/fantom_desktop.png",
+          "path": "../images/en/fantom_desktop_v2.png",
           "height": "90px",
           "background-color": "#1969FF"
         },
         "tablet": {
-          "path": "../images/en/fantom_desktop.png",
+          "path": "../images/en/fantom_desktop_v2.png",
           "height": "65px",
           "background-color": "#1969FF"
         },
