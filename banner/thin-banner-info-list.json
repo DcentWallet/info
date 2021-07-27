@@ -1,29 +1,2 @@
 [
-  {
-    "img": {
-      "en": {
-        "desktop": {
-          "path": "../images/en/fantom_desktop_v2.png",
-          "height": "90px",
-          "background-color": "#1969FF"
-        },
-        "tablet": {
-          "path": "../images/en/fantom_desktop_v2.png",
-          "height": "65px",
-          "background-color": "#1969FF"
-        },
-        "mobile": {
-          "path": "../images/en/fantom_mobile.png",
-          "height": "15.64vw",
-          "background-color": "#1969FF"
-        }
-      }
-    },
-    "link": {
-      "en": {
-        "internal": false,
-        "external": "https://medium.com/dcentwallet/dcent-biometric-wallet-89-deal-is-happening-now-at-the-fantom-integration-event-1d9df2d6e85c"
-      }
-    }
-  }
 ]
