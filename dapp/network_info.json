@@ -146,8 +146,7 @@
                     "description": "Celo",
                     "coinType": "CHAN:42220",
                     "chainId": 42220,
-                    "iconPath": "network_celo.svg",
-                    "preRelease": true
+                    "iconPath": "network_celo.svg"
                 }
             ]
         },

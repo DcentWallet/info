@@ -2,7 +2,7 @@
 
 먼저 images 폴더에 배너에 올릴 이미지를 업로드합니다.  
 
-이미지를 업로드한 뒤 en/banenrlist.json 과 ko/bannerlist.json 을 수정합니다.
+이미지를 업로드한 뒤 **en/banenrlist.json** 과 **ko/bannerlist.json** 을 수정합니다.
 
 
 ## banenrlist.json 작성 예시  
@@ -12,32 +12,20 @@
 {
   "list": [
     {
-      "name": "dcent",
-      "title": {
-        "ko": "디센트",
-        "en": "D'CENT"
-      },
-      "description": {
-        "ko": "",
-        "en": ""
-      },
-      "link": "https://dcentwallet.com", // 클릭 시 이동할 링크
-      "imagePath": "banner_dcent.png", // 보여 줄 이미지
+      "name": "naver",
+      "title": "NAVER",
+      "description": "",
+      "link": "https://naver.com", // 클릭 시 이동할 링크
+      "imagePath": "banner_naver.png", // 보여 줄 이미지
       "externalWindow": true  // 디센트 댑 브라우저가 아닌 외부 인터넷 앱을 통해 링크를 열 시 true
     },
     {
-      "name": "naver",
-      "title": {
-        "ko": "네이버",
-        "en": "Naver"
-      },
-      "description": {
-        "ko": "",
-        "en": ""
-      },
-      "link": "https://naver.com", // 클릭 시 이동할 링크
-      "imagePath": "naver.png", // 보여 줄 이미지
-      "externalWindow": true  // 디센트 댑 브라우저가 아닌 외부 인터넷 앱을 통해 링크를 열 시 true
+      "name": "dcent",
+      "title": "D'CENT",
+      "description": "",
+      "link": "https://dcentwallet.com", // 클릭 시 이동할 링크
+      "imagePath": "banner_dcent.png", // 보여 줄 이미지
+      "externalWindow": true // 디센트 댑 브라우저가 아닌 외부 인터넷 앱을 통해 링크를 열 시 true
     }
   ]
 }

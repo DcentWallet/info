@@ -1,5 +1,10 @@
 [
   {
+    "name": "alphaoracle",
+    "imageUrl": "../images/partners_alphaoracle.png",
+    "gotoLink": "https://www.alphaoracle.io/"
+  },
+  {
     "name": "aureusox",
     "imageUrl": "../images/partners_aureusox.png",
     "gotoLink": "https://aureusox.com/"
