@@ -1,5 +1,10 @@
 [
   {
+    "name": "celo",
+    "imageUrl": "../images/partners_celo.png",
+    "gotoLink": "https://celo.org/"
+  },
+  {
     "name": "alphaoracle",
     "imageUrl": "../images/partners_alphaoracle.png",
     "gotoLink": "https://www.alphaoracle.io/"
