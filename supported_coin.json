@@ -307,6 +307,17 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5567.png",
+    "name": "Celo",
+    "symbol": "CELO",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://assets.coingecko.com/coins/images/14899/small/RwdVsGcw_400x400.jpg",
     "symbol": "KNC",
     "name": "Kyber Network Crystal v2",
@@ -16220,7 +16231,7 @@
     "symbol": "STC",
     "name": "Student Coin",
     "type": "ERC20",
-    "contract": "0xb8b7791b1a445fb1e202683a0a329504772e0e52",
+    "contract": "0x15b543e986b8c34074dfc9901136d9355a537e7e",
     "support": {
       "biometric": true,
       "ethCard": true,
@@ -17643,6 +17654,19 @@
     }
   },
   {
+    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/asset-bpro.svg",
+    "symbol": "BITP",
+    "name": "BitPRO",
+    "type": "RRC20",
+    "contract": "0x440cd83c160de5c96ddb20246815ea44c7abbca8",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://assets.coingecko.com/coins/images/16248/small/sov.PNG",
     "symbol": "SOV",
     "name": "Sovryn",
@@ -17661,18 +17685,6 @@
     "name": "RSK Infrastructure Framework",
     "type": "RRC20",
     "contract": "0x2acc95758f8b5f583470ba265eb685a8f45fc9d5",
-    "support": {
-      "biometric": true,
-      "ethCard": false,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
-    "symbol": "BITP",
-    "name": "BitPRO",
-    "type": "RRC20",
-    "contract": "0x440cd83c160de5c96ddb20246815ea44c7abbca8",
     "support": {
       "biometric": true,
       "ethCard": false,
@@ -17735,58 +17747,6 @@
     "name": "PER Project",
     "type": "KCT",
     "contract": "0x7eee60a000986e9efe7f5c90340738558c24317b",
-    "support": {
-      "biometric": true,
-      "ethCard": false,
-      "klayCard": true,
-      "software": true
-    }
-  },
-  {
-    "iconUrl": "https://kaiprotocol.fi/static/media/KAI.208d975d.svg",
-    "symbol": "KAI",
-    "name": "Kai Token",
-    "type": "KCT",
-    "contract": "0xe950bdcfa4d1e45472e76cf967db93dbfc51ba3e",
-    "support": {
-      "biometric": true,
-      "ethCard": false,
-      "klayCard": true,
-      "software": true
-    }
-  },
-  {
-    "iconUrl": "https://kaiprotocol.fi/static/media/sKAI.b95007d6.svg",
-    "symbol": "sKAI",
-    "name": "Kai Share Token",
-    "type": "KCT",
-    "contract": "0x37d46C6813B121d6A27eD263AeF782081ae95434",
-    "support": {
-      "biometric": true,
-      "ethCard": false,
-      "klayCard": true,
-      "software": true
-    }
-  },
-  {
-    "iconUrl": "https://s.klayswap.com/img/token/ic-kstpl.png",
-    "symbol": "KSTPL",
-    "name": "Orbit Bridge Klaytn Stream Protocol",
-    "type": "KCT",
-    "contract": "0x49a767b188b9d782d7b0efcd485ca3796390198e",
-    "support": {
-      "biometric": true,
-      "ethCard": false,
-      "klayCard": true,
-      "software": true
-    }
-  },
-  {
-    "iconUrl": "https://s.klayswap.com/img/token/ic-krai.png",
-    "symbol": "KRAI",
-    "name": "Orbit Bridge Klaytn Rai.Finance",
-    "type": "KCT",
-    "contract": "0xb40178be0fcf89d0051682e5512a8bab56b9ec3e",
     "support": {
       "biometric": true,
       "ethCard": false,
@@ -18335,19 +18295,6 @@
     "name": "Orbit Bridge Klaytn BELT Token",
     "type": "KCT",
     "contract": "0xdfe180e288158231ffa5faf183eca3301344a51f",
-    "support": {
-      "biometric": true,
-      "ethCard": false,
-      "klayCard": true,
-      "software": true
-    }
-  },
-  {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/10661.png",
-    "symbol": "FINIX",
-    "name": "Definix",
-    "type": "KCT",
-    "contract": "0xd51c337147c8033a43f3b5ce0023382320c113aa",
     "support": {
       "biometric": true,
       "ethCard": false,
@@ -23664,6 +23611,19 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/10798.png",
+    "symbol": "MiniDOGE",
+    "name": "MiniDOGE",
+    "type": "BEP20",
+    "contract": "0xba07eed3d09055d60caef2bdfca1c05792f2dfad",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://coin.top/production/logo/TNjt5fShPVJ4YpsLuU4THuBbg58g2bZoLk.png",
     "symbol": "HORA",
     "name": "HORA Token",
@@ -24094,18 +24054,6 @@
     "name": "AABC Token",
     "type": "TRC20",
     "contract": "TUnGR1giNU8t7mMAimqoxTnE5bP941rTe6",
-    "support": {
-      "biometric": true,
-      "ethCard": false,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
-    "symbol": "APLN",
-    "name": "Apolline",
-    "type": "TRC10",
-    "contract": "1003984",
     "support": {
       "biometric": true,
       "ethCard": false,
@@ -24820,6 +24768,45 @@
     "contract": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
     "symbol": "ETH",
     "type": "FTM-ERC20",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7236.png",
+    "name": "Celo Dollar",
+    "contract": "0x765de816845861e75a25fca122bb6898b8b1282a",
+    "symbol": "cUSD",
+    "type": "Celo-ERC20",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://github.com/DcentWallet/info/raw/master/images/coins/original/celo_euro.svg",
+    "name": "Celo Euro",
+    "contract": "0xd8763cba276a3738e6de85b4b3bf5fded6d6ca73",
+    "symbol": "cEUR",
+    "type": "Celo-ERC20",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/10808.png",
+    "name": "Ubeswap",
+    "contract": "0x00be915b9dcf56a3cbe739d9b9c202ca692409ec",
+    "symbol": "UBE",
+    "type": "Celo-ERC20",
     "support": {
       "biometric": true,
       "ethCard": false,
