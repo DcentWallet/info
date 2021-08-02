@@ -1,5 +1,10 @@
 [
   {
+    "name": "cryptonist",
+    "imageUrl": "../images_en/cryptnist_logo.png",
+    "gotoLink": "https://cryptonist.ru/catalog/dcent/biometric-wallet/"
+  },
+  {
     "name": "crypto agent",
     "imageUrl": "../images_en/crypto_agent_logo.png",
     "gotoLink": "http://cryptowalletshop.com.au/"
