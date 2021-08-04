@@ -30,26 +30,8 @@
             }
         },
         { 
-            "symbol": "Token", 
-            "name": "ERC20", 
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            }
-        },
-        { 
             "symbol": "RBTC", 
             "name": "Rootstock", 
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/3626.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            } 
-        },
-        { 
-            "symbol": "Token", 
-            "name": "RRC20", 
             "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/3626.png",
             "imgSize": {
                 "width": "32px",
@@ -129,15 +111,6 @@
             } 
         },
         { 
-            "symbol": "Token", 
-            "name": "KLAY KCT", 
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/4256.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            } 
-        },
-        { 
             "symbol": "DGB", 
             "name": "DigiByte", 
             "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/109.png",
@@ -166,26 +139,8 @@
             }
         },
         {
-            "symbol": "Token",
-            "name": "BEP2",
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            }
-        },
-        {
             "symbol": "BNB",
             "name": "Binance Smart Chain",
-            "imgUrl": "https://github.com/DcentWallet/info/raw/master/images/coins/original/binance-logo.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            }
-        },
-        {
-            "symbol": "Token",
-            "name": "BEP20",
             "imgUrl": "https://github.com/DcentWallet/info/raw/master/images/coins/original/binance-logo.png",
             "imgSize": {
                 "width": "32px",
@@ -213,15 +168,6 @@
         {
             "symbol": "TRX",
             "name": "Tron",
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            }
-        },
-        {
-            "symbol": "Token",
-            "name": "TRC10/TRC20",
             "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png",
             "imgSize": {
                 "width": "32px",
@@ -256,15 +202,6 @@
             } 
         },
         { 
-            "symbol": "Token", 
-            "name": "XRC20",
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2634.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            } 
-        },
-        { 
             "symbol": "ADA", 
             "name": "Cardano",
             "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2010.png",
@@ -292,26 +229,8 @@
             } 
         },
         { 
-            "symbol": "Token", 
-            "name": "HRC20",
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2502.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            } 
-        },
-        { 
             "symbol": "XDAI", 
             "name": "xDAI",
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8635.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            } 
-        },
-        { 
-            "symbol": "Token", 
-            "name": "xDai-ERC20",
             "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8635.png",
             "imgSize": {
                 "width": "32px",
@@ -327,16 +246,7 @@
                 "height": "32px"
             } 
         },
-        { 
-            "symbol": "Token", 
-            "name": "FTM-ERC20",
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3513.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            } 
-        },
-        { 
+        {
             "symbol": "CELO", 
             "name": "Celo",
             "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5567.png",
@@ -345,32 +255,14 @@
                 "height": "32px"
             } 
         },
-        { 
-            "symbol": "Token", 
-            "name": "Celo-ERC20",
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5567.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            } 
-        },
-        { 
+        {
             "symbol": "META", 
             "name": "Metadium",
             "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3418.png",
             "imgSize": {
                 "width": "32px",
                 "height": "32px"
-            } 
-        },
-        { 
-            "symbol": "Token", 
-            "name": "Meta-MRC20",
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3418.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            } 
+            }
         }
     ],
     "cardSupportedCoinList": [
