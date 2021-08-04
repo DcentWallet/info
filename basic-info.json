@@ -353,6 +353,24 @@
                 "width": "32px",
                 "height": "32px"
             } 
+        },
+        { 
+            "symbol": "META", 
+            "name": "Metadium",
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3418.png",
+            "imgSize": {
+                "width": "32px",
+                "height": "32px"
+            } 
+        },
+        { 
+            "symbol": "Token", 
+            "name": "Meta-MRC20",
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3418.png",
+            "imgSize": {
+                "width": "32px",
+                "height": "32px"
+            } 
         }
     ],
     "cardSupportedCoinList": [

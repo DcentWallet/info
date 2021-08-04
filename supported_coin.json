@@ -318,6 +318,17 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3418.png",
+    "name": "Metadium",
+    "symbol": "META",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://assets.coingecko.com/coins/images/14899/small/RwdVsGcw_400x400.jpg",
     "symbol": "KNC",
     "name": "Kyber Network Crystal v2",
@@ -24823,6 +24834,18 @@
     "name": "TXRC20",
     "type": "XRC20",
     "contract": "xdc07318f7651eeb9ba05b9ba6ccb9e195c23b72a51",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "name": "XTL",
+    "contract": "0x0b72928cd168419077bECd7AB948Cf0922A098a8",
+    "symbol": "XTL",
+    "type": "Meta-MRC20",
     "support": {
       "biometric": true,
       "ethCard": false,
