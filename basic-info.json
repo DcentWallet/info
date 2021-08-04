@@ -246,7 +246,7 @@
                 "height": "32px"
             } 
         },
-        { 
+        {
             "symbol": "CELO", 
             "name": "Celo",
             "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5567.png",
@@ -254,6 +254,15 @@
                 "width": "32px",
                 "height": "32px"
             } 
+        },
+        {
+            "symbol": "META", 
+            "name": "Metadium",
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3418.png",
+            "imgSize": {
+                "width": "32px",
+                "height": "32px"
+            }
         }
     ],
     "cardSupportedCoinList": [
