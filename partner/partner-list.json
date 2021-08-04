@@ -1,4 +1,9 @@
 [
+   {
+    "name": "metadium",
+    "imageUrl": "../images/partners_metadium.png",
+    "gotoLink": "https://metadium.com/"
+  },
   {
     "name": "celo",
     "imageUrl": "../images/partners_celo.png",
