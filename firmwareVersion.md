@@ -1,5 +1,6 @@
 |Kernel Version|Release Date|Notes|
 |----|----|------|
+|v2.13.0.e575|2021-08-05|• Added supporting coin : Hedera Hashgraph(HBAR), Hedera Token Service(HTS), Horizen(ZEN) |
 |v2.11.1.3b24|2021-07-22|• Added supporting for EIP-712 message signing|
 |v2.10.0.47c5|2021-06-16|• Added supporting coin : Huobi ECO Chain (HT)|
 |v2.9.2.c1e9|2021-05-26|• Changed Main UI<br>• Added a feature of deleting an account |
