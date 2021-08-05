@@ -263,6 +263,24 @@
                 "width": "32px",
                 "height": "32px"
             }
+        },
+        {
+            "symbol": "ZEN", 
+            "name": "Horizen",
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/1698.png",
+            "imgSize": {
+                "width": "32px",
+                "height": "32px"
+            }
+        },
+        {
+            "symbol": "HBAR", 
+            "name": "Hedera Hashgraph",
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4642.png",
+            "imgSize": {
+                "width": "32px",
+                "height": "32px"
+            }
         }
     ],
     "cardSupportedCoinList": [

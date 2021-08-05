@@ -274,6 +274,28 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/1698.png",
+    "symbol": "ZEN",
+    "name": "Horizen",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4642.png",
+    "symbol": "HBAR",
+    "name": "Hedera Hashgraph",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": false
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2502.png",
     "name": "HECO",
     "symbol": "HT",
@@ -17872,6 +17894,32 @@
     }
   },
   {
+    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/asset-kfi.png",
+    "symbol": "KFI",
+    "name": "KlayFi",
+    "type": "KCT",
+    "contract": "0xdb116e2dc96b4e69e3544f41b50550436579979a",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": true,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/asset-sbwpm.png",
+    "symbol": "sBWPM",
+    "name": "BWPM Vault",
+    "type": "KCT",
+    "contract": "0xf4546e1d3ad590a3c6d178d671b3bc0e8a81e27d",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": true,
+      "software": true
+    }
+  },
+  {
     "symbol": "BOX",
     "name": "BOX",
     "type": "KCT",
@@ -18412,6 +18460,19 @@
     "name": "Orbit Bridge Klaytn BELT Token",
     "type": "KCT",
     "contract": "0xdfe180e288158231ffa5faf183eca3301344a51f",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": true,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/10661.png",
+    "symbol": "FINIX",
+    "name": "Definix",
+    "type": "KCT",
+    "contract": "0xd51c337147c8033a43f3b5ce0023382320c113aa",
     "support": {
       "biometric": true,
       "ethCard": false,
