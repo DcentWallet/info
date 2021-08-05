@@ -1,4 +1,9 @@
 [
+  {
+    "name": "dawn",
+    "imageUrl": "../images/partners_dawn.png",
+    "gotoLink": "https://www.dawn.org/"
+  },
    {
     "name": "metadium",
     "imageUrl": "../images/partners_metadium.png",
