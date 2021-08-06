@@ -57,7 +57,19 @@
             "type": "dapp",
             "device": "ble_dongle",
             "externalWindow": false
-        },
+        },        
+        {
+            "name": "klayfi",
+            "title": "KlayFi",
+            "description": "KlayFi is the most advanced Yield Optimizer protocol in the Klaytn network. It provides an optimal auto-compounding feature and maximizes assets for KLAYswap users.",
+            "link": "https://klayfi.finance/",
+            "kind": ["klay"],
+            "category": [],
+            "iconPath": "icon_klayfi.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false
+        }, 
         {
             "name": "KLAYSTATION",
             "title": "KLAYSTATION",

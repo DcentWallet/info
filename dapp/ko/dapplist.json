@@ -57,7 +57,19 @@
             "type": "dapp",
             "device": "ble_dongle",
             "externalWindow": false
-        },    
+        },
+        {
+            "name": "klayfi",
+            "title": "KlayFi",
+            "description": "KlayFi는 클레이튼 기반의 이자 수확 최적화(Yield Optimizer) 프로토콜입니다. KLAYswap 이용자에게 최적화된 자동 재예치 기능을 제공하여 투자 편의성을 높이고, 동시에 투자 자산 수익 극대화를 제공합니다.",
+            "link": "https://klayfi.finance/",
+            "kind": ["klay"],
+            "category": [],
+            "iconPath": "icon_klayfi.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false
+        }, 
         {
             "name": "KLAYSTATION",
             "title": "KLAYSTATION",
