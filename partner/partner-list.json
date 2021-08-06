@@ -1,5 +1,10 @@
 [
   {
+    "name": "Horizen",
+    "imageUrl": "../images/partners_horizen.png",
+    "gotoLink": "https://www.horizen.io/"
+  },
+  {
     "name": "dawn",
     "imageUrl": "../images/partners_dawn.png",
     "gotoLink": "https://www.dawn.org/"
