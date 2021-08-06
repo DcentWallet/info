@@ -71,6 +71,18 @@
             "externalWindow": false
         }, 
         {
+            "name": "bluewhale",
+            "title": "블루웨일 프로토콜",
+            "description": "블루웨일 프로토콜은 사용하기 쉬운 디파이 서비스를 지향하는 프로젝트입니다. 디파이 대시보드, DEX 어그리게이터, 자동 재예치 서비스 등 탈중앙화 금융(DeFi) 관련 서비스 제공을 통해 클레이튼 디파이 생태계 활동을 더 쉽고 효율적으로 만듭니다.",
+            "link": "https://bluewhale-protocol.com/",
+            "kind": ["klay"],
+            "category": [],
+            "iconPath": "icon_bluewhale.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false
+        }, 
+        {
             "name": "KLAYSTATION",
             "title": "KLAYSTATION",
             "description": "클레이스테이션은 클레이튼 네트워크 기반 공식 스테이킹 툴입니다.",
