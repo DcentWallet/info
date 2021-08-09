@@ -1,5 +1,10 @@
 [
   {
+    "name": "klayfi",
+    "imageUrl": "../images/partners_klayfi.png",
+    "gotoLink": "https://klayfi.finance/"
+  },
+  {
     "name": "Horizen",
     "imageUrl": "../images/partners_horizen.png",
     "gotoLink": "https://www.horizen.io/"
