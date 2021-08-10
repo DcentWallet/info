@@ -1,5 +1,10 @@
 [
   {
+    "name": "bluew",
+    "imageUrl": "../images/partners_bluew.png",
+    "gotoLink": "https://bluewhale-protocol.com/klaytn/account"
+  },
+  {
     "name": "klayfi",
     "imageUrl": "../images/partners_klayfi.png",
     "gotoLink": "https://klayfi.finance/"
