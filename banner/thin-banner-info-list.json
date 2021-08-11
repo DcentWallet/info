@@ -14,9 +14,9 @@
         }
       }
     },
-    "link": {"https://dcentwallet.com/events/202108_KlayFi_Promotion"
+    "link": {
       "ko": {
-        "internal": "/ShopList", 
+        "internal": "/events/202108_KlayFi_Promotion?lang=ko&utm_source=dcentwallet&utm_medium=website_banner&utm_campaign=202108_KFI_promo", 
         "extenral": false
       }
     }
