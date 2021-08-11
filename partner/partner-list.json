@@ -1,4 +1,9 @@
-[  
+[   
+  {
+    "name": "klaytnfoundation",
+    "imageUrl": "../images/partners_klayfoundation.png",
+    "gotoLink": "https://klaytn.foundation/"
+  },
   {
     "name": "hedera",
     "imageUrl": "../images/partners_hedera.png",
