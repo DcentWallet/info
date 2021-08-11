@@ -1,2 +1,24 @@
 [
+  {
+    "img": {
+      "ko": {
+        "desktop": {
+          "path": "../images/ko/klayfi_main_banner_pc_kr.png", //가로 1440px 이상일 때 보일 이미지
+          "height": "90px", // 배너 높이
+          "background-color": "#1d2423" // 배경 색
+        },
+        "mobile": {
+          "path": "../images/ko/klayfi_main_banner_mo_kr.png", //가로 767 이하일때 보일 이미지
+          "height": "15.64vw",
+          "background-color": "#1d2423"
+        }
+      }
+    },
+    "link": "https://dcentwallet.com/events/202108_KlayFi_Promotion" // 클릭시 이동할 링크 지정
+      "ko": {
+        "internal": "/ShopList", // dcentwallet.com/ShopList 로 이동함
+        "extenral": false
+      }
+    }
+  }
 ]
