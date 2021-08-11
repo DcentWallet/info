@@ -1,5 +1,13 @@
 {
     "list": [
+         {
+            "name": "Klayfi event",
+            "title": "Klayfi Event",
+            "description": "",
+            "link": "https://dcentwallet.com/events/KlayFi",
+            "imagePath": "klayfi_event thumb_dapp_kr.png",
+            "externalWindow": true
+        }
         {
             "name": "dcent",
             "title": "디센트",
