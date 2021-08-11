@@ -7,6 +7,11 @@
           "height": "90px", 
           "background-color": "#1d2423" 
         },
+        "tablet": {
+          "path": "../images/ko/klayfi_main_banner_pc_kr.png",
+          "height": "65px",
+          "background-color": "#1969FF"
+        },
         "mobile": {
           "path": "../images/ko/klayfi_main_banner_mo_kr.png",
           "height": "15.64vw",
