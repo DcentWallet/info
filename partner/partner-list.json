@@ -1,4 +1,9 @@
-[
+[  
+  {
+    "name": "hedera",
+    "imageUrl": "../images/partners_hedera.png",
+    "gotoLink": "https://hedera.com/"
+  },
   {
     "name": "bluew",
     "imageUrl": "../images/partners_bluew.png",
