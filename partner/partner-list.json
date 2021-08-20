@@ -1,4 +1,9 @@
 [ 
+  {
+    "name": "vitalhint",
+    "imageUrl": "../images/partners_vitalhint.png",
+    "gotoLink": "https://agov.finance/"
+  },
     {
     "name": "hedera",
     "imageUrl": "../images/partners_hedera.png",
