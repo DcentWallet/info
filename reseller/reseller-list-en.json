@@ -1,4 +1,10 @@
 [
+  
+  {
+    "name": "cashfort",
+    "imageUrl": "../images_en/cashfort_logo.png",
+    "gotoLink": "http://www.cashfort.com.br/"
+  },
   {
     "name": "cryptonist",
     "imageUrl": "../images_en/cryptonist_logo.png",
