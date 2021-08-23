@@ -1,5 +1,10 @@
 [ 
   {
+    "name": "binstarter",
+    "imageUrl": "../images/partners_binstarter.png",
+    "gotoLink": "https://binstarter.io/"
+  },
+  {
     "name": "vitalhint",
     "imageUrl": "../images/partners_vitalhint.png",
     "gotoLink": "https://agov.finance/"
