@@ -1,5 +1,6 @@
 |Kernel Version|Release Date|Notes|
 |----|----|------|
+|v2.13.2.b2e0|2021-08-26|• Implement ADA Multi-Asset utxo process |
 |v2.13.1.d613|2021-08-23|• Improved stability for BTC based Address |
 |v2.13.0.e575|2021-08-05|• Added supporting coin : Hedera Hashgraph(HBAR), Hedera Token Service(HTS), Horizen(ZEN) |
 |v2.11.1.3b24|2021-07-22|• Added supporting for EIP-712 message signing|
