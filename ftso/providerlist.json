@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Test provider",
+    "image": "network_no_icon.png",
+    "url": "https://google.com"
+  },
+  {
+    "name": "Test provider2",
+    "image": "network_no_icon.png",
+    "url": "https://google.com"
+  },
+  {
+    "name": "Test provider3",
+    "image": "network_no_icon.png",
+    "url": "https://google.com"
+  }
+]
