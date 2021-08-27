@@ -122,7 +122,7 @@
                     "description": "xDai",
                     "coinType": "CHAN:100",
                     "chainId": 100,
-                    "iconPath": "network_xdai.svg"
+                    "iconPath": "network_xdai.png"
                 },
                 {
                     "networkId": "ftm-mainnet",
@@ -130,7 +130,7 @@
                     "description": "Fantom Opera",
                     "coinType": "CHAN:250",
                     "chainId": 250,
-                    "iconPath": "network_ftm.svg"
+                    "iconPath": "network_ftm.png"
                 },
                 {
                     "networkId": "xdc-mainnet",
@@ -138,7 +138,7 @@
                     "description": "XinFin Network",
                     "coinType": "XINFIN",
                     "chainId": 50,
-                    "iconPath": "network_xdc.svg"
+                    "iconPath": "network_xdc.png"
                 },
                 {
                     "networkId": "celo-mainnet",
@@ -146,7 +146,7 @@
                     "description": "Celo",
                     "coinType": "CHAN:42220",
                     "chainId": 42220,
-                    "iconPath": "network_celo.svg"
+                    "iconPath": "network_celo.png"
                 }
             ]
         },
