@@ -1,5 +1,9 @@
 [
-  
+  {
+    "name": "trend",
+    "imageUrl": "../images_en/trend_logo.png",
+    "gotoLink": "https://store.trend.hk/products/dcent-biometric-wallet"
+  },  
   {
     "name": "cashfort",
     "imageUrl": "../images_en/cashfort_logo.png",
