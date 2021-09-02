@@ -1,5 +1,10 @@
 [ 
   {
+    "name": "useyourspark",
+    "imageUrl": "../images/partners_useyourspark.png",
+    "gotoLink": "https://www.useyourspark.com/"
+  },
+  {
     "name": "binstarter",
     "imageUrl": "../images/partners_binstarter.png",
     "gotoLink": "https://binstarter.io/"
