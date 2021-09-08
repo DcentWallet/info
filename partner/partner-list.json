@@ -1,4 +1,9 @@
 [ 
+   {
+    "name": "tunefm",
+    "imageUrl": "../images/partners_tunefm.png",
+    "gotoLink": "https://tune.fm/"
+  },
   {
     "name": "useyourspark",
     "imageUrl": "../images/partners_useyourspark.png",
