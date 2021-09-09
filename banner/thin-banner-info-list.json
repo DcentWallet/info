@@ -5,34 +5,34 @@
         "desktop": {
           "path": "../images/ko/hh_main_banner_pc_kr.png",
           "height": "90px", 
-          "background-color": "#1d2423" 
+          "background-color": "#0d081c" 
         },
         "tablet": {
           "path": "../images/ko/hh_main_banner_pc_kr.png",
           "height": "65px",
-          "background-color": "#1969FF"
+          "background-color": "#0d081c"
         },
         "mobile": {
           "path": "../images/ko/hh_main_banner_mo_kr.png",
           "height": "15.64vw",
-          "background-color": "#1d2423"
+          "background-color": "#0d081c"
         }
       },
       "en": {
         "desktop": {
           "path": "../images/en/hh_main_banner_pc_en.png",
           "height": "90px", 
-          "background-color": "#1d2423" 
+          "background-color": "#0d081c" 
         },
         "tablet": {
           "path": "../images/en/hh_main_banner_pc_en.png",
           "height": "65px",
-          "background-color": "#1969FF"
+          "background-color": "#0d081c"
         },
         "mobile": {
           "path": "../images/en/hh_main_banner_mo_en.png",
           "height": "15.64vw",
-          "background-color": "#1d2423"
+          "background-color": "#0d081c"
         }
       }
     },
