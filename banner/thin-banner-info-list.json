@@ -1,2 +1,50 @@
 [  
+  {
+    "img": {
+      "ko": {
+        "desktop": {
+          "path": "../images/ko/hh_main_banner_pc_kr.png",
+          "height": "90px", 
+          "background-color": "#1d2423" 
+        },
+        "tablet": {
+          "path": "../images/ko/hh_main_banner_pc_kr.png",
+          "height": "65px",
+          "background-color": "#1969FF"
+        },
+        "mobile": {
+          "path": "../images/ko/hh_main_banner_mo_kr.png",
+          "height": "15.64vw",
+          "background-color": "#1d2423"
+        }
+      },
+      "en": {
+        "desktop": {
+          "path": "../images/en/hh_main_banner_pc_en.png",
+          "height": "90px", 
+          "background-color": "#1d2423" 
+        },
+        "tablet": {
+          "path": "../images/en/hh_main_banner_pc_en.png",
+          "height": "65px",
+          "background-color": "#1969FF"
+        },
+        "mobile": {
+          "path": "../images/en/hh_main_banner_mo_en.png",
+          "height": "15.64vw",
+          "background-color": "#1d2423"
+        }
+      }
+    },
+    "link": {
+      "ko": {
+        "internal": "/events/202109-hedera-hbar-promotion?lang=ko&utm_source=dcentwallet&utm_medium=website_banner&utm_campaign=202109-hedera-hbar-promotion", 
+        "extenral": false
+      },
+      "en": {
+        "internal": "/events/202109-hedera-hbar-promotion?lang=en&utm_source=dcentwallet&utm_medium=website_banner&utm_campaign=202109-hedera-hbar-promotion", 
+        "extenral": false
+      }
+    }
+  }
 ]

@@ -1,11 +1,11 @@
 {
     "list": [
         {
-            "name": "dcent",
-            "title": "디센트",
+            "name": "Hedera",
+            "title": "Hedera",
             "description": "",
-            "link": "https://dcentwallet.com",
-            "imagePath": "banner_dcent.png",
+            "link": "https://dcentwallet.com/events/202109-hedera-hbar-promotion?lang=ko&utm_source=dcentwallet&utm_medium=app_banner&utm_campaign=202109-hedera-hbar-promotion",
+            "imagePath": "hh_event_app_thumb_ko.png",
             "externalWindow": true
         }
     ]
