@@ -151,7 +151,7 @@
                 {
                     "networkId": "avalanche-mainnet",
                     "name": "ava",
-                    "description": "Avalanche",
+                    "description": "Avalanche C-Chain",
                     "coinType": "CHAN:43114",
                     "chainId": 43114,
                     "iconPath": "network_ava.png",
