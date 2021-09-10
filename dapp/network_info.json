@@ -151,7 +151,7 @@
                 {
                     "networkId": "avalanche-mainnet",
                     "name": "ava",
-                    "description": "AVA",
+                    "description": "Avalanche",
                     "coinType": "CHAN:43114",
                     "chainId": 43114,
                     "iconPath": "network_ava.png",
@@ -160,7 +160,7 @@
                 {
                     "networkId": "ewc-mainnet",
                     "name": "ewc",
-                    "description": "EWC",
+                    "description": "Energy Web Chain",
                     "coinType": "CHAN:246",
                     "chainId": 246,
                     "iconPath": "network_ewc.png",
