@@ -1,4 +1,9 @@
 [ 
+    {
+    "name": "Stacks",
+    "imageUrl": "../images/partners_stacks.png",
+    "gotoLink": "https://www.stacks.co/"
+   },
    {
     "name": "tunefm",
     "imageUrl": "../images/partners_tunefm.png",
