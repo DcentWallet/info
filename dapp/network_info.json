@@ -149,6 +149,15 @@
                     "iconPath": "network_celo.png"
                 },
                 {
+                    "networkId": "kcc-mainnet",
+                    "name": "kcc",
+                    "description": "KCC",
+                    "coinType": "CHAN:321",
+                    "chainId": 321,
+                    "iconPath": "network_kcc.png",
+                    "preRelease": true
+                },
+                {
                     "networkId": "avalanche-mainnet",
                     "name": "ava",
                     "description": "Avalanche C-Chain",
@@ -164,15 +173,6 @@
                     "coinType": "CHAN:246",
                     "chainId": 246,
                     "iconPath": "network_ewc.png",
-                    "preRelease": true
-                },
-                {
-                    "networkId": "kcc-mainnet",
-                    "name": "kcc",
-                    "description": "KCC",
-                    "coinType": "CHAN:321",
-                    "chainId": 321,
-                    "iconPath": "network_kcc.png",
                     "preRelease": true
                 }
             ]
