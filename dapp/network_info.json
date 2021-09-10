@@ -147,6 +147,24 @@
                     "coinType": "CHAN:42220",
                     "chainId": 42220,
                     "iconPath": "network_celo.png"
+                },
+                {
+                    "networkId": "avalanche-mainnet",
+                    "name": "ava",
+                    "description": "AVA",
+                    "coinType": "CHAN:43114",
+                    "chainId": 43114,
+                    "iconPath": "network_ava.png",
+                    "preRelease": true
+                },
+                {
+                    "networkId": "ewc-mainnet",
+                    "name": "ewc",
+                    "description": "EWC",
+                    "coinType": "CHAN:246",
+                    "chainId": 246,
+                    "iconPath": "network_ewc.png",
+                    "preRelease": true
                 }
             ]
         },
