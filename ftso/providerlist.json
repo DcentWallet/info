@@ -1,16 +1,19 @@
 [
   {
     "name": "Test provider",
+    "address: "0x11112222333344445555",
     "image": "/static/images/network_no_icon.png",
     "url": "https://google.com"
   },
   {
     "name": "Test provider2",
+    "address: "0x11112222333344445555",
     "image": "/static/images/network_no_icon.png",
     "url": "https://google.com"
   },
   {
     "name": "Test provider3",
+    "address: "0x11112222333344445555",
     "image": "/static/images/network_no_icon.png",
     "url": "https://google.com"
   }
