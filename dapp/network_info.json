@@ -154,8 +154,7 @@
                     "description": "KCC",
                     "coinType": "CHAN:321",
                     "chainId": 321,
-                    "iconPath": "network_kcc.png",
-                    "preRelease": true
+                    "iconPath": "network_kcc.png"
                 },
                 {
                     "networkId": "avalanche-mainnet",
