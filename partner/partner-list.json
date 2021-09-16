@@ -1,5 +1,10 @@
 [ 
     {
+    "name": "KCC",
+    "imageUrl": "../images/partners_KCC.png",
+    "gotoLink": "https://www.kcc.io/#/"
+   },
+    {
     "name": "Stacks",
     "imageUrl": "../images/partners_stacks.png",
     "gotoLink": "https://www.stacks.co/"
