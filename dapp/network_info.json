@@ -173,6 +173,15 @@
                     "chainId": 246,
                     "iconPath": "network_ewc.png",
                     "preRelease": true
+                },
+                {
+                    "networkId": "songbird-mainnet",
+                    "name": "songbird",
+                    "description": "Songbird",
+                    "coinType": "CHAN:19",
+                    "chainId": 19,
+                    "iconPath": "network_sgb.png",
+                    "preRelease": true
                 }
             ]
         },
