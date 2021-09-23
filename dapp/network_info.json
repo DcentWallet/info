@@ -88,8 +88,7 @@
                     "description": "Songbird",
                     "coinType": "CHAN:19",
                     "chainId": 19,
-                    "iconPath": "network_sgb.png",
-                    "preRelease": true
+                    "iconPath": "network_sgb.png"
                 },
                 {
                     "networkId": "heco-mainnet",
