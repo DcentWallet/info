@@ -176,7 +176,7 @@
                 },
                 {
                     "networkId": "songbird-mainnet",
-                    "name": "songbird",
+                    "name": "sgb",
                     "description": "Songbird",
                     "coinType": "CHAN:19",
                     "chainId": 19,
