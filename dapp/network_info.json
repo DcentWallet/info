@@ -83,6 +83,15 @@
                     "testnet": true
                 },
                 {
+                    "networkId": "songbird-mainnet",
+                    "name": "sgb",
+                    "description": "Songbird",
+                    "coinType": "CHAN:19",
+                    "chainId": 19,
+                    "iconPath": "network_sgb.png",
+                    "preRelease": true
+                },
+                {
                     "networkId": "heco-mainnet",
                     "name": "heco",
                     "description": "HECO",
@@ -172,15 +181,6 @@
                     "coinType": "CHAN:246",
                     "chainId": 246,
                     "iconPath": "network_ewc.png",
-                    "preRelease": true
-                },
-                {
-                    "networkId": "songbird-mainnet",
-                    "name": "sgb",
-                    "description": "Songbird",
-                    "coinType": "CHAN:19",
-                    "chainId": 19,
-                    "iconPath": "network_sgb.png",
                     "preRelease": true
                 }
             ]
