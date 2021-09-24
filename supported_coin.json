@@ -373,6 +373,17 @@
     }
   },
   {
+    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/asset-songbird.png",
+    "name": "Songbird Token",
+    "symbol": "SGB",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://assets.coingecko.com/coins/images/14899/small/RwdVsGcw_400x400.jpg",
     "symbol": "KNC",
     "name": "Kyber Network Crystal v2",

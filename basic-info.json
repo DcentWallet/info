@@ -299,6 +299,15 @@
                 "width": "32px",
                 "height": "32px"
             }
+        },
+        {
+            "symbol": "SGB", 
+            "name": "Songbird Token",
+            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/asset-songbird.png",
+            "imgSize": {
+                "width": "32px",
+                "height": "32px"
+            }
         }
     ],
     "cardSupportedCoinList": [
