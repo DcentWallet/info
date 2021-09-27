@@ -3,34 +3,34 @@
     "img": {
       "ko": {
         "desktop": {
-          "path": "../images/ko/hh_main_banner_pc_kr.png",
+          "path": "../images/ko/hh_main_banner_pc_kr_end.png",
           "height": "90px", 
           "background-color": "#0d081c" 
         },
         "tablet": {
-          "path": "../images/ko/hh_main_banner_pc_kr.png",
+          "path": "../images/ko/hh_main_banner_pc_kr_end.png",
           "height": "65px",
           "background-color": "#0d081c"
         },
         "mobile": {
-          "path": "../images/ko/hh_main_banner_mo_kr.png",
+          "path": "../images/ko/hh_main_banner_mo_kr_end.png",
           "height": "15.64vw",
           "background-color": "#0d081c"
         }
       },
       "en": {
         "desktop": {
-          "path": "../images/en/hh_main_banner_pc_en.png",
+          "path": "../images/en/hh_main_banner_pc_en_end.png",
           "height": "90px", 
           "background-color": "#0d081c" 
         },
         "tablet": {
-          "path": "../images/en/hh_main_banner_pc_en.png",
+          "path": "../images/en/hh_main_banner_pc_en_end.png",
           "height": "65px",
           "background-color": "#0d081c"
         },
         "mobile": {
-          "path": "../images/en/hh_main_banner_mo_en.png",
+          "path": "../images/en/hh_main_banner_mo_en_end.png",
           "height": "15.64vw",
           "background-color": "#0d081c"
         }
@@ -38,12 +38,12 @@
     },
     "link": {
       "ko": {
-        "internal": "/events/202109-hedera-hbar-promotion?lang=ko&utm_source=dcentwallet&utm_medium=website_banner&utm_campaign=202109-hedera-hbar-promotion", 
-        "extenral": false
+        "internal": false, 
+        "extenral": "https://docs.google.com/forms/d/e/1FAIpQLScFoql_RZYvowHj6SgffEaEbGpY4P7M8HqINN4rALNk_SaCsg/viewform?usp=sf_link"
       },
       "en": {
-        "internal": "/events/202109-hedera-hbar-promotion?lang=en&utm_source=dcentwallet&utm_medium=website_banner&utm_campaign=202109-hedera-hbar-promotion", 
-        "extenral": false
+        "internal": false, 
+        "extenral": "https://docs.google.com/forms/d/e/1FAIpQLSeJ-IfCslvXi6sU0TAZI7C6INy2852bLxng2Gtg0UyRHUlQNA/viewform?usp=sf_link"
       }
     }
   }
