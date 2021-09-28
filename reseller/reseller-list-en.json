@@ -1,5 +1,10 @@
 [
   {
+    "name": "safeisrael",
+    "imageUrl": "../images_en/safeisrael_logo.png",
+    "gotoLink": "www.safeisrael.co.il"
+  },  
+  {
     "name": "trend",
     "imageUrl": "../images_en/trend_logo.png",
     "gotoLink": "https://store.trend.hk/products/dcent-biometric-wallet"
