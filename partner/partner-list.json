@@ -1,5 +1,11 @@
 [ 
     {
+    "name": "scandinodes",
+    "imageUrl": "../images/partners_scandinodes.png",
+    "gotoLink": "https://ftso.scandinodes.com/"
+    },
+    {
+    {
     "name": "KCC",
     "imageUrl": "../images/partners_KCC.png",
     "gotoLink": "https://www.kcc.io/#/"
