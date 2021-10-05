@@ -126,14 +126,14 @@
       "dapp": "https://defioracles.net/",
       "twitter": "https://twitter.com/DeFiOracles",
 			"address": "0xca60cd408a5e447897258cdb1f699478c71cc55e",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xca60cd408a5e447897258cdb1f699478c71cc55e.png"
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xca60cd408a5e447897258cdb1f699478c71cc55e.png"
 		},
 		{
 			"name": "KysenPool",
 			"description": "Global Proof-of-Stake Validator experienced operating nodes for Cardano, Cosmos, Terra , Harmony, Kava and Desmos. Now FTSO for Flare/Songbird.",
 			"url": "https://www.kysenpool.io/",
 			"address": "0xb53d69b2519ac9f6d65cff8e7824bf09f7064d61",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb53d69b2519ac9f6d65cff8e7824bf09f7064d61.png"
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb53d69b2519ac9f6d65cff8e7824bf09f7064d61.png"
 		}
   ],
   "19": [
@@ -263,35 +263,35 @@
       "dapp": "https://defioracles.net/",
       "twitter": "https://twitter.com/DeFiOracles",
 			"address": "0xca60cd408a5e447897258cdb1f699478c71cc55e",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xca60cd408a5e447897258cdb1f699478c71cc55e.png"
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xca60cd408a5e447897258cdb1f699478c71cc55e.png"
 		},
 		{
 			"name": "KysenPool",
 			"description": "Global Proof-of-Stake Validator experienced operating nodes for Cardano, Cosmos, Terra , Harmony, Kava and Desmos. Now FTSO for Flare/Songbird.",
 			"url": "https://www.kysenpool.io/",
 			"address": "0xb53d69b2519ac9f6d65cff8e7824bf09f7064d61",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb53d69b2519ac9f6d65cff8e7824bf09f7064d61.png"
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb53d69b2519ac9f6d65cff8e7824bf09f7064d61.png"
 		},
 		{
 			"name": "Optakt",
 			"description": "Optakt is a tactical engineering team working on projects which reshape the landscape of blockchain technology.",
 			"url": "https://www.optakt.io",
 			"address": "0xddef7e54a9f72d9fc0a281b42f15a22b30681da5",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xddef7e54a9f72d9fc0a281b42f15a22b30681da5.png"
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xddef7e54a9f72d9fc0a281b42f15a22b30681da5.png"
 		},
 		{
 			"name": "AFOracle",
 			"description": "AFOracle is an FTSO provider from AFLabs, a team that helped build the Flare's smart contract infrastructure.",
 			"url": "https://aforacle.com/",
 			"address": "0x9565d813a3a0cea62b3bdb9a4e236dcb5910c4f0",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9565d813a3a0cea62b3bdb9a4e236dcb5910c4f0.png"
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9565d813a3a0cea62b3bdb9a4e236dcb5910c4f0.png"
 		},
 		{
 			"name": "FTSOExpress",
 			"description": "FTSO Express, looking to be a no frills, minimal FTSO Provider",
 			"url": "https://ftso.express/",
 			"address": "0x33ddae234e403789954cd792e1febdbe2466adc2",
-			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x33ddae234e403789954cd792e1febdbe2466adc2.png"
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x33ddae234e403789954cd792e1febdbe2466adc2.png"
 		}
   ]
 }
