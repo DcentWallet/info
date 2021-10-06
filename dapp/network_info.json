@@ -170,8 +170,7 @@
                     "description": "Avalanche C-Chain",
                     "coinType": "CHAN:43114",
                     "chainId": 43114,
-                    "iconPath": "network_ava.png",
-                    "preRelease": true
+                    "iconPath": "network_ava.png"
                 },
                 {
                     "networkId": "ewc-mainnet",
