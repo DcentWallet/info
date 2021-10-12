@@ -1,5 +1,10 @@
 [ 
     {
+    "name": "avax",
+    "imageUrl": "../images/partners_avax.png",
+    "gotoLink": "https://www.avax.network/"
+    },
+    {
     "name": "scandinodes",
     "imageUrl": "../images/partners_scandinodes.png",
     "gotoLink": "https://ftso.scandinodes.com/"
