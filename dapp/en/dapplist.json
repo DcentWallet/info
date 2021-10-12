@@ -21,7 +21,19 @@
             "iconPath": "icon_moonpay.png",
             "testnet": false,
             "externalWindow": false
-        },        
+        },
+        {
+            "name": "ftso",
+            "title": "FTSO Portal",
+            "description": "FTSO Portal is a service by D’CENT to provide fast and easy way to delegate Vote Power to the user’s favorite FTSO provider. By delegating Vote Power, users can earn passive income as reward.",
+            "link": "https://ftsoportal.com",
+            "kind": [],
+            "category": [],
+            "iconPath": "icon_ftso.png",
+            "testnet": false,
+            "externalWindow": false,
+            "preRelease": true
+        },      
         {
             "name": "KLAYswap",
             "title": "KLAYswap",

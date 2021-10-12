@@ -23,6 +23,18 @@
             "externalWindow": false
         },
         {
+            "name": "ftso",
+            "title": "FTSO Portal",
+            "description": "FTSO Portal은 사용자가 원하는 FTSO provider에 Vote Power 쉽고 빠르게 위임할 수 있는 기능을 제공하는 디센트의 서비스입니다. 사용자는 Vote Power 위임을 통해 패시브인컴(passive income)을 보상으로 받을 수 있습니다 .",
+            "link": "https://ftsoportal.com",
+            "kind": [],
+            "category": [],
+            "iconPath": "icon_ftso.png",
+            "testnet": false,
+            "externalWindow": false,
+            "preRelease": true
+        },
+        {
             "name": "KLAYswap",
             "title": "KLAYswap",
             "description": "클레이스왑은 유동성 풀 기반의 KLAY, ETH, WBTC, USDT, ORC 토큰 교환과 유동성 마이닝을 통해 클레이튼 DeFi 생태계를 확장합니다.",
