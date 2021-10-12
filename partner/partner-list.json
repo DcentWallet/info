@@ -1,5 +1,10 @@
 [ 
     {
+    "name": "bestftso",
+    "imageUrl": "../images/partners_bestftso.png",
+    "gotoLink": "https://bestftso.xyz/"
+    },
+    {
     "name": "avax",
     "imageUrl": "../images/partners_avax.png",
     "gotoLink": "https://www.avax.network/"
