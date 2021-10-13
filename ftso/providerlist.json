@@ -8,7 +8,7 @@
       "dapp": "",
       "twitter": "https://twitter.com/TowoLabs",
       "address": "0x9a46864a3b0a7805b266c445289c3fad1e48f18e",
-      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9a46864a3b0a7805b266c445289c3fad1e48f18e.png"
+      "image": "https://raw.githubusercontent.com/DcentWallet/info/ftso/images/0x9a46864a3b0a7805b266c445289c3fad1e48f18e.png"
     },
     {
       "partner": true,
@@ -18,7 +18,7 @@
       "dapp": "https://app.scandinodes.com/",
       "twitter": "https://twitter.com/scandinodesFTSO",
       "address": "0x4ed9e5b82ce66311ac2230d2fccc5202d7b8c083",
-      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4ed9e5b82ce66311ac2230d2fccc5202d7b8c083.png"
+      "image": "https://raw.githubusercontent.com/DcentWallet/info/ftso/images/0x4ed9e5b82ce66311ac2230d2fccc5202d7b8c083.png"
     },
     {
       "partner": true,
@@ -28,7 +28,7 @@
       "dapp": "",
       "twitter": "https://twitter.com/AureusOx",
       "address": "0x9269fb79b098ab314de8a1e2afb8705678520443",
-      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9269fb79b098ab314de8a1e2afb8705678520443.png"
+      "image": "https://raw.githubusercontent.com/DcentWallet/info/ftso/images/0x9269fb79b098ab314de8a1e2afb8705678520443.png"
     },
     {
       "partner": true,
@@ -38,7 +38,7 @@
       "dapp": "https://www.alphaoracle.io/delegate/",
       "twitter": "https://twitter.com/AlphaOracle1",
       "address": "0x47b6effe71abd4e8cdcc56f2341beb404f804b87",
-      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x47b6effe71abd4e8cdcc56f2341beb404f804b87.png"
+      "image": "https://raw.githubusercontent.com/DcentWallet/info/ftso/images/0x47b6effe71abd4e8cdcc56f2341beb404f804b87.png"
     },
     {
       "partner": true,
@@ -48,7 +48,7 @@
       "dapp": "",
       "twitter": "https://twitter.com/ftso_eu",
       "address": "0xb0421af2cffb21d8a0be4087448146e4f9cbd306",
-      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb0421af2cffb21d8a0be4087448146e4f9cbd306.png"
+      "image": "https://raw.githubusercontent.com/DcentWallet/info/ftso/images/0xb0421af2cffb21d8a0be4087448146e4f9cbd306.png"
     },
     {
       "partner": true,
@@ -58,7 +58,7 @@
       "dapp": "https://www.ftso.uk/delegate",
       "twitter": "https://twitter.com/ftso_uk",
       "address": "0x5f911c2c681f678e5a3a8d54f950d6b192cc16e3",
-      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x5f911c2c681f678e5a3a8d54f950d6b192cc16e3.png"
+      "image": "https://raw.githubusercontent.com/DcentWallet/info/ftso/images/0x5f911c2c681f678e5a3a8d54f950d6b192cc16e3.png"
     },
     {
       "partner": true,
@@ -68,7 +68,7 @@
       "dapp": "https://app.ftso.com.au",
       "twitter": "https://twitter.com/ftso_au",
       "address": "0x4990320858ae3528b645c60059281a66c3488888",
-      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4990320858ae3528b645c60059281a66c3488888.png"
+      "image": "https://raw.githubusercontent.com/DcentWallet/info/ftso/images/0x4990320858ae3528b645c60059281a66c3488888.png"
     },
     {
       "partner": true,
@@ -78,35 +78,35 @@
       "dapp": "",
       "twitter": "https://twitter.com/useyourspark",
       "address": "0xa288054b230dcbb8689ac229d6dbd7df39203181",
-      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xa288054b230dcbb8689ac229d6dbd7df39203181.png"
+      "image": "https://raw.githubusercontent.com/DcentWallet/info/ftso/images/0xa288054b230dcbb8689ac229d6dbd7df39203181.png"
     },
     {
       "name": "Sun-Dara",
       "description": "Sun-Dara is an Asian FTSO provider based primarily in Bangladesh with connections to the United Kingdom. We try and keep things simple and easy to understand. Check out our website for more information and service status updates.",
       "url": "https://sun-dara.co.uk",
       "address": "0x1e8f916ce03f4ce86186531a8994d366581ed4be",
-      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1e8f916ce03f4ce86186531a8994d366581ed4be.png"
+      "image": "https://raw.githubusercontent.com/DcentWallet/info/ftso/images/0x1e8f916ce03f4ce86186531a8994d366581ed4be.png"
     },
     {
       "name": "Interoracle",
       "description": "An interchain oracle built by whirledlabs. Price ranked by liquidity.",
       "url": "https://interoracle.io",
       "address": "0x62d6116d6a139f2d402e8d8e30baaf5790542801",
-      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x62d6116d6a139f2d402e8d8e30baaf5790542801.png"
+      "image": "https://raw.githubusercontent.com/DcentWallet/info/ftso/images/0x62d6116d6a139f2d402e8d8e30baaf5790542801.png"
     },
     {
       "name": "Lena Instruments",
       "description": "Institutional grade vote delegation service and FTSO signal provider to the Flare ecosystem",
       "url": "https://www.lena.tech",
       "address": "0xc9ac8f034d295962a6a975b717b691437605bbb6",
-      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xc9ac8f034d295962a6a975b717b691437605bbb6.png"
+      "image": "https://raw.githubusercontent.com/DcentWallet/info/ftso/images/0xc9ac8f034d295962a6a975b717b691437605bbb6.png"
     },
     {
       "name": "A-FTSO",
       "description": "The first indie FTSO provider, run as a professional one. No frills, low fees.",
       "url": "https://ftso.alexdupre.com",
       "address": "0x2d7bf53ed6117ad1dcd6416d460481522a16afdf",
-      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2d7bf53ed6117ad1dcd6416d460481522a16afdf.png"
+      "image": "https://raw.githubusercontent.com/DcentWallet/info/ftso/images/0x2d7bf53ed6117ad1dcd6416d460481522a16afdf.png"
     },
     {
       "partner": true,
@@ -116,7 +116,7 @@
       "dapp": "https://bestftso.xyz/delegate",
       "twitter": "https://twitter.com/BestFtso",
       "address": "0x939789ed3d07a80da886a3e3017d665cbb5591dc",
-      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x939789ed3d07a80da886a3e3017d665cbb5591dc.png"
+      "image": "https://raw.githubusercontent.com/DcentWallet/info/ftso/images/0x939789ed3d07a80da886a3e3017d665cbb5591dc.png"
     },
 		{
       "partner": true,
@@ -126,14 +126,14 @@
       "dapp": "https://defioracles.net/",
       "twitter": "https://twitter.com/DeFiOracles",
 			"address": "0xca60cd408a5e447897258cdb1f699478c71cc55e",
-			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xca60cd408a5e447897258cdb1f699478c71cc55e.png"
+			"image": "https://raw.githubusercontent.com/DcentWallet/info/ftso/images/0xca60cd408a5e447897258cdb1f699478c71cc55e.png"
 		},
 		{
 			"name": "KysenPool",
 			"description": "Global Proof-of-Stake Validator experienced operating nodes for Cardano, Cosmos, Terra , Harmony, Kava and Desmos. Now FTSO for Flare/Songbird.",
 			"url": "https://www.kysenpool.io/",
 			"address": "0xb53d69b2519ac9f6d65cff8e7824bf09f7064d61",
-			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb53d69b2519ac9f6d65cff8e7824bf09f7064d61.png"
+			"image": "https://raw.githubusercontent.com/DcentWallet/info/ftso/images/0xb53d69b2519ac9f6d65cff8e7824bf09f7064d61.png"
 		}
   ],
   "19": [
@@ -145,7 +145,7 @@
       "dapp": "",
       "twitter": "https://twitter.com/TowoLabs",
       "address": "0x69141e890f3a79cd2cff552c0b71508be23712dc",
-      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x69141e890f3a79cd2cff552c0b71508be23712dc.png"
+      "image": "https://raw.githubusercontent.com/DcentWallet/info/ftso/images/0x69141e890f3a79cd2cff552c0b71508be23712dc.png"
     },
     {
       "partner": true,
@@ -155,7 +155,7 @@
       "dapp": "https://app.scandinodes.com/",
       "twitter": "https://twitter.com/scandinodesFTSO",
       "address": "0x4ed9e5b82ce66311ac2230d2fccc5202d7b8c083",
-      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4ed9e5b82ce66311ac2230d2fccc5202d7b8c083.png"
+      "image": "https://raw.githubusercontent.com/DcentWallet/info/ftso/images/0x4ed9e5b82ce66311ac2230d2fccc5202d7b8c083.png"
     },
     {
       "partner": true,
@@ -165,7 +165,7 @@
       "dapp": "",
       "twitter": "https://twitter.com/AureusOx",
       "address": "0x6d323e71e141ce2d7b752313c8a654a9c9d1b377",
-      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6d323e71e141ce2d7b752313c8a654a9c9d1b377.png"
+      "image": "https://raw.githubusercontent.com/DcentWallet/info/ftso/images/0x6d323e71e141ce2d7b752313c8a654a9c9d1b377.png"
     },
     {
       "partner": true,
@@ -175,7 +175,7 @@
       "dapp": "https://www.alphaoracle.io/delegate/",
       "twitter": "https://twitter.com/AlphaOracle1",
       "address": "0xbf61db1cdb43d196309824473fa82e5b17581159",
-      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xbf61db1cdb43d196309824473fa82e5b17581159.png"
+      "image": "https://raw.githubusercontent.com/DcentWallet/info/ftso/images/0xbf61db1cdb43d196309824473fa82e5b17581159.png"
     },
     {
       "partner": true,
@@ -185,7 +185,7 @@
       "dapp": "",
       "twitter": "https://twitter.com/ftso_eu",
       "address": "0x010a16c53f33e4d93892f00897965578b55a8cfc",
-      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x010a16c53f33e4d93892f00897965578b55a8cfc.png"
+      "image": "https://raw.githubusercontent.com/DcentWallet/info/ftso/images/0x010a16c53f33e4d93892f00897965578b55a8cfc.png"
     },
     {
       "partner": true,
@@ -195,7 +195,7 @@
       "dapp": "https://www.ftso.uk/delegate",
       "twitter": "https://twitter.com/ftso_eu",
       "address": "0xb9b7355f5b71cee345311921d247b1d2ba5cfe90",
-      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb9b7355f5b71cee345311921d247b1d2ba5cfe90.png"
+      "image": "https://raw.githubusercontent.com/DcentWallet/info/ftso/images/0xb9b7355f5b71cee345311921d247b1d2ba5cfe90.png"
     },
     {
       "partner": true,
@@ -205,7 +205,7 @@
       "dapp": "https://app.ftso.com.au",
       "twitter": "https://twitter.com/ftso_au",
       "address": "0x499017adb21d6f70480e4e6224cf4144071c1461",
-      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x499017adb21d6f70480e4e6224cf4144071c1461.png"
+      "image": "https://raw.githubusercontent.com/DcentWallet/info/ftso/images/0x499017adb21d6f70480e4e6224cf4144071c1461.png"
     },
     {
       "partner": true,
@@ -215,35 +215,35 @@
       "dapp": "",
       "twitter": "https://twitter.com/useyourspark",
       "address": "0x53caedda4339ed74272ecfef85b657def18fa2e4",
-      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x53caedda4339ed74272ecfef85b657def18fa2e4.png"
+      "image": "https://raw.githubusercontent.com/DcentWallet/info/ftso/images/0x53caedda4339ed74272ecfef85b657def18fa2e4.png"
     },
     {
       "name": "Sun-Dara",
       "description": "Sun-Dara is an Asian STSO provider based primarily in Bangladesh with connections to the United Kingdom. We try and keep things simple and easy to understand. Check out our website for more information and service status updates.",
       "url": "https://sun-dara.co.uk",
       "address": "0x7394923453fc2f606cfb4d0ea1a5438bb8260d08",
-      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7394923453fc2f606cfb4d0ea1a5438bb8260d08.png"
+      "image": "https://raw.githubusercontent.com/DcentWallet/info/ftso/images/0x7394923453fc2f606cfb4d0ea1a5438bb8260d08.png"
     },
     {
       "name": "Interoracle",
       "description": "An interchain oracle built by whirledlabs. Price ranked by liquidity.",
       "url": "https://interoracle.io",
       "address": "0x62d6116d6a139f2d402e8d8e30baaf5790542801",
-      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x62d6116d6a139f2d402e8d8e30baaf5790542801.png"
+      "image": "https://raw.githubusercontent.com/DcentWallet/info/ftso/images/0x62d6116d6a139f2d402e8d8e30baaf5790542801.png"
     },
     {
       "name": "Lena Instruments",
       "description": "Institutional grade vote delegation service and FTSO signal provider to the Songbird ecosystem",
       "url": "https://www.lena.tech",
       "address": "0xc9ac8f034d295962a6a975b717b691437605bbb6",
-      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xc9ac8f034d295962a6a975b717b691437605bbb6.png"
+      "image": "https://raw.githubusercontent.com/DcentWallet/info/ftso/images/0xc9ac8f034d295962a6a975b717b691437605bbb6.png"
     },
     {
       "name": "A-FTSO",
       "description": "The first indie FTSO provider, run as a professional one. No frills, low fees.",
       "url": "https://ftso.alexdupre.com",
       "address": "0x2d7bf53ed6117ad1dcd6416d460481522a16afdf",
-      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2d7bf53ed6117ad1dcd6416d460481522a16afdf.png"
+      "image": "https://raw.githubusercontent.com/DcentWallet/info/ftso/images/0x2d7bf53ed6117ad1dcd6416d460481522a16afdf.png"
     },
     {
       "partner": true,
@@ -253,7 +253,7 @@
       "dapp": "https://bestftso.xyz/delegate",
       "twitter": "https://twitter.com/BestFtso",
       "address": "0x939789ed3d07a80da886a3e3017d665cbb5591dc",
-      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x939789ed3d07a80da886a3e3017d665cbb5591dc.png"
+      "image": "https://raw.githubusercontent.com/DcentWallet/info/ftso/images/0x939789ed3d07a80da886a3e3017d665cbb5591dc.png"
     },
 		{
       "partner": true,
@@ -263,35 +263,35 @@
       "dapp": "https://defioracles.net/",
       "twitter": "https://twitter.com/DeFiOracles",
 			"address": "0xca60cd408a5e447897258cdb1f699478c71cc55e",
-			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xca60cd408a5e447897258cdb1f699478c71cc55e.png"
+			"image": "https://raw.githubusercontent.com/DcentWallet/info/ftso/images/0xca60cd408a5e447897258cdb1f699478c71cc55e.png"
 		},
 		{
 			"name": "KysenPool",
 			"description": "Global Proof-of-Stake Validator experienced operating nodes for Cardano, Cosmos, Terra , Harmony, Kava and Desmos. Now FTSO for Flare/Songbird.",
 			"url": "https://www.kysenpool.io/",
 			"address": "0xb53d69b2519ac9f6d65cff8e7824bf09f7064d61",
-			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb53d69b2519ac9f6d65cff8e7824bf09f7064d61.png"
+			"image": "https://raw.githubusercontent.com/DcentWallet/info/ftso/images/0xb53d69b2519ac9f6d65cff8e7824bf09f7064d61.png"
 		},
 		{
 			"name": "Optakt",
 			"description": "Optakt is a tactical engineering team working on projects which reshape the landscape of blockchain technology.",
 			"url": "https://www.optakt.io",
 			"address": "0xddef7e54a9f72d9fc0a281b42f15a22b30681da5",
-			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xddef7e54a9f72d9fc0a281b42f15a22b30681da5.png"
+			"image": "https://raw.githubusercontent.com/DcentWallet/info/ftso/images/0xddef7e54a9f72d9fc0a281b42f15a22b30681da5.png"
 		},
 		{
 			"name": "AFOracle",
 			"description": "AFOracle is an FTSO provider from AFLabs, a team that helped build the Flare's smart contract infrastructure.",
 			"url": "https://aforacle.com/",
 			"address": "0x9565d813a3a0cea62b3bdb9a4e236dcb5910c4f0",
-			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9565d813a3a0cea62b3bdb9a4e236dcb5910c4f0.png"
+			"image": "https://raw.githubusercontent.com/DcentWallet/info/ftso/images/0x9565d813a3a0cea62b3bdb9a4e236dcb5910c4f0.png"
 		},
 		{
 			"name": "FTSOExpress",
 			"description": "FTSO Express, looking to be a no frills, minimal FTSO Provider",
 			"url": "https://ftso.express/",
 			"address": "0x33ddae234e403789954cd792e1febdbe2466adc2",
-			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x33ddae234e403789954cd792e1febdbe2466adc2.png"
+			"image": "https://raw.githubusercontent.com/DcentWallet/info/ftso/images/0x33ddae234e403789954cd792e1febdbe2466adc2.png"
 		}
   ]
 }
