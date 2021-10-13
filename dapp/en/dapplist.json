@@ -30,6 +30,7 @@
             "kind": [],
             "category": [],
             "iconPath": "icon_ftso.png",
+            "type": "dapp",
             "testnet": false,
             "externalWindow": false,
             "preRelease": true
