@@ -28,11 +28,16 @@
             "description": "FTSO Portal은 사용자가 원하는 FTSO provider에 Vote Power 쉽고 빠르게 위임할 수 있는 기능을 제공하는 디센트의 서비스입니다. 사용자는 Vote Power 위임을 통해 패시브인컴(passive income)을 보상으로 받을 수 있습니다 .",
             "link": "https://ftsoportal.com",
             "kind": [],
+            "network": [ 
+                {
+                "id": "songbird-mainnet",
+                "name": "송버드"
+                } 
+            ],
             "category": [],
             "iconPath": "icon_ftso.png",
             "type": "dapp_dcent",
             "device": "ble_dongle",
-            "testnet": false,
             "externalWindow": false,
             "preRelease": true
         },
@@ -42,6 +47,12 @@
             "description": "클레이스왑은 유동성 풀 기반의 KLAY, ETH, WBTC, USDT, ORC 토큰 교환과 유동성 마이닝을 통해 클레이튼 DeFi 생태계를 확장합니다.",
             "link": "https://klayswap.com/",
             "kind": ["klay"],
+            "network": [ 
+                {
+                "id": "klaytn-mainnet",
+                "name": "클레이튼"
+                } 
+            ],
             "category": [],
             "iconPath": "icon_klayswap.png",
             "type": "dapp",
@@ -54,6 +65,12 @@
             "description": "Belt.fi는 바이낸스 스마트 체인에서 동작하는 AMM 기반 다중 전략 수익 최적화 프로토콜로써, 자동화 복리 및 수익 창출 집계를 통해 최대의 수익을 제공합니다.",
             "link": "https://belt.fi/",
             "kind": ["bsc"],
+            "network": [ 
+                {
+                "id": "bsc-mainnet",
+                "name": "바이낸스 스마트체인"
+                } 
+            ],
             "category": [],
             "iconPath": "icon_belt_fi.png",
             "type": "dapp",
@@ -66,6 +83,12 @@
             "description": "멀티체인 기반 탈중앙 자산 관리 프로토콜. 디피닉스는 암호화폐 투자자가 디파이에 투자할 수 있도록 투명성를 제공하는 암호화폐 투자 플랫폼입니다. 투자자들은 자신만의 펀드를 구성하고 투자 기술을 이용하여 더 많은 수익을 올릴 수 있습니다.",
             "link": "https://definix.com/",
             "kind": ["bsc"],
+            "network": [ 
+                {
+                "id": "bsc-mainnet",
+                "name": "바이낸스 스마트체인"
+                } 
+            ],
             "category": [],
             "iconPath": "icon_definix.png",
             "type": "dapp",
@@ -78,6 +101,12 @@
             "description": "KlayFi는 클레이튼 기반의 이자 수확 최적화(Yield Optimizer) 프로토콜입니다. KLAYswap 이용자에게 최적화된 자동 재예치 기능을 제공하여 투자 편의성을 높이고, 동시에 투자 자산 수익 극대화를 제공합니다.",
             "link": "https://klayfi.finance/",
             "kind": ["klay"],
+            "network": [ 
+                {
+                "id": "klaytn-mainnet",
+                "name": "클레이튼"
+                } 
+            ],
             "category": [],
             "iconPath": "icon_klayfi.png",
             "type": "dapp",
@@ -90,6 +119,12 @@
             "description": "블루웨일 프로토콜은 사용하기 쉬운 디파이 서비스를 지향하는 프로젝트입니다. 디파이 대시보드, DEX 어그리게이터, 자동 재예치 서비스 등 탈중앙화 금융(DeFi) 관련 서비스 제공을 통해 클레이튼 디파이 생태계 활동을 더 쉽고 효율적으로 만듭니다.",
             "link": "https://bluewhale-protocol.com/",
             "kind": ["klay"],
+            "network": [ 
+                {
+                "id": "klaytn-mainnet",
+                "name": "클레이튼"
+                } 
+            ],
             "category": [],
             "iconPath": "icon_bluewhale.png",
             "type": "dapp",
@@ -102,6 +137,12 @@
             "description": "클레이스테이션은 클레이튼 네트워크 기반 공식 스테이킹 툴입니다.",
             "link": "https://klaystation.io/dashboard",
             "kind": ["klay"],
+            "network": [ 
+                {
+                "id": "klaytn-mainnet",
+                "name": "클레이튼"
+                } 
+            ],
             "category": [],
             "iconPath": "icon_klaystation.png",
             "type": "dapp",
@@ -114,6 +155,12 @@
             "description": "Tokamak DAO는 토카막 네트워크 토큰(TON)의 보유자들이 토카막 네트워크의 생태계에 영향을 주는 주요한 의제(Agenda)에 관한 의사결정에 직접 참여할 수 있는 블록체인 상의 구축된 스마트 콘트랙트 시스템이자 자치기구를 뜻합니다.",
             "link": "https://dao.tokamak.network/#/",
             "kind": ["eth"],
+            "network": [ 
+                {
+                "id": "ethereum-mainnet",
+                "name": "이더리움"
+                } 
+            ],
             "category": [],
             "iconPath": "icon_tokamak.png",
             "type": "dapp",
@@ -126,6 +173,12 @@
             "description": "네버루즈머니는 이더리움 기반의 게미피케이션을 적용한 암호화폐 장기 투자 촉진 프로토콜 입니다. 사용자가 스스로 목표 기간을 설정해서 코인을 락업 (Lock-up)하고, 기간을 못 지키고 출금하면 10%의 패널티가 부과되고 이를 풀에 참여하고 있는 다른 사용자들에게 보너스로 지급함으로써 장기 투자를 유도합니다.",
             "link": "https://neverlose.money/",
             "kind": ["eth"],
+            "network": [ 
+                {
+                "id": "ethereum-mainnet",
+                "name": "이더리움"
+                } 
+            ],
             "category": [],
             "iconPath": "icon_neverlose.png",
             "type": "dapp",
@@ -138,6 +191,12 @@
             "description": "Zapper는 간단한 인터페이스로 디파이 포트폴리오를 모니터링하고 관리할 수 있는 이더리움 기반의 디파이 대시보드 서비스입니다.",
             "link": "https://zapper.fi/",
             "kind": ["eth"],
+            "network": [ 
+                {
+                "id": "ethereum-mainnet",
+                "name": "이더리움"
+                } 
+            ],
             "category": [],
             "iconPath": "icon_zapper.png",
             "type": "dapp",
@@ -150,6 +209,12 @@
             "description": "Compound는 담보를 통해 이자를 얻거나 자산을 빌릴 수 있는 이더리움 기반의 머니 마켓 프로토콜입니다. 컴파운드의 유동성 풀에 자산을 공급하면 복리이자를 얻을 수 있습니다.",
             "link": "https://app.compound.finance/",
             "kind": [ "eth" ],
+            "network": [ 
+                {
+                "id": "ethereum-mainnet",
+                "name": "이더리움"
+                } 
+            ],
             "category": [],
             "iconPath": "icon_compound.png",
             "type": "dapp",
@@ -162,6 +227,12 @@
             "description": "PoolTogether는 저축을 재미있게 하는 이더리움 기반의 서비스입니다. 자산을 예치하면 “저축 티켓“을 받아 '풀'에 참여합니다. 각 저축 티켓은 풀에서 발생한 이자를 받을 수있는 기회를 제공하지만, 당첨되지 않더라도 손실이 없습니다.",
             "link": "https://app.pooltogether.com/",
             "kind": ["eth"],
+            "network": [ 
+                {
+                "id": "ethereum-mainnet",
+                "name": "이더리움"
+                } 
+            ],
             "category": [],
             "iconPath": "icon_pooltogether.png",
             "type": "dapp",
@@ -174,6 +245,12 @@
             "description": "Uniswap은 유동성을 공급하고 토큰을 교환할 수 있는 이더리움 기반의 자동화된 탈중앙 프로토콜입니다.",
             "link": "https://app.uniswap.org/",
             "kind": ["eth"],
+            "network": [ 
+                {
+                "id": "ethereum-mainnet",
+                "name": "이더리움"
+                } 
+            ],
             "category": [],
             "iconPath": "icon_uniswap.png",
             "type": "dapp",
@@ -186,6 +263,12 @@
             "description": "yearn.finance는 DeFi 서비스를 모아놓은 플랫폼으로 자동화된 프로토콜을 통해 최대의 수익을 얻기 위한 방법을 제공하는 서비스입니다.",
             "link": "https://yearn.finance/",
             "kind": ["eth"],
+            "network": [ 
+                {
+                "id": "ethereum-mainnet",
+                "name": "이더리움"
+                } 
+            ],
             "category": [],
             "iconPath": "icon_yearn.png",
             "type": "dapp",
@@ -198,6 +281,12 @@
             "description": "1inch Exchange는 모든 주요 DEX 거래소의 유동성과 가격 정보를 하나의 플랫폼에서 제공합니다. 원하는 거래의 가격을 쉽게 조회하여 토큰을 교환할 수 있습니다.",
             "link": "https://1inch.exchange/",
             "kind": ["eth"],
+            "network": [ 
+                {
+                "id": "ethereum-mainnet",
+                "name": "이더리움"
+                } 
+            ],
             "category": [],
             "iconPath": "icon_1inch.exchange.png",
             "type": "dapp",
@@ -210,6 +299,12 @@
             "description": "OpenSea는 수집품, 게임 아이템, 디지털 아트와 같은 이더리움 기반의 디지털 상품 및 디지털 자산을 거래할 수 있는 마켓 플레이스입니다.",
             "link": "https://opensea.io/",
             "kind": ["eth"],
+            "network": [ 
+                {
+                "id": "ethereum-mainnet",
+                "name": "이더리움"
+                } 
+            ],
             "category": [],
             "iconPath": "icon_opensea.png",
             "type": "dapp",
@@ -222,6 +317,12 @@
             "description": "Rarible은 크리에이터 중심의 NFT 마켓 플레이스 서비스입니다. 예술 작품, 게임 아이템 등과 같은 고유한 디지털 아이템을 대체 불가능한 토큰 (NFT)으로 쉽게 만들 수 있습니다.",
             "link": "https://rarible.com/",
             "kind": ["eth"],
+            "network": [ 
+                {
+                "id": "ethereum-mainnet",
+                "name": "이더리움"
+                } 
+            ],
             "category": [],
             "iconPath": "icon_rarible.png",
             "type": "dapp",
@@ -234,6 +335,12 @@
             "description": "클레이포탈은 해시쿼크에서 개발한 간단하고 안전한 방식으로 클레이(KLAY)를 스테이킹할 수 있는 클레이튼 스테이킹 툴입니다.",
             "link": "https://klayportal.hashquark.io/#/?inApp=true",
             "kind": ["klay"],
+            "network": [ 
+                {
+                "id": "klaytn-mainnet",
+                "name": "클레이튼"
+                } 
+            ],
             "category": [],
             "iconPath": "icon_klayportal.png",
             "type": "dapp",
