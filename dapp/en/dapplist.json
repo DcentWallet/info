@@ -38,8 +38,7 @@
             "iconPath": "icon_ftso.png",
             "type": "dapp_dcent",
             "device": "ble_dongle",
-            "externalWindow": false,
-            "preRelease": true
+            "externalWindow": false
         },      
         {
             "name": "KLAYswap",
