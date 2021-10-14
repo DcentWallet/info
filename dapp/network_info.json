@@ -10,7 +10,11 @@
                     "coinType": "ETHEREUM",
                     "chainId": 1,
                     "iconPath" : "network_ethereum.png",
-                    "selected" : true
+                    "selected" : true,
+                    "title": {
+                        "en": "Ethereum",
+                        "ko": "이더리움"
+                    }
                 },
                 {
                     "networkId": "ethereum-ropsten",
@@ -19,7 +23,11 @@
                     "coinType": "ETH-ROPSTEN",
                     "chainId": 3,
                     "iconPath" : "network_ethereum.png",
-                    "testnet": true
+                    "testnet": true,
+                    "title": {
+                        "en": "Ethereum-Ropsten",
+                        "ko": "이더리움-Ropsten"
+                    }
                 },
                 {
                     "networkId": "ethereum-rinkeby",
@@ -28,7 +36,11 @@
                     "coinType": "ETH-RINKEBY",
                     "chainId": 4,
                     "iconPath" : "network_ethereum.png",
-                    "testnet": true
+                    "testnet": true,
+                    "title": {
+                        "en": "Ethereum-Rinkeby",
+                        "ko": "이더리움-Rinkeby"
+                    }
                 },
                 {
                     "networkId": "ethereum-goerli",
@@ -37,7 +49,11 @@
                     "coinType": "ETH-GOERLI",
                     "chainId": 5,
                     "iconPath" : "network_ethereum.png",
-                    "testnet": true
+                    "testnet": true,
+                    "title": {
+                        "en": "Ethereum-Goerli",
+                        "ko": "이더리움-Goerli"
+                    }
                 },
                 {
                     "networkId": "ethereum-kovan",
@@ -46,7 +62,11 @@
                     "coinType": "ETH-KOVAN",
                     "chainId": 42,
                     "iconPath" : "network_ethereum.png",
-                    "testnet": true
+                    "testnet": true,
+                    "title": {
+                        "en": "Ethereum-Kovan",
+                        "ko": "이더리움-Kovan"
+                    }
                 },
                 {
                     "networkId": "bsc-mainnet",
@@ -54,7 +74,11 @@
                     "description": "Binance Smart Chain",
                     "coinType": "BSC",
                     "chainId": 56,
-                    "iconPath": "network_bsc.png"
+                    "iconPath": "network_bsc.png",
+                    "title": {
+                        "en": "Binance Smart Chain",
+                        "ko": "바이낸스 스마트체인"
+                    }
                 },
                 {
                     "networkId": "bsc-testnet",
@@ -63,7 +87,11 @@
                     "coinType": "BSC-TESTNET",
                     "chainId": 97,
                     "iconPath" : "network_bsc.png",
-                    "testnet": true
+                    "testnet": true,
+                    "title": {
+                        "en": "Smart Chain-Testnet",
+                        "ko": "바이낸스 스마트체인-Testnet"
+                    }
                 },
                 {
                     "networkId": "polygon-mainnet",
@@ -71,7 +99,11 @@
                     "description": "Polygon",
                     "coinType": "POLYGON",
                     "chainId": 137,
-                    "iconPath": "network_polygon.png"
+                    "iconPath": "network_polygon.png",
+                    "title": {
+                        "en": "Polygon",
+                        "ko": "폴리곤"
+                    }
                 },
                 {
                     "networkId": "polygon-mumbai",
@@ -80,7 +112,11 @@
                     "coinType": "POLYGON-TESTNET",
                     "chainId": 80001,
                     "iconPath" : "network_polygon.png",
-                    "testnet": true
+                    "testnet": true,
+                    "title": {
+                        "en": "Polygon-Mumbai",
+                        "ko": "폴리곤-Mumbai"
+                    }
                 },
                 {
                     "networkId": "songbird-mainnet",
@@ -88,7 +124,11 @@
                     "description": "Songbird",
                     "coinType": "CHAN:19",
                     "chainId": 19,
-                    "iconPath": "network_sgb.png"
+                    "iconPath": "network_sgb.png",
+                    "title": {
+                        "en": "Songbird",
+                        "ko": "송버드"
+                    }
                 },
                 {
                     "networkId": "heco-mainnet",
@@ -96,7 +136,11 @@
                     "description": "HECO",
                     "coinType": "CHAN:128",
                     "chainId": 128,
-                    "iconPath": "network_heco.png"
+                    "iconPath": "network_heco.png",
+                    "title": {
+                        "en": "HECO",
+                        "ko": "후오비 에코체인"
+                    }
                 },
                 {
                     "networkId": "rsk-mainnet",
@@ -104,7 +148,11 @@
                     "description": "RSK",
                     "coinType": "RSK",
                     "chainId": 30,
-                    "iconPath": "network_rsk.png"
+                    "iconPath": "network_rsk.png",
+                    "title": {
+                        "en": "RSK",
+                        "ko": "루프스탁"
+                    }
                 },
                 {
                     "networkId": "rsk-testnet",
@@ -113,7 +161,11 @@
                     "coinType": "RSK-TESTNET",
                     "chainId": 31,
                     "iconPath" : "network_rsk.png",
-                    "testnet": true
+                    "testnet": true,
+                    "title": {
+                        "en": "RSK-Testnet",
+                        "ko": "루프스탁-Testnet"
+                    }
                 },
                 {
                     "networkId": "flare-coston",
@@ -122,7 +174,11 @@
                     "coinType": "FLR-COSTON",
                     "chainId": 1,
                     "iconPath" : "network_flare.png",
-                    "testnet": true
+                    "testnet": true,
+                    "title": {
+                        "en": "Flare-Coston",
+                        "ko": "플레어 네트워크-Coston"
+                    }
                 },
                 {
                     "networkId": "xdai-mainnet",
@@ -130,7 +186,11 @@
                     "description": "xDai",
                     "coinType": "CHAN:100",
                     "chainId": 100,
-                    "iconPath": "network_xdai.png"
+                    "iconPath": "network_xdai.png",
+                    "title": {
+                        "en": "xDai",
+                        "ko": "엑스다이 체인"
+                    }
                 },
                 {
                     "networkId": "ftm-mainnet",
@@ -138,7 +198,11 @@
                     "description": "Fantom Opera",
                     "coinType": "CHAN:250",
                     "chainId": 250,
-                    "iconPath": "network_ftm.png"
+                    "iconPath": "network_ftm.png",
+                    "title": {
+                        "en": "Fantom Opera",
+                        "ko": "펜텀 오페라 체인"
+                    }
                 },
                 {
                     "networkId": "xdc-mainnet",
@@ -146,7 +210,11 @@
                     "description": "XinFin Network",
                     "coinType": "XINFIN",
                     "chainId": 50,
-                    "iconPath": "network_xdc.png"
+                    "iconPath": "network_xdc.png",
+                    "title": {
+                        "en": "XinFin Network",
+                        "ko": "씬핀 네트워크"
+                    }
                 },
                 {
                     "networkId": "celo-mainnet",
@@ -154,7 +222,11 @@
                     "description": "Celo",
                     "coinType": "CHAN:42220",
                     "chainId": 42220,
-                    "iconPath": "network_celo.png"
+                    "iconPath": "network_celo.png",
+                    "title": {
+                        "en": "Celo",
+                        "ko": "셀로"
+                    }
                 },
                 {
                     "networkId": "kcc-mainnet",
@@ -162,7 +234,11 @@
                     "description": "KCC",
                     "coinType": "CHAN:321",
                     "chainId": 321,
-                    "iconPath": "network_kcc.png"
+                    "iconPath": "network_kcc.png",
+                    "title": {
+                        "en": "KCC",
+                        "ko": "쿠코인 커뮤니티 체인"
+                    }
                 },
                 {
                     "networkId": "avalanche-mainnet",
@@ -170,7 +246,11 @@
                     "description": "Avalanche C-Chain",
                     "coinType": "CHAN:43114",
                     "chainId": 43114,
-                    "iconPath": "network_ava.png"
+                    "iconPath": "network_ava.png",
+                    "title": {
+                        "en": "Avalanche Network",
+                        "ko": "아발란체 네트워크"
+                    }
                 },
                 {
                     "networkId": "ewc-mainnet",
@@ -179,7 +259,11 @@
                     "coinType": "CHAN:246",
                     "chainId": 246,
                     "iconPath": "network_ewc.png",
-                    "preRelease": true
+                    "preRelease": true,
+                    "title": {
+                        "en": "Energy Web Chain",
+                        "ko": "에너지 웹 체인"
+                    }
                 }
             ]
         },
@@ -193,7 +277,11 @@
                     "coinType": "KLAYTN",
                     "chainId": 8217,
                     "iconPath" : "network_klaytn.png",
-                    "selected" : true
+                    "selected" : true,
+                    "title": {
+                        "en": "Klaytn",
+                        "ko": "클레이튼"                        
+                    }
                 },
                 {
                     "networkId": "klaytn-baobab",
@@ -202,7 +290,11 @@
                     "coinType": "KLAYTN-TESTNET",
                     "chainId": 1001,
                     "iconPath" : "network_klaytn.png",
-                    "testnet": true
+                    "testnet": true,
+                    "title": {
+                        "en": "Klaytn-Baobab",
+                        "ko": "클레이튼-Baobab"
+                    }
                 }
             ]
         },
@@ -216,7 +308,11 @@
                     "coinType": "TRON",
                     "chainId": 1,
                     "iconPath" : "network_tron.png",
-                    "selected" : true
+                    "selected" : true,
+                    "title": {
+                        "en": "Tron",
+                        "ko": "트론"
+                    }
                 },
                 {
                     "networkId": "tron-shasta",
@@ -225,7 +321,11 @@
                     "coinType": "TRX-TESTNET",
                     "chainId": 2,
                     "iconPath" : "network_tron.png",
-                    "testnet": true
+                    "testnet": true,
+                    "title": {
+                        "en": "Tron-Shasta",
+                        "ko": "트론-Shasta"
+                    }
                 }
             ]
         }
