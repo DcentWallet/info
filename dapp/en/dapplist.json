@@ -36,9 +36,8 @@
             ],
             "category": [],
             "iconPath": "icon_ftso.png",
-            "type": "dapp",
+            "type": [ "dapp" ],
             "device": "ble_dongle",
-            "platform": "ios",
             "externalWindow": false,
             "preRelease": true
         },      
