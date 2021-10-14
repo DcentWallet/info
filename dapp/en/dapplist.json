@@ -36,7 +36,7 @@
             ],
             "category": [],
             "iconPath": "icon_ftso.png",
-            "type": [ "dapp", "dcent_service" ],
+            "type": "dapp_dcent",
             "device": "ble_dongle",
             "externalWindow": false,
             "preRelease": true
