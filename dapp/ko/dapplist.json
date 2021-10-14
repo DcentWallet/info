@@ -36,7 +36,7 @@
             ],
             "category": [],
             "iconPath": "icon_ftso.png",
-            "type": [ "dapp" ],
+            "type": [ "dapp", "dcent_service" ],
             "device": "ble_dongle",
             "externalWindow": false,
             "preRelease": true
@@ -158,7 +158,7 @@
             "network": [ 
                 {
                 "id": "ethereum-mainnet",
-                "name": "Ethereum"
+                "name": "이더리움"
                 } 
             ],
             "category": [],
@@ -176,7 +176,7 @@
             "network": [ 
                 {
                 "id": "ethereum-mainnet",
-                "name": "Ethereum"
+                "name": "이더리움"
                 } 
             ],
             "category": [],
@@ -194,7 +194,7 @@
             "network": [ 
                 {
                 "id": "ethereum-mainnet",
-                "name": "Ethereum"
+                "name": "이더리움"
                 } 
             ],
             "category": [],
@@ -212,7 +212,7 @@
             "network": [ 
                 {
                 "id": "ethereum-mainnet",
-                "name": "Ethereum"
+                "name": "이더리움"
                 } 
             ],
             "category": [],
@@ -230,7 +230,7 @@
             "network": [ 
                 {
                 "id": "ethereum-mainnet",
-                "name": "Ethereum"
+                "name": "이더리움"
                 } 
             ],
             "category": [],
@@ -248,7 +248,7 @@
             "network": [ 
                 {
                 "id": "ethereum-mainnet",
-                "name": "Ethereum"
+                "name": "이더리움"
                 } 
             ],
             "category": [],
@@ -266,7 +266,7 @@
             "network": [ 
                 {
                 "id": "ethereum-mainnet",
-                "name": "Ethereum"
+                "name": "이더리움"
                 } 
             ],
             "category": [],
@@ -284,7 +284,7 @@
             "network": [ 
                 {
                 "id": "ethereum-mainnet",
-                "name": "Ethereum"
+                "name": "이더리움"
                 } 
             ],
             "category": [],
@@ -302,7 +302,7 @@
             "network": [ 
                 {
                 "id": "ethereum-mainnet",
-                "name": "Ethereum"
+                "name": "이더리움"
                 } 
             ],
             "category": [],
@@ -320,7 +320,7 @@
             "network": [ 
                 {
                 "id": "ethereum-mainnet",
-                "name": "Ethereum"
+                "name": "이더리움"
                 } 
             ],
             "category": [],
