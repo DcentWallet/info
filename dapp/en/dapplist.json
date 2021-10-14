@@ -30,7 +30,7 @@
             "kind": [],
             "category": [],
             "iconPath": "icon_ftso.png",
-            "type": "dapp",
+            "type": "dapp_dcent",
             "device": "ble_dongle",
             "testnet": false,
             "externalWindow": false,
