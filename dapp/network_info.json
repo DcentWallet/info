@@ -71,7 +71,7 @@
                     "description": "Polygon",
                     "coinType": "POLYGON",
                     "chainId": 137,
-                    "iconPath": "network_polygon.png"
+                    "iconPath": "network_polygon2.png"
                 },
                 {
                     "networkId": "polygon-mumbai",
