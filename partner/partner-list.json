@@ -1,5 +1,10 @@
 [ 
     {
+    "name": "fleta",
+    "imageUrl": "../images/partners_fleta.png",
+    "gotoLink": "https://www.fleta.io/"
+    },
+    {
     "name": "bestftso",
     "imageUrl": "../images/partners_bestftso.png",
     "gotoLink": "https://bestftso.xyz/"
