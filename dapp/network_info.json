@@ -228,6 +228,31 @@
                     "testnet": true
                 }
             ]
+        },
+        {
+            "type": "stacks",
+            "list": [
+                {
+                    "networkId": "stacks-mainnet",
+                    "name": "mainnet",
+                    "description": "Stacks",
+                    "coinType": "STACKS",
+                    "chainId": 1,
+                    "iconPath" : "network_stacks.png",
+                    "selected" : true,
+                    "preRelease": true
+                },
+                {
+                    "networkId": "stacks-testnet",
+                    "name": "testnet",
+                    "description": "Stacks-Testnet",
+                    "coinType": "STX-TESTNET",
+                    "chainId": 2,
+                    "iconPath" : "network_stacks.png",
+                    "testnet": true,
+                    "preRelease": true
+                }
+            ]
         }
     ]
 }
