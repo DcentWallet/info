@@ -1,5 +1,4 @@
 [
-
   {
     "name": "siamb",
     "imageUrl": "../images_en/siamb.png",
@@ -33,7 +32,7 @@
   {
     "name": "crypto agent",
     "imageUrl": "../images_en/crypto_agent_logo.png",
-    "gotoLink": "http://cryptowalletshop.com.au/"
+    "gotoLink": "https://cryptowalletshop.com.au/product-category/dcent/"
   },
   {
     "name": "techwhale",
