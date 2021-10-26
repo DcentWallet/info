@@ -102,9 +102,12 @@
       "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xc9AC8F034d295962A6a975b717B691437605Bbb6.png"
     },
     {
+      "partner": true,
       "name": "A-FTSO",
       "description": "The first indie FTSO provider, run as a professional one. No frills, low fees.",
       "url": "https://ftso.alexdupre.com",
+      "dapp": "https://ftso.alexdupre.com/",
+      "twitter": "",
       "address": "0x2d7bf53ED6117aD1DCD6416d460481522a16aFdf",
       "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x2d7bf53ED6117aD1DCD6416d460481522a16aFdf.png"
     },
@@ -150,9 +153,12 @@
 			"image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xaCb098842542b8DEcAD0EA49eCd97d1410cbEb26.png"
 		},
 		{
+      "partner": true,
 			"name": "Flare Oracle",
 			"description": "Flare Oracle, a data provider to the Flare network. Our goal is to give users a plug & play solution to effortlessly control their passive income.",
 			"url": "https://flareoracle.io",
+      "dapp": "https://flareoracle.io",
+      "twitter": "https://twitter.com/flareoracle_io",
 			"address": "0x1B00870092a929D160492daf8E734b4bCA033266",
 			"image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x1B00870092a929D160492daf8E734b4bCA033266.png"
 		},
@@ -274,9 +280,12 @@
       "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xc9AC8F034d295962A6a975b717B691437605Bbb6.png"
     },
     {
+      "partner": true,
       "name": "A-FTSO",
       "description": "The first indie FTSO provider, run as a professional one. No frills, low fees.",
       "url": "https://ftso.alexdupre.com",
+      "dapp": "https://ftso.alexdupre.com/",
+      "twitter": "",
       "address": "0x2d7bf53ED6117aD1DCD6416d460481522a16aFdf",
       "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x2d7bf53ED6117aD1DCD6416d460481522a16aFdf.png"
     },
@@ -350,9 +359,12 @@
 			"image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x0FA72D3912d1C530AB1f6a8A9fB61C672947E964.png"
 		},
 		{
+      "partner": true,
 			"name": "Flare Oracle",
 			"description": "Flare Oracle, a data provider to the Flare network. Our goal is to give users a plug & play solution to effortlessly control their passive income.",
 			"url": "https://flareoracle.io",
+      "dapp": "https://flareoracle.io",
+      "twitter": "https://twitter.com/flareoracle_io",
 			"address": "0x1B00870092a929D160492daf8E734b4bCA033266",
 			"image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x1B00870092a929D160492daf8E734b4bCA033266.png"
 		},
