@@ -222,7 +222,7 @@
         { 
             "symbol": "HT", 
             "name": "HECO",
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2502.png",
+            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/asset-heco.png",
             "imgSize": {
                 "width": "32px",
                 "height": "32px"
