@@ -1,5 +1,6 @@
 |Kernel Version|Release Date|Notes|
 |----|----|------|
+|v2.15.2.caf8|2021-10-27|• Added supporting coin : ECASH(XEC)<br>• Improved stability |
 |v2.14.1.759d|2021-09-09|• Added supporting coin : STACKS(STX) |
 |v2.13.2.b2e0|2021-08-26|• Implement ADA Multi-Asset utxo process |
 |v2.13.1.d613|2021-08-23|• Improved stability for BTC based Address |
