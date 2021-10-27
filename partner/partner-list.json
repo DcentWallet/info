@@ -1,4 +1,9 @@
-[ 
+[   
+    {
+    "name": "flareoracle",
+    "imageUrl": "../images/partners_flareoracle.png",
+    "gotoLink": "https://flareoracle.io/"
+    },
     {
     "name": "fleta",
     "imageUrl": "../images/partners_fleta.png",
