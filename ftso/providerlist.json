@@ -181,63 +181,63 @@
 			"description": "The high fidelity, low fee, independent FTSO provider.",
 			"url": "https://www.sparkifi.xyz",
 			"address": "0x153aD30381b11DCE62f349c97a54c2a58956B992",
-			"logoURI": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x153aD30381b11DCE62f349c97a54c2a58956B992.png"
+			"image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x153aD30381b11DCE62f349c97a54c2a58956B992.png"
 		},
 		{
 			"name": "Scintilla",
 			"description": "High accuracy signal provider to the Flare Network.",
 			"url": "https://www.scintilla.io",
 			"address": "0xE70d5351a842131c66AAeBC4bD604912BF3cBa72",
-			"logoURI": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xE70d5351a842131c66AAeBC4bD604912BF3cBa72.png"
+			"image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xE70d5351a842131c66AAeBC4bD604912BF3cBa72.png"
 		},
 		{
 			"name": "LightFTSO",
 			"description": "Homebrewed FTSO, light, nimble, with high rewards and lower fees. Get on! We're getting passive income!",
 			"url": "https://www.lightft.so",
 			"address": "0xfB9197720329a80191BA140844E96DCcAD149014",
-			"logoURI": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xfB9197720329a80191BA140844E96DCcAD149014.png"
+			"image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xfB9197720329a80191BA140844E96DCcAD149014.png"
 		},
 		{
 			"name": "Oracle Daemon",
 			"description": "Oracle Daemon is a team of dedicated professionals designing the best data provider.",
 			"url": "https://oracle-daemon.unigames.studio",
 			"address": "0x92D6c2E99d5959F2e9c0a7aba5149D8A5ef22f23",
-			"logoURI": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x92D6c2E99d5959F2e9c0a7aba5149D8A5ef22f23.png"
+			"image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x92D6c2E99d5959F2e9c0a7aba5149D8A5ef22f23.png"
 		},
 		{
 			"name": "Oracle of Delphi",
 			"description": "Reach Further with the Oracle of Delphi. Join us for unparalleled access to expertise, opportunity, and each other.",
 			"url": "https://oracledelphi.one",
 			"address": "0x4fE889F450EcA4decd8a65B6B6eC5b7Db8EaB12E",
-			"logoURI": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x4fE889F450EcA4decd8a65B6B6eC5b7Db8EaB12E.png"
+			"image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x4fE889F450EcA4decd8a65B6B6eC5b7Db8EaB12E.png"
 		},
 		{
 			"name": "Flare Kollektiv",
 			"description": "Flare Kollektiv is an independent infrastructure provider on Flare and Songbird, providing reliable delegation services.",
 			"url": "https://www.flarekollektiv.xyz",
 			"address": "0xE76Bc13136338f27363425FcbCB36967B0540176",
-			"logoURI": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xE76Bc13136338f27363425FcbCB36967B0540176.png"
+			"image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xE76Bc13136338f27363425FcbCB36967B0540176.png"
 		},
 		{
 			"name": "FlareFTSO",
 			"description": "FlareFTSO is a signal provider for the Flare Time Series Oracle, providing reliable price feeds, delegation services, validator services, and other solutions to the crypto community.",
 			"url": "https://flareftso.com",
 			"address": "0x58048528D3d3aea14Ec95eb5e98b18dE51780e27",
-			"logoURI": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x58048528D3d3aea14Ec95eb5e98b18dE51780e27.png"
+			"image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x58048528D3d3aea14Ec95eb5e98b18dE51780e27.png"
 		},
 		{
 			"name": "African Proofs",
 			"description": "We are a Flare and Songbird blockchain networks data signals provider based in South Africa. We provide a consistent and honest account of real world information for use in the Flare Networks ecosystem of chains.",
 			"url": "https://proofs.africa",
 			"address": "0xaF31CA175bbE0C6dD667c8403B65a33b28238afa",
-			"logoURI": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xaF31CA175bbE0C6dD667c8403B65a33b28238afa.png"
+			"image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xaF31CA175bbE0C6dD667c8403B65a33b28238afa.png"
 		},
 		{
 			"name": "FlareFi",
 			"description": "We are a trustworthy data provider for Songbird and Flare Network, the new distributed ecosystem. We collect data reliably for the benefit of the ecosystem and our delegators.",
 			"url": "https://flarefi.tech",
 			"address": "0x5f3C5991De3F0713715a733eE125785D516cEb16",
-			"logoURI": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x5f3C5991De3F0713715a733eE125785D516cEb16.png"
+			"image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x5f3C5991De3F0713715a733eE125785D516cEb16.png"
 		}
   ],
   "19": [
@@ -450,70 +450,70 @@
 			"description": "The high fidelity, low fee, independent FTSO provider.",
 			"url": "https://www.sparkifi.xyz",
 			"address": "0x153aD30381b11DCE62f349c97a54c2a58956B992",
-			"logoURI": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x153aD30381b11DCE62f349c97a54c2a58956B992.png"
+			"image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x153aD30381b11DCE62f349c97a54c2a58956B992.png"
 		},
 		{
 			"name": "Scintilla",
 			"description": "High accuracy signal provider to the Songbird Network.",
 			"url": "https://www.scintilla.io",
 			"address": "0xE70d5351a842131c66AAeBC4bD604912BF3cBa72",
-			"logoURI": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xE70d5351a842131c66AAeBC4bD604912BF3cBa72.png"
+			"image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xE70d5351a842131c66AAeBC4bD604912BF3cBa72.png"
 		},
 		{
 			"name": "LightFTSO",
 			"description": "Homebrewed FTSO, light, nimble, with high rewards and lower fees. Get on! We're getting passive income!",
 			"url": "https://www.lightft.so",
 			"address": "0xfB9197720329a80191BA140844E96DCcAD149014",
-			"logoURI": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xfB9197720329a80191BA140844E96DCcAD149014.png"
+			"image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xfB9197720329a80191BA140844E96DCcAD149014.png"
 		},
 		{
 			"name": "Oracle Daemon",
 			"description": "Oracle Daemon is a team of dedicated professionals designing the best data provider.",
 			"url": "https://oracle-daemon.unigames.studio",
 			"address": "0x92D6c2E99d5959F2e9c0a7aba5149D8A5ef22f23",
-			"logoURI": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x92D6c2E99d5959F2e9c0a7aba5149D8A5ef22f23.png"
+			"image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x92D6c2E99d5959F2e9c0a7aba5149D8A5ef22f23.png"
 		},
 		{
 			"name": "Oracle of Delphi",
 			"description": "Reach Further with the Oracle of Delphi. Join us for unparalleled access to expertise, opportunity, and each other.",
 			"url": "https://oracledelphi.one",
 			"address": "0x4fE889F450EcA4decd8a65B6B6eC5b7Db8EaB12E",
-			"logoURI": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x4fE889F450EcA4decd8a65B6B6eC5b7Db8EaB12E.png"
+			"image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x4fE889F450EcA4decd8a65B6B6eC5b7Db8EaB12E.png"
 		},
 		{
 			"name": "Flare Kollektiv",
 			"description": "Flare Kollektiv is an independent infrastructure provider on Flare and Songbird, providing reliable delegation services.",
 			"url": "https://www.flarekollektiv.xyz",
 			"address": "0xE76Bc13136338f27363425FcbCB36967B0540176",
-			"logoURI": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xE76Bc13136338f27363425FcbCB36967B0540176.png"
+			"image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xE76Bc13136338f27363425FcbCB36967B0540176.png"
 		},
 		{
 			"name": "Dione",
 			"description": "Dione prides itself as a gateway between the heart and the veins of the network, Composed of a team of data experts to provide timely and consistent insights to unlock the network's potential for stable rewards to our delegators",
 			"url": "https://dionenetwork.io",
 			"address": "0x285430390a72Ce038f6e54BF10f24B94A550474f",
-			"logoURI": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x285430390a72Ce038f6e54BF10f24B94A550474f.png"
+			"image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x285430390a72Ce038f6e54BF10f24B94A550474f.png"
 		},
 		{
 			"name": "FlareFTSO",
 			"description": "FlareFTSO is a signal provider for the Flare Time Series Oracle, providing reliable price feeds, delegation services, validator services, and other solutions to the crypto community.",
 			"url": "https://flareftso.com",
 			"address": "0x4F7f5F8eF4a3CC11f94e875393Ee909Eb5f824ea",
-			"logoURI": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x4F7f5F8eF4a3CC11f94e875393Ee909Eb5f824ea.png"
+			"image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x4F7f5F8eF4a3CC11f94e875393Ee909Eb5f824ea.png"
 		},
 		{
 			"name": "African Proofs",
 			"description": "We are a Flare and Songbird blockchain networks data signals provider based in South Africa. We provide a consistent and honest account of real world information for use in the Flare Networks ecosystem of chains.",
 			"url": "https://proofs.africa",
 			"address": "0xaF31CA175bbE0C6dD667c8403B65a33b28238afa",
-			"logoURI": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xaF31CA175bbE0C6dD667c8403B65a33b28238afa.png"
+			"image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xaF31CA175bbE0C6dD667c8403B65a33b28238afa.png"
 		},
 		{
 			"name": "FlareFi",
 			"description": "We are a trustworthy data provider for Songbird and Flare Network, the new distributed ecosystem. We collect data reliably for the benefit of the ecosystem and our delegators.",
 			"url": "https://flarefi.tech",
 			"address": "0x5f3C5991De3F0713715a733eE125785D516cEb16",
-			"logoURI": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x5f3C5991De3F0713715a733eE125785D516cEb16.png"
+			"image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x5f3C5991De3F0713715a733eE125785D516cEb16.png"
 		}
   ]
 }
