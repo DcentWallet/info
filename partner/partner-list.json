@@ -1,5 +1,10 @@
 [   
     {
+    "name": "flarefi",
+    "imageUrl": "../images/partners_flarefi.png",
+    "gotoLink": "https://flarefi.tech/"
+    },
+    {
     "name": "xdc",
     "imageUrl": "../images/partners_XDC.png",
     "gotoLink": "https://blocksscan.io/"
