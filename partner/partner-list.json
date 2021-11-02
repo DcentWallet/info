@@ -1,5 +1,10 @@
 [   
     {
+    "name": "arbitrum",
+    "imageUrl": "../images/partners_arbitrum.png",
+    "gotoLink": "https://arbitrum.io/"
+    },
+    {
     "name": "flarefi",
     "imageUrl": "../images/partners_flarefi.png",
     "gotoLink": "https://flarefi.tech/"
