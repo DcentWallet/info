@@ -390,5 +390,15 @@
   {
     "product_id": "d61fd6eee7c54f3d9eed287e579fa4ad",
     "shopify_product_id": "biometric-wallet-2x-package-xrp-toolkit"
+  },
+  {
+    "product_id": "0460f7ef88e5473bb37051e191bfa4e9",
+    "shopify_product_id": "biometric-wallet-Accept-Crypto-Z",
+    "queryString": "utm_medium=affiliate&utm_source=AcceptCryptoZ&utm_campaign=202111-AcceptCryptoZ-Biometric-promo"
+  },
+  {
+    "product_id": "171f2e8ec8784b03922012403e80acda",
+    "shopify_product_id": "biometric-wallet-2x-package-Accept-Crypto-Z",
+    "queryString": "utm_medium=affiliate&utm_source=AcceptCryptoZ&utm_campaign=202111-AcceptCryptoZ-Biometric-promo"
   }
 ]
