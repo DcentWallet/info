@@ -187,8 +187,7 @@
                     "description": "Arbitrum",
                     "coinType": "CHAN:42161",
                     "chainId": 42161,
-                    "iconPath": "network_arbitrum.png",
-                    "preRelease": true
+                    "iconPath": "network_arbitrum.png"
                 },
                 {
                     "networkId": "arbitrum-testnet",
@@ -197,7 +196,6 @@
                     "coinType": "CHAN:421611",
                     "chainId": 421611,
                     "iconPath": "network_arbitrum.png",
-                    "preRelease": true,
                     "testnet": true
                 },
                 {
@@ -206,8 +204,7 @@
                     "description": "BOBA L2",
                     "coinType": "CHAN:288",
                     "chainId": 288,
-                    "iconPath": "network_boba.png",
-                    "preRelease": true
+                    "iconPath": "network_boba.png"
                 }
             ]
         },
