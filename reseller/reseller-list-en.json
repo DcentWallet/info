@@ -1,4 +1,14 @@
 [
+    {
+    "name": "all-in-ape_philippines",
+    "imageUrl": "../images_en/all-in-ape_philippines.png",
+    "gotoLink": "https://ph.all-in-ape.com/"
+  },  
+  {
+    "name": "all-in-ape__taiwan",
+    "imageUrl": "../images_en/all-in-ape_taiwan.png",
+    "gotoLink": "https://all-in-ape.com/"
+  },  
   {
     "name": "siamb",
     "imageUrl": "../images_en/siamb.png",
