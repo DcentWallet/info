@@ -417,6 +417,28 @@
     }
   },
   {
+    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/dapp/images/network_arbitrum.png",
+    "name": "Arbitrum ETH",
+    "symbol": "ETH",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/dapp/images/network_boba.png",
+    "name": "Boba ETH",
+    "symbol": "ETH",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://assets.coingecko.com/coins/images/14899/small/RwdVsGcw_400x400.jpg",
     "symbol": "KNC",
     "name": "Kyber Network Crystal v2",
@@ -591,6 +613,19 @@
     "name": "Sovryn",
     "type": "ERC20",
     "contract": "0xbdab72602e9ad40fc6a6852caf43258113b8f7a5",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/dapp/images/network_boba.png",
+    "symbol": "BOBA",
+    "name": "BOBA",
+    "type": "ERC20",
+    "contract": "0x42bbfa2e77757c645eeaad1655e0911a7553efbc",
     "support": {
       "biometric": true,
       "ethCard": true,
@@ -18690,19 +18725,6 @@
     }
   },
   {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/10376.png",
-    "symbol": "DAPPX",
-    "name": "dAppstore",
-    "type": "ERC20",
-    "contract": "0x00d8318e44780edeefcf3020a5448f636788883c",
-    "support": {
-      "biometric": true,
-      "ethCard": true,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/12229.png",
     "symbol": "DOGEGF",
     "name": "DogeGF",
@@ -18872,6 +18894,383 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3770.png",
+    "symbol": "CCN",
+    "name": "CustomContractNetwork",
+    "type": "ERC20",
+    "contract": "0x17b26400621695c2d8c2d8869f6259e82d7544c4",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/10376.png",
+    "symbol": "DAPPX",
+    "name": "dAppstore",
+    "type": "ERC20",
+    "contract": "0x00d8318e44780edeefcf3020a5448f636788883c",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6625.png",
+    "symbol": "IBP",
+    "name": "Innovation Blockchain Payment",
+    "type": "ERC20",
+    "contract": "0x7d14b842630cbc2530cb288109e5719e0c4d67d7",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/11366.png",
+    "symbol": "PBX",
+    "name": "Paribus",
+    "type": "ERC20",
+    "contract": "0xd528cf2e081f72908e086f8800977df826b5a483",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/9194.png",
+    "symbol": "SAITO",
+    "name": "Saito",
+    "type": "ERC20",
+    "contract": "0xfa14fa6958401314851a17d6c5360ca29f74b57b",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/12751.png",
+    "symbol": "BCMC",
+    "name": "Blockchain Monster Hunt",
+    "type": "ERC20",
+    "contract": "0x2ba8349123de45e931a8c8264c332e6e9cf593f9",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/11568.png",
+    "symbol": "AGLD",
+    "name": "Adventure Gold",
+    "type": "ERC20",
+    "contract": "0x32353a6c91143bfd6c7d363b546e62a9a2489a20",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/11300.png",
+    "symbol": "BABYSAITAMA",
+    "name": "Baby Saitama Inu",
+    "type": "ERC20",
+    "contract": "0xf79f9020560963422ecc9c0c04d3a21190bbf045",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/11066.png",
+    "symbol": "DNXC",
+    "name": "DinoX",
+    "type": "ERC20",
+    "contract": "0x20a8cec5fffea65be7122bcab2ffe32ed4ebf03a",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/9903.png",
+    "symbol": "CVX",
+    "name": "Convex Finance",
+    "type": "ERC20",
+    "contract": "0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7169.png",
+    "symbol": "KFC",
+    "name": "Chicken",
+    "type": "ERC20",
+    "contract": "0xe63684bcf2987892cefb4caa79bd21b34e98a291",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/9103.png",
+    "symbol": "GMEE",
+    "name": "GAMEE",
+    "type": "ERC20",
+    "contract": "0xd9016a907dc0ecfa3ca425ab20b6b785b42f2373",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7355.png",
+    "symbol": "RFX",
+    "name": "Reflex",
+    "type": "ERC20",
+    "contract": "0x159a1dfae19057de57dfffcbb3da1ae784678965",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/10744.png",
+    "symbol": "DERC",
+    "name": "DeRace",
+    "type": "ERC20",
+    "contract": "0x9fa69536d1cda4a04cfb50688294de75b505a9ae",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/11689.png",
+    "symbol": "SBECOM",
+    "name": "SheBollETH Commerce",
+    "type": "ERC20",
+    "contract": "0x888e88e71378133b7ada5a90c08bc97d772a0a28",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/12562.png",
+    "symbol": "Mononoke-Inu",
+    "name": "Mononoke Inu",
+    "type": "ERC20",
+    "contract": "0x4da08a1bff50be96bded5c7019227164b49c2bfc",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/10189.png",
+    "symbol": "HINA",
+    "name": "Hina Inu",
+    "type": "ERC20",
+    "contract": "0xbd0a4bf098261673d5e6e600fd87ddcd756e6764",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/12789.png",
+    "symbol": "TAILS",
+    "name": "Tails",
+    "type": "ERC20",
+    "contract": "0x3d79abb948bc76794ff4a0bcd60170a741f26360",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/12886.png",
+    "symbol": "BLXM",
+    "name": "bloXmove",
+    "type": "ERC20",
+    "contract": "0x38d9eb07a7b8df7d86f440a4a5c4a4c1a27e1a08",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/11289.png",
+    "symbol": "SPELL",
+    "name": "Spell Token",
+    "type": "ERC20",
+    "contract": "0x090185f2135308bad17527004364ebcc2d37e5f6",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/9854.png",
+    "symbol": "TKING",
+    "name": "Tiger King",
+    "type": "ERC20",
+    "contract": "0x24e89bdf2f65326b94e36978a7edeac63623dafa",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5662.png",
+    "symbol": "SYLO",
+    "name": "Sylo",
+    "type": "ERC20",
+    "contract": "0xf293d23bf2cdc05411ca0eddd588eb1977e8dcd4",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/11856.png",
+    "symbol": "LUFFY",
+    "name": "LUFFY",
+    "type": "ERC20",
+    "contract": "0xc1bfccd4c29813ede019d00d2179eea838a67703",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8879.png",
+    "symbol": "PIKA",
+    "name": "Pika",
+    "type": "ERC20",
+    "contract": "0x60f5672a271c7e39e787427a18353ba59a4a3578",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/10821.png",
+    "symbol": "STARL",
+    "name": "StarLink",
+    "type": "ERC20",
+    "contract": "0x8e6cd950ad6ba651f6dd608dc70e5886b1aa6b24",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/12888.png",
+    "symbol": "DORAEMONINU",
+    "name": "DoraemonInu",
+    "type": "ERC20",
+    "contract": "0xd2d9e0b2942943269d5224e0048bbc32380ac19b",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/13252.png",
+    "symbol": "WOLVERINU",
+    "name": "WOLVERINU",
+    "type": "ERC20",
+    "contract": "0xca7b3ba66556c4da2e2a9afef9c64f909a59430a",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5798.png",
+    "symbol": "RING",
+    "name": "Darwinia Network",
+    "type": "ERC20",
+    "contract": "0x9469d013805bffb7d3debe5e7839237e535ec483",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5931.png",
+    "symbol": "KTON",
+    "name": "Darwinia Commitment Token",
+    "type": "ERC20",
+    "contract": "0x9f284e1337a815fe77d2ff4ae46544645b20c5ff",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://github.com/DcentWallet/info/raw/master/images/coins/original/logo_doc.svg",
     "symbol": "DOC",
     "name": "Dollar on Chain",
@@ -19006,6 +19405,19 @@
     "name": "BWPM Vault",
     "type": "KCT",
     "contract": "0xf4546e1d3ad590a3c6d178d671b3bc0e8a81e27d",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": true,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/asset-ksta.svg",
+    "symbol": "KSTA",
+    "name": "KlayStarter",
+    "type": "KCT",
+    "contract": "0xe7d3b78f032e70fabfdb8c0741ea74f775deb32d",
     "support": {
       "biometric": true,
       "ethCard": false,
@@ -22307,6 +22719,32 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5798.png",
+    "symbol": "RING",
+    "name": "Darwinia Network",
+    "type": "TRC20",
+    "contract": "TL175uyihLqQD656aFx3uhHYe1tyGkmXaW",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5931.png",
+    "symbol": "KTON",
+    "name": "Darwinia Commitment Token",
+    "type": "TRC20",
+    "contract": "TW3kTpVtYYQ5Ka1awZvLb9Yy6ZTDEC93dC",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://symage.luniverse.io/mt?ver=77&key=2021%2F04%2F21%2F29304140-a24a-11eb-bbae-1523da899274%2F28cfb377-c57c-4837-9083-5cd2fae10f43.png",
     "symbol": "RAPT",
     "name": "Raptor",
@@ -22448,6 +22886,32 @@
     }
   },
   {
+    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/asset-gbex.png",
+    "symbol": "GBEX",
+    "name": "Globiance Exchange Token",
+    "type": "XRC20",
+    "contract": "xdc34514748f86a8da01ef082306b6d6e738f777f5a",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/asset-pli.png",
+    "symbol": "PLI",
+    "name": "Plugin",
+    "type": "XRC20",
+    "contract": "xdcff7412ea7c8445c46a8254dfb557ac1e48094391",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "symbol": "EURG",
     "name": "EURG",
     "type": "XRC20",
@@ -22526,6 +22990,78 @@
     "name": "Agave",
     "type": "XRC20",
     "contract": "0x3a97704a1b25F08aa230ae53B352e2e72ef52843",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "symbol": "WXDC",
+    "name": "Wrapped XDC",
+    "type": "XRC20",
+    "contract": "xdc8a3cc832bb6b255622e92dc9d4611f2a94d200da",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "symbol": "EURG",
+    "name": "Globiance Euro Stablecoin",
+    "type": "XRC20",
+    "contract": "xdc5231fc6c065466c9ef99278ebe59c1b29fd7ccd0",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "symbol": "SGDG",
+    "name": "Globiance SDG Stablecoin",
+    "type": "XRC20",
+    "contract": "xdcd0148cb95da3ef32e198905258a0f0af3ea9bd27",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "symbol": "HKDG",
+    "name": "Globiance HKD Stablecoin",
+    "type": "XRC20",
+    "contract": "xdc192d70ff2ac21cc2f4788264c7d04502c6412094",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "symbol": "GBPG",
+    "name": "Globiance GBP Stablecoin",
+    "type": "XRC20",
+    "contract": "xdc9ebedd5f691ae16538dfbf7cd0f043622eb34d4d",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "symbol": "USDG",
+    "name": "Globiance USD Stablecoin",
+    "type": "XRC20",
+    "contract": "xdc9c1eb1ea34e70ac05b5ee5515212e9ec201cfc5d",
     "support": {
       "biometric": true,
       "ethCard": false,
@@ -26239,6 +26775,253 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/11541.png",
+    "symbol": "ARV",
+    "name": "Ariva",
+    "type": "BEP20",
+    "contract": "0x6679eb24f59dfe111864aec72b443d1da666b360",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/12780.png",
+    "symbol": "FCF",
+    "name": "French Connection Finance",
+    "type": "BEP20",
+    "contract": "0x4673f018cc6d401aad0402bdbf2abcbf43dd69f3",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/10336.png",
+    "symbol": "HAM",
+    "name": "Hamster",
+    "type": "BEP20",
+    "contract": "0x679d5b2d94f454c950d683d159b87aa8eae37c9e",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/12644.png",
+    "symbol": "TTK",
+    "name": "The Three Kingdoms",
+    "type": "BEP20",
+    "contract": "0x39703a67bac0e39f9244d97f4c842d15fbad9c1f",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8713.png",
+    "symbol": "SCB",
+    "name": "Space Cow Boy",
+    "type": "BEP20",
+    "contract": "0x0d36cc179019db9a65aa3b85db59e4bb52df0b12",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/11707.png",
+    "symbol": "SONA",
+    "name": "Sona Network",
+    "type": "BEP20",
+    "contract": "0xaf2052d2933a117c5d21314662bacb53839aedc9",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/10613.png",
+    "symbol": "EMPIRE",
+    "name": "Empire Token",
+    "type": "BEP20",
+    "contract": "0x293c3ee9abacb08bb8ced107987f00efd1539288",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/9637.png",
+    "symbol": "ALU",
+    "name": "Altura",
+    "type": "BEP20",
+    "contract": "0x8263cd1601fe73c066bf49cc09841f35348e3be0",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/10953.png",
+    "symbol": "KABY",
+    "name": "Kaby Arena",
+    "type": "BEP20",
+    "contract": "0x02a40c048ee2607b5f5606e445cfc3633fb20b58",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/12566.png",
+    "symbol": "PINKSALE",
+    "name": "PinkSale",
+    "type": "BEP20",
+    "contract": "0x602ba546a7b06e0fc7f58fd27eb6996ecc824689",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/11926.png",
+    "symbol": "THG",
+    "name": "Thetan Arena",
+    "type": "BEP20",
+    "contract": "0x9fd87aefe02441b123c3c32466cd9db4c578618f",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/12805.png",
+    "symbol": "BitUp",
+    "name": "BitUp",
+    "type": "BEP20",
+    "contract": "0x28a27ba716d306c842a4b5da20a42e1d4d1e8d6b",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/11770.png",
+    "symbol": "EVERETH",
+    "name": "EverETH",
+    "type": "BEP20",
+    "contract": "0x16dcc0ec78e91e868dca64be86aec62bf7c61037",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/12198.png",
+    "symbol": "BOSS",
+    "name": "Boss Token",
+    "type": "BEP20",
+    "contract": "0x49324d59327fb799813b902db55b2a118d601547",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/13423.png",
+    "symbol": "BABYFD",
+    "name": "Baby Floki Doge",
+    "type": "BEP20",
+    "contract": "0xe24f6bc7635501d5684a963f7e75c8062b9c0ea4",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/12276.png",
+    "symbol": "FLOKIN",
+    "name": "Flokinomics",
+    "type": "BEP20",
+    "contract": "0x97ea5efdcb5961a99ba5c96123042507c0210ec1",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/13560.png",
+    "symbol": "SHIBAZILLA",
+    "name": "ShibaZilla",
+    "type": "BEP20",
+    "contract": "0x68810a6f5bb0491cb9ccf8c52735a1acf5f28009",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/12101.png",
+    "symbol": "AINU",
+    "name": "Anon Inu",
+    "type": "BEP20",
+    "contract": "0x64f36701138f0e85cc10c34ea535fdbadcb54147",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/11925.png",
+    "symbol": "MONI",
+    "name": "Monsta Infinite",
+    "type": "BEP20",
+    "contract": "0x9573c88ae3e37508f87649f87c4dd5373c9f31e0",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://polycat.finance/images/fish/fish.svg",
     "symbol": "FISH",
     "name": "Fish",
@@ -26538,6 +27321,58 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/12873.png",
+    "symbol": "KLIMA",
+    "name": "Klima DAO",
+    "type": "POLYGON-ERC20",
+    "contract": "0x4e78011ce80ee02d2c3e649fb657e45898257815",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/12873.png",
+    "symbol": "1FLR",
+    "name": "Flare Token",
+    "type": "POLYGON-ERC20",
+    "contract": "0x5f0197ba06860dac7e31258bdf749f92b6a636d4",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5798.png",
+    "symbol": "RING",
+    "name": "Darwinia Network",
+    "type": "POLYGON-ERC20",
+    "contract": "0x9c1c23e60b72bc88a043bf64afdb16a02540ae8f",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5931.png",
+    "symbol": "KTON",
+    "name": "Darwinia Commitment Token",
+    "type": "POLYGON-ERC20",
+    "contract": "0xe21b9bda4ecef9e4652bc5c6863f731c2151ef28",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://github.com/DcentWallet/info/raw/master/images/coins/original/asset-jam.png",
     "symbol": "JAM",
     "name": "JAM",
@@ -26579,6 +27414,19 @@
     "name": "Wrapped Songbird",
     "contract": "0x02f0826ef6ad107cfc861152b32b52fd11bab9ed",
     "symbol": "WSGB",
+    "type": "SONGBIRD-ERC20",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/asset-nftp.svg",
+    "name": "Best FTSO NFT Points",
+    "contract": "0x3b46090e608cbc963356f30857f4dacc09f5ddc4",
+    "symbol": "NFTp",
     "type": "SONGBIRD-ERC20",
     "support": {
       "biometric": true,
@@ -26756,6 +27604,19 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5798.png",
+    "name": "Darwinia Network",
+    "contract": "0x15e65456310ecb216b51efbd8a1dbf753353dcf9",
+    "symbol": "RING",
+    "type": "HRC20",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5268.png",
     "name": "Wrapped EWT",
     "contract": "0x6b3bd0478DF0eC4984b168Db0E12A539Cc0c83cd",
@@ -26899,11 +27760,63 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/11994.png",
+    "name": "Death Token",
+    "contract": "0xeaf45b62d9d0bdc1d763baf306af5edd7c0d7e55",
+    "symbol": "DEATH",
+    "type": "FTM-ERC20",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/1808.png",
+    "name": "OMG Network",
+    "contract": "0xe1e2ec9a85c607092668789581251115bcbd20de",
+    "symbol": "OMG",
+    "type": "BOBA-ERC20",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/dapp/images/network_boba.png",
+    "name": "BOBA",
+    "contract": "0xa18bf3994c0cc6e3b63ac420308e5383f53120d7",
+    "symbol": "BOBA",
+    "type": "BOBA-ERC20",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/11023.png",
     "name": "Wrapped KuCoin Token",
     "contract": "0x4446fc4eb47f2f6586f9faab68b3498f86c07521",
     "symbol": "WKCS",
     "type": "KCC-ERC20",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/825.png",
+    "name": "Tether",
+    "contract": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "symbol": "USDT",
+    "type": "ARBITRUM-ERC20",
     "support": {
       "biometric": true,
       "ethCard": false,
