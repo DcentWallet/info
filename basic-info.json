@@ -326,6 +326,24 @@
                 "width": "32px",
                 "height": "32px"
             }
+        },
+        {
+            "symbol": "ETH", 
+            "name": "Arbitrum ETH",
+            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/dapp/images/network_arbitrum.png",
+            "imgSize": {
+                "width": "32px",
+                "height": "32px"
+            }
+        },
+        {
+            "symbol": "ETH", 
+            "name": "Boba ETH",
+            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/dapp/images/network_boba.png",
+            "imgSize": {
+                "width": "32px",
+                "height": "32px"
+            }
         }
     ],
     "cardSupportedCoinList": [
