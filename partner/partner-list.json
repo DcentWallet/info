@@ -1,5 +1,10 @@
 [   
     {
+    "name": "boba",
+    "imageUrl": "../images/partners_boba.png",
+    "gotoLink": "https://boba.network/"
+    },
+    {
     "name": "arbitrum",
     "imageUrl": "../images/partners_arbitrum.png",
     "gotoLink": "https://arbitrum.io/"
