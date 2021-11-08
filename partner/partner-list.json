@@ -1,5 +1,10 @@
 [   
     {
+    "name": "pipeflare",
+    "imageUrl": "../images/partners_pipeflare.png",
+    "gotoLink": "https://www.pipeflare.io/"
+    },
+    {
     "name": "boba",
     "imageUrl": "../images/partners_boba.png",
     "gotoLink": "https://boba.network/"
