@@ -246,7 +246,7 @@
                     "networkId": "stacks-testnet",
                     "name": "testnet",
                     "description": "Stacks-Testnet",
-                    "coinType": "STX-TESTNET",
+                    "coinType": "STACKS-TESTNET",
                     "chainId": 2,
                     "iconPath" : "network_stacks.png",
                     "testnet": true,
