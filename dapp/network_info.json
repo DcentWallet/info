@@ -212,8 +212,7 @@
                     "description": "OKEx Chain",
                     "coinType": "CHAN:66",
                     "chainId": 66,
-                    "iconPath": "network_oec.png",
-                    "preRelease": true
+                    "iconPath": "network_oec.png"
                 }
 
             ]
