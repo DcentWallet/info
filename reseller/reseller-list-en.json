@@ -1,5 +1,10 @@
 [
-    {
+  {
+    "name": "akua",
+    "imageUrl": "../images_en/akua.png",
+    "gotoLink": ""
+  },  
+  {
     "name": "all-in-ape_philippines",
     "imageUrl": "../images_en/all-in-ape_philippines.png",
     "gotoLink": "https://ph.all-in-ape.com/"
