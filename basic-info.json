@@ -392,6 +392,15 @@
             "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8267.png",
             "name": "OEC Token",
             "symbol": "OKT"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5426.png",
+            "name": "Solana",
+            "symbol": "SOL"
         }
     ],
     "version": {
