@@ -2,31 +2,31 @@
     "support_network_list": [
         {
             "name": {
-                "ko": "Ethereum",
-                "en": "이더리움"
+                "en": "Ethereum",
+                "ko": "이더리움"
             },
             "coinType": "ETHEREUM" 
         },
         {
             "name": {
-                "ko": "Klaytn",
-                "en": "클레이튼"
+                "en": "Klaytn",
+                "ko": "클레이튼"
             },
             "coinType": "KLAYTN",
             "preRelease": true
         },
         {
             "name": {
-                "ko": "Ethereum-Rinkeby",
-                "en": "이더리움-Rinkeby"
+                "en": "Ethereum-Rinkeby",
+                "ko": "이더리움-Rinkeby"
             },
             "coinType": "ETH-RINKEBY",
             "testnet": true
         },
         {
             "name": {
-                "ko": "Klaytn-Baobab",
-                "en": "클레이튼-Baobab"
+                "en": "Klaytn-Baobab",
+                "ko": "클레이튼-Baobab"
             },
             "coinType": "KLAYTN-TESTNET",
             "testnet": true,
