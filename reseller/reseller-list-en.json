@@ -1,5 +1,10 @@
 [
   {
+    "name": "Bitcointech",
+    "imageUrl": "../images_en/Bitcointech.png",
+    "gotoLink": "www.bitcointech.ro"
+  },  
+  {
     "name": "akua",
     "imageUrl": "../images_en/akua.png",
     "gotoLink": ""
