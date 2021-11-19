@@ -1,0 +1,24 @@
+{
+    "support_network_list": [
+        {
+            "name": "Ethereum",
+            "coinType": "ETHEREUM" 
+        },
+        {
+            "name": "Klaytn",
+            "coinType": "KLAYTN",
+            "preRelease": true
+        },
+        {
+            "name": "Ethereum-Rinkeby",
+            "coinType": "ETH-RINKEBY",
+            "testnet": true
+        },
+        {
+            "name": "Klaytn-Baobab",
+            "coinType": "KLAYTN-TESTNET",
+            "testnet": true,
+            "preRelease": true
+        }
+    ]
+}
