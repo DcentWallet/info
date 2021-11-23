@@ -3,12 +3,11 @@
         {
             "name": "buy & sell",
             "title": "Buy & Sell",
-            "description": "간단하고 빠른 암호화폐 교환을 제공하는 스왑 서비스입니다. 계정이 필요없고, 걱정없이, 빠르고 간편합니다.",
-            "link": "https://changenow.io/ko",
+            "description": "골라골라 사고 팔고 골라골라",
+            "link": "",
             "kind": [],
             "category": [],
             "iconPath": "incon_buyNsell.png",
-            "type": "widget",
             "externalWindow": false
         },
         {
