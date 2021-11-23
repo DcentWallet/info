@@ -1,6 +1,17 @@
 {
     "list": [
         {
+            "name": "buy & sell",
+            "title": "Buy & Sell",
+            "description": "간단하고 빠른 암호화폐 교환을 제공하는 스왑 서비스입니다. 계정이 필요없고, 걱정없이, 빠르고 간편합니다.",
+            "link": "https://changenow.io/ko",
+            "kind": [],
+            "category": [],
+            "iconPath": "incon_buyNsell.png",
+            "type": "widget",
+            "externalWindow": false
+        },
+        {
             "name": "changenow",
             "title": "ChangeNOW",
             "description": "ChangeNOW는 간단하고 빠른 암호화폐 교환을 제공하는 스왑 서비스입니다. 계정이 필요없고, 걱정없이, 빠르고 간편합니다.",
