@@ -16,6 +16,14 @@
         },
         {
             "name": {
+                "en": "Luniverse",
+                "ko": "루니버스"
+            },
+            "coinType": "LUNIVERSE",
+            "preRelease": true
+        },
+        {
+            "name": {
                 "en": "Ethereum-Rinkeby",
                 "ko": "이더리움-Rinkeby"
             },
