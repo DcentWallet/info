@@ -8,7 +8,7 @@
             "kind": [],
             "category": [],
             "iconPath": "incon_buyNsell.png",
-            "type": "",
+            "type": "buysell",
             "externalWindow": false
         },
         {
