@@ -1,5 +1,25 @@
 [
   {
+    "name": "iphonebutiken_Norway",
+    "imageUrl": "../images_en/iphonebutiken_Norway",
+    "gotoLink": "https://www.iphonehuset.no/dcent-biometric-wallet-40346.html"
+  },  
+  {
+    "name": "iphonebutiken_Finland",
+    "imageUrl": "../images_en/iphonebutiken_Finland",
+    "gotoLink": "https://www.iphonetalo.fi/dcent-biometric-wallet-40346.html"
+  },  
+  {
+    "name": "iphonebutiken_Denmark",
+    "imageUrl": "../images_en/iphonebutiken_Denmark.png",
+    "gotoLink": "https://www.iphonehus.dk/dcent-biometric-wallet-40346.html"
+  },  
+  {
+    "name": "iphonebutiken_Sweden",
+    "imageUrl": "../images_en/iphonebutiken_Sweden.png",
+    "gotoLink": "https://www.iphonebutiken.se/dcent-biometric-wallet-40346.html"
+  },  
+  {
     "name": "Bitcointech",
     "imageUrl": "../images_en/Bitcointech.png",
     "gotoLink": "https://www.bitcointech.ro"
