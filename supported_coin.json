@@ -23389,6 +23389,19 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/14613.png",
+    "symbol": "XSP",
+    "name": "XSwap Protocol",
+    "type": "XRC20",
+    "contract": "xdc36726235dadbdb4658d33e62a249dca7c4b2bc68",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://assets.coingecko.com/coins/images/14424/small/NMX_c_200px.png",
     "symbol": "NMX",
     "name": "Nominex",
@@ -27679,6 +27692,19 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/10742.png",
+    "symbol": "NT",
+    "name": "NEXTYPE",
+    "type": "BEP20",
+    "contract": "0xfbcf80ed90856af0d6d9655f746331763efdb22c",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://polycat.finance/images/fish/fish.svg",
     "symbol": "FISH",
     "name": "Fish",
@@ -28317,6 +28343,19 @@
     "name": "Darwinia Network",
     "contract": "0x15e65456310ecb216b51efbd8a1dbf753353dcf9",
     "symbol": "RING",
+    "type": "HRC20",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/10742.png",
+    "name": "NEXTYPE",
+    "contract": "0x8b70512b5248e7c1f0f6996e2fde2e952708c4c9",
+    "symbol": "NT",
     "type": "HRC20",
     "support": {
       "biometric": true,
