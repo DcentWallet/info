@@ -19,7 +19,8 @@
                 "en": "Luniverse",
                 "ko": "루니버스"
             },
-            "coinType": "LUNIVERSE"
+            "coinType": "LUNIVERSE",
+            "preRelease": true
         },
         {
             "name": {
