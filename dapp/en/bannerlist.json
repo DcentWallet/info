@@ -1,11 +1,11 @@
 {
     "list": [
         {
-            "name": "Hedera",
-            "title": "Hedera",
+            "name": "dcent",
+            "title": "D'CENT",
             "description": "",
-            "link": "https://docs.google.com/forms/d/e/1FAIpQLSeJ-IfCslvXi6sU0TAZI7C6INy2852bLxng2Gtg0UyRHUlQNA/viewform?usp=sf_link",
-            "imagePath": "hh_event_app_thumb_en_end.jpg",
+            "link": "https://dcentwallet.com",
+            "imagePath": "banner_dcent.png",
             "externalWindow": true
         }
     ]

@@ -1,5 +1,9 @@
 |Kernel Version|Release Date|Notes|
 |----|----|------|
+|v2.16.7.bdd9|2021-11-25|• Added supporting coin : Stacks SIP010 token<br>• RIPPLE name chaned into XRPL |
+|v2.16.5.0ddc|2021-11-12|• Added supporting coin : SOLANA(SOL) |
+|v2.15.3.90ef|2021-10-28|• Added mnemonic confirmation |
+|v2.15.2.caf8|2021-10-27|• Added supporting coin : ECASH(XEC)<br>• Improved stability |
 |v2.14.1.759d|2021-09-09|• Added supporting coin : STACKS(STX) |
 |v2.13.2.b2e0|2021-08-26|• Implement ADA Multi-Asset utxo process |
 |v2.13.1.d613|2021-08-23|• Improved stability for BTC based Address |

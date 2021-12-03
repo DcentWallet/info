@@ -1,4 +1,408 @@
 {
+    "cardSupportedCoinList": [
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+            "name": "Ethereum",
+            "symbol": "ETH"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+            "name": "ERC20",
+            "symbol": "Token"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+            "name": "ERC721",
+            "symbol": "Token"
+        }
+    ],
+    "klayCardSupportedCoinList": [
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/4256.png",
+            "name": "Klaytn",
+            "symbol": "KLAY"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/4256.png",
+            "name": "Klaytn Compatible Token",
+            "symbol": "KCT"
+        }
+    ],
+    "supportedCoinList": [
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
+            "name": "Bitcoin",
+            "segwit": true,
+            "symbol": "BTC"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+            "name": "Ethereum",
+            "symbol": "ETH"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/3626.png",
+            "name": "Rootstock",
+            "symbol": "RBTC"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png",
+            "name": "Ripple",
+            "symbol": "XRP"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/213.png",
+            "name": "MonaCoin",
+            "symbol": "MONA"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1831.png",
+            "name": "Bitcoin Cash",
+            "symbol": "BCH"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/2.png",
+            "name": "LiteCoin",
+            "symbol": "LTC"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1437.png",
+            "name": "Zcash",
+            "symbol": "ZEC"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/131.png",
+            "name": "Dash",
+            "symbol": "DASH"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/2083.png",
+            "name": "Bitcoin Gold",
+            "symbol": "BTG"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/4256.png",
+            "name": "Klaytn",
+            "symbol": "KLAY"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/109.png",
+            "name": "DigiByte",
+            "segwit": true,
+            "symbol": "DGB"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/2577.png",
+            "name": "Ravencoin",
+            "symbol": "RVN"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
+            "name": "Binance",
+            "symbol": "BNB"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://github.com/DcentWallet/info/raw/master/images/coins/original/binance-logo.png",
+            "name": "Binance Smart Chain",
+            "symbol": "BNB"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/512.png",
+            "name": "Stellar",
+            "symbol": "XLM"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/74.png",
+            "name": "Dogecoin",
+            "symbol": "DOGE"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png",
+            "name": "Tron",
+            "symbol": "TRX"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/7686.png",
+            "name": "Bitcoin Cash ABC",
+            "symbol": "BCHA"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://github.com/DcentWallet/info/raw/master/images/coins/original/asset-luniverse.png",
+            "name": "Luniverse Token",
+            "symbol": ""
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2634.png",
+            "name": "XinFin Network",
+            "symbol": "XDC"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2010.png",
+            "name": "Cardano",
+            "symbol": "ADA"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3890.png",
+            "name": "Polygon",
+            "symbol": "MATIC"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/asset-heco.png",
+            "name": "HECO",
+            "symbol": "HT"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8635.png",
+            "name": "xDAI",
+            "symbol": "XDAI"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3513.png",
+            "name": "Fantom",
+            "symbol": "FTM"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5567.png",
+            "name": "Celo",
+            "symbol": "CELO"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3418.png",
+            "name": "Metadium",
+            "symbol": "META"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/1698.png",
+            "name": "Horizen",
+            "symbol": "ZEN"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4642.png",
+            "name": "Hedera Hashgraph",
+            "symbol": "HBAR"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4847.png",
+            "name": "Stacks",
+            "symbol": "STX"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2087.png",
+            "name": "KuCoin Token",
+            "symbol": "KCS"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/asset-songbird.png",
+            "name": "Songbird Token",
+            "symbol": "SGB"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5805.png",
+            "name": "Avalanche",
+            "symbol": "AVAX"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5268.png",
+            "name": "Energy Web Token",
+            "symbol": "EWT"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/dapp/images/network_arbitrum.png",
+            "name": "Arbitrum ETH",
+            "symbol": "ETH"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/dapp/images/network_boba.png",
+            "name": "Boba ETH",
+            "symbol": "ETH"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8267.png",
+            "name": "OEC Token",
+            "symbol": "OKT"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5426.png",
+            "name": "Solana",
+            "symbol": "SOL"
+        }
+    ],
     "version": {
         "biometric": {
             "android": "v3.2.0",
@@ -8,373 +412,5 @@
             "android": "v2.2.0",
             "ios": "v2.2"
         }
-    },
-    "supportedCoinList": [
-        { 
-            "symbol": "BTC", 
-            "name": "Bitcoin",
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            },
-            "segwit": true
-        },
-        { 
-            "symbol": "ETH", 
-            "name": "Ethereum", 
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            }
-        },
-        { 
-            "symbol": "RBTC", 
-            "name": "Rootstock", 
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/3626.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            } 
-        },
-        { 
-            "symbol": "XRP", 
-            "name": "Ripple", 
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            } 
-        },
-        { 
-            "symbol": "MONA", 
-            "name": "MonaCoin", 
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/213.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            } 
-        },
-        { 
-            "symbol": "BCH", 
-            "name": "Bitcoin Cash", 
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1831.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            } 
-        },
-        { 
-            "symbol": "LTC", 
-            "name": "LiteCoin", 
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/2.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            }
-        },
-        { 
-            "symbol": "ZEC", 
-            "name": "Zcash", 
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1437.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            } 
-        },
-        { 
-            "symbol": "DASH", 
-            "name": "Dash", 
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/131.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            } 
-        },
-        { 
-            "symbol": "BTG", 
-            "name": "Bitcoin Gold", 
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/2083.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            } 
-        },
-        { 
-            "symbol": "KLAY", 
-            "name": "Klaytn", 
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/4256.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            } 
-        },
-        { 
-            "symbol": "DGB", 
-            "name": "DigiByte", 
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/109.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            },
-            "segwit": true
-        },
-        {
-            "symbol": "RVN",
-            "name": "Ravencoin",
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/2577.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            }
-        },
-        {
-            "symbol": "BNB",
-            "name": "Binance",
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            }
-        },
-        {
-            "symbol": "BNB",
-            "name": "Binance Smart Chain",
-            "imgUrl": "https://github.com/DcentWallet/info/raw/master/images/coins/original/binance-logo.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            }
-        },
-        {
-            "symbol": "XLM",
-            "name": "Stellar",
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/512.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            }
-        },
-        {
-            "symbol": "DOGE",
-            "name": "Dogecoin",
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/74.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            }
-        },
-        {
-            "symbol": "TRX",
-            "name": "Tron",
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            }
-        },
-        { 
-            "symbol": "BCHA", 
-            "name": "Bitcoin Cash ABC", 
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/7686.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            } 
-        },
-        { 
-            "symbol": "", 
-            "name": "Luniverse Token",
-            "imgUrl": "https://github.com/DcentWallet/info/raw/master/images/coins/original/asset-luniverse.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            } 
-        },
-        { 
-            "symbol": "XDC", 
-            "name": "XinFin Network",
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2634.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            } 
-        },
-        { 
-            "symbol": "ADA", 
-            "name": "Cardano",
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2010.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            } 
-        },
-        { 
-            "symbol": "MATIC", 
-            "name": "Polygon",
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3890.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            } 
-        },
-        { 
-            "symbol": "HT", 
-            "name": "HECO",
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2502.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            } 
-        },
-        { 
-            "symbol": "XDAI", 
-            "name": "xDAI",
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8635.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            } 
-        },
-        { 
-            "symbol": "FTM", 
-            "name": "Fantom",
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3513.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            } 
-        },
-        {
-            "symbol": "CELO", 
-            "name": "Celo",
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5567.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            } 
-        },
-        {
-            "symbol": "META", 
-            "name": "Metadium",
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3418.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            }
-        },
-        {
-            "symbol": "ZEN", 
-            "name": "Horizen",
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/1698.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            }
-        },
-        {
-            "symbol": "HBAR", 
-            "name": "Hedera Hashgraph",
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4642.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            }
-        },
-        {
-            "symbol": "STX", 
-            "name": "Stacks",
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4847.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            }
-        },
-        {
-            "symbol": "KCS", 
-            "name": "KuCoin Token",
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2087.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            }
-        },
-        {
-            "symbol": "SGB", 
-            "name": "Songbird Token",
-            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/asset-songbird.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            }
-        },
-        {
-            "symbol": "AVAX", 
-            "name": "Avalanche",
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5805.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            }
-        },
-        {
-            "symbol": "EWT", 
-            "name": "Energy Web Token",
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5268.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            }
-        }
-    ],
-    "cardSupportedCoinList": [
-        { 
-            "symbol": "ETH",
-            "name": "Ethereum", 
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            }
-        },
-        { 
-            "symbol": "Token", 
-            "name": "ERC20", 
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            }
-        },
-        { 
-            "symbol": "Token", 
-            "name": "ERC721", 
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            }
-        }
-    ],
-    "klayCardSupportedCoinList": [
-        { 
-            "symbol": "KLAY", 
-            "name": "Klaytn", 
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/4256.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            } 
-        },
-        { 
-            "symbol": "KCT", 
-            "name": "Klaytn Compatible Token", 
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/4256.png",
-            "imgSize": {
-                "width": "32px",
-                "height": "32px"
-            } 
-        }
-    ]
+    }
 }

@@ -1,43 +1,77 @@
 [
-
+  {
+    "name": "iphonebutiken_Norway",
+    "imageUrl": "../images_en/iphonebutiken_Norway.png",
+    "gotoLink": "https://www.iphonehuset.no/dcent-biometric-wallet-40346.html"
+  },  
+  {
+    "name": "iphonebutiken_Finland",
+    "imageUrl": "../images_en/iphonebutiken_Finland.png",
+    "gotoLink": "https://www.iphonetalo.fi/dcent-biometric-wallet-40346.html"
+  },  
+  {
+    "name": "iphonebutiken_Denmark",
+    "imageUrl": "../images_en/iphonebutiken_Denmark.png",
+    "gotoLink": "https://www.iphonehus.dk/dcent-biometric-wallet-40346.html"
+  },  
+  {
+    "name": "iphonebutiken_Sweden",
+    "imageUrl": "../images_en/iphonebutiken_Sweden.png",
+    "gotoLink": "https://www.iphonebutiken.se/dcent-biometric-wallet-40346.html"
+  },  
+  {
+    "name": "Bitcointech",
+    "imageUrl": "../images_en/Bitcointech.png",
+    "gotoLink": "https://www.bitcointech.ro"
+  },  
+  {
+    "name": "akua",
+    "imageUrl": "../images_en/akua.png",
+    "gotoLink": "https://akuaglobal.com/"
+  },  
+  {
+    "name": "all-in-ape_philippines",
+    "imageUrl": "../images_en/all-in-ape_philippines_edit.png",
+    "gotoLink": "https://ph.all-in-ape.com/"
+  },  
+  {
+    "name": "all-in-ape__taiwan",
+    "imageUrl": "../images_en/all-in-ape_taiwan_edit.png",
+    "gotoLink": "https://all-in-ape.com/"
+  },  
   {
     "name": "siamb",
-    "imageUrl": "../images_en/siamb.png",
+    "imageUrl": "../images_en/siamb_eidt.png",
     "gotoLink": "https://siambc.com/"
   },  
   {
-    "name": "techwhale",
-    "imageUrl": "../images_en/techwhale.png",
-    "gotoLink": "https://www.techwhale.eu/"
-  },  
-  {
     "name": "safeisrael",
-    "imageUrl": "../images_en/safeisrael_logo.png",
+    "imageUrl": "../images_en/safeisrael_logo_edit.png",
     "gotoLink": "https://www.safeisrael.co.il"
   },  
   {
     "name": "trend",
-    "imageUrl": "../images_en/trend_logo.png",
+    "imageUrl": "../images_en/trend_logo_edit.png",
     "gotoLink": "https://store.trend.hk/products/dcent-biometric-wallet"
   },  
   {
     "name": "cashfort",
-    "imageUrl": "../images_en/cashfort_logo.png",
+    "imageUrl": "../images_en/cashfort_logo_edit.png",
     "gotoLink": "http://www.cashfort.com.br/"
   },
   {
     "name": "cryptonist",
-    "imageUrl": "../images_en/cryptonist_logo.png",
+    "imageUrl": "../images_en/cryptonist_logo_edit.png",
     "gotoLink": "https://cryptonist.ru/catalog/dcent/biometric-wallet/"
   },
   {
     "name": "crypto agent",
-    "imageUrl": "../images_en/crypto_agent_logo.png",
-    "gotoLink": "http://cryptowalletshop.com.au/"
+    "imageUrl": "../images_en/crypto_agent_logo_edit.png",
+    "gotoLink": "https://cryptowalletshop.com.au/product-category/dcent/"
   },
   {
     "name": "techwhale",
-    "imageUrl": "../images_en/techwhale_logo.png",
+    "imageUrl": "../images_en/techwhale_logo_edit.png",
     "gotoLink": "https://www.techwhale.eu/Biometrische-Krypto-Wallet"
   }
 ]

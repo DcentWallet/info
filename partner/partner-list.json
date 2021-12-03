@@ -1,4 +1,34 @@
-[ 
+[   
+    {
+    "name": "NEXTYPE",
+    "imageUrl": "../images/partners_nextype.png",
+    "gotoLink": "https://nextype.finance/index.html"
+    },
+    {
+    "name": "pipeflare",
+    "imageUrl": "../images/partners_pipeflare.png",
+    "gotoLink": "https://www.pipeflare.io/"
+    },
+    {
+    "name": "boba",
+    "imageUrl": "../images/partners_boba.png",
+    "gotoLink": "https://boba.network/"
+    },
+    {
+    "name": "arbitrum",
+    "imageUrl": "../images/partners_arbitrum.png",
+    "gotoLink": "https://arbitrum.io/"
+    },
+    {
+    "name": "flarefi",
+    "imageUrl": "../images/partners_flarefi.png",
+    "gotoLink": "https://flarefi.tech/"
+    },
+    {
+    "name": "xdc",
+    "imageUrl": "../images/partners_XDC.png",
+    "gotoLink": "https://blocksscan.io/"
+    },
     {
     "name": "fleta",
     "imageUrl": "../images/partners_fleta.png",
@@ -307,7 +337,7 @@
   {
     "name": "Asobi Coin",
     "imageUrl": "../images/asobi.png",
-    "gotoLink": "https://asobimo.io/"
+    "gotoLink": "http://asobimo.com/"
   },
   {
     "name": "PoolTogether",
