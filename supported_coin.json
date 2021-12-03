@@ -19800,6 +19800,32 @@
     }
   },
   {
+    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/asset-jun.svg",
+    "symbol": "JUN",
+    "name": "Jun Token",
+    "type": "KCT",
+    "contract": "0x5a55a1cd5cc5e89019300213f9faf20f57361d43",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": true,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/asset-juns.svg",
+    "symbol": "JUNS",
+    "name": "Jun Share",
+    "type": "KCT",
+    "contract": "0x69df45d36341f6bad3c4beffb9e77f2b74709c40",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": true,
+      "software": true
+    }
+  },
+  {
     "symbol": "BOX",
     "name": "BOX",
     "type": "KCT",
