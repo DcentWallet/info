@@ -1,5 +1,10 @@
 [   
     {
+    "name": "NEXTYPE",
+    "imageUrl": "../images/partners_nextype.png",
+    "gotoLink": "https://nextype.finance/index.html"
+    },
+    {
     "name": "pipeflare",
     "imageUrl": "../images/partners_pipeflare.png",
     "gotoLink": "https://www.pipeflare.io/"
