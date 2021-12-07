@@ -19855,7 +19855,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/45.png",
     "symbol": "CSC",
     "name": "CasinoCoin",
-    "type": "RIPPLE-TA",
+    "type": "TrustLine",
     "contract": "0.rCSCManTZ8ME9EoLrSHHYKW8PPwWMgkwr.CSC.65000000000",
     "support": {
       "biometric": true,
@@ -19868,7 +19868,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5279.png",
     "symbol": "SOLO",
     "name": "Sologenic",
-    "type": "RIPPLE-TA",
+    "type": "TrustLine",
     "contract": "1.rsoLo2S1kiGeCcn6hCUXVrCpGMWLrRrLZz.534F4C4F00000000000000000000000000000000.400000000",
     "support": {
       "biometric": true,
@@ -19881,7 +19881,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/12472.png",
     "symbol": "ELS",
     "name": "Elysian",
-    "type": "RIPPLE-TA",
+    "type": "TrustLine",
     "contract": "2.rHXuEaRYnnJHbDeuBH5w8yPh5uwNVh5zAg.ELS.10000000000",
     "support": {
       "biometric": true,
@@ -19894,7 +19894,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/13637.png",
     "symbol": "XRDOGE",
     "name": "XRdoge",
-    "type": "RIPPLE-TA",
+    "type": "TrustLine",
     "contract": "3.rLqUC2eCPohYvJCEBJ77eCCqVL2uEiczjA.5852646F67650000000000000000000000000000.100000000000",
     "support": {
       "biometric": true,
@@ -19907,7 +19907,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/12468.png",
     "symbol": "EQ",
     "name": "Equilibrium Games",
-    "type": "RIPPLE-TA",
+    "type": "TrustLine",
     "contract": "4.rpakCr61Q92abPXJnVboKENmpKssWyHpwu.457175696C69627269756D000000000000000000.100000000",
     "support": {
       "biometric": true,
@@ -19920,7 +19920,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/14327.png",
     "symbol": "SMARTLOX",
     "name": "SmartLOX",
-    "type": "RIPPLE-TA",
+    "type": "TrustLine",
     "contract": "5.rBdZkMKuPnzYVVkyL2DrQKV3DsYt5PPVRh.536D6172744C4F58000000000000000000000000.1000000000",
     "support": {
       "biometric": true,
@@ -19933,7 +19933,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/12464.png",
     "symbol": "LOX",
     "name": "Lox Network",
-    "type": "RIPPLE-TA",
+    "type": "TrustLine",
     "contract": "6.rLLJvh6bwj2eTYwzLL484AW6EyH4rdZqWZ.LOX.1000000000",
     "support": {
       "biometric": true,
@@ -19946,7 +19946,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/14325.png",
     "symbol": "SMARTNFT",
     "name": "SmartNFT",
-    "type": "RIPPLE-TA",
+    "type": "TrustLine",
     "contract": "7.rf8dxyFrYWEcUQAM7QXdbbtcRPzjvoQybK.536D6172744E4654000000000000000000000000.1000000000",
     "support": {
       "biometric": true,
