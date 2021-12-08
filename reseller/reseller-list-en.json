@@ -1,5 +1,10 @@
 [
   {
+    "name": "comodo",
+    "imageUrl": "../images_en/comodo.png",
+    "gotoLink": "https://comodo.finance"
+  },  
+  {
     "name": "iphonebutiken_Norway",
     "imageUrl": "../images_en/iphonebutiken_Norway.png",
     "gotoLink": "https://www.iphonehuset.no/dcent-biometric-wallet-40346.html"
