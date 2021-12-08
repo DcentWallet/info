@@ -1,1 +1,50 @@
-[]
+[  
+    {
+        "img": {
+            "ko": {
+                "desktop": {
+                "path": "../images/ko/xmas_banner_pc_ko.png",
+                "height": "90px", 
+                "background-color": "#EFA7BF" 
+                },
+                "tablet": {
+                "path": "../images/ko/xmas_banner_mo_ko.png",
+                "height": "65px",
+                "background-color": "#EFA7BF"
+                },
+                "mobile": {
+                "path": "../images/ko/xmas_banner_mo_ko.png",
+                "height": "15.64vw",
+                "background-color": "#EFA7BF"
+                }
+            },
+            "en": {
+                "desktop": {
+                "path": "../images/en/xmas_banner_pc_en.png",
+                "height": "90px", 
+                "background-color": "#EFA7BF" 
+                },
+                "tablet": {
+                "path": "../images/en/xmas_banner_mo_en.png",
+                "height": "65px",
+                "background-color": "#EFA7BF"
+                },
+                "mobile": {
+                "path": "../images/en/xmas_banner_mo_en.png",
+                "height": "15.64vw",
+                "background-color": "#EFA7BF"
+                }
+            }
+        },
+        "link": {
+            "ko": {
+                "internal": "/events/202112-globiance-gbex-promotion?lang=en&utm_source=dcentwallet&utm_medium=app_banner&utm_campaign=202112-globiance-gbex-promotion", 
+                "external": false
+            },
+            "en": {
+                "internal": "/events/202112-globiance-gbex-promotion?lang=en&utm_source=dcentwallet&utm_medium=app_banner&utm_campaign=202112-globiance-gbex-promotion", 
+                "external": false
+            }
+        }
+    }
+]
