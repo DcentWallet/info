@@ -8,7 +8,7 @@
                 "background-color": "#EFA7BF" 
                 },
                 "tablet": {
-                "path": "../images/ko/xmas_banner_mo_ko.jpg",
+                "path": "../images/ko/xmas_banner_pc_ko.jpg",
                 "height": "65px",
                 "background-color": "#EFA7BF"
                 },
@@ -25,7 +25,7 @@
                 "background-color": "#EFA7BF" 
                 },
                 "tablet": {
-                "path": "../images/en/xmas_banner_mo_en.jpg",
+                "path": "../images/en/xmas_banner_pc_en.jpg",
                 "height": "65px",
                 "background-color": "#EFA7BF"
                 },
