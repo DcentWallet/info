@@ -1,5 +1,10 @@
 [   
     {
+    "name": "globiance",
+    "imageUrl": "../images/globiance.png",
+    "gotoLink": "https://globiance.com/"
+    },
+    {
     "name": "okex",
     "imageUrl": "../images/partners_okex.png",
     "gotoLink": "https://www.okex.com/oec"
