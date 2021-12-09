@@ -28112,7 +28112,7 @@
     "symbol": "ROFI",
     "name": "HeroFi (ROFI)",
     "type": "BEP20",
-    "contract": "0x65f6d9b1e4f4ef843049f5845b71531a5ce231eb",
+    "contract": "0x3244b3b6030f374bafa5f8f80ec2f06aaf104b64",
     "support": {
       "biometric": true,
       "ethCard": false,
@@ -28711,6 +28711,19 @@
     "name": "JAM",
     "type": "HEDERA-HTS",
     "contract": "0.0.127877",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://github.com/DcentWallet/info/raw/master/images/coins/original/asset-npt.png",
+    "symbol": "NPT",
+    "name": "NADA Token",
+    "type": "HEDERA-HTS",
+    "contract": "0.0.608882",
     "support": {
       "biometric": true,
       "ethCard": false,
