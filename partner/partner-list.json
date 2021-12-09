@@ -1,5 +1,10 @@
 [   
     {
+    "name": "ubeswap",
+    "imageUrl": "../images/ubeswap.png",
+    "gotoLink": "https://ubeswap.org/"
+    },
+    {
     "name": "globiance",
     "imageUrl": "../images/globiance.png",
     "gotoLink": "https://globiance.com/"
