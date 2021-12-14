@@ -1,0 +1,27 @@
+{
+    "pools": [
+        {
+            "poolAddress": "SP3TDKYYRTYFE32N19484838WEJ25GX40Z24GECPZ",
+            "name": "Planbetter",
+            "poxAddress": "3A8n8rwMnHnt2BqnjW4R73eZCMcUDTpYvv",
+            "minimumStx": "200000000",
+            "poolFee": "5%",
+            "payment": "BTC",
+            "isCustodial": false,
+            "homepage": "https://planbetter.org/",
+            "logo": "planbetter_logo.svg"
+        },
+        {
+            "poolAddress": "ST1H5HEHQNCD4T8D53KHSWDQEDW6EE1HM5NVXXBP",
+            "name": "friedger",
+            "poxAddress": "33WSGLeVoEpuZDjB54HKZ1y5YsERELoVNq",
+            "minimumStx": "40000000",
+            "poolFee": "0%",
+            "payment": "BTC",
+            "defaultCycle": 1,
+            "isCustodial": false,
+            "homepage": "https://pool.friedger.de/",
+            "logo": "friedger_logo.svg"
+        }
+    ]
+}
