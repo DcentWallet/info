@@ -1,5 +1,20 @@
 [   
     {
+    "name": "ubeswap",
+    "imageUrl": "../images/ubeswap.png",
+    "gotoLink": "https://ubeswap.org/"
+    },
+    {
+    "name": "globiance",
+    "imageUrl": "../images/globiance.png",
+    "gotoLink": "https://globiance.com/"
+    },
+    {
+    "name": "okex",
+    "imageUrl": "../images/partners_okex.png",
+    "gotoLink": "https://www.okex.com/oec"
+    },
+    {
     "name": "NEXTYPE",
     "imageUrl": "../images/partners_nextype.png",
     "gotoLink": "https://nextype.finance/index.html"
