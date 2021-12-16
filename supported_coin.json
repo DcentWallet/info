@@ -28770,6 +28770,19 @@
     }
   },
   {
+    "iconUrl": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
+    "symbol": "USDT",
+    "name": "USDT",
+    "type": "SPL-TOKEN",
+    "contract": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "name": "XTL",
     "contract": "0x0b72928cd168419077bECd7AB948Cf0922A098a8",
     "symbol": "XTL",
