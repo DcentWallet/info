@@ -1,5 +1,10 @@
 [   
     {
+    "name": "sparklesnft",
+    "imageUrl": "../images/sparklesnft.png",
+    "gotoLink": "https://sparklesnft.com/"
+    },
+    {
     "name": "ubeswap",
     "imageUrl": "../images/ubeswap.png",
     "gotoLink": "https://ubeswap.org/"
