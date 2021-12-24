@@ -1,5 +1,30 @@
 [   
     {
+    "name": "kbic",
+    "imageUrl": "../images/kbic.png",
+    "gotoLink": "http://www.kbic.co.kr/"
+    },
+    {
+    "name": "slinvestment",
+    "imageUrl": "../images/slinvestment.png",
+    "gotoLink": "http://www.slinvestment.com/"
+    },
+    {
+    "name": "krunventures",
+    "imageUrl": "../images/krunventures.png",
+    "gotoLink": "https://www.krunventures.com/"
+    },
+    {
+    "name": "kdb",
+    "imageUrl": "../images/kdb.png",
+    "gotoLink": "https://www.kdbc.co.kr/"
+    },
+    {
+    "name": "slnsvc",
+    "imageUrl": "../images/lnsvc.png",
+    "gotoLink": "http://www.lnsvc.co.kr/"
+    },
+    {
     "name": "sparklesnft",
     "imageUrl": "../images/sparklesnft.png",
     "gotoLink": "https://sparklesnft.com/"
