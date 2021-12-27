@@ -1,5 +1,10 @@
 [
     {
+    "name": "etherbit",
+    "imageUrl": "../images_en/etherbit.png",
+    "gotoLink": "https://www.etherbit.in/products/dcent-biometric-wallet"
+  },  
+    {
     "name": "lwallet",
     "imageUrl": "../images_en/reseller_lwallet.png",
     "gotoLink": "https://lwallet.com.ua/product/dcent-biometric-wallet/"
