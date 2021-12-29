@@ -3,34 +3,34 @@
         "img": {
             "ko": {
                 "desktop": {
-                "path": "../images/ko/xmas_banner_pc_ko.jpg",
+                "path": "../images/ko/xmasfinished_banner_pc_ko.jpg",
                 "height": "90px", 
                 "background-color": "#EFA7BF" 
                 },
                 "tablet": {
-                "path": "../images/ko/xmas_banner_pc_ko.jpg",
+                "path": "../images/ko/xmasfinished_banner_pc_ko.jpg",
                 "height": "65px",
                 "background-color": "#EFA7BF"
                 },
                 "mobile": {
-                "path": "../images/ko/xmas_banner_mo_ko.jpg",
+                "path": "../images/ko/xmasfinished_banner_mo_ko.jpg",
                 "height": "15.64vw",
                 "background-color": "#EFA7BF"
                 }
             },
             "en": {
                 "desktop": {
-                "path": "../images/en/xmas_banner_pc_en.jpg",
+                "path": "../images/en/xmasfinished_banner_pc_en.jpg",
                 "height": "90px", 
                 "background-color": "#EFA7BF" 
                 },
                 "tablet": {
-                "path": "../images/en/xmas_banner_pc_en.jpg",
+                "path": "../images/en/xmasfinished_banner_pc_en.jpg",
                 "height": "65px",
                 "background-color": "#EFA7BF"
                 },
                 "mobile": {
-                "path": "../images/en/xmas_banner_mo_en.jpg",
+                "path": "../images/en/xmasfinished_banner_mo_en.jpg",
                 "height": "15.64vw",
                 "background-color": "#EFA7BF"
                 }
