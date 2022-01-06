@@ -46,5 +46,53 @@
                 "external": false
             }
         }
+    }, 
+    {
+        "img": {
+            "ko": {
+                "desktop": {
+                "path": "../images/ko/pc_2022event_banner_kr_xrp1.jpg",
+                "height": "90px", 
+                "background-color": "#23292F" 
+                },
+                "tablet": {
+                "path": "../images/ko/pc_2022event_banner_kr_xrp1.jpg",
+                "height": "65px",
+                "background-color": "#23292F"
+                },
+                "mobile": {
+                "path": "../images/ko/mo_2022event_banner_kr_xrp1.jpg",
+                "height": "15.64vw",
+                "background-color": "#23292F"
+                }
+            },
+            "en": {
+                "desktop": {
+                "path": "../images/en/pc_2022event_banner_en_xrp1.jpg",
+                "height": "90px", 
+                "background-color": "#23292F" 
+                },
+                "tablet": {
+                "path": "../images/en/pc_2022event_banner_en_xrp1.jpg",
+                "height": "65px",
+                "background-color": "#23292F"
+                },
+                "mobile": {
+                "path": "../images/en/mo_2022event_banner_en_xrp1.jpg",
+                "height": "15.64vw",
+                "background-color": "#23292F"
+                }
+            }
+        },
+        "link": {
+            "ko": {
+                "internal": false, 
+                "external": "https://app.viralsweep.com/sweeps/full/cee6a1-103445?framed=1"
+            },
+            "en": {
+                "internal": false, 
+                "external": "https://app.viralsweep.com/sweeps/full/cee6a1-103445?framed=1"
+            }
+        }
     }
 ]
