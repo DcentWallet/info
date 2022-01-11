@@ -4,11 +4,10 @@
             "name": "buysell",
             "title": "Buy & Sell",
             "description": "A service you get from our 100+ comprehensive experience through our network of diversified partners." ,
-            "link": "",
+            "link": "http://",
             "kind": [],
             "category": [],
             "iconPath": "incon_buyNsell.png",
-            "type": "buysell",
             "externalWindow": false
         },
         {
