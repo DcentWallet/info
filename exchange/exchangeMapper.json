@@ -248,8 +248,8 @@
     "groupName": "HECO",
     "supportCustom": true,
     "tokenGroup": [
-      "CHAN: 128",
-      "CH20: 128"
+      "CHAN:128",
+      "CH20:128"
     ]
   },
   {
@@ -258,8 +258,8 @@
     "groupName": "xdai",
     "supportCustom": true,
     "tokenGroup": [
-      "CHAN: 100",
-      "CH20: 100"
+      "CHAN:100",
+      "CH20:100"
     ]
   },
   {
@@ -268,8 +268,8 @@
     "groupName": "ftm",
     "supportCustom": true,
     "tokenGroup": [
-      "CHAN: 250",
-      "CH20: 250"
+      "CHAN:250",
+      "CH20:250"
     ]
   },
   {
@@ -278,8 +278,8 @@
     "groupName": "celo",
     "supportCustom": true,
     "tokenGroup": [
-      "CHAN: 42220",
-      "CH20: 42220"
+      "CHAN:42220",
+      "CH20:42220"
     ]
   },
   {
@@ -288,8 +288,8 @@
     "groupName": "metadium",
     "supportCustom": true,
     "tokenGroup": [
-      "CHAN: 11",
-      "CH20: 11"
+      "CHAN:11",
+      "CH20:11"
     ]
   },
   {
@@ -298,8 +298,8 @@
     "groupName": "kucoin",
     "supportCustom": true,
     "tokenGroup": [
-      "CHAN: 321",
-      "CH20: 321"
+      "CHAN:321",
+      "CH20:321"
     ]
   },
   {
@@ -308,8 +308,8 @@
     "groupName": "avalanche",
     "supportCustom": true,
     "tokenGroup": [
-      "CHAN: 43114",
-      "CH20: 43114"
+      "CHAN:43114",
+      "CH20:43114"
     ]
   },
   {
@@ -318,8 +318,8 @@
     "groupName": "energy web token",
     "supportCustom": true,
     "tokenGroup": [
-      "CHAN: 246",
-      "CH20: 246"
+      "CHAN:246",
+      "CH20:246"
     ]
   },
   {
@@ -328,8 +328,8 @@
     "groupName": "songbird",
     "supportCustom": true,
     "tokenGroup": [
-      "CHAN: 19",
-      "CH20: 19"
+      "CHAN:19",
+      "CH20:19"
     ]
   },
   {
@@ -338,8 +338,8 @@
     "groupName": "arbitrum",
     "supportCustom": true,
     "tokenGroup": [
-      "CHAN: 42161",
-      "CH20: 42161"
+      "CHAN:42161",
+      "CH20:42161"
     ]
   },
   {
@@ -348,8 +348,8 @@
     "groupName": "boba",
     "supportCustom": true,
     "tokenGroup": [
-      "CHAN: 288",
-      "CH20: 288"
+      "CHAN:288",
+      "CH20:288"
     ]
   },
   {
@@ -358,8 +358,8 @@
     "groupName": "oec",
     "supportCustom": true,
     "tokenGroup": [
-      "CHAN: 66",
-      "CH20: 66"
+      "CHAN:66",
+      "CH20:66"
     ]
   },
   {
