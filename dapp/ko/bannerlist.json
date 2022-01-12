@@ -1,14 +1,6 @@
 {
     "list": [
         {
-            "name": "xmas",
-            "title": "XMAS",
-            "description": "",
-            "link": "https://dcentwallet.com/events/202112-globiance-gbex-promotion?lang=ko&utm_source=dcentwallet&utm_medium=app_banner&utm_campaign=202112-globiance-gbex-promotion",
-            "imagePath": "xmasfinished_banner_ko.jpg",
-            "externalWindow": true
-        },
-        {
             "name": "2022xrp",
             "title": "XRP",
             "description": "",
