@@ -127,10 +127,10 @@
                 {
                     "networkId": "xdai-mainnet",
                     "name": "xdai",
-                    "description": "xDai",
+                    "description": "Gnosis Chain",
                     "coinType": "CHAN:100",
                     "chainId": 100,
-                    "iconPath": "network_xdai.png"
+                    "iconPath": "network_gnosis.png"
                 },
                 {
                     "networkId": "ftm-mainnet",
