@@ -272,8 +272,8 @@
                 "height": "32px",
                 "width": "32px"
             },
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8635.png",
-            "name": "xDAI",
+            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/dapp/images/network_gnosis.png",
+            "name": "Gnosis Chain",
             "symbol": "XDAI"
         },
         {
