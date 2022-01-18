@@ -226,7 +226,7 @@
                     "description": "Klaytn",
                     "coinType": "KLAYTN",
                     "chainId": 8217,
-                    "iconPath" : "network_klaytn.png",
+                    "iconPath" : "network_klaytn2.png",
                     "selected" : true
                 },
                 {
@@ -235,7 +235,7 @@
                     "description": "Klaytn-Baobab",
                     "coinType": "KLAYTN-TESTNET",
                     "chainId": 1001,
-                    "iconPath" : "network_klaytn.png",
+                    "iconPath" : "network_klaytn2.png",
                     "testnet": true
                 }
             ]
