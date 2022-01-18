@@ -55,7 +55,7 @@
     }
   },
   {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4256.png",
+    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/dapp/images/network_klaytn2.png",
     "symbol": "KLAY",
     "name": "Klaytn",
     "support": {
