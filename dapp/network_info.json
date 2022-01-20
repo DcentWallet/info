@@ -213,8 +213,25 @@
                     "coinType": "CHAN:66",
                     "chainId": 66,
                     "iconPath": "network_oec.png"
+                },
+                {
+                    "networkId": "HARMONY-mainnet",
+                    "name": "harmony",
+                    "description": "Harmony",
+                    "coinType": "CHAN:1666600000",
+                    "chainId": 1666600000,
+                    "iconPath": "network_harmony.png",
+                    "preRelease": true
+                },
+                {
+                    "networkId": "HARMONY-testnet",
+                    "name": "harmony_testnet",
+                    "description": "Harmony Testnet",
+                    "coinType": "CHAN:1666700000",
+                    "chainId": 1666700000,
+                    "iconPath": "network_harmony.png",
+                    "testnet": true
                 }
-
             ]
         },
         {
