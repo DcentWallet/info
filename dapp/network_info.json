@@ -193,7 +193,7 @@
                     "networkId": "arbitrum-testnet",
                     "name": "arbitrum_rinkeby",
                     "description": "Arb-rinkeby",
-                    "coinType": "CHAN:421611",
+                    "coinType": "EVMT:421611",
                     "chainId": 421611,
                     "iconPath": "network_arbitrum.png",
                     "testnet": true
@@ -227,7 +227,7 @@
                     "networkId": "HARMONY-testnet",
                     "name": "harmony_testnet",
                     "description": "Harmony Testnet",
-                    "coinType": "CHAN:1666700000",
+                    "coinType": "EVMT:1666700000",
                     "chainId": 1666700000,
                     "iconPath": "network_harmony.png",
                     "testnet": true
