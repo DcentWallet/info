@@ -7,7 +7,7 @@
             "link": "",
             "kind": [],
             "category": [],
-            "iconPath": "incon_buyNsell.png",
+            "iconPath": "icon_buy.png",
             "testnet": false,
             "externalWindow": false,
             "preRelease": true
