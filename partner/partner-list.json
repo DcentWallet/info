@@ -1,5 +1,55 @@
 [   
     {
+    "name": "kbic",
+    "imageUrl": "../images/kbic.png",
+    "gotoLink": "http://www.kbic.co.kr/"
+    },
+    {
+    "name": "slinvestment",
+    "imageUrl": "../images/slinvestment.png",
+    "gotoLink": "http://www.slinvestment.com/"
+    },
+    {
+    "name": "krunventures",
+    "imageUrl": "../images/krunventures.png",
+    "gotoLink": "https://www.krunventures.com/"
+    },
+    {
+    "name": "kdb",
+    "imageUrl": "../images/kdb.png",
+    "gotoLink": "https://www.kdbc.co.kr/"
+    },
+    {
+    "name": "slnsvc",
+    "imageUrl": "../images/lnsvc.png",
+    "gotoLink": "http://www.lnsvc.co.kr/"
+    },
+    {
+    "name": "sparklesnft",
+    "imageUrl": "../images/sparklesnft.png",
+    "gotoLink": "https://sparklesnft.com/"
+    },
+    {
+    "name": "ubeswap",
+    "imageUrl": "../images/ubeswap.png",
+    "gotoLink": "https://ubeswap.org/"
+    },
+    {
+    "name": "globiance",
+    "imageUrl": "../images/globiance.png",
+    "gotoLink": "https://globiance.com/"
+    },
+    {
+    "name": "okex",
+    "imageUrl": "../images/partners_okex.png",
+    "gotoLink": "https://www.okex.com/oec"
+    },
+    {
+    "name": "NEXTYPE",
+    "imageUrl": "../images/partners_nextype.png",
+    "gotoLink": "https://nextype.finance/"
+    },
+    {
     "name": "pipeflare",
     "imageUrl": "../images/partners_pipeflare.png",
     "gotoLink": "https://www.pipeflare.io/"
@@ -332,7 +382,7 @@
   {
     "name": "Asobi Coin",
     "imageUrl": "../images/asobi.png",
-    "gotoLink": "https://asobimo.io/"
+    "gotoLink": "http://asobimo.com/"
   },
   {
     "name": "PoolTogether",

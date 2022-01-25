@@ -1,0 +1,411 @@
+[
+  {
+    "network": "btc",
+    "protocol": "BTC",
+    "groupName": "BITCOIN",
+    "supportCustom": false,
+    "tokenGroup": [
+      "BITCOIN"
+    ]
+  },
+  {
+    "network": "eth",
+    "protocol": [
+      "ETH",
+      "ERC20"
+    ],
+    "groupName": "ETHEREUM",
+    "supportCustom": true,
+    "tokenGroup": [
+      "ERC20",
+      "ETHEREUM"
+    ]
+  },
+  {
+    "network": "",
+    "protocol": "",
+    "groupName": "LUNIVERSE",
+    "supportCustom": true,
+    "tokenGroup": [
+      "LUNIVERSE",
+      "LUNIVERSE-TKN"
+    ]
+  },
+  {
+    "network": "",
+    "protocol": "",
+    "groupName": "RSK",
+    "supportCustom": true,
+    "tokenGroup": [
+      "RSK",
+      "RRC20"
+    ]
+  },
+  {
+    "network": "xrp",
+    "protocol": "XRP",
+    "groupName": "RIPPLE",
+    "supportCustom": false,
+    "tokenGroup": [
+      "RIPPLE"
+    ]
+  },
+  {
+    "network": "",
+    "protocol": "",
+    "groupName": "MONACOIN",
+    "supportCustom": false,
+    "tokenGroup": [
+      "MONACOIN"
+    ]
+  },
+  {
+    "network": "klay",
+    "protocol": "",
+    "groupName": "KLAYTN",
+    "supportCustom": true,
+    "tokenGroup": [
+      "KLAYTN",
+      "KLAYTN-ERC20"
+    ]
+  },
+  {
+    "network": "bch",
+    "protocol": "BCH",
+    "groupName": "BITCOINCASH",
+    "supportCustom": false,
+    "tokenGroup": [
+      "BITCOINCASH"
+    ]
+  },
+  {
+    "network": "ltc",
+    "protocol": "LTC",
+    "groupName": "LITECOIN",
+    "supportCustom": false,
+    "tokenGroup": [
+      "LITECOIN"
+    ]
+  },
+  {
+    "network": "btg",
+    "protocol": "BTG",
+    "groupName": "BITCOIN-GOLD",
+    "supportCustom": false,
+    "tokenGroup": [
+      "BITCOIN-GOLD"
+    ]
+  },
+  {
+    "network": "zec",
+    "protocol": "ZEC",
+    "groupName": "ZCASH",
+    "supportCustom": false,
+    "tokenGroup": [
+      "ZCASH"
+    ]
+  },
+  {
+    "network": "dash",
+    "protocol": "DASH",
+    "groupName": "DASH",
+    "supportCustom": false,
+    "tokenGroup": [
+      "DASH"
+    ]
+  },
+  {
+    "network": "dgb",
+    "protocol": "DGB",
+    "groupName": "DIGIBYTE",
+    "supportCustom": false,
+    "tokenGroup": [
+      "DIGIBYTE"
+    ]
+  },
+  {
+    "network": "rvn",
+    "protocol": "RVN",
+    "groupName": "RAVENCOIN",
+    "supportCustom": false,
+    "tokenGroup": [
+      "RAVENCOIN"
+    ]
+  },
+  {
+    "network": "bnb",
+    "protocol": "BEP2",
+    "groupName": "BINANCE",
+    "supportCustom": false,
+    "tokenGroup": [
+      "BINANCE",
+      "BEP2"
+    ]
+  },
+  {
+    "network": "xlm",
+    "protocol": "XLM",
+    "groupName": "STELLAR",
+    "supportCustom": false,
+    "tokenGroup": [
+      "STELLAR"
+    ]
+  },
+  {
+    "network": "etc",
+    "protocol": "ETC",
+    "groupName": "ETH-CLASSIC",
+    "supportCustom": false,
+    "tokenGroup": [
+      "ETH-CLASSIC"
+    ]
+  },
+  {
+    "network": "trx",
+    "protocol": [
+      "TRX",
+      "TRC20"
+    ],
+    "groupName": "TRON",
+    "supportCustom": false,
+    "tokenGroup": [
+      "TRON",
+      "TRC-TOKEN"
+    ],
+    "exception": [
+      "usdtrx"
+    ]
+  },
+  {
+    "network": "bsv",
+    "protocol": "BSV",
+    "groupName": "BITCOIN-SV",
+    "supportCustom": false,
+    "tokenGroup": [
+      "BITCOIN-SV"
+    ]
+  },
+  {
+    "network": "doge",
+    "protocol": "DOGE",
+    "groupName": "DOGECOIN",
+    "supportCustom": false,
+    "tokenGroup": [
+      "DOGECOIN"
+    ]
+  },
+  {
+    "network": "",
+    "protocol": "",
+    "groupName": "BCH-ABC",
+    "supportCustom": false,
+    "tokenGroup": [
+      "BCH-ABC"
+    ]
+  },
+  {
+    "network": "",
+    "protocol": "",
+    "groupName": "XINFIN",
+    "supportCustom": true,
+    "tokenGroup": [
+      "XINFIN",
+      "XRC20"
+    ]
+  },
+  {
+    "network": "bsc",
+    "protocol": "BEP20",
+    "groupName": "BSC",
+    "supportCustom": true,
+    "tokenGroup": [
+      "BSC",
+      "BEP20"
+    ]
+  },
+  {
+    "network": "ada",
+    "protocol": "ADA",
+    "groupName": "CARDANO",
+    "supportCustom": false,
+    "tokenGroup": [
+      "CARDANO"
+    ]
+  },
+  {
+    "network": "matic",
+    "protocol": "",
+    "groupName": "POLYGON",
+    "supportCustom": true,
+    "tokenGroup": [
+      "POLYGON",
+      "POLYGON-ERC20"
+    ]
+  },
+  {
+    "network": "",
+    "protocol": "",
+    "groupName": "HECO",
+    "supportCustom": true,
+    "tokenGroup": [
+      "CHAN:128",
+      "CH20:128"
+    ]
+  },
+  {
+    "network": "",
+    "protocol": "",
+    "groupName": "xdai",
+    "supportCustom": true,
+    "tokenGroup": [
+      "CHAN:100",
+      "CH20:100"
+    ]
+  },
+  {
+    "network": "ftm",
+    "protocol": "",
+    "groupName": "ftm",
+    "supportCustom": true,
+    "tokenGroup": [
+      "CHAN:250",
+      "CH20:250"
+    ]
+  },
+  {
+    "network": "celo",
+    "protocol": "CELO",
+    "groupName": "celo",
+    "supportCustom": true,
+    "tokenGroup": [
+      "CHAN:42220",
+      "CH20:42220"
+    ]
+  },
+  {
+    "network": "",
+    "protocol": "",
+    "groupName": "metadium",
+    "supportCustom": true,
+    "tokenGroup": [
+      "CHAN:11",
+      "CH20:11"
+    ]
+  },
+  {
+    "network": "",
+    "protocol": "",
+    "groupName": "kucoin",
+    "supportCustom": true,
+    "tokenGroup": [
+      "CHAN:321",
+      "CH20:321"
+    ]
+  },
+  {
+    "network": "avax",
+    "protocol": "",
+    "groupName": "avalanche",
+    "supportCustom": true,
+    "tokenGroup": [
+      "CHAN:43114",
+      "CH20:43114"
+    ]
+  },
+  {
+    "network": "",
+    "protocol": "",
+    "groupName": "energy web token",
+    "supportCustom": true,
+    "tokenGroup": [
+      "CHAN:246",
+      "CH20:246"
+    ]
+  },
+  {
+    "network": "",
+    "protocol": "",
+    "groupName": "songbird",
+    "supportCustom": true,
+    "tokenGroup": [
+      "CHAN:19",
+      "CH20:19"
+    ]
+  },
+  {
+    "network": "",
+    "protocol": "",
+    "groupName": "arbitrum",
+    "supportCustom": true,
+    "tokenGroup": [
+      "CHAN:42161",
+      "CH20:42161"
+    ]
+  },
+  {
+    "network": "",
+    "protocol": "",
+    "groupName": "boba",
+    "supportCustom": true,
+    "tokenGroup": [
+      "CHAN:288",
+      "CH20:288"
+    ]
+  },
+  {
+    "network": "",
+    "protocol": "",
+    "groupName": "oec",
+    "supportCustom": true,
+    "tokenGroup": [
+      "CHAN:66",
+      "CH20:66"
+    ]
+  },
+  {
+    "network": "hbar",
+    "protocol": "HBAR",
+    "groupName": "HEDERA",
+    "supportCustom": true,
+    "tokenGroup": [
+      "HEDERA"
+    ]
+  },
+  {
+    "network": "zen",
+    "protocol": "ZEN",
+    "groupName": "HORIZEN",
+    "supportCustom": false,
+    "tokenGroup": [
+      "HORIZEN"
+    ]
+  },
+  {
+    "network": "",
+    "protocol": "",
+    "groupName": "STACKS",
+    "supportCustom": false,
+    "tokenGroup": [
+      "STACKS"
+    ]
+  },
+  {
+    "network": "",
+    "protocol": "",
+    "groupName": "ECASH",
+    "supportCustom": false,
+    "tokenGroup": [
+      "ECASH"
+    ]
+  },
+  {
+    "network": "sol",
+    "protocol": "SOL",
+    "groupName": "SOLANA",
+    "supportCustom": true,
+    "tokenGroup": [
+      "SOLANA",
+      "SIP010"
+    ]
+  }
+]

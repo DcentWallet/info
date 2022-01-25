@@ -1,4 +1,39 @@
 [
+    {
+    "name": "etherbit",
+    "imageUrl": "../images_en/etherbit.png",
+    "gotoLink": "https://www.etherbit.in/products/dcent-biometric-wallet"
+  },  
+    {
+    "name": "lwallet",
+    "imageUrl": "../images_en/reseller_lwallet.png",
+    "gotoLink": "https://lwallet.com.ua/product/dcent-biometric-wallet/"
+  },  
+  {
+    "name": "comodo",
+    "imageUrl": "../images_en/comodo.png",
+    "gotoLink": "https://comodo.finance"
+  },  
+  {
+    "name": "iphonebutiken_Norway",
+    "imageUrl": "../images_en/iphonebutiken_Norway.png",
+    "gotoLink": "https://www.iphonehuset.no/dcent-biometric-wallet-40346.html"
+  },  
+  {
+    "name": "iphonebutiken_Finland",
+    "imageUrl": "../images_en/iphonebutiken_Finland.png",
+    "gotoLink": "https://www.iphonetalo.fi/dcent-biometric-wallet-40346.html"
+  },  
+  {
+    "name": "iphonebutiken_Denmark",
+    "imageUrl": "../images_en/iphonebutiken_Denmark.png",
+    "gotoLink": "https://www.iphonehus.dk/dcent-biometric-wallet-40346.html"
+  },  
+  {
+    "name": "iphonebutiken_Sweden",
+    "imageUrl": "../images_en/iphonebutiken_Sweden.png",
+    "gotoLink": "https://www.iphonebutiken.se/dcent-biometric-wallet-40346.html"
+  },  
   {
     "name": "Bitcointech",
     "imageUrl": "../images_en/Bitcointech.png",
@@ -7,7 +42,7 @@
   {
     "name": "akua",
     "imageUrl": "../images_en/akua.png",
-    "gotoLink": "https://www.akuaglobal.com"
+    "gotoLink": "https://akuaglobal.com/"
   },  
   {
     "name": "all-in-ape_philippines",
