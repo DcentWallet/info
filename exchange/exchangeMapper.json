@@ -6,7 +6,8 @@
     "supportCustom": false,
     "tokenGroup": [
       "BITCOIN"
-    ]
+    ],
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/1.png"
   },
   {
     "network": "eth",
@@ -19,7 +20,8 @@
     "tokenGroup": [
       "ERC20",
       "ETHEREUM"
-    ]
+    ],
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/1027.png"
   },
   {
     "network": "",
@@ -48,7 +50,8 @@
     "supportCustom": false,
     "tokenGroup": [
       "RIPPLE"
-    ]
+    ],
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/52.png"
   },
   {
     "network": "",
@@ -67,7 +70,8 @@
     "tokenGroup": [
       "KLAYTN",
       "KLAYTN-ERC20"
-    ]
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/dapp/images/network_klaytn2.png"
   },
   {
     "network": "bch",
@@ -76,7 +80,8 @@
     "supportCustom": false,
     "tokenGroup": [
       "BITCOINCASH"
-    ]
+    ],
+    "iconUrl": "https://github.com/DcentWallet/info/raw/master/images/coins/original/12-bitcoin-cash-square-crop-small.png"
   },
   {
     "network": "ltc",
@@ -85,7 +90,8 @@
     "supportCustom": false,
     "tokenGroup": [
       "LITECOIN"
-    ]
+    ],
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2.png"
   },
   {
     "network": "btg",
@@ -94,7 +100,8 @@
     "supportCustom": false,
     "tokenGroup": [
       "BITCOIN-GOLD"
-    ]
+    ],
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2083.png"
   },
   {
     "network": "zec",
@@ -103,7 +110,8 @@
     "supportCustom": false,
     "tokenGroup": [
       "ZCASH"
-    ]
+    ],
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/1437.png"
   },
   {
     "network": "dash",
@@ -112,7 +120,8 @@
     "supportCustom": false,
     "tokenGroup": [
       "DASH"
-    ]
+    ],
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/131.png"
   },
   {
     "network": "dgb",
@@ -121,7 +130,8 @@
     "supportCustom": false,
     "tokenGroup": [
       "DIGIBYTE"
-    ]
+    ],
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/109.png"
   },
   {
     "network": "rvn",
@@ -130,7 +140,8 @@
     "supportCustom": false,
     "tokenGroup": [
       "RAVENCOIN"
-    ]
+    ],
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2577.png"
   },
   {
     "network": "bnb",
@@ -140,7 +151,8 @@
     "tokenGroup": [
       "BINANCE",
       "BEP2"
-    ]
+    ],
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/1839.png"
   },
   {
     "network": "xlm",
@@ -149,7 +161,8 @@
     "supportCustom": false,
     "tokenGroup": [
       "STELLAR"
-    ]
+    ],
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/512.png"
   },
   {
     "network": "etc",
@@ -158,7 +171,8 @@
     "supportCustom": false,
     "tokenGroup": [
       "ETH-CLASSIC"
-    ]
+    ],
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/1321.png"
   },
   {
     "network": "trx",
@@ -172,9 +186,7 @@
       "TRON",
       "TRC-TOKEN"
     ],
-    "exception": [
-      "usdtrx"
-    ]
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/1958.png"
   },
   {
     "network": "bsv",
@@ -183,7 +195,8 @@
     "supportCustom": false,
     "tokenGroup": [
       "BITCOIN-SV"
-    ]
+    ],
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3602.png"
   },
   {
     "network": "doge",
@@ -192,7 +205,8 @@
     "supportCustom": false,
     "tokenGroup": [
       "DOGECOIN"
-    ]
+    ],
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/74.png"
   },
   {
     "network": "",
@@ -221,7 +235,8 @@
     "tokenGroup": [
       "BSC",
       "BEP20"
-    ]
+    ],
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7748.png"
   },
   {
     "network": "ada",
@@ -230,7 +245,8 @@
     "supportCustom": false,
     "tokenGroup": [
       "CARDANO"
-    ]
+    ],
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2010.png"
   },
   {
     "network": "matic",
@@ -240,7 +256,8 @@
     "tokenGroup": [
       "POLYGON",
       "POLYGON-ERC20"
-    ]
+    ],
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3890.png"
   },
   {
     "network": "",
@@ -270,7 +287,8 @@
     "tokenGroup": [
       "CHAN:250",
       "CH20:250"
-    ]
+    ],
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3513.png"
   },
   {
     "network": "celo",
@@ -280,7 +298,8 @@
     "tokenGroup": [
       "CHAN:42220",
       "CH20:42220"
-    ]
+    ],
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5567.png"
   },
   {
     "network": "",
@@ -310,7 +329,8 @@
     "tokenGroup": [
       "CHAN:43114",
       "CH20:43114"
-    ]
+    ],
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5805.png"
   },
   {
     "network": "",
@@ -369,7 +389,8 @@
     "supportCustom": true,
     "tokenGroup": [
       "HEDERA"
-    ]
+    ],
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4642.png"
   },
   {
     "network": "zen",
@@ -378,7 +399,8 @@
     "supportCustom": false,
     "tokenGroup": [
       "HORIZEN"
-    ]
+    ],
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/1698.png"
   },
   {
     "network": "",
@@ -406,6 +428,7 @@
     "tokenGroup": [
       "SOLANA",
       "SIP010"
-    ]
+    ],
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5426.png"
   }
 ]
