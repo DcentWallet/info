@@ -1,5 +1,6 @@
 |Kernel Version|Release Date|Notes|
 |----|----|------|
+|v2.17.1.7244|2022-01-25|• Added supporting coin : SOLANA Token(SPL) |
 |v2.16.7.bdd9|2021-11-25|• Added supporting coin : Stacks SIP010 token<br>• RIPPLE name chaned into XRPL |
 |v2.16.5.0ddc|2021-11-12|• Added supporting coin : SOLANA(SOL) |
 |v2.15.3.90ef|2021-10-28|• Added mnemonic confirmation |
