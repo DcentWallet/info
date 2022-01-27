@@ -1,1 +1,50 @@
-[]
+[
+    {
+        "img": {
+            "ko": {
+                "desktop": {
+                "path": "../images/ko/pc_2022notice_banner_kr.png",
+                "height": "90px", 
+                "background-color": "#403327" 
+                },
+                "tablet": {
+                "path": "../images/ko/pc_2022notice_banner_kr.png",
+                "height": "65px",
+                "background-color": "#403327"
+                },
+                "mobile": {
+                "path": "../images/ko/mo_2022notice_banner_kr.png",
+                "height": "15.64vw",
+                "background-color": "#403327"
+                }
+            },
+            "en": {
+                "desktop": {
+                "path": "../images/en/pc_2022notice_banner_en.png",
+                "height": "90px", 
+                "background-color": "#403327" 
+                },
+                "tablet": {
+                "path": "../images/en/pc_2022notice_banner_en.jpg",
+                "height": "65px",
+                "background-color": "#403327"
+                },
+                "mobile": {
+                "path": "../images/en/mo_2022notice_banner_en.jpg",
+                "height": "15.64vw",
+                "background-color": "#403327"
+                }
+            }
+        },
+        "link": {
+            "ko": {
+                "internal": false, 
+                "external": "#"
+            },
+            "en": {
+                "internal": false, 
+                "external": "#"
+            }
+        }
+    }
+]
