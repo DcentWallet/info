@@ -26,8 +26,7 @@
                 "en": "Polygon",
                 "ko": "폴리곤"
             },
-            "coinType": "POLYGON",
-            "preRelease": true
+            "coinType": "POLYGON"
         },
         {
             "name": {
@@ -51,7 +50,6 @@
                 "ko": "폴리곤-Testnet"
             },
             "coinType": "POLYGON-TESTNET",
-            "preRelease": true,
             "testnet": true
         }
     ]
