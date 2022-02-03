@@ -3,47 +3,47 @@
         "img": {
             "ko": {
                 "desktop": {
-                "path": "../images/ko/pc_2022notice_banner_kr.png",
+                "path": "../images/ko/mega_event_pc_kr.png",
                 "height": "90px", 
-                "background-color": "#403327" 
+                "background-color": "#0f2745" 
                 },
                 "tablet": {
-                "path": "../images/ko/pc_2022notice_banner_kr.png",
+                "path": "../images/ko/mega_event_pc_kr.png",
                 "height": "65px",
-                "background-color": "#403327"
+                "background-color": "#0f2745"
                 },
                 "mobile": {
-                "path": "../images/ko/mo_2022notice_banner_kr.png",
+                "path": "../images/ko/mega_event_mobile_kr.png",
                 "height": "15.64vw",
-                "background-color": "#403327"
+                "background-color": "#0f2745"
                 }
             },
             "en": {
                 "desktop": {
-                "path": "../images/en/pc_2022notice_banner_en.png",
+                "path": "../images/en/mega_event_pc_en.png",
                 "height": "90px", 
-                "background-color": "#403327" 
+                "background-color": "#0f2745" 
                 },
                 "tablet": {
-                "path": "../images/en/pc_2022notice_banner_en.jpg",
+                "path": "../images/en/mega_event_pc_en.jpg",
                 "height": "65px",
-                "background-color": "#403327"
+                "background-color": "#0f2745"
                 },
                 "mobile": {
-                "path": "../images/en/mo_2022notice_banner_en.jpg",
+                "path": "../images/en/mega_event_mobile_en.jpg",
                 "height": "15.64vw",
-                "background-color": "#403327"
+                "background-color": "#0f2745"
                 }
             }
         },
         "link": {
             "ko": {
-                "internal": false, 
-                "external": "#"
+                "internal": "/events/202202-mega-promotion?lang=ko&utm_source=dcentwallet&utm_medium=website_banner&utm_campaign=202202-mega-promotion", 
+                "external": false
             },
             "en": {
-                "internal": false, 
-                "external": "#"
+                "internal": "/events/202202-mega-promotion?lang=en&utm_source=dcentwallet&utm_medium=website_banner&utm_campaign=202202-mega-promotion", 
+                "external": false
             }
         }
     }

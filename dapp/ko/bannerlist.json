@@ -1,11 +1,11 @@
 {
     "list": [
         {
-            "name": "dcent",
-            "title": "D'CENT",
+            "name": "mega event",
+            "title": "mega event",
             "description": "",
-            "link": "https://dcentwallet.com",
-            "imagePath": "banner_dcent.png",
+            "link": "https://dcentwallet.com/events/202202-mega-promotion?lang=ko&utm_source=dcentwallet&utm_medium=app_banner&utm_campaign=202202-mega-promotion",
+            "imagePath": "mega_event_app_kr.png",
             "externalWindow": true
         }
     ]
