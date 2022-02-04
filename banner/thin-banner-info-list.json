@@ -25,12 +25,12 @@
                 "background-color": "#0e2745" 
                 },
                 "tablet": {
-                "path": "../images/en/mega_event_pc_en.jpg",
+                "path": "../images/en/mega_event_pc_en.png",
                 "height": "65px",
                 "background-color": "#0e2745"
                 },
                 "mobile": {
-                "path": "../images/en/mega_event_mobile_en.jpg",
+                "path": "../images/en/mega_event_mobile_en.png",
                 "height": "15.64vw",
                 "background-color": "#0e2745"
                 }
