@@ -1,18 +1,6 @@
 {
     "list": [
         {
-            "name": "buysell",
-            "title": "Buy Cryptocurrency",
-            "description": "A service you get from our 100+ comprehensive experience through our network of diversified partners." ,
-            "link": "",
-            "kind": [],
-            "category": [],
-            "iconPath": "icon_buy.png",
-            "testnet": false,
-            "externalWindow": false,
-            "preRelease": true
-        },
-        {
             "name": "changenow",
             "title": "ChangeNOW",
             "description": "ChangeNOW is a non-custodial service created for simple and fast cryptocurrency exchanges. It is account-free, worry-free, faster than light.",
