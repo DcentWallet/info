@@ -1,5 +1,10 @@
 [   
     {
+    "name": "jooble",
+    "imageUrl": "../images/jooble.png",
+    "gotoLink": "https://kr.jooble.org/"
+    },
+    {
     "name": "kbic",
     "imageUrl": "../images/kbic.png",
     "gotoLink": "http://www.kbic.co.kr/"
