@@ -18,7 +18,7 @@
             "poxAddress": "33WSGLeVoEpuZDjB54HKZ1y5YsERELoVNq",
             "minimumStx": "40000000",
             "poolFee": "0%",
-            "payment": "BTC",
+            "payment": "STX",
             "defaultCycle": 1,
             "isCustodial": false,
             "homepage": "https://pool.friedger.de/",
