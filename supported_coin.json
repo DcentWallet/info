@@ -20581,6 +20581,45 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/17050.png",
+    "symbol": "MULTI",
+    "name": "Multichain",
+    "type": "ERC20",
+    "contract": "0x65ef703f5594d2573eb71aaf55bc0cb548492df4",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/11974.png",
+    "symbol": "ALK",
+    "name": "Alkemi Network DAO Token",
+    "type": "ERC20",
+    "contract": "0x6c16119b20fa52600230f074b349da3cb861a7e3",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6432.png",
+    "symbol": "OMI",
+    "name": "ECOMI",
+    "type": "ERC20",
+    "contract": "0xed35af169af46a02ee13b9d79eb57d6d68c1749e",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://github.com/DcentWallet/info/raw/master/images/coins/original/logo_doc.svg",
     "symbol": "DOC",
     "name": "Dollar on Chain",
@@ -24333,6 +24372,19 @@
     "name": "USD Coin",
     "type": "TRC20",
     "contract": "TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3408.png",
+    "symbol": "KLV",
+    "name": "Klever",
+    "type": "TRC20",
+    "contract": "TVj7RNVHy6thbM7BWdSe9G6gXwKhjhdNZS",
     "support": {
       "biometric": true,
       "ethCard": false,
@@ -30266,6 +30318,136 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/12120.png",
+    "symbol": "ASTRO",
+    "name": "AstroSwap",
+    "type": "BEP20",
+    "contract": "0x72eb7ca07399ec402c5b7aa6a65752b6a1dc0c27",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/12416.png",
+    "symbol": "PLSPAD",
+    "name": "PulsePad",
+    "type": "BEP20",
+    "contract": "0x8a74bc8c372bc7f0e9ca3f6ac0df51be15aec47a",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/13978.png",
+    "symbol": "METAV",
+    "name": "MetaVPad",
+    "type": "BEP20",
+    "contract": "0x62858686119135cc00c4a3102b436a0eb314d402",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/13250.png",
+    "symbol": "SCAR",
+    "name": "Velhalla",
+    "type": "BEP20",
+    "contract": "0x8d9fb713587174ee97e91866050c383b5cee6209",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/11654.png",
+    "symbol": "VLXPAD",
+    "name": "VelasPad",
+    "type": "BEP20",
+    "contract": "0xb8e3bb633f7276cc17735d86154e0ad5ec9928c0",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/11349.png",
+    "symbol": "ADAPAD",
+    "name": "ADAPad",
+    "type": "BEP20",
+    "contract": "0xdb0170e2d0c1cc1b2e7a90313d9b9afa4f250289",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/11871.png",
+    "symbol": "GZONE",
+    "name": "GameZone",
+    "type": "BEP20",
+    "contract": "0xb6adb74efb5801160ff749b1985fd3bd5000e938",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/16902.png",
+    "symbol": "VERVE",
+    "name": "Verve",
+    "type": "BEP20",
+    "contract": "0x32561fa6d2d3e2191bf50f813df2c34fb3c89b62",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4552.png",
+    "symbol": "AIRX",
+    "name": "Aircoins",
+    "type": "BEP20",
+    "contract": "0x6fb05b156788e88c8ad1e057e729362ff8c39d93",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/17698.png",
+    "symbol": "LBLOCK",
+    "name": "Lucky Block",
+    "type": "BEP20",
+    "contract": "0x2cd96e8c3ff6b5e01169f6e3b61d28204e7810bb",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://polycat.finance/images/fish/fish.svg",
     "symbol": "FISH",
     "name": "Fish",
@@ -30790,6 +30972,19 @@
     "name": "Genopets",
     "type": "SPL-TOKEN",
     "contract": "GENEtH5amGSi8kHAtQoezp1XEXwZJ8vcuePYnXdKrMYz",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/11212.png",
+    "symbol": "ATLAS",
+    "name": "Star Atlas",
+    "type": "SPL-TOKEN",
+    "contract": "ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx",
     "support": {
       "biometric": true,
       "ethCard": false,
@@ -31541,6 +31736,19 @@
     "name": "VaporNodes",
     "contract": "0x83a283641c6b4df383bcddf807193284c84c5342",
     "symbol": "VPND",
+    "type": "AVA-ERC20",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/17080.png",
+    "name": "Project X Nodes",
+    "contract": "0x9e20af05ab5fed467dfdd5bb5752f7d5410c832e",
+    "symbol": "PXT2",
     "type": "AVA-ERC20",
     "support": {
       "biometric": true,
