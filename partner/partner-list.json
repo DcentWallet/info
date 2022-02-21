@@ -1,5 +1,10 @@
 [   
     {
+    "name": "peteorganics",
+    "imageUrl": "../images/peteorganics.png",
+    "gotoLink": "http://peteorganics.com"
+    },
+    {
     "name": "jooble",
     "imageUrl": "../images/jooble.png",
     "gotoLink": "https://jooble.org/"
