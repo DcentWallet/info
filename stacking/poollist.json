@@ -1,0 +1,40 @@
+{
+    "pools": [
+        {
+            "poolAddress": "SP2H485NJWV1M1XVS3N8CM64KM205G25X5JZ8FR04",
+            "name": "NFP",
+            "poxAddress": "",
+            "minimumStx": "100000000",
+            "poolFee": "7%",
+            "payment": "xBTC",
+            "defaultCycle": 1,
+            "isCustodial": false,
+            "homepage": "https://app.nfpstudio.io/stacking",
+            "logo": "nfp_logo"
+        },
+        {
+            "poolAddress": "SP3TDKYYRTYFE32N19484838WEJ25GX40Z24GECPZ",
+            "name": "Planbetter",
+            "poxAddress": "3A8n8rwMnHnt2BqnjW4R73eZCMcUDTpYvv",
+            "minimumStx": "200000000",
+            "poolFee": "5%",
+            "payment": "BTC",
+            "isCustodial": false,
+            "homepage": "https://planbetter.org/",
+            "logo": "planbetter_logo.svg"
+        },
+        {
+            "poolAddress": "SP1K1A1PMGW2ZJCNF46NWZWHG8TS1D23EGH1KNK60",
+            "infiniteAddress": "SP700C57YJFD5RGHK0GN46478WBAM2KG3A4MN2QJ",
+            "name": "friedger",
+            "poxAddress": "33WSGLeVoEpuZDjB54HKZ1y5YsERELoVNq",
+            "minimumStx": "40000000",
+            "poolFee": "0%",
+            "payment": "STX",
+            "defaultCycle": 1,
+            "isCustodial": false,
+            "homepage": "https://pool.friedger.de/",
+            "logo": "friedger_logo.svg"
+        }
+    ]
+}
