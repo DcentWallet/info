@@ -6,7 +6,7 @@
             "poxAddress": "",
             "minimumStx": "100000000",
             "poolFee": "7%",
-            "payment": "xBTC",
+            "payment": "XBTC",
             "defaultCycle": 1,
             "isCustodial": false,
             "homepage": "https://app.nfpstudio.io/stacking",
