@@ -1,6 +1,18 @@
 {
     "pools": [
         {
+            "poolAddress": "SP2H485NJWV1M1XVS3N8CM64KM205G25X5JZ8FR04",
+            "name": "NFP",
+            "poxAddress": "",
+            "minimumStx": "100000000",
+            "poolFee": "7%",
+            "payment": "xBTC",
+            "defaultCycle": 1,
+            "isCustodial": false,
+            "homepage": "https://app.nfpstudio.io/stacking",
+            "logo": "nfp_logo"
+        },
+        {
             "poolAddress": "SP3TDKYYRTYFE32N19484838WEJ25GX40Z24GECPZ",
             "name": "Planbetter",
             "poxAddress": "3A8n8rwMnHnt2BqnjW4R73eZCMcUDTpYvv",
