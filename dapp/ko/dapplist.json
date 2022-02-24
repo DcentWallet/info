@@ -107,6 +107,42 @@
             "externalWindow": false
         },
         {
+            "name": "orbitBridge",
+            "title": "오르빗 브릿지",
+            "description": "오르빗 브릿지는 각 메인넷 간의 토큰 전환을 지원하는 브릿지 서비스로, 이더리움, 클레이튼, 리플, BNB, HECO 등 다양한 블록체인을 지원합니다.",
+            "link": "https://bridge.orbitchain.io/",
+            "kind": ["eth"],
+            "network": [ 
+                {
+                "id": "ethereum-mainnet",
+                "name": "Ethereum"
+                } 
+            ],
+            "category": [],
+            "iconPath": "icon_orbit.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false
+        },  
+        {
+            "name": "cbridge",
+            "title": "Celer cBridge",
+            "description": "Celer cBridge는 다중 블록체인 네트워크와 연동된 브릿지 서비스로 블록체인 간에 자산을 저렴한 수수료로 전송할 수 있습니다.",
+            "link": "https://cbridge.celer.network/",
+            "kind": ["eth"],
+            "network": [ 
+                {
+                "id": "ethereum-mainnet",
+                "name": "이더리움"
+                } 
+            ],
+            "category": [],
+            "iconPath": "icon_cBridge.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false
+        },
+        {
             "name": "klayfi",
             "title": "KlayFi",
             "description": "KlayFi는 클레이튼 기반의 이자 수확 최적화(Yield Optimizer) 프로토콜입니다. KLAYswap 이용자에게 최적화된 자동 재예치 기능을 제공하여 투자 편의성을 높이고, 동시에 투자 자산 수익 극대화를 제공합니다.",

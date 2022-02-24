@@ -105,7 +105,43 @@
             "type": "dapp",
             "device": "ble_dongle",
             "externalWindow": false
-        },        
+        },
+        {
+            "name": "orbitBridge",
+            "title": "오르빗 브릿지",
+            "description": "오르빗 브릿지는 각 메인넷 간의 토큰 전환을 지원하는 브릿지 서비스로, 이더리움, 클레이튼, 리플, BNB, HECO 등 다양한 블록체인을 지원합니다.",
+            "link": "https://bridge.orbitchain.io/",
+            "kind": ["eth"],
+            "network": [ 
+                {
+                "id": "ethereum-mainnet",
+                "name": "Ethereum"
+                } 
+            ],
+            "category": [],
+            "iconPath": "icon_orbit.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false
+        },  
+        {
+            "name": "cbridge",
+            "title": "cBridge",
+            "description": "Celer cBridge is a multi-chain, cross-layer asset bridge offering instant transfer with the most number of chains, lowest fee and zero trust needed.",
+            "link": "https://cbridge.celer.network/",
+            "kind": ["eth"],
+            "network": [ 
+                {
+                "id": "ethereum-mainnet",
+                "name": "Ethereum"
+                } 
+            ],
+            "category": [],
+            "iconPath": "icon_cBridge.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false
+        },           
         {
             "name": "klayfi",
             "title": "KlayFi",
