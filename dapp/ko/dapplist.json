@@ -10,7 +10,8 @@
             "iconPath": "icon_buy.png",
             "testnet": false,
             "externalWindow": false,
-            "preRelease": true
+            "preRelease": true,
+            "platform": "android"
         },
         {
             "name": "changenow",
