@@ -1,5 +1,10 @@
 [   
     {
+    "name": "celer",
+    "imageUrl": "../images/celer.png",
+    "gotoLink": "https://www.celer.network/"
+    },
+    {
     "name": "jooble",
     "imageUrl": "../images/jooble.png",
     "gotoLink": "https://jooble.org/"
