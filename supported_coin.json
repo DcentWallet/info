@@ -334,10 +334,10 @@
     "symbol": "CFX",
     "name": "Conflux",
     "support": {
-      "biometric": false,
+      "biometric": true,
       "ethCard": false,
       "klayCard": false,
-      "software": false
+      "software": true
     }
   },
   {
@@ -20657,6 +20657,97 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/13437.png",
+    "symbol": "KIBA",
+    "name": "Kiba Inu",
+    "type": "ERC20",
+    "contract": "0x4b2c54b80b77580dc02a0f6734d3bad733f50900",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/15005.png",
+    "symbol": "SHAMAN",
+    "name": "Shaman King Inu",
+    "type": "ERC20",
+    "contract": "0xf98e38c3f287304a1f2d4879e741d2bf55474e84",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/13673.png",
+    "symbol": "CHIRO",
+    "name": "Chihiro Inu",
+    "type": "ERC20",
+    "contract": "0x35156b404c3f9bdaf45ab65ba315419bcde3775c",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5939.png",
+    "symbol": "WNXM",
+    "name": "Wrapped NXM",
+    "type": "ERC20",
+    "contract": "0x0d438f3b5175bebc262bf23753c1e53d03432bde",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/16678.png",
+    "symbol": "WRLD",
+    "name": "NFT Worlds",
+    "type": "ERC20",
+    "contract": "0xd5d86fc8d5c0ea1ac1ac5dfab6e529c9967a45e9",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2827.png",
+    "symbol": "SOUL",
+    "name": "Phantasma",
+    "type": "ERC20",
+    "contract": "0x79c75e2e8720b39e258f41c37cc4f309e0b0ff80",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/13574.png",
+    "symbol": "NCR",
+    "name": "Neos Credits",
+    "type": "ERC20",
+    "contract": "0xdb5c3c46e28b53a39c255aa39a411dd64e5fed9c",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://github.com/DcentWallet/info/raw/master/images/coins/original/logo_doc.svg",
     "symbol": "DOC",
     "name": "Dollar on Chain",
@@ -30628,6 +30719,110 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/16348.png",
+    "symbol": "NPTUN",
+    "name": "Neptune",
+    "type": "BEP20",
+    "contract": "0xbfc5d671ccdeb25654ef83c61b1535b2cb0a29c7",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/9812.png",
+    "symbol": "GDT",
+    "name": "Gorilla Diamond",
+    "type": "BEP20",
+    "contract": "0xb7f2bca9b034f8cc143339dd12bb31d3d50cf27a",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/16577.png",
+    "symbol": "TARP",
+    "name": "Totally A Rug Pull",
+    "type": "BEP20",
+    "contract": "0x6c0a568a3ffb61957812fb3e300e4c10b708d336",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/11042.png",
+    "symbol": "NFTBS",
+    "name": "NFTBooks",
+    "type": "BEP20",
+    "contract": "0x3279510e89600ee1767a037dbd0ad49c974063ae",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/18392.png",
+    "symbol": "QUANTIC",
+    "name": "Quantic",
+    "type": "BEP20",
+    "contract": "0x7700edc3dbb30cbb7603212e061c804220c3ca54",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/13382.png",
+    "symbol": "ZINU",
+    "name": "Zombie Inu",
+    "type": "BEP20",
+    "contract": "0x21f9b5b2626603e3f40bfc13d01afb8c431d382f",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/16311.png",
+    "symbol": "JOKE",
+    "name": "Joke Community",
+    "type": "BEP20",
+    "contract": "0x2df0c13487efdf4eb7f6c042273b7aca781b29a0",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/18374.png",
+    "symbol": "METAWAR",
+    "name": "Metawar",
+    "type": "BEP20",
+    "contract": "0x43a172c44dc55c2b45bf9436cf672850fc8ba046",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://polycat.finance/images/fish/fish.svg",
     "symbol": "FISH",
     "name": "Fish",
@@ -31205,10 +31400,10 @@
     "type": "CFX-CRC20",
     "contract": "cfx:achc8nxj7r451c223m18w2dwjnmhkd6rxawrvkvsy2",
     "support": {
-      "biometric": false,
+      "biometric": true,
       "ethCard": false,
       "klayCard": false,
-      "software": false
+      "software": true
     }
   },
   {
@@ -31218,10 +31413,10 @@
     "type": "CFX-CRC20",
     "contract": "cfx:acdrf821t59y12b4guyzckyuw2xf1gfpj2ba0x4sj6",
     "support": {
-      "biometric": false,
+      "biometric": true,
       "ethCard": false,
       "klayCard": false,
-      "software": false
+      "software": true
     }
   },
   {
@@ -31231,10 +31426,10 @@
     "type": "CFX-CRC20",
     "contract": "cfx:acf2rcsh8payyxpg6xj7b0ztswwh81ute60tsw35j7",
     "support": {
-      "biometric": false,
+      "biometric": true,
       "ethCard": false,
       "klayCard": false,
-      "software": false
+      "software": true
     }
   },
   {
@@ -31244,10 +31439,10 @@
     "type": "CFX-CRC20",
     "contract": "cfx:acdeewzdr3cv7hvc12kdwp7gzysjaexz9jw7s1uaft",
     "support": {
-      "biometric": false,
+      "biometric": true,
       "ethCard": false,
       "klayCard": false,
-      "software": false
+      "software": true
     }
   },
   {
