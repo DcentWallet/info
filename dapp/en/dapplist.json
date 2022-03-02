@@ -32,7 +32,8 @@
             "category": [],
             "iconPath": "icon_moonpay.png",
             "testnet": false,
-            "externalWindow": false
+            "externalWindow": false,
+            "platform": "iOS"
         },
         {
             "name": "ftso",
