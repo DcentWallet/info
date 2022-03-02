@@ -10,7 +10,6 @@
             "iconPath": "icon_buy.png",
             "testnet": false,
             "externalWindow": false,
-            "preRelease": true,
             "platform": "android"
         },
         {
