@@ -3,34 +3,34 @@
         "img": {
             "ko": {
                 "desktop": {
-                "path": "../images/ko/mega_event_pc_kr_ex.jpg",
+                "path": "../images/ko/megaevent_end_pc_ko.jpg",
                 "height": "90px", 
                 "background-color": "#0e2745" 
                 },
                 "tablet": {
-                "path": "../images/ko/mega_event_pc_kr_ex.jpg",
+                "path": "../images/ko/megaevent_end_pc_ko.jpg",
                 "height": "65px",
                 "background-color": "#0e2745"
                 },
                 "mobile": {
-                "path": "../images/ko/mega_event_mobile_kr_ex.jpg",
+                "path": "../images/ko/megaevent_end_mo_ko.jpg",
                 "height": "15.64vw",
                 "background-color": "#0e2745"
                 }
             },
             "en": {
                 "desktop": {
-                "path": "../images/en/mega_event_pc_en_ex.jpg",
+                "path": "../images/en/megaevent_end_pc_en.jpg",
                 "height": "90px", 
                 "background-color": "#0e2745" 
                 },
                 "tablet": {
-                "path": "../images/en/mega_event_pc_en_ex.jpg",
+                "path": "../images/en/megaevent_end_pc_en.jpg",
                 "height": "65px",
                 "background-color": "#0e2745"
                 },
                 "mobile": {
-                "path": "../images/en/mega_event_mobile_en_ex.jpg",
+                "path": "../images/en/megaevent_end_mo_en.jpg",
                 "height": "15.64vw",
                 "background-color": "#0e2745"
                 }
