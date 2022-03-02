@@ -3,7 +3,7 @@
         {
             "poolAddress": "SP2H485NJWV1M1XVS3N8CM64KM205G25X5JZ8FR04",
             "name": "NFP",
-            "poxAddress": "",
+            "poxAddress": "12DQ3u4JdnGf6QZF9qAd7z9zUo7NnXpXFg",
             "minimumStx": "100000000",
             "poolFee": "7%",
             "payment": "XBTC",
