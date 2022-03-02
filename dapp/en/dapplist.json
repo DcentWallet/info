@@ -3,14 +3,15 @@
         {
             "name": "buysell",
             "title": "Buy Cryptocurrency",
-            "description": "A service you get from our 100+ comprehensive experience through our network of diversified partners." ,
+            "description": "A service that allows you to easily and safely purchase 100+ cryptocurrencies through a network of various partners." ,
             "link": "",
             "kind": [],
             "category": [],
             "iconPath": "icon_buy.png",
             "testnet": false,
             "externalWindow": false,
-            "preRelease": true
+            "preRelease": true,
+            "platform": "android"
         },
         {
             "name": "changenow",
@@ -40,29 +41,29 @@
             "description": "FTSO Portal is a service by D’CENT to provide fast and easy way to delegate Vote Power to the user’s favorite FTSO provider. By delegating Vote Power, users can earn passive income as reward.",
             "link": "https://ftsoportal.com/",
             "kind": [],
-            "network": [ 
+            "network": [
                 {
                 "id": "songbird-mainnet",
                 "name": "Songbird"
-                } 
+                }
             ],
             "category": [],
             "iconPath": "icon_ftso.png",
             "type": "dapp_dcent",
             "device": "ble_dongle",
             "externalWindow": false
-        },      
+        },
         {
             "name": "KLAYswap",
             "title": "KLAYswap",
             "description": "KLAYswap extends the Klaytn DeFi ecosystem through liquidity pool-based KLAY, ETH, WBTC, USDT, ORC instant token swapping and liquidity mining.",
             "link": "https://klayswap.com/",
             "kind": ["klay"],
-            "network": [ 
+            "network": [
                 {
                 "id": "klaytn-mainnet",
                 "name": "Klaytn"
-                } 
+                }
             ],
             "category": [],
             "iconPath": "icon_klayswap.png",
@@ -76,11 +77,11 @@
             "description": "Belt.fi is an AMM protocol with multi-strategy yield optimization on BSC that also provides aggregation through auto-compounding and yield generation for maximum returns.",
             "link": "https://belt.fi/",
             "kind": ["bsc"],
-            "network": [ 
+            "network": [
                 {
                 "id": "bsc-mainnet",
                 "name": "Binance Smart Chain"
-                } 
+                }
             ],
             "category": [],
             "iconPath": "icon_belt_fi.png",
@@ -94,47 +95,83 @@
             "description": "The Decentralized Multi-chain Fund Management Protocol. Definix is the transparent crypto investment platform on DeFi that helps crypto investors to invest confidently and allows professional traders to earn more from their investing skill by creating and managing their own funds.",
             "link": "https://definix.com/",
             "kind": ["bsc"],
-            "network": [ 
+            "network": [
                 {
                 "id": "bsc-mainnet",
                 "name": "Binance Smart Chain"
-                } 
+                }
             ],
             "category": [],
             "iconPath": "icon_definix.png",
             "type": "dapp",
             "device": "ble_dongle",
             "externalWindow": false
-        },        
+        },
+        {
+            "name": "orbitBridge",
+            "title": "Orbit Bridge",
+            "description": "Orbit Bridge is a bridge service that supports token conversion among each mainnet and supports various blockchains such as Ethereum, Klaytn, Ripple, BNB, HECO, etc.",
+            "link": "https://bridge.orbitchain.io/",
+            "kind": ["eth"],
+            "network": [
+                {
+                "id": "ethereum-mainnet",
+                "name": "Ethereum"
+                }
+            ],
+            "category": [],
+            "iconPath": "icon_orbit.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false
+        },
+        {
+            "name": "cbridge",
+            "title": "cBridge",
+            "description": "Celer cBridge is a multi-chain, cross-layer asset bridge offering instant transfer with the most number of chains, lowest fee and zero trust needed.",
+            "link": "https://cbridge.celer.network/",
+            "kind": ["eth"],
+            "network": [
+                {
+                "id": "ethereum-mainnet",
+                "name": "Ethereum"
+                }
+            ],
+            "category": [],
+            "iconPath": "icon_cBridge.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false
+        },
         {
             "name": "klayfi",
             "title": "KlayFi",
             "description": "KlayFi is the most advanced Yield Optimizer protocol in the Klaytn network. It provides an optimal auto-compounding feature and maximizes assets for KLAYswap users.",
             "link": "https://klayfi.finance/",
             "kind": ["klay"],
-            "network": [ 
+            "network": [
                 {
                 "id": "klaytn-mainnet",
                 "name": "Klaytn"
-                } 
+                }
             ],
             "category": [],
             "iconPath": "icon_klayfi.png",
             "type": "dapp",
             "device": "ble_dongle",
             "externalWindow": false
-        }, 
+        },
         {
             "name": "KLAYSTATION",
             "title": "KLAYSTATION",
             "description": "The Official Staking Tool based on Klaytn Network.",
             "link": "https://klaystation.io/dashboard",
             "kind": ["klay"],
-            "network": [ 
+            "network": [
                 {
                 "id": "klaytn-mainnet",
                 "name": "Klaytn"
-                } 
+                }
             ],
             "category": [],
             "iconPath": "icon_klaystation.png",
@@ -148,29 +185,29 @@
             "description": "Tokamak DAO refers to a smart contract system and autonomous organization built on a blockchain that allows Tokamak Network token(TON) holders to directly participate in decisions on major agendas that affect the ecosystem of Tokamak Network.",
             "link": "https://dao.tokamak.network/#/",
             "kind": ["eth"],
-            "network": [ 
+            "network": [
                 {
                 "id": "ethereum-mainnet",
                 "name": "Ethereum"
-                } 
+                }
             ],
             "category": [],
             "iconPath": "icon_tokamak.png",
             "type": "dapp",
             "device": "ble_dongle",
             "externalWindow": false
-        },        
+        },
         {
             "name": "zapper",
             "title": "Zapper",
             "description": "Zapper is a Ethereum based DeFi dashboard for monitoring and managing your DeFi assets and liabilities in one simple interface.",
             "link": "https://zapper.fi/",
             "kind": ["eth"],
-            "network": [ 
+            "network": [
                 {
                 "id": "ethereum-mainnet",
                 "name": "Ethereum"
-                } 
+                }
             ],
             "category": [],
             "iconPath": "icon_zapper.png",
@@ -184,11 +221,11 @@
             "description": "Neverlose.money is the first-ever gamified DeFi protocol that pays a bonus to long-term investors, known as HODLers, using the penalty charge paid by users who fail to HODL.",
             "link": "https://neverlose.money/",
             "kind": ["eth"],
-            "network": [ 
+            "network": [
                 {
                 "id": "ethereum-mainnet",
                 "name": "Ethereum"
-                } 
+                }
             ],
             "category": [],
             "iconPath": "icon_neverlose.png",
@@ -202,11 +239,11 @@
             "description": "Compound is Ethereum's algorithmic money market protocol that allows users to earn interest or borrow assets through collateral. Anyone can supply assets to Compound's liquidity pool and earn continuous compound interest immediately.",
             "link": "https://app.compound.finance/",
             "kind": [ "eth" ],
-            "network": [ 
+            "network": [
                 {
                 "id": "ethereum-mainnet",
                 "name": "Ethereum"
-                } 
+                }
             ],
             "category": [],
             "iconPath": "icon_compound.png",
@@ -220,11 +257,11 @@
             "description": "PoolTogether is an Ethereum based application that makes saving money as fun as a game. You join a pool by getting a “savings ticket”. Each Savings Ticket gives you a chance to win a prize, but even if you don’t win, you keep all your money!",
             "link": "https://app.pooltogether.com/",
             "kind": ["eth"],
-            "network": [ 
+            "network": [
                 {
                 "id": "ethereum-mainnet",
                 "name": "Ethereum"
-                } 
+                }
             ],
             "category": [],
             "iconPath": "icon_pooltogether.png",
@@ -238,11 +275,11 @@
             "description": "Uniswap is a fully decentralized protocol for automated liquidity provision on Ethereum.",
             "link": "https://app.uniswap.org/",
             "kind": ["eth"],
-            "network": [ 
+            "network": [
                 {
                 "id": "ethereum-mainnet",
                 "name": "Ethereum"
-                } 
+                }
             ],
             "category": [],
             "iconPath": "icon_uniswap.png",
@@ -256,11 +293,11 @@
             "description": "yearn.finance is an DeFi aggregator service that uses automation to maximize profits from yield farming for investors.",
             "link": "https://yearn.finance/",
             "kind": ["eth"],
-            "network": [ 
+            "network": [
                 {
                 "id": "ethereum-mainnet",
                 "name": "Ethereum"
-                } 
+                }
             ],
             "category": [],
             "iconPath": "icon_yearn.png",
@@ -274,65 +311,65 @@
             "description": "1inch Exchange is a decentralized exchange (DEX) aggregator. It's designed to roll liquidity and pricing from all major DEXes into one platform, making it easy to get the best price for the desired trade.",
             "link": "https://1inch.exchange/",
             "kind": ["eth"],
-            "network": [ 
+            "network": [
                 {
                 "id": "ethereum-mainnet",
                 "name": "Ethereum"
-                } 
+                }
             ],
             "category": [],
             "iconPath": "icon_1inch.exchange.png",
             "type": "dapp",
             "device": "ble_dongle",
             "externalWindow": false
-        },        
+        },
         {
             "name": "opensea",
             "title": "OpenSea",
             "description": "OpenSea is a marketplace for digital goods, including collectibles, game items, digital art, and other digital assets backed by blockchain such as Ethereum.",
             "link": "https://opensea.io/",
             "kind": ["eth"],
-            "network": [ 
+            "network": [
                 {
                 "id": "ethereum-mainnet",
                 "name": "Ethereum"
-                } 
+                }
             ],
             "category": [],
             "iconPath": "icon_opensea.png",
             "type": "dapp",
             "device": "ble_dongle",
             "externalWindow": false
-        },    
+        },
         {
             "name": "rarible",
             "title": "Rarible",
             "description": "Rarible is a creator-centric NFT marketplace and issuance platform where users can easily create non-fungible tokens (NFTs) for unique digital items like artworks, game items and more.",
             "link": "https://rarible.com/",
             "kind": ["eth"],
-            "network": [ 
+            "network": [
                 {
                 "id": "ethereum-mainnet",
                 "name": "Ethereum"
-                } 
+                }
             ],
             "category": [],
             "iconPath": "icon_rarible.png",
             "type": "dapp",
             "device": "ble_dongle",
             "externalWindow": false
-        },    
+        },
         {
             "name": "KLAYportal",
             "title": "KLAYportal",
             "description": "KLAYportal was designed and developed by HashQuark as a lightweight tool to help KLAY holders participate in Klaytn staking in a simple, secure way.",
             "link": "https://klayportal.hashquark.io/#/?inApp=true",
             "kind": ["klay"],
-            "network": [ 
+            "network": [
                 {
                 "id": "klaytn-mainnet",
                 "name": "Klaytn"
-                } 
+                }
             ],
             "category": [],
             "iconPath": "icon_klayportal.png",

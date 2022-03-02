@@ -401,6 +401,15 @@
             "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5426.png",
             "name": "Solana",
             "symbol": "SOL"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7334.png",
+            "name": "Conflux",
+            "symbol": "CFX"
         }
     ],
     "version": {

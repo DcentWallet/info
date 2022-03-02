@@ -1,5 +1,10 @@
 [
     {
+    "name": "peteorganics",
+    "imageUrl": "../images_en/peteorganics.png",
+    "gotoLink": "http://peteorganics.com"
+    },
+    {
     "name": "etherbit",
     "imageUrl": "../images_en/etherbit.png",
     "gotoLink": "https://www.etherbit.in/products/dcent-biometric-wallet"

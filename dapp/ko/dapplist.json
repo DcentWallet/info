@@ -3,14 +3,15 @@
         {
             "name": "buysell",
             "title": "암호화폐 구매",
-            "description": "다양한 파트너로 구성된 네트워크를 통해 100개 이상의 암호화폐를 간단하고 안전하게 구매 할 수 있는 서비스입니다." ,
+            "description": "다양한 파트너로 구성된 네트워크를 통해 100개 이상의 암호화폐를 간편하고 안전하게 구매 할 수 있는 서비스입니다." ,
             "link": "",
             "kind": [],
             "category": [],
             "iconPath": "icon_buy.png",
             "testnet": false,
             "externalWindow": false,
-            "preRelease": true
+            "preRelease": true,
+            "platform": "android"
         },
         {
             "name": "changenow",
@@ -102,6 +103,42 @@
             ],
             "category": [],
             "iconPath": "icon_definix.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false
+        },
+        {
+            "name": "orbitBridge",
+            "title": "오르빗 브릿지",
+            "description": "오르빗 브릿지는 각 메인넷 간의 토큰 전환을 지원하는 브릿지 서비스로, 이더리움, 클레이튼, 리플, BNB, HECO 등 다양한 블록체인을 지원합니다.",
+            "link": "https://bridge.orbitchain.io/",
+            "kind": ["eth"],
+            "network": [ 
+                {
+                "id": "ethereum-mainnet",
+                "name": "Ethereum"
+                } 
+            ],
+            "category": [],
+            "iconPath": "icon_orbit.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false
+        },  
+        {
+            "name": "cbridge",
+            "title": "Celer cBridge",
+            "description": "Celer cBridge는 다중 블록체인 네트워크와 연동된 브릿지 서비스로 블록체인 간에 자산을 저렴한 수수료로 전송할 수 있습니다.",
+            "link": "https://cbridge.celer.network/",
+            "kind": ["eth"],
+            "network": [ 
+                {
+                "id": "ethereum-mainnet",
+                "name": "이더리움"
+                } 
+            ],
+            "category": [],
+            "iconPath": "icon_cBridge.png",
             "type": "dapp",
             "device": "ble_dongle",
             "externalWindow": false
