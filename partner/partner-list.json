@@ -1,4 +1,9 @@
 [   
+        {
+    "name": "confluxnetwork",
+    "imageUrl": "../images/confluxnetwork.png",
+    "gotoLink": "https://confluxnetwork.org/"
+    },
     {
     "name": "celer",
     "imageUrl": "../images/celer_1.png",
