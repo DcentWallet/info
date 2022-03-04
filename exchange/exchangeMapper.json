@@ -324,7 +324,7 @@
   },
   {
     "network": "cchain",
-    "protocol": "",
+    "protocol": "c-chain",
     "groupName": "avalanche",
     "supportCustom": true,
     "tokenGroup": [
