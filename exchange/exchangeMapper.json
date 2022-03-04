@@ -49,7 +49,8 @@
     "groupName": "RIPPLE",
     "supportCustom": false,
     "tokenGroup": [
-      "RIPPLE"
+      "RIPPLE",
+      "RIPPLE-TA"
     ],
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/52.png"
   },
@@ -322,7 +323,7 @@
     ]
   },
   {
-    "network": "avax",
+    "network": "cchain",
     "protocol": "",
     "groupName": "avalanche",
     "supportCustom": true,
@@ -388,7 +389,8 @@
     "groupName": "HEDERA",
     "supportCustom": true,
     "tokenGroup": [
-      "HEDERA"
+      "HEDERA",
+      "HEDERA-HTS"
     ],
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4642.png"
   },
