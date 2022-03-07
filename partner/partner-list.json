@@ -1,5 +1,10 @@
 [   
-        {
+    {
+    "name": "wyre",
+    "imageUrl": "../images/wyre.png",
+    "gotoLink": "https://www.sendwyre.com/"
+    },
+    {
     "name": "confluxnetwork",
     "imageUrl": "../images/confluxnetwork.png",
     "gotoLink": "https://confluxnetwork.org/"
