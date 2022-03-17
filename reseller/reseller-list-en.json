@@ -1,5 +1,10 @@
 [
     {
+    "name": "cryptherion",
+    "imageUrl": "../images_en/cryptherion.png",
+    "gotoLink": "www.cryptherion.io"
+    },
+    {
     "name": "peteorganics",
     "imageUrl": "../images_en/peteorganics.png",
     "gotoLink": "http://peteorganics.com"
