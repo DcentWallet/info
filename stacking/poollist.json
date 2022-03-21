@@ -9,7 +9,7 @@
             "payment": "XBTC",
             "defaultCycle": 1,
             "isCustodial": false,
-            "poolClose": 80,
+            "poolClose": 82,
             "homepage": "https://app.nfpstudio.io/stacking",
             "logo": "nfp_logo.svg"
         },
@@ -21,7 +21,7 @@
             "poolFee": "5%",
             "payment": "BTC",
             "isCustodial": false,
-            "poolClose": 100,
+            "poolClose": 102,
             "homepage": "https://planbetter.org/",
             "logo": "planbetter_logo.svg"
         },
@@ -35,7 +35,7 @@
             "payment": "STX",
             "defaultCycle": 1,
             "isCustodial": false,
-            "poolClose": 200,
+            "poolClose": 202,
             "homepage": "https://pool.friedger.de/",
             "logo": "friedger_logo.svg"
         }
