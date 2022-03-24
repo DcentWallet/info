@@ -266,7 +266,7 @@
   {
     "iconUrl": "https://github.com/DcentWallet/info/raw/master/images/coins/original/binance-logo.png",
     "symbol": "BNB",
-    "name": "Binance Coin",
+    "name": "BSC - Binance Smart Chain ",
     "support": {
       "biometric": true,
       "ethCard": false,
