@@ -1,5 +1,10 @@
 [   
     {
+    "name": "changelly",
+    "imageUrl": "../images/changelly.png",
+    "gotoLink": "https://changelly.com/"
+    },
+    {
     "name": "wyre",
     "imageUrl": "../images/wyre.png",
     "gotoLink": "https://www.sendwyre.com/"
