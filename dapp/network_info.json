@@ -220,8 +220,7 @@
                     "description": "Harmony",
                     "coinType": "CHAN:1666600000",
                     "chainId": 1666600000,
-                    "iconPath": "network_harmony.png",
-                    "preRelease": true
+                    "iconPath": "network_harmony.png"
                 },
                 {
                     "networkId": "HARMONY-testnet",
