@@ -429,8 +429,19 @@
     "supportCustom": true,
     "tokenGroup": [
       "SOLANA",
-      "SIP010"
+      "SIP010",
+      "SPL-TOKEN"
     ],
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5426.png"
+  },
+  {
+    "network": "",
+    "protocol": "",
+    "groupName": "CONFLUX",
+    "supportCustom": true,
+    "tokenGroup": [
+      "CONFLUX",
+      "CFX-CRC20"
+    ]
   }
 ]
