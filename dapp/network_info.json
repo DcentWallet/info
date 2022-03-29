@@ -233,9 +233,9 @@
                 },
                 {
                     "networkId": "Orbit",
-                    "name": "orbit",
+                    "name": "orbit_testnet",
                     "description": "Orbit Chain",
-                    "coinType": "CHAN:2017",
+                    "coinType": "EVMT:2017",
                     "chainId": 2017,
                     "iconPath": "network_orbit.png",
                     "testnet": true,
