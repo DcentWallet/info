@@ -219,8 +219,8 @@
     ]
   },
   {
-    "network": "",
-    "protocol": "",
+    "network": "xdc",
+    "protocol": "XDC",
     "groupName": "XINFIN",
     "supportCustom": true,
     "tokenGroup": [
