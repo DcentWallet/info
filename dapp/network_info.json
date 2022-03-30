@@ -143,7 +143,7 @@
                 {
                     "networkId": "xdc-mainnet",
                     "name": "xdc",
-                    "description": "XinFin Network",
+                    "description": "XDC Network",
                     "coinType": "XINFIN",
                     "chainId": 50,
                     "iconPath": "network_xdc.png"
