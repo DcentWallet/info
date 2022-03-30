@@ -230,6 +230,16 @@
                     "chainId": 1666700000,
                     "iconPath": "network_harmony.png",
                     "testnet": true
+                },
+                {
+                    "networkId": "Orbit",
+                    "name": "orbit_testnet",
+                    "description": "Orbit Chain",
+                    "coinType": "EVMT:2017",
+                    "chainId": 2017,
+                    "iconPath": "network_orbit.png",
+                    "testnet": true,
+                    "preRelease": true
                 }
             ]
         },
