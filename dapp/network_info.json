@@ -239,6 +239,15 @@
                     "chainId": 2017,
                     "iconPath": "network_orbit.png",
                     "testnet": true
+                },
+                {
+                    "networkId": "Orbit",
+                    "name": "orbit",
+                    "description": "Orbit Chain",
+                    "coinType": "CHAN:2017",
+                    "chainId": 2017,
+                    "iconPath": "network_orbit.png",
+                    "preRelease": true
                 }
             ]
         },
