@@ -260,7 +260,10 @@
       "BEP20"
     ],
     "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/binance-logo.png",
-    "needExtraId": false
+    "needExtraId": false,
+    "extraName": [
+      "bscbnb"
+    ]
   },
   {
     "network": "ada",
