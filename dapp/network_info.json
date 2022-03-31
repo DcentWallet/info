@@ -238,8 +238,7 @@
                     "coinType": "EVMT:2017",
                     "chainId": 2017,
                     "iconPath": "network_orbit.png",
-                    "testnet": true,
-                    "preRelease": true
+                    "testnet": true
                 }
             ]
         },
