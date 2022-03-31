@@ -57,7 +57,8 @@
       "RIPPLE-TA"
     ],
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/52.png",
-    "needExtraId": true
+    "needExtraId": true,
+    "least": 20
   },
   {
     "network": "",
