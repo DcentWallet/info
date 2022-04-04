@@ -367,7 +367,10 @@
       "CH20:43114"
     ],
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5805.png",
-    "needExtraId": false
+    "needExtraId": false,
+    "extraName": [
+      "avaxc"
+    ]
   },
   {
     "network": "",
