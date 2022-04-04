@@ -303,7 +303,217 @@
       "url": "https://www.mayanodes.com",
       "address": "0x6D457FbA88729c683015a308232b805C857e0EAe",
       "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x6D457FbA88729c683015a308232b805C857e0EAe.png"
-    }
+    },
+		{
+			"name": "Topbird",
+			"description": "Topbird is a team of blockchain engineers distributed across the world. We host reliable infrastructure and provide accurate price signals to FTSOs on Songbird network.",
+			"url": "https://topbird.info",
+			"address": "0xf45e6102E702A95f633D1D914f6FB5f0cA344E80",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xf45e6102E702A95f633D1D914f6FB5f0cA344E80.png"
+		},
+		{
+			"name": "FTSO GG",
+			"description": "FTSO GG a data provider from Florida/USA",
+			"url": "https://ftso.gg",
+			"address": "0x32fE8AC862453DC1B8a390CD3AF821b4FA6fF39D",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x32fE8AC862453DC1B8a390CD3AF821b4FA6fF39D.png"
+		},
+		{
+			"name": "Origami",
+			"description": "Bringing more decentralization to the Flare and Songbird networks & more rewards to your pocket",
+			"url": "https://www.origamiftso.com",
+			"address": "0x4cfaE1745980Fe3Bb3731E8542EFdce5004338a4",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4cfaE1745980Fe3Bb3731E8542EFdce5004338a4.png"
+		},
+		{
+			"name": "Xdrops Oracle",
+			"description": "Croatia based Flare FTSO data provider.",
+			"url": "https://www.xdrops.live",
+			"address": "0x2d3bdE536ad297f2EA74965f02C9E42f4780fB6A",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2d3bdE536ad297f2EA74965f02C9E42f4780fB6A.png"
+		},
+		{
+			"name": "InGen.FTSO",
+			"description": "We are an Asian dynamic data provider for the FTSO bringing growth to the decentralized Flare.",
+			"url": "https://www.ftso.ingen.com.ph",
+			"address": "0x664e070592063bFE5072F0aC25C6C11e5ccF9928",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x664e070592063bFE5072F0aC25C6C11e5ccF9928.png"
+		},
+		{
+			"name": "Bitrue",
+			"description": "Bitrue exchange",
+			"url": "https://www.bitrue.com",
+			"address": "0x4c97f55d2Ed9C84ECc4Db836d5Fc4F191deA30aE",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4c97f55d2Ed9C84ECc4Db836d5Fc4F191deA30aE.png"
+		},
+		{
+			"name": "Infinity",
+			"description": "WE OFFER YOU: Security, Reliability, Transparency",
+			"url": "https://infinityftso.com",
+			"address": "0x792Bb161C6eAE681ba2F223db1a071e4cf4B4201",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x792Bb161C6eAE681ba2F223db1a071e4cf4B4201.png"
+		},
+		{
+			"name": "PRICEKRAKEN",
+			"description": "Germany based FTSO data provider with passion for improvements",
+			"url": "https://www.pricekraken.de",
+			"address": "0xEF4ef2f3B8C69282846a98341095baa018247553",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xEF4ef2f3B8C69282846a98341095baa018247553.png"
+		},
+		{
+			"name": "FTSO Tech",
+			"description": "Your most reliable Flare Time Series Oracle",
+			"url": "https://ftsotech.xyz",
+			"address": "0x959665cc4Dd38b5e83EeD6603BB8B9da884E930f",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x959665cc4Dd38b5e83EeD6603BB8B9da884E930f.png"
+		},
+		{
+			"name": "Sparkles FTSO",
+			"description": "Sparkles FTSO is an extension of Sparkles, an NFT platform on the Songbird/Flare Network. Our philosophy is to push boundaries and create standards, be creative and make everything we do fun and interactive for our community.",
+			"url": "https://sparklesnft.com",
+			"address": "0x3012c799565010C3b090D252839a3D24f3b766bE",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3012c799565010C3b090D252839a3D24f3b766bE.png"
+		},
+		{
+			"name": "Thunder",
+			"description": "Your Striking data provider",
+			"url": "https://thunderoracles.com",
+			"address": "0xC045dcC2C5eE8726963abEAb8fCfE2d194CE5c36",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xC045dcC2C5eE8726963abEAb8fCfE2d194CE5c36.png"
+		},
+		{
+			"name": "Moon FTSO",
+			"description": "Moon FTSO is a Signal Provider based on the Moon",
+			"url": "https://moonftso.com",
+			"address": "0x7032A022EE8C42b53e89106eb5e2EEb04d1f3271",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7032A022EE8C42b53e89106eb5e2EEb04d1f3271.png"
+		},
+		{
+			"name": "FTSO Canada",
+			"description": "Start Delegating - Safe & Secure",
+			"url": "https://ftsocanada.com",
+			"address": "0x53987F2c36A8D13D40B5f63f2A2ce3110ace41d9",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x53987F2c36A8D13D40B5f63f2A2ce3110ace41d9.png"
+		},
+		{
+			"name": "Lehman Sisters",
+			"description": "You don’t have to send us your FLR or SGB Tokens. You don’t have to worry if we go bankrupt or not. We are just a better decentralized trustless version of our brothers’ business and we will definitely make you happy",
+			"url": "https://lehmansisters.org",
+			"address": "0x7606D86dAEC7Cd79E4c557D0fBDc77d41376f3bf",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7606D86dAEC7Cd79E4c557D0fBDc77d41376f3bf.png"
+		},
+		{
+			"name": "Team USA",
+			"description": "Welcome to Team USA. Our missions: Bring more decentralization to Flare Network. Cut the middle men. Delegate directly to us and don’t let your exchange get a cut of your rewards",
+			"url": "https://teamusa-ftso.com",
+			"address": "0x4aE5157DdCc7Ae646406Ee3B677b19501E3DFb23",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4aE5157DdCc7Ae646406Ee3B677b19501E3DFb23.png"
+		},
+		{
+			"name": "Küng",
+			"description": "Qualität Signals. For your beloved Flare and Songbird Networks",
+			"url": "https://kungftso.com",
+			"address": "0x6c6114a863Bd229D3cC1e80F3827be7E87EF144d",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6c6114a863Bd229D3cC1e80F3827be7E87EF144d.png"
+		},
+		{
+			"name": "FTSOnly",
+			"description": "The Only FTSO you need. The Only Signals you want. Your tokens stay safe in your wallet, Only your voice comes out.",
+			"url": "https://www.ftsonly.com",
+			"address": "0x4838CdE6EF442d450b0B897cfdAf3b135F69d151",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4838CdE6EF442d450b0B897cfdAf3b135F69d151.png"
+		},
+		{
+			"name": "Avax",
+			"description": "We simplify Flare time series oracle provision",
+			"url": "https://avaxftso.com",
+			"address": "0xd656c094C1D43Dc5DCd7F5C44199cE66c0f148bf",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xd656c094C1D43Dc5DCd7F5C44199cE66c0f148bf.png"
+		},
+		{
+			"name": "FTSO London",
+			"description": "Let’s work together to maximise your Flare Rewards. Our delegation services enable token holders to earn lucrative rewards on the Flare Network",
+			"url": "https://www.ftso.london",
+			"address": "0x0708a4C813594b7E0218CB4A5D8b75c76AbFc859",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0708a4C813594b7E0218CB4A5D8b75c76AbFc859.png"
+		},
+		{
+			"name": "sigma7",
+			"description": "sigma7 - Applied Financial Analytics",
+			"url": "https://ftso.sigma7.io",
+			"address": "0xe11984cAc4518eBC18c428b86884b5b1cc1F7be0",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xe11984cAc4518eBC18c428b86884b5b1cc1F7be0.png"
+		},
+		{
+			"name": "FTSORK",
+			"description": "Flare/Songbird signal provider by Adark d.o.o",
+			"url": "https://www.ftso.adark.io",
+			"address": "0xF1Bd86b547a25921F800AdBb3F35f6E88D336c72",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xF1Bd86b547a25921F800AdBb3F35f6E88D336c72.png"
+		},
+		{
+			"name": "Shark Oracle",
+			"description": "Shark Oracle has a vision... To supply shark signals to the Flare ecosystem. Be a part of the revolution.",
+			"url": "https://sharkoracle.com",
+			"address": "0xC0FFaCc88F782785Ecc5BC9Fe3E390F52cE55760",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xC0FFaCc88F782785Ecc5BC9Fe3E390F52cE55760.png"
+		},
+		{
+			"name": "Oracle Beast FTSO",
+			"description": "Providing a Flare Time Series Oracle for those who want to delegate like a BEAST!",
+			"url": "https://www.oracle-beast.com",
+			"address": "0x3ed7b2cCC4BA420CdcE2BA232d3efdc13075F16D",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3ed7b2cCC4BA420CdcE2BA232d3efdc13075F16D.png"
+		},
+		{
+			"name": "Flaris",
+			"description": "UK technology",
+			"url": "https://www.flaris.uk",
+			"address": "0x833DDe54A28a3070A086Cc8919BeAa7a0134DE46",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x833DDe54A28a3070A086Cc8919BeAa7a0134DE46.png"
+		},
+		{
+			"name": "SignalChamp",
+			"description": "SignalChamp is a premium and super-fast delegation service. Enjoy high reward rates and low fees with just a few clicks.",
+			"url": "https://www.signalchamp.com",
+			"address": "0x263fEca2d46754Aa71BC4Cfc460e8E3055699324",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x263fEca2d46754Aa71BC4Cfc460e8E3055699324.png"
+		},
+		{
+			"name": "Tailwind FTSO",
+			"description": "Tailwind FTSO is a European provider run by IT professionals and developers using enterprise technologies to deliver accurate and reliable data.",
+			"url": "https://tailwindftso.com",
+			"address": "0x04Bd6870d801D68CD58163900B8EED6BDDdA29cB",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x04Bd6870d801D68CD58163900B8EED6BDDdA29cB.png"
+		},
+		{
+			"name": "Flare Dienst",
+			"description": "An EU-based provider.",
+			"url": "https://flare-dienst.xyz",
+			"address": "0xDe4051b333b3063fd28267Cd4412DD25233D0Ae1",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xDe4051b333b3063fd28267Cd4412DD25233D0Ae1.png"
+		},
+		{
+			"name": "ACDTftso",
+			"description": "ACDTftso is an Italian provider. We offer near real time prices with an high accuracy rate and a simple Webapp for interact with Flare Network.",
+			"url": "https://www.acdtftso.it",
+			"address": "0x86eC5c8Ce7a4DD7762Cff205d64Bfc0C272feB6d",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x86eC5c8Ce7a4DD7762Cff205d64Bfc0C272feB6d.png"
+		},
+		{
+			"name": "FTSO Brasil",
+			"description": "FTSO Brasil is the first ftso in South America working together with Flare Networks to empower token holders with knowledge and rewards.",
+			"url": "https://www.ftso-brasil.com.br",
+			"address": "0xb9dBa66d8e88c6D620F11Ce32553E0CfBC776926",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb9dBa66d8e88c6D620F11Ce32553E0CfBC776926.png"
+		},
+		{
+			"name": "EvolveFTSO",
+			"description": "EvolveFTSO is a reliable data provider, run by a team providing continuous improvements to produce the best results",
+			"url": "https://evolveftso.com",
+			"address": "0x0f80AF5b905a9A34f69E74412c4A00B231D26dAa",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0f80AF5b905a9A34f69E74412c4A00B231D26dAa.png"
+		}
   ],
   "19": [
     {
@@ -667,6 +877,223 @@
 			"url": "https://ugaenn.io/",
 			"address": "0xb53D69B2519aC9F6D65cff8e7824Bf09F7064D61",
 			"image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xb53D69B2519aC9F6D65cff8e7824Bf09F7064D61.png"
+		},
+		{
+			"name": "Topbird",
+			"description": "Topbird is a team of blockchain engineers distributed across the world. We host reliable infrastructure and provide accurate price signals to FTSOs on Songbird network.",
+			"url": "https://topbird.info",
+			"address": "0xf45e6102E702A95f633D1D914f6FB5f0cA344E80",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xf45e6102E702A95f633D1D914f6FB5f0cA344E80.png"
+		},
+		{
+			"name": "FTSO GG",
+			"description": "FTSO GG a data provider from Florida/USA",
+			"url": "https://ftso.gg",
+			"address": "0x32fE8AC862453DC1B8a390CD3AF821b4FA6fF39D",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x32fE8AC862453DC1B8a390CD3AF821b4FA6fF39D.png"
+		},
+		{
+			"name": "Origami",
+			"description": "Bringing more decentralization to the Flare and Songbird networks & more rewards to your pocket",
+			"url": "https://www.origamiftso.com",
+			"address": "0x4cfaE1745980Fe3Bb3731E8542EFdce5004338a4",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4cfaE1745980Fe3Bb3731E8542EFdce5004338a4.png"
+		},
+		{
+			"name": "Xdrops Oracle",
+			"description": "Croatia based Flare FTSO data provider.",
+			"url": "https://www.xdrops.live",
+			"address": "0x2d3bdE536ad297f2EA74965f02C9E42f4780fB6A",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2d3bdE536ad297f2EA74965f02C9E42f4780fB6A.png"
+		},
+		{
+			"name": "InGen.FTSO",
+			"description": "We are an Asian dynamic data provider for the FTSO bringing growth to the decentralized Flare.",
+			"url": "https://www.ftso.ingen.com.ph",
+			"address": "0x664e070592063bFE5072F0aC25C6C11e5ccF9928",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x664e070592063bFE5072F0aC25C6C11e5ccF9928.png"
+		},
+		{
+			"name": "Bitrue",
+			"description": "Bitrue exchange",
+			"url": "https://www.bitrue.com",
+			"address": "0x4c97f55d2Ed9C84ECc4Db836d5Fc4F191deA30aE",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4c97f55d2Ed9C84ECc4Db836d5Fc4F191deA30aE.png"
+		},
+		{
+			"name": "Infinity",
+			"description": "WE OFFER YOU: Security, Reliability, Transparency",
+			"url": "https://infinityftso.com",
+			"address": "0x792Bb161C6eAE681ba2F223db1a071e4cf4B4201",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x792Bb161C6eAE681ba2F223db1a071e4cf4B4201.png"
+		},
+		{
+			"name": "PRICEKRAKEN",
+			"description": "Germany based FTSO data provider with passion for improvements",
+			"url": "https://www.pricekraken.de",
+			"address": "0xEF4ef2f3B8C69282846a98341095baa018247553",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xEF4ef2f3B8C69282846a98341095baa018247553.png"
+		},
+		{
+			"name": "FTSO Tech",
+			"description": "Your most reliable Flare Time Series Oracle",
+			"url": "https://ftsotech.xyz",
+			"address": "0x959665cc4Dd38b5e83EeD6603BB8B9da884E930f",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x959665cc4Dd38b5e83EeD6603BB8B9da884E930f.png"
+		},
+		{
+			"name": "SGBFTSO.com",
+			"description": "SGBFTSO.com is a new innovator in this space developing a fast and efficient price provider written in GoLang. We are active in the Flare/Songbird community and always happy to help!",
+			"url": "https://sgbftso.com",
+			"address": "0xbADF00D6387958a3E7747C0A0CF5E5a06dcc90c0",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xbADF00D6387958a3E7747C0A0CF5E5a06dcc90c0.png"
+		},
+		{
+			"name": "Sparkles FTSO",
+			"description": "Sparkles FTSO is an extension of Sparkles, an NFT platform on the Songbird/Flare Network. Our philosophy is to push boundaries and create standards, be creative and make everything we do fun and interactive for our community.",
+			"url": "https://sparklesnft.com",
+			"address": "0x3012c799565010C3b090D252839a3D24f3b766bE",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3012c799565010C3b090D252839a3D24f3b766bE.png"
+		},
+		{
+			"name": "Thunder",
+			"description": "Your Striking data provider",
+			"url": "https://thunderoracles.com",
+			"address": "0xC045dcC2C5eE8726963abEAb8fCfE2d194CE5c36",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xC045dcC2C5eE8726963abEAb8fCfE2d194CE5c36.png"
+		},
+		{
+			"name": "Moon FTSO",
+			"description": "Moon FTSO is a Signal Provider based on the Moon",
+			"url": "https://moonftso.com",
+			"address": "0x7032A022EE8C42b53e89106eb5e2EEb04d1f3271",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7032A022EE8C42b53e89106eb5e2EEb04d1f3271.png"
+		},
+		{
+			"name": "FTSO Canada",
+			"description": "Start Delegating - Safe & Secure",
+			"url": "https://ftsocanada.com",
+			"address": "0x53987F2c36A8D13D40B5f63f2A2ce3110ace41d9",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x53987F2c36A8D13D40B5f63f2A2ce3110ace41d9.png"
+		},
+		{
+			"name": "Lehman Sisters",
+			"description": "You don’t have to send us your FLR or SGB Tokens. You don’t have to worry if we go bankrupt or not. We are just a better decentralized trustless version of our brothers’ business and we will definitely make you happy",
+			"url": "https://lehmansisters.org",
+			"address": "0x7606D86dAEC7Cd79E4c557D0fBDc77d41376f3bf",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7606D86dAEC7Cd79E4c557D0fBDc77d41376f3bf.png"
+		},
+		{
+			"name": "Team USA",
+			"description": "Welcome to Team USA. Our missions: Bring more decentralization to Flare Network. Cut the middle men. Delegate directly to us and don’t let your exchange get a cut of your rewards",
+			"url": "https://teamusa-ftso.com",
+			"address": "0x4aE5157DdCc7Ae646406Ee3B677b19501E3DFb23",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4aE5157DdCc7Ae646406Ee3B677b19501E3DFb23.png"
+		},
+		{
+			"name": "Küng",
+			"description": "Qualität Signals. For your beloved Flare and Songbird Networks",
+			"url": "https://kungftso.com",
+			"address": "0x6c6114a863Bd229D3cC1e80F3827be7E87EF144d",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6c6114a863Bd229D3cC1e80F3827be7E87EF144d.png"
+		},
+		{
+			"name": "FTSOnly",
+			"description": "The Only FTSO you need. The Only Signals you want. Your tokens stay safe in your wallet, Only your voice comes out.",
+			"url": "https://www.ftsonly.com",
+			"address": "0x4838CdE6EF442d450b0B897cfdAf3b135F69d151",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4838CdE6EF442d450b0B897cfdAf3b135F69d151.png"
+		},
+		{
+			"name": "Avax",
+			"description": "We simplify Flare time series oracle provision",
+			"url": "https://avaxftso.com",
+			"address": "0xd656c094C1D43Dc5DCd7F5C44199cE66c0f148bf",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xd656c094C1D43Dc5DCd7F5C44199cE66c0f148bf.png"
+		},
+		{
+			"name": "FTSO London",
+			"description": "Let’s work together to maximise your Flare Rewards. Our delegation services enable token holders to earn lucrative rewards on the Flare Network",
+			"url": "https://www.ftso.london",
+			"address": "0x0708a4C813594b7E0218CB4A5D8b75c76AbFc859",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0708a4C813594b7E0218CB4A5D8b75c76AbFc859.png"
+		},
+		{
+			"name": "sigma7",
+			"description": "sigma7 - Applied Financial Analytics",
+			"url": "https://ftso.sigma7.io",
+			"address": "0xe11984cAc4518eBC18c428b86884b5b1cc1F7be0",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xe11984cAc4518eBC18c428b86884b5b1cc1F7be0.png"
+		},
+		{
+			"name": "FTSORK",
+			"description": "Flare/Songbird signal provider by Adark d.o.o",
+			"url": "https://www.ftso.adark.io",
+			"address": "0xF1Bd86b547a25921F800AdBb3F35f6E88D336c72",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xF1Bd86b547a25921F800AdBb3F35f6E88D336c72.png"
+		},
+		{
+			"name": "Shark Oracle",
+			"description": "Shark Oracle has a vision... To supply shark signals to the Flare ecosystem. Be a part of the revolution.",
+			"url": "https://sharkoracle.com",
+			"address": "0xC0FFaCc88F782785Ecc5BC9Fe3E390F52cE55760",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xC0FFaCc88F782785Ecc5BC9Fe3E390F52cE55760.png"
+		},
+		{
+			"name": "Oracle Beast FTSO",
+			"description": "Providing a Flare Time Series Oracle for those who want to delegate like a BEAST!",
+			"url": "https://www.oracle-beast.com",
+			"address": "0x3ed7b2cCC4BA420CdcE2BA232d3efdc13075F16D",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3ed7b2cCC4BA420CdcE2BA232d3efdc13075F16D.png"
+		},
+		{
+			"name": "Flaris",
+			"description": "UK technology",
+			"url": "https://www.flaris.uk",
+			"address": "0x833DDe54A28a3070A086Cc8919BeAa7a0134DE46",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x833DDe54A28a3070A086Cc8919BeAa7a0134DE46.png"
+		},
+		{
+			"name": "SignalChamp",
+			"description": "SignalChamp is a premium and super-fast delegation service. Enjoy high reward rates and low fees with just a few clicks.",
+			"url": "https://www.signalchamp.com",
+			"address": "0x263fEca2d46754Aa71BC4Cfc460e8E3055699324",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x263fEca2d46754Aa71BC4Cfc460e8E3055699324.png"
+		},
+		{
+			"name": "Tailwind FTSO",
+			"description": "Tailwind FTSO is a European provider run by IT professionals and developers using enterprise technologies to deliver accurate and reliable data.",
+			"url": "https://tailwindftso.com",
+			"address": "0x04Bd6870d801D68CD58163900B8EED6BDDdA29cB",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x04Bd6870d801D68CD58163900B8EED6BDDdA29cB.png"
+		},
+		{
+			"name": "Flare Dienst",
+			"description": "An EU-based provider.",
+			"url": "https://flare-dienst.xyz",
+			"address": "0xDe4051b333b3063fd28267Cd4412DD25233D0Ae1",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xDe4051b333b3063fd28267Cd4412DD25233D0Ae1.png"
+		},
+		{
+			"name": "ACDTftso",
+			"description": "ACDTftso is an Italian provider. We offer near real time prices with an high accuracy rate and a simple Webapp for interact with Flare Network.",
+			"url": "https://www.acdtftso.it",
+			"address": "0x86eC5c8Ce7a4DD7762Cff205d64Bfc0C272feB6d",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x86eC5c8Ce7a4DD7762Cff205d64Bfc0C272feB6d.png"
+		},
+		{
+			"name": "FTSO Brasil",
+			"description": "FTSO Brasil is the first ftso in South America working together with Flare Networks to empower token holders with knowledge and rewards.",
+			"url": "https://www.ftso-brasil.com.br",
+			"address": "0xb9dBa66d8e88c6D620F11Ce32553E0CfBC776926",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb9dBa66d8e88c6D620F11Ce32553E0CfBC776926.png"
+		},
+		{
+			"name": "EvolveFTSO",
+			"description": "EvolveFTSO is a reliable data provider, run by a team providing continuous improvements to produce the best results",
+			"url": "https://evolveftso.com",
+			"address": "0x0f80AF5b905a9A34f69E74412c4A00B231D26dAa",
+			"image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0f80AF5b905a9A34f69E74412c4A00B231D26dAa.png"
 		}
   ]
 }
