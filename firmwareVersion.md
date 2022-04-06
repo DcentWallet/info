@@ -1,6 +1,5 @@
 |Kernel Version|Release Date|Notes|
 |----|----|------|
-|v2.19.1.3ecf|2022-04-05|• Message sign Bug Fix |
 |v2.18.3.cca1|2022-02-28|• Added supporting coin : Conflux (CFX), Conflux CRC20<br>• XRP Transaction Bug Fix  |
 |v2.17.1.7244|2022-01-25|• Added supporting coin : SOLANA Token(SPL) |
 |v2.16.7.bdd9|2021-11-25|• Added supporting coin : Stacks SIP010 token<br>• RIPPLE name chaned into XRPL |
