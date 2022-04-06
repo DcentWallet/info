@@ -18,6 +18,7 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
         run: |
           aws s3 sync \
-            --region ap-northeast-2 \
+            . s3://dcentwallet-info \
             --exclude ".git/*"
-            ./ s3://dcentwallet-info \
+            --region ap-northeast-2 \
+            --delete
