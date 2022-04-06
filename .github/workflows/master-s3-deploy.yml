@@ -20,4 +20,4 @@ jobs:
           aws s3 cp \
             --recursive \
             --region ap-northeast-2 \
-            ./* s3://dcentwallet-info
+            ./ s3://dcentwallet-info
