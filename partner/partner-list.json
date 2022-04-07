@@ -1,5 +1,10 @@
 [   
     {
+    "name": "harmony",
+    "imageUrl": "../images/harmony.png",
+    "gotoLink": "https://www.harmony.one/"
+    },
+    {
     "name": "changelly",
     "imageUrl": "../images/changelly.png",
     "gotoLink": "https://changelly.com/"
