@@ -77,3 +77,4 @@ changelly 의 구조체는 다음과 같다.
   - 두 개 이상의 서비스에서 다른 컨트렉트 주소를 보내주는 경우이다.
 - 계정을 추가하였으나 리스트에 나타나지 않을 떄
   - prospectRepo 엔 있으나, 계정에 필터되지 않는 것으로, ticker가 매칭되지 않아서 그렇다. extraName 배열에 repo에 있는 ticker를 추가해준다.
+- changeNow의 경우에는 ticker or legacyticker를 보내주어야한다. 명확한 기준이 없으니
