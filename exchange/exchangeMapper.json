@@ -58,7 +58,7 @@
     ],
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/52.png",
     "needExtraId": true,
-    "least": 20
+    "least": 22
   },
   {
     "network": "",
