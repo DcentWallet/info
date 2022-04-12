@@ -79,7 +79,7 @@
       "KLAYTN",
       "KLAYTN-ERC20"
     ],
-    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/dapp/images/network_klaytn2.png",
+    "iconUrl": "https://info-repo.dcentwallet.com/dapp/images/network_klaytn2.png",
     "needExtraId": false
   },
   {
@@ -260,7 +260,7 @@
       "BSC",
       "BEP20"
     ],
-    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/binance-logo.png",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/binance-logo.png",
     "needExtraId": false,
     "extraName": [
       "bnbbsc"
