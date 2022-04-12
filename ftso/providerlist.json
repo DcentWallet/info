@@ -8,7 +8,7 @@
       "dapp": "",
       "twitter": "https://twitter.com/TowoLabs",
       "address": "0x9A46864A3b0a7805B266C445289C3fAD1E48f18e",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x9A46864A3b0a7805B266C445289C3fAD1E48f18e.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x9A46864A3b0a7805B266C445289C3fAD1E48f18e.png"
     },
     {
       "partner": true,
@@ -18,7 +18,7 @@
       "dapp": "https://app.scandinodes.com/",
       "twitter": "https://twitter.com/scandinodesFTSO",
       "address": "0x4ed9e5b82CE66311Ac2230D2FCCc5202D7B8c083",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x4ed9e5b82CE66311Ac2230D2FCCc5202D7B8c083.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x4ed9e5b82CE66311Ac2230D2FCCc5202D7B8c083.png"
     },
     {
       "partner": true,
@@ -28,7 +28,7 @@
       "dapp": "https://aureusox.com/dashboard",
       "twitter": "https://twitter.com/AureusOx",
       "address": "0x9269fb79B098AB314de8A1E2AFb8705678520443",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x9269fb79B098AB314de8A1E2AFb8705678520443.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x9269fb79B098AB314de8A1E2AFb8705678520443.png"
     },
     {
       "partner": true,
@@ -38,7 +38,7 @@
       "dapp": "https://www.alphaoracle.io/delegate/",
       "twitter": "https://twitter.com/AlphaOracle1",
       "address": "0x47B6EfFE71ABD4e8CdCC56f2341BEb404f804b87",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x47B6EfFE71ABD4e8CdCC56f2341BEb404f804b87.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x47B6EfFE71ABD4e8CdCC56f2341BEb404f804b87.png"
     },
     {
       "partner": true,
@@ -48,7 +48,7 @@
       "dapp": "",
       "twitter": "https://twitter.com/ftso_eu",
       "address": "0xb0421af2cFfB21D8a0Be4087448146E4f9cbD306",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xb0421af2cFfB21D8a0Be4087448146E4f9cbD306.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0xb0421af2cFfB21D8a0Be4087448146E4f9cbD306.png"
     },
     {
       "partner": true,
@@ -58,7 +58,7 @@
       "dapp": "https://www.ftso.uk/delegate",
       "twitter": "https://twitter.com/ftso_uk",
       "address": "0x5F911C2C681f678e5A3a8D54f950d6b192CC16E3",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x5F911C2C681f678e5A3a8D54f950d6b192CC16E3.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x5F911C2C681f678e5A3a8D54f950d6b192CC16E3.png"
     },
     {
       "partner": true,
@@ -68,7 +68,7 @@
       "dapp": "https://app.ftso.com.au",
       "twitter": "https://twitter.com/ftso_au",
       "address": "0x4990320858AE3528B645C60059281a66C3488888",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x4990320858AE3528B645C60059281a66C3488888.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x4990320858AE3528B645C60059281a66C3488888.png"
     },
     {
       "partner": true,
@@ -78,28 +78,28 @@
       "dapp": "",
       "twitter": "https://twitter.com/useyourspark",
       "address": "0xa288054b230DCbb8689Ac229D6DBd7Df39203181",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xa288054b230DCbb8689Ac229D6DBd7Df39203181.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0xa288054b230DCbb8689Ac229D6DBd7Df39203181.png"
     },
     {
       "name": "Sun-Dara",
       "description": "Sun-Dara is an Asian FTSO provider based primarily in Bangladesh with connections to the United Kingdom. We try and keep things simple and easy to understand. Check out our website for more information and service status updates.",
       "url": "https://sun-dara.co.uk",
       "address": "0x1E8F916CE03F4ce86186531a8994d366581Ed4be",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x1E8F916CE03F4ce86186531a8994d366581Ed4be.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x1E8F916CE03F4ce86186531a8994d366581Ed4be.png"
     },
     {
       "name": "Interoracle",
       "description": "An interchain oracle built by whirledlabs. Price ranked by liquidity.",
       "url": "https://interoracle.io",
       "address": "0x62d6116d6A139F2D402e8d8E30BAaF5790542801",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x62d6116d6A139F2D402e8d8E30BAaF5790542801.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x62d6116d6A139F2D402e8d8E30BAaF5790542801.png"
     },
     {
       "name": "Lena Instruments",
       "description": "Institutional grade vote delegation service and FTSO signal provider to the Flare ecosystem",
       "url": "https://www.lena.tech",
       "address": "0xc9AC8F034d295962A6a975b717B691437605Bbb6",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xc9AC8F034d295962A6a975b717B691437605Bbb6.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0xc9AC8F034d295962A6a975b717B691437605Bbb6.png"
     },
     {
       "partner": true,
@@ -109,7 +109,7 @@
       "dapp": "https://ftso.alexdupre.com/",
       "twitter": "",
       "address": "0x2d7bf53ED6117aD1DCD6416d460481522a16aFdf",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x2d7bf53ED6117aD1DCD6416d460481522a16aFdf.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x2d7bf53ED6117aD1DCD6416d460481522a16aFdf.png"
     },
     {
       "partner": true,
@@ -119,7 +119,7 @@
       "dapp": "https://bestftso.xyz/delegate",
       "twitter": "https://twitter.com/BestFtso",
       "address": "0x939789ed3D07A80da886A3E3017d665cBb5591dC",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x939789ed3D07A80da886A3E3017d665cBb5591dC.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x939789ed3D07A80da886A3E3017d665cBb5591dC.png"
     },
     {
       "partner": true,
@@ -129,28 +129,28 @@
       "dapp": "https://defioracles.net/",
       "twitter": "https://twitter.com/DeFiOracles",
       "address": "0xCa60cd408A5E447897258cDB1F699478c71Cc55E",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xCa60cd408A5E447897258cDB1F699478c71Cc55E.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0xCa60cd408A5E447897258cDB1F699478c71Cc55E.png"
     },
     {
       "name": "KysenPool",
       "description": "Global Proof-of-Stake Validator experienced operating nodes for Cardano, Cosmos, Terra , Harmony, Kava and Desmos. Now FTSO for Flare/Songbird.",
       "url": "https://www.kysenpool.io/",
       "address": "0xb53D69B2519aC9F6D65cff8e7824Bf09F7064D61",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xb53D69B2519aC9F6D65cff8e7824Bf09F7064D61.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0xb53D69B2519aC9F6D65cff8e7824Bf09F7064D61.png"
     },
     {
       "name": "HEWG",
       "description": "HEWG strikes to provide best FTSO price data.",
       "url": "https://hewg.org",
       "address": "0x819eaB111BD9A6E595187A914240529D2EFfF21f",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x819eaB111BD9A6E595187A914240529D2EFfF21f.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x819eaB111BD9A6E595187A914240529D2EFfF21f.png"
     },
     {
       "name": "Taco-Tso",
       "description": "A time series oracle for lovers of mexican and asian cuisine.",
       "address": "0xaCb098842542b8DEcAD0EA49eCd97d1410cbEb26",
       "url": "https://taco-tso.io",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xaCb098842542b8DEcAD0EA49eCd97d1410cbEb26.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0xaCb098842542b8DEcAD0EA49eCd97d1410cbEb26.png"
     },
     {
       "partner": true,
@@ -160,77 +160,77 @@
       "dapp": "https://flareoracle.io",
       "twitter": "https://twitter.com/flareoracle_io",
       "address": "0x1B00870092a929D160492daf8E734b4bCA033266",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x1B00870092a929D160492daf8E734b4bCA033266.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x1B00870092a929D160492daf8E734b4bCA033266.png"
     },
     {
       "name": "HONO-TSO",
       "description": "Hono (Jap Honoo) It's the flame that ignites the game. Let's play!",
       "url": "https://hono-tso.com",
       "address": "0xa467ACeE8127C55Fb1f4d3b863EA5b0C4F599b9b",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xa467ACeE8127C55Fb1f4d3b863EA5b0C4F599b9b.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0xa467ACeE8127C55Fb1f4d3b863EA5b0C4F599b9b.png"
     },
     {
       "name": "Big Baby FTSO",
       "description": "Big Baby FTSO - Feed the Big Baby!",
       "url": "https://bbftso.com",
       "address": "0xe60784D1c661a8D8eE19b442999bB71279F0A91f",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xe60784D1c661a8D8eE19b442999bB71279F0A91f.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0xe60784D1c661a8D8eE19b442999bB71279F0A91f.png"
     },
     {
       "name": "SparkiFi",
       "description": "The high fidelity, low fee, independent FTSO provider.",
       "url": "https://www.sparkifi.xyz",
       "address": "0x153aD30381b11DCE62f349c97a54c2a58956B992",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x153aD30381b11DCE62f349c97a54c2a58956B992.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x153aD30381b11DCE62f349c97a54c2a58956B992.png"
     },
     {
       "name": "Scintilla",
       "description": "High accuracy signal provider to the Flare Network.",
       "url": "https://www.scintilla.io",
       "address": "0xE70d5351a842131c66AAeBC4bD604912BF3cBa72",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xE70d5351a842131c66AAeBC4bD604912BF3cBa72.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0xE70d5351a842131c66AAeBC4bD604912BF3cBa72.png"
     },
     {
       "name": "LightFTSO",
       "description": "Homebrewed FTSO, light, nimble, with high rewards and lower fees. Get on! We're getting passive income!",
       "url": "https://www.lightft.so",
       "address": "0xfB9197720329a80191BA140844E96DCcAD149014",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xfB9197720329a80191BA140844E96DCcAD149014.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0xfB9197720329a80191BA140844E96DCcAD149014.png"
     },
     {
       "name": "Oracle Daemon",
       "description": "Oracle Daemon is a team of dedicated professionals designing the best data provider.",
       "url": "https://oracle-daemon.unigames.studio",
       "address": "0x92D6c2E99d5959F2e9c0a7aba5149D8A5ef22f23",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x92D6c2E99d5959F2e9c0a7aba5149D8A5ef22f23.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x92D6c2E99d5959F2e9c0a7aba5149D8A5ef22f23.png"
     },
     {
       "name": "Oracle of Delphi",
       "description": "Reach Further with the Oracle of Delphi. Join us for unparalleled access to expertise, opportunity, and each other.",
       "url": "https://oracledelphi.one",
       "address": "0x4fE889F450EcA4decd8a65B6B6eC5b7Db8EaB12E",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x4fE889F450EcA4decd8a65B6B6eC5b7Db8EaB12E.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x4fE889F450EcA4decd8a65B6B6eC5b7Db8EaB12E.png"
     },
     {
       "name": "Flare Kollektiv",
       "description": "Flare Kollektiv is an independent infrastructure provider on Flare and Songbird, providing reliable delegation services.",
       "url": "https://www.flarekollektiv.xyz",
       "address": "0xE76Bc13136338f27363425FcbCB36967B0540176",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xE76Bc13136338f27363425FcbCB36967B0540176.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0xE76Bc13136338f27363425FcbCB36967B0540176.png"
     },
     {
       "name": "FlareFTSO",
       "description": "FlareFTSO is a signal provider for the Flare Time Series Oracle, providing reliable price feeds, delegation services, validator services, and other solutions to the crypto community.",
       "url": "https://flareftso.com",
       "address": "0x58048528D3d3aea14Ec95eb5e98b18dE51780e27",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x58048528D3d3aea14Ec95eb5e98b18dE51780e27.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x58048528D3d3aea14Ec95eb5e98b18dE51780e27.png"
     },
     {
       "name": "African Proofs",
       "description": "We are a Flare and Songbird blockchain networks data signals provider based in South Africa. We provide a consistent and honest account of real world information for use in the Flare Networks ecosystem of chains.",
       "url": "https://proofs.africa",
       "address": "0xaF31CA175bbE0C6dD667c8403B65a33b28238afa",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xaF31CA175bbE0C6dD667c8403B65a33b28238afa.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0xaF31CA175bbE0C6dD667c8403B65a33b28238afa.png"
     },
     {
       "partner": true,
@@ -239,70 +239,70 @@
       "url": "https://flarefi.tech",
       "twitter": "https://twitter.com/FlareFiTech",
       "address": "0x5f3C5991De3F0713715a733eE125785D516cEb16",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x5f3C5991De3F0713715a733eE125785D516cEb16.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x5f3C5991De3F0713715a733eE125785D516cEb16.png"
     },
     {
       "name": "WitterFTSO",
       "description": "We are a NYC based Flare Network signal provider. We put the PRO in provider!",
       "url": "https://witterftso.com",
       "address": "0xD9200CC419BDe28B169AD8c904d2687a15A4Bf9F",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xD9200CC419BDe28B169AD8c904d2687a15A4Bf9F.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0xD9200CC419BDe28B169AD8c904d2687a15A4Bf9F.png"
     },
     {
       "name": "BeamFTSO",
       "description": "Beaming high-fidelity FTSO signals to the Flare ecosystem.",
       "url": "https://beamftso.com",
       "address": "0x8888888830A0fddAaa09CCD891fF5D35fb45D2A6",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x8888888830A0fddAaa09CCD891fF5D35fb45D2A6.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x8888888830A0fddAaa09CCD891fF5D35fb45D2A6.png"
     },
     {
       "name": "Dank FTSO",
       "description": "We only source best prices from best exchanges.",
       "url": "https://dankftso.com",
       "address": "0xF8b92bE7ffB021B074F8621765D72dA4C8862749",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xF8b92bE7ffB021B074F8621765D72dA4C8862749.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0xF8b92bE7ffB021B074F8621765D72dA4C8862749.png"
     },
     {
       "name": "Aternety",
       "description": "Aternety is based off Chicago (USA) and run by a team of experienced software engineers.",
       "url": "https://aternety.com",
       "address": "0x2De2C741658f0Ae7b2DdD8EAdD179911564af119",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x2De2C741658f0Ae7b2DdD8EAdD179911564af119.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x2De2C741658f0Ae7b2DdD8EAdD179911564af119.png"
     },
     {
       "name": "1FTSO",
       "description": "Providing accurate on-time data to the network.",
       "url": "https://1ftso.com",
       "address": "0xeceFe81ff88E5609704697De20Cc36990b76d633",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xeceFe81ff88E5609704697De20Cc36990b76d633.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0xeceFe81ff88E5609704697De20Cc36990b76d633.png"
     },
     {
       "name": "FTSO.IT",
       "description": "Your most convenient and efficient Flare data provider.",
       "url": "https://ftso.it",
       "address": "0x6fF5947eF89754682aD765b79C11f33452756D0B",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x6fF5947eF89754682aD765b79C11f33452756D0B.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x6fF5947eF89754682aD765b79C11f33452756D0B.png"
     },
     {
       "name": "Dragon Oracle",
       "description": "Your Asia based professional FTSO signal provider",
       "url": "https://dragonoracle.io",
       "address": "0x0438173837B6e4Ae11C724Ae06A128c4B9f0EdF2",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x0438173837B6e4Ae11C724Ae06A128c4B9f0EdF2.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x0438173837B6e4Ae11C724Ae06A128c4B9f0EdF2.png"
     },
     {
       "name": "Comfy Nodes",
       "description": "Only the comfiest rates.",
       "url": "https://www.comfynodes.com",
       "address": "0x821BDE578955B35F9F2C9022268E5BC748994f71",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x821BDE578955B35F9F2C9022268E5BC748994f71.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x821BDE578955B35F9F2C9022268E5BC748994f71.png"
     },
     {
       "name": "Mayanodes",
       "description": "Mayanodes FTSO Americas",
       "url": "https://www.mayanodes.com",
       "address": "0x6D457FbA88729c683015a308232b805C857e0EAe",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x6D457FbA88729c683015a308232b805C857e0EAe.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x6D457FbA88729c683015a308232b805C857e0EAe.png"
     },
 		{
 			"name": "Topbird",
@@ -524,7 +524,7 @@
       "dapp": "",
       "twitter": "https://twitter.com/TowoLabs",
       "address": "0x69141E890F3a79cd2CFf552c0B71508bE23712dC",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x69141E890F3a79cd2CFf552c0B71508bE23712dC.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x69141E890F3a79cd2CFf552c0B71508bE23712dC.png"
     },
     {
       "partner": true,
@@ -534,7 +534,7 @@
       "dapp": "https://app.scandinodes.com/",
       "twitter": "https://twitter.com/scandinodesFTSO",
       "address": "0x4ed9e5b82CE66311Ac2230D2FCCc5202D7B8c083",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x4ed9e5b82CE66311Ac2230D2FCCc5202D7B8c083.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x4ed9e5b82CE66311Ac2230D2FCCc5202D7B8c083.png"
     },
     {
       "partner": true,
@@ -544,7 +544,7 @@
       "dapp": "https://aureusox.com/dashboard",
       "twitter": "https://twitter.com/AureusOx",
       "address": "0x6d323e71E141cE2d7b752313C8A654a9C9d1b377",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x6d323e71E141cE2d7b752313C8A654a9C9d1b377.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x6d323e71E141cE2d7b752313C8A654a9C9d1b377.png"
     },
     {
       "partner": true,
@@ -554,7 +554,7 @@
       "dapp": "https://www.alphaoracle.io/delegate/",
       "twitter": "https://twitter.com/AlphaOracle1",
       "address": "0xBF61Db1CDb43d196309824473fA82E5B17581159",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xBF61Db1CDb43d196309824473fA82E5B17581159.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0xBF61Db1CDb43d196309824473fA82E5B17581159.png"
     },
     {
       "partner": true,
@@ -564,7 +564,7 @@
       "dapp": "",
       "twitter": "https://twitter.com/ftso_eu",
       "address": "0x010a16c53F33E4d93892f00897965578b55a8CFC",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x010a16c53F33E4d93892f00897965578b55a8CFC.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x010a16c53F33E4d93892f00897965578b55a8CFC.png"
     },
     {
       "partner": true,
@@ -574,7 +574,7 @@
       "dapp": "https://www.ftso.uk/delegate",
       "twitter": "https://twitter.com/ftso_eu",
       "address": "0xB9b7355f5b71CEE345311921D247b1D2bA5cFe90",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xB9b7355f5b71CEE345311921D247b1D2bA5cFe90.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0xB9b7355f5b71CEE345311921D247b1D2bA5cFe90.png"
     },
     {
       "partner": true,
@@ -584,7 +584,7 @@
       "dapp": "https://app.ftso.com.au",
       "twitter": "https://twitter.com/ftso_au",
       "address": "0x499017ADB21D6f70480E4E6224cf4144071C1461",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x499017ADB21D6f70480E4E6224cf4144071C1461.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x499017ADB21D6f70480E4E6224cf4144071C1461.png"
     },
     {
       "partner": true,
@@ -594,28 +594,28 @@
       "dapp": "",
       "twitter": "https://twitter.com/useyourspark",
       "address": "0x53CAEDDA4339eD74272ECfEF85b657dEf18fA2e4",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x53CAEDDA4339eD74272ECfEF85b657dEf18fA2e4.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x53CAEDDA4339eD74272ECfEF85b657dEf18fA2e4.png"
     },
     {
       "name": "Sun-Dara",
       "description": "Sun-Dara is an Asian STSO provider based primarily in Bangladesh with connections to the United Kingdom. We try and keep things simple and easy to understand. Check out our website for more information and service status updates.",
       "url": "https://sun-dara.co.uk",
       "address": "0x7394923453FC2F606cfb4D0ea1A5438BB8260D08",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x7394923453FC2F606cfb4D0ea1A5438BB8260D08.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x7394923453FC2F606cfb4D0ea1A5438BB8260D08.png"
     },
     {
       "name": "Interoracle",
       "description": "An interchain oracle built by whirledlabs. Price ranked by liquidity.",
       "url": "https://interoracle.io",
       "address": "0x62d6116d6A139F2D402e8d8E30BAaF5790542801",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x62d6116d6A139F2D402e8d8E30BAaF5790542801.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x62d6116d6A139F2D402e8d8E30BAaF5790542801.png"
     },
     {
       "name": "Lena Instruments",
       "description": "Institutional grade vote delegation service and FTSO signal provider to the Songbird ecosystem",
       "url": "https://www.lena.tech",
       "address": "0xc9AC8F034d295962A6a975b717B691437605Bbb6",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xc9AC8F034d295962A6a975b717B691437605Bbb6.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0xc9AC8F034d295962A6a975b717B691437605Bbb6.png"
     },
     {
       "partner": true,
@@ -625,7 +625,7 @@
       "dapp": "https://ftso.alexdupre.com/",
       "twitter": "",
       "address": "0x2d7bf53ED6117aD1DCD6416d460481522a16aFdf",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x2d7bf53ED6117aD1DCD6416d460481522a16aFdf.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x2d7bf53ED6117aD1DCD6416d460481522a16aFdf.png"
     },
     {
       "partner": true,
@@ -635,7 +635,7 @@
       "dapp": "https://bestftso.xyz/delegate",
       "twitter": "https://twitter.com/BestFtso",
       "address": "0x939789ed3D07A80da886A3E3017d665cBb5591dC",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x939789ed3D07A80da886A3E3017d665cBb5591dC.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x939789ed3D07A80da886A3E3017d665cBb5591dC.png"
     },
     {
       "partner": true,
@@ -645,56 +645,56 @@
       "dapp": "https://defioracles.net/",
       "twitter": "https://twitter.com/DeFiOracles",
       "address": "0xCa60cd408A5E447897258cDB1F699478c71Cc55E",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xCa60cd408A5E447897258cDB1F699478c71Cc55E.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0xCa60cd408A5E447897258cDB1F699478c71Cc55E.png"
     },
     {
       "name": "KysenPool",
       "description": "Global Proof-of-Stake Validator experienced operating nodes for Cardano, Cosmos, Terra , Harmony, Kava and Desmos. Now FTSO for Flare/Songbird.",
       "url": "https://www.kysenpool.io/",
       "address": "0xb53D69B2519aC9F6D65cff8e7824Bf09F7064D61",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xb53D69B2519aC9F6D65cff8e7824Bf09F7064D61.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0xb53D69B2519aC9F6D65cff8e7824Bf09F7064D61.png"
     },
     {
       "name": "Optakt",
       "description": "Optakt is a tactical engineering team working on projects which reshape the landscape of blockchain technology.",
       "url": "https://www.optakt.io",
       "address": "0xDDEF7e54a9f72D9Fc0a281b42F15A22B30681da5",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xDDEF7e54a9f72D9Fc0a281b42F15A22B30681da5.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0xDDEF7e54a9f72D9Fc0a281b42F15A22B30681da5.png"
     },
     {
       "name": "AFOracle",
       "description": "AFOracle is an FTSO provider from AFLabs, a team that helped build the Flare's smart contract infrastructure.",
       "url": "https://aforacle.com/",
       "address": "0x9565d813a3a0CEa62B3bDB9A4e236dCb5910c4f0",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x9565d813a3a0CEa62B3bDB9A4e236dCb5910c4f0.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x9565d813a3a0CEa62B3bDB9A4e236dCb5910c4f0.png"
     },
     {
       "name": "FTSOExpress",
       "description": "FTSO Express, looking to be a no frills, minimal FTSO Provider",
       "url": "https://ftso.express/",
       "address": "0x33DDAe234e403789954CD792e1feBdBE2466ADC2",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x33DDAe234e403789954CD792e1feBdBE2466ADC2.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x33DDAe234e403789954CD792e1feBdBE2466ADC2.png"
     },
     {
       "name": "HEWG",
       "description": "HEWG strikes to provide best FTSO price data.",
       "url": "https://hewg.org",
       "address": "0x819eaB111BD9A6E595187A914240529D2EFfF21f",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x819eaB111BD9A6E595187A914240529D2EFfF21f.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x819eaB111BD9A6E595187A914240529D2EFfF21f.png"
     },
     {
       "name": "Taco-Tso",
       "description": "A time series oracle for lovers of mexican and asian cuisine.",
       "url": "https://taco-tso.io",
       "address": "0x17fABA2995351176F648219A5a86921F9eD51A31",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x17fABA2995351176F648219A5a86921F9eD51A31.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x17fABA2995351176F648219A5a86921F9eD51A31.png"
     },
     {
       "name": "FTSO Cloud",
       "description": "FTSO provider with an emphasis on accuracy.",
       "url": "https://ftso.cloud.si",
       "address": "0x0FA72D3912d1C530AB1f6a8A9fB61C672947E964",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x0FA72D3912d1C530AB1f6a8A9fB61C672947E964.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x0FA72D3912d1C530AB1f6a8A9fB61C672947E964.png"
     },
     {
       "partner": true,
@@ -704,84 +704,84 @@
       "dapp": "https://flareoracle.io",
       "twitter": "https://twitter.com/flareoracle_io",
       "address": "0x1B00870092a929D160492daf8E734b4bCA033266",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x1B00870092a929D160492daf8E734b4bCA033266.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x1B00870092a929D160492daf8E734b4bCA033266.png"
     },
     {
       "name": "HONO-TSO",
       "description": "Hono (Jap Honoo) It's the flame that ignites the game. Let's play!",
       "url": "https://hono-tso.com",
       "address": "0xa467ACeE8127C55Fb1f4d3b863EA5b0C4F599b9b",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xa467ACeE8127C55Fb1f4d3b863EA5b0C4F599b9b.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0xa467ACeE8127C55Fb1f4d3b863EA5b0C4F599b9b.png"
     },
     {
       "name": "Big Baby FTSO",
       "description": "Big Baby FTSO - Feed the Big Baby!",
       "url": "https://bbftso.com",
       "address": "0xe60784D1c661a8D8eE19b442999bB71279F0A91f",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xe60784D1c661a8D8eE19b442999bB71279F0A91f.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0xe60784D1c661a8D8eE19b442999bB71279F0A91f.png"
     },
     {
       "name": "SparkiFi",
       "description": "The high fidelity, low fee, independent FTSO provider.",
       "url": "https://www.sparkifi.xyz",
       "address": "0x153aD30381b11DCE62f349c97a54c2a58956B992",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x153aD30381b11DCE62f349c97a54c2a58956B992.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x153aD30381b11DCE62f349c97a54c2a58956B992.png"
     },
     {
       "name": "Scintilla",
       "description": "High accuracy signal provider to the Songbird Network.",
       "url": "https://www.scintilla.io",
       "address": "0xE70d5351a842131c66AAeBC4bD604912BF3cBa72",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xE70d5351a842131c66AAeBC4bD604912BF3cBa72.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0xE70d5351a842131c66AAeBC4bD604912BF3cBa72.png"
     },
     {
       "name": "LightFTSO",
       "description": "Homebrewed FTSO, light, nimble, with high rewards and lower fees. Get on! We're getting passive income!",
       "url": "https://www.lightft.so",
       "address": "0xfB9197720329a80191BA140844E96DCcAD149014",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xfB9197720329a80191BA140844E96DCcAD149014.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0xfB9197720329a80191BA140844E96DCcAD149014.png"
     },
     {
       "name": "Oracle Daemon",
       "description": "Oracle Daemon is a team of dedicated professionals designing the best data provider.",
       "url": "https://oracle-daemon.unigames.studio",
       "address": "0x92D6c2E99d5959F2e9c0a7aba5149D8A5ef22f23",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x92D6c2E99d5959F2e9c0a7aba5149D8A5ef22f23.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x92D6c2E99d5959F2e9c0a7aba5149D8A5ef22f23.png"
     },
     {
       "name": "Oracle of Delphi",
       "description": "Reach Further with the Oracle of Delphi. Join us for unparalleled access to expertise, opportunity, and each other.",
       "url": "https://oracledelphi.one",
       "address": "0x4fE889F450EcA4decd8a65B6B6eC5b7Db8EaB12E",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x4fE889F450EcA4decd8a65B6B6eC5b7Db8EaB12E.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x4fE889F450EcA4decd8a65B6B6eC5b7Db8EaB12E.png"
     },
     {
       "name": "Flare Kollektiv",
       "description": "Flare Kollektiv is an independent infrastructure provider on Flare and Songbird, providing reliable delegation services.",
       "url": "https://www.flarekollektiv.xyz",
       "address": "0xE76Bc13136338f27363425FcbCB36967B0540176",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xE76Bc13136338f27363425FcbCB36967B0540176.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0xE76Bc13136338f27363425FcbCB36967B0540176.png"
     },
     {
       "name": "Dione",
       "description": "Dione prides itself as a gateway between the heart and the veins of the network, Composed of a team of data experts to provide timely and consistent insights to unlock the network's potential for stable rewards to our delegators",
       "url": "https://dionenetwork.io",
       "address": "0x285430390a72Ce038f6e54BF10f24B94A550474f",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x285430390a72Ce038f6e54BF10f24B94A550474f.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x285430390a72Ce038f6e54BF10f24B94A550474f.png"
     },
     {
       "name": "FlareFTSO",
       "description": "FlareFTSO is a signal provider for the Flare Time Series Oracle, providing reliable price feeds, delegation services, validator services, and other solutions to the crypto community.",
       "url": "https://flareftso.com",
       "address": "0x4F7f5F8eF4a3CC11f94e875393Ee909Eb5f824ea",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x4F7f5F8eF4a3CC11f94e875393Ee909Eb5f824ea.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x4F7f5F8eF4a3CC11f94e875393Ee909Eb5f824ea.png"
     },
     {
       "name": "African Proofs",
       "description": "We are a Flare and Songbird blockchain networks data signals provider based in South Africa. We provide a consistent and honest account of real world information for use in the Flare Networks ecosystem of chains.",
       "url": "https://proofs.africa",
       "address": "0xaF31CA175bbE0C6dD667c8403B65a33b28238afa",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xaF31CA175bbE0C6dD667c8403B65a33b28238afa.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0xaF31CA175bbE0C6dD667c8403B65a33b28238afa.png"
     },
     {
       "partner": true,
@@ -790,77 +790,77 @@
       "url": "https://flarefi.tech",
       "twitter": "https://twitter.com/FlareFiTech",
       "address": "0x5f3C5991De3F0713715a733eE125785D516cEb16",
-      "image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x5f3C5991De3F0713715a733eE125785D516cEb16.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x5f3C5991De3F0713715a733eE125785D516cEb16.png"
     },
 		{
 			"name": "WitterFTSO",
 			"description": "We are a NYC based Flare Network signal provider. We put the PRO in provider!",
 			"url": "https://witterftso.com",
 			"address": "0xD9200CC419BDe28B169AD8c904d2687a15A4Bf9F",
-			"image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xD9200CC419BDe28B169AD8c904d2687a15A4Bf9F.png"
+			"image": "https://info-repo.dcentwallet.com/ftso/images/logo/0xD9200CC419BDe28B169AD8c904d2687a15A4Bf9F.png"
 		},
 		{
 			"name": "BeamFTSO",
 			"description": "Beaming high-fidelity FTSO signals to the Flare ecosystem.",
 			"url": "https://beamftso.com",
 			"address": "0x8888888830A0fddAaa09CCD891fF5D35fb45D2A6",
-			"image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x8888888830A0fddAaa09CCD891fF5D35fb45D2A6.png"
+			"image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x8888888830A0fddAaa09CCD891fF5D35fb45D2A6.png"
     },
 		{
 			"name": "4DadsFTSO",
 			"description": "4 dads, a bunch of kids and a FTSO. Furthering efforts of decentralization for Flare Network and it’s canary network, Songbird.",
 			"url": "https://4dads.io",
 			"address": "0x35D73107A089Ac2b3b14a6681D8c408Aab9568D3",
-			"image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x35D73107A089Ac2b3b14a6681D8c408Aab9568D3.png"
+			"image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x35D73107A089Ac2b3b14a6681D8c408Aab9568D3.png"
 		},
 		{
 			"name": "Dank FTSO",
 			"description": "We only source best prices from best exchanges.",
 			"url": "https://dankftso.com",
 			"address": "0xF8b92bE7ffB021B074F8621765D72dA4C8862749",
-			"image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xF8b92bE7ffB021B074F8621765D72dA4C8862749.png"
+			"image": "https://info-repo.dcentwallet.com/ftso/images/logo/0xF8b92bE7ffB021B074F8621765D72dA4C8862749.png"
 		},
 		{
 			"name": "Aternety",
 			"description": "Aternety is based off Chicago (USA) and run by a team of experienced software engineers.",
 			"url": "https://aternety.com",
 			"address": "0x2De2C741658f0Ae7b2DdD8EAdD179911564af119",
-			"image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x2De2C741658f0Ae7b2DdD8EAdD179911564af119.png"
+			"image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x2De2C741658f0Ae7b2DdD8EAdD179911564af119.png"
 		},
 		{
 			"name": "1FTSO",
 			"description": "Providing accurate on-time data to the network.",
 			"url": "https://1ftso.com",
 			"address": "0xeceFe81ff88E5609704697De20Cc36990b76d633",
-			"image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xeceFe81ff88E5609704697De20Cc36990b76d633.png"
+			"image": "https://info-repo.dcentwallet.com/ftso/images/logo/0xeceFe81ff88E5609704697De20Cc36990b76d633.png"
 		},
 		{
 			"name": "FTSO.IT",
 			"description": "Your most convenient and efficient Songbird data provider.",
 			"url": "https://ftso.it",
 			"address": "0x6fF5947eF89754682aD765b79C11f33452756D0B",
-			"image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x6fF5947eF89754682aD765b79C11f33452756D0B.png"
+			"image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x6fF5947eF89754682aD765b79C11f33452756D0B.png"
 		},
 		{
 			"name": "Dragon Oracle",
 			"description": "Your Asia based professional FTSO signal provider",
 			"url": "https://dragonoracle.io",
 			"address": "0x0438173837B6e4Ae11C724Ae06A128c4B9f0EdF2",
-			"image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x0438173837B6e4Ae11C724Ae06A128c4B9f0EdF2.png"
+			"image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x0438173837B6e4Ae11C724Ae06A128c4B9f0EdF2.png"
 		},
 		{
 			"name": "Comfy Nodes",
 			"description": "Only the comfiest rates.",
 			"url": "https://www.comfynodes.com",
 			"address": "0x821BDE578955B35F9F2C9022268E5BC748994f71",
-			"image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x821BDE578955B35F9F2C9022268E5BC748994f71.png"
+			"image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x821BDE578955B35F9F2C9022268E5BC748994f71.png"
     },
 		{
 			"name": "Mayanodes",
 			"description": "Mayanodes FTSO Americas",
 			"url": "https://www.mayanodes.com",
 			"address": "0x6D457FbA88729c683015a308232b805C857e0EAe",
-			"image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x6D457FbA88729c683015a308232b805C857e0EAe.png"
+			"image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x6D457FbA88729c683015a308232b805C857e0EAe.png"
 		},
 		{
       "partner": true,
@@ -869,14 +869,14 @@
 			"url": "https://sparklesnft.com",
       "twitter": "https://twitter.com/sparklesnft",
 			"address": "0x3012c799565010C3b090D252839a3D24f3b766bE",
-			"image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0x3012c799565010C3b090D252839a3D24f3b766bE.png"
+			"image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x3012c799565010C3b090D252839a3D24f3b766bE.png"
 		},
 		{
 			"name": "uGaenn",
 			"description": "Your Gain is Our First Priority",
 			"url": "https://ugaenn.io/",
 			"address": "0xb53D69B2519aC9F6D65cff8e7824Bf09F7064D61",
-			"image": "https://raw.githubusercontent.com/DcentWallet/info/master/ftso/images/logo/0xb53D69B2519aC9F6D65cff8e7824Bf09F7064D61.png"
+			"image": "https://info-repo.dcentwallet.com/ftso/images/logo/0xb53D69B2519aC9F6D65cff8e7824Bf09F7064D61.png"
 		},
 		{
 			"name": "Topbird",
