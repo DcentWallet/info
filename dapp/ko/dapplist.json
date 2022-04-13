@@ -13,14 +13,14 @@
             "platform": "android"
         },
         {
-            "name": "changenow",
-            "title": "ChangeNOW",
-            "description": "ChangeNOW는 간단하고 빠른 암호화폐 교환을 제공하는 스왑 서비스입니다. 계정이 필요없고, 걱정없이, 빠르고 간편합니다.",
-            "link": "https://changenow.io/ko",
+            "name": "exchange",
+            "title": "Exchange",
+            "description": "익스체인지는 디센트의 3rd 파티 교환 서비스 파트너를 통해 쉽고 안전하게 암호화폐를 교환할 수 있는 기능입니다.",
+            "link": "https://exchange.dcentwallet.com",
             "kind": [],
             "category": [],
-            "iconPath": "icon_changenow.png",
-            "type": "widget",
+            "iconPath": "icon_exchange.png",
+            "type": "dcent_dapp",
             "externalWindow": false
         },
         {
