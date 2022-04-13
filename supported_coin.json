@@ -22,7 +22,7 @@
     }
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/asset-rbtc.svg",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-rbtc.svg",
     "symbol": "RBTC",
     "name": "RSK Smart Bitcoin",
     "support": {
@@ -55,7 +55,7 @@
     }
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/dapp/images/network_klaytn2.png",
+    "iconUrl": "https://info-repo.dcentwallet.com/dapp/images/network_klaytn2.png",
     "symbol": "KLAY",
     "name": "Klaytn",
     "support": {
@@ -231,7 +231,7 @@
     }
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/asset-lambda256.png",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-lambda256.png",
     "symbol": "-",
     "name": "Luniverse",
     "support": {
@@ -352,7 +352,7 @@
     }
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/dapp/images/network_gnosis.png",
+    "iconUrl": "https://info-repo.dcentwallet.com/dapp/images/network_gnosis.png",
     "name": "Gnosis xDAI",
     "symbol": "XDAI",
     "support": {
@@ -407,7 +407,7 @@
     }
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/asset-songbird.png",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-songbird.png",
     "name": "Songbird Token",
     "symbol": "SGB",
     "support": {
@@ -440,7 +440,7 @@
     }
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/dapp/images/network_arbitrum.png",
+    "iconUrl": "https://info-repo.dcentwallet.com/dapp/images/network_arbitrum.png",
     "name": "Arbitrum ETH",
     "symbol": "ETH",
     "support": {
@@ -451,7 +451,7 @@
     }
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/dapp/images/network_boba.png",
+    "iconUrl": "https://info-repo.dcentwallet.com/dapp/images/network_boba.png",
     "name": "Boba ETH",
     "symbol": "ETH",
     "support": {
@@ -664,7 +664,7 @@
     }
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/asset-boba-black.png",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-boba-black.png",
     "symbol": "BOBA",
     "name": "BOBA",
     "type": "ERC20",
@@ -21199,7 +21199,7 @@
     }
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/asset-bpro.svg",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-bpro.svg",
     "symbol": "BITP",
     "name": "BitPRO",
     "type": "RRC20",
@@ -21523,7 +21523,7 @@
     }
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/asset-kfi.png",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-kfi.png",
     "symbol": "KFI",
     "name": "KlayFi",
     "type": "KCT",
@@ -21536,7 +21536,7 @@
     }
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/asset-sbwpm.png",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-sbwpm.png",
     "symbol": "sBWPM",
     "name": "BWPM Vault",
     "type": "KCT",
@@ -21549,7 +21549,7 @@
     }
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/asset-ksta.svg",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-ksta.svg",
     "symbol": "KSTA",
     "name": "KlayStarter",
     "type": "KCT",
@@ -21562,7 +21562,7 @@
     }
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/asset-ufo.svg",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-ufo.svg",
     "symbol": "UFO",
     "name": "UFO Token",
     "type": "KCT",
@@ -21575,7 +21575,7 @@
     }
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/asset-jun.svg",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-jun.svg",
     "symbol": "JUN",
     "name": "Jun Token",
     "type": "KCT",
@@ -21588,7 +21588,7 @@
     }
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/asset-juns.svg",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-juns.svg",
     "symbol": "JUNS",
     "name": "Jun Share",
     "type": "KCT",
@@ -21601,7 +21601,7 @@
     }
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/asset-hhp.png",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-hhp.png",
     "symbol": "HHP",
     "name": "Hippie Hippo",
     "type": "KCT",
@@ -25178,7 +25178,7 @@
     }
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/asset-storx.svg",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-storx.svg",
     "symbol": "SRX",
     "name": "StorX",
     "type": "XRC20",
@@ -25191,7 +25191,7 @@
     }
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/asset-usnota.png",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-usnota.png",
     "symbol": "USNOTA",
     "name": "USNOTA",
     "type": "XRC20",
@@ -25204,7 +25204,7 @@
     }
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/asset-gbex.png",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-gbex.png",
     "symbol": "GBEX",
     "name": "Globiance Exchange Token",
     "type": "XRC20",
@@ -25217,7 +25217,7 @@
     }
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/asset-eurg.png",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-eurg.png",
     "symbol": "EURG",
     "name": "Globiance Euro Stablecoin",
     "type": "XRC20",
@@ -25230,7 +25230,7 @@
     }
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/asset-sgdg.png",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-sgdg.png",
     "symbol": "SGDG",
     "name": "Globiance SGD Stablecoin",
     "type": "XRC20",
@@ -25243,7 +25243,7 @@
     }
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/asset-hkdg.png",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-hkdg.png",
     "symbol": "HKDG",
     "name": "Globiance HKD Stablecoin",
     "type": "XRC20",
@@ -25256,7 +25256,7 @@
     }
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/asset-gbpg.png",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-gbpg.png",
     "symbol": "GBPG",
     "name": "Globiance GBP Stablecoin",
     "type": "XRC20",
@@ -25269,7 +25269,7 @@
     }
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/asset-usdg.png",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-usdg.png",
     "symbol": "USDG",
     "name": "Globiance USD Stablecoin",
     "type": "XRC20",
@@ -25282,7 +25282,7 @@
     }
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/asset-pli.png",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-pli.png",
     "symbol": "PLI",
     "name": "Plugin",
     "type": "XRC20",
@@ -32508,7 +32508,7 @@
     }
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/diko.svg",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/diko.svg",
     "symbol": "DIKO",
     "name": "Arkadiko Token",
     "type": "SIP010",
@@ -32521,7 +32521,7 @@
     }
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/usda.svg",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/usda.svg",
     "symbol": "USDA",
     "name": "USDA",
     "type": "SIP010",
@@ -32534,7 +32534,7 @@
     }
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/xbtc.svg",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/xbtc.svg",
     "symbol": "xBTC",
     "name": "Wrapped Bitcoin",
     "type": "SIP010",
@@ -32754,7 +32754,7 @@
     }
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/asset-wsgb.png",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-wsgb.png",
     "name": "Wrapped Songbird",
     "contract": "0x02f0826ef6ad107cfc861152b32b52fd11bab9ed",
     "symbol": "WSGB",
@@ -32767,7 +32767,7 @@
     }
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/asset-nftp.svg",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-nftp.svg",
     "name": "Best FTSO NFT Points",
     "contract": "0x3b46090e608cbc963356f30857f4dacc09f5ddc4",
     "symbol": "NFTp",
@@ -32780,7 +32780,7 @@
     }
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/asset-exfi.svg",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-exfi.svg",
     "name": "Experimental Finance Token",
     "contract": "0xc348f894d0e939fe72c467156e6d7dcbd6f16e21",
     "symbol": "EXFI",
@@ -33299,7 +33299,7 @@
     }
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/asset-boba-black.png",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-boba-black.png",
     "name": "BOBA",
     "contract": "0xa18bf3994c0cc6e3b63ac420308e5383f53120d7",
     "symbol": "BOBA",
@@ -33403,7 +33403,7 @@
     }
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/asset-wavax.svg",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-wavax.svg",
     "name": "Wrapped AVAX",
     "contract": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
     "symbol": "WAVAX",

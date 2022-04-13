@@ -34,7 +34,7 @@
                 "height": "32px",
                 "width": "32px"
             },
-            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/dapp/images/network_klaytn2.png",
+            "imgUrl": "https://info-repo.dcentwallet.com/dapp/images/network_klaytn2.png",
             "name": "Klaytn",
             "symbol": "KLAY"
         },
@@ -43,7 +43,7 @@
                 "height": "32px",
                 "width": "32px"
             },
-            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/dapp/images/network_klaytn2.png",
+            "imgUrl": "https://info-repo.dcentwallet.com/dapp/images/network_klaytn2.png",
             "name": "Klaytn Compatible Token",
             "symbol": "KCT"
         }
@@ -145,7 +145,7 @@
                 "height": "32px",
                 "width": "32px"
             },
-            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/dapp/images/network_klaytn2.png",
+            "imgUrl": "https://info-repo.dcentwallet.com/dapp/images/network_klaytn2.png",
             "name": "Klaytn",
             "symbol": "KLAY"
         },
@@ -263,7 +263,7 @@
                 "height": "32px",
                 "width": "32px"
             },
-            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/asset-heco.png",
+            "imgUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-heco.png",
             "name": "HECO",
             "symbol": "HT"
         },
@@ -272,7 +272,7 @@
                 "height": "32px",
                 "width": "32px"
             },
-            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/dapp/images/network_gnosis.png",
+            "imgUrl": "https://info-repo.dcentwallet.com/dapp/images/network_gnosis.png",
             "name": "Gnosis Chain",
             "symbol": "XDAI"
         },
@@ -344,7 +344,7 @@
                 "height": "32px",
                 "width": "32px"
             },
-            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/images/coins/original/asset-songbird.png",
+            "imgUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-songbird.png",
             "name": "Songbird Token",
             "symbol": "SGB"
         },
@@ -371,7 +371,7 @@
                 "height": "32px",
                 "width": "32px"
             },
-            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/dapp/images/network_arbitrum.png",
+            "imgUrl": "https://info-repo.dcentwallet.com/dapp/images/network_arbitrum.png",
             "name": "Arbitrum ETH",
             "symbol": "ETH"
         },
@@ -380,7 +380,7 @@
                 "height": "32px",
                 "width": "32px"
             },
-            "imgUrl": "https://raw.githubusercontent.com/DcentWallet/info/master/dapp/images/network_boba.png",
+            "imgUrl": "https://info-repo.dcentwallet.com/dapp/images/network_boba.png",
             "name": "Boba ETH",
             "symbol": "ETH"
         },
