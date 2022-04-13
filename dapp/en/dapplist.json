@@ -20,7 +20,7 @@
             "kind": [],
             "category": [],
             "iconPath": "icon_exchange.png",
-            "type": "dcent_dapp",
+            "type": "dapp_dcent",
             "externalWindow": false
         },
         {
