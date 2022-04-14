@@ -265,7 +265,7 @@
             },
             "imgUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-heco.png",
             "name": "HECO",
-            "symbol": "HT"
+            "symbol": "HECO"
         },
         {
             "imgSize": {
@@ -337,7 +337,7 @@
             },
             "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2087.png",
             "name": "KuCoin Token",
-            "symbol": "KCS"
+            "symbol": "KCC"
         },
         {
             "imgSize": {
@@ -346,7 +346,7 @@
             },
             "imgUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-songbird.png",
             "name": "Songbird Token",
-            "symbol": "SGB"
+            "symbol": "SONGBIRD"
         },
         {
             "imgSize": {
@@ -355,7 +355,7 @@
             },
             "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5805.png",
             "name": "Avalanche",
-            "symbol": "AVAX"
+            "symbol": "AVAX C-Chain"
         },
         {
             "imgSize": {
@@ -364,7 +364,7 @@
             },
             "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5268.png",
             "name": "Energy Web Token",
-            "symbol": "EWT"
+            "symbol": "EWC"
         },
         {
             "imgSize": {
@@ -373,7 +373,7 @@
             },
             "imgUrl": "https://info-repo.dcentwallet.com/dapp/images/network_arbitrum.png",
             "name": "Arbitrum ETH",
-            "symbol": "ETH"
+            "symbol": "Arbitrum"
         },
         {
             "imgSize": {
@@ -382,7 +382,7 @@
             },
             "imgUrl": "https://info-repo.dcentwallet.com/dapp/images/network_boba.png",
             "name": "Boba ETH",
-            "symbol": "ETH"
+            "symbol": "Boba L2"
         },
         {
             "imgSize": {
@@ -391,7 +391,7 @@
             },
             "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8267.png",
             "name": "OEC Token",
-            "symbol": "OKT"
+            "symbol": "OEC"
         },
         {
             "imgSize": {
@@ -418,7 +418,7 @@
             },
             "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5326.png",
             "name": "Orbit Chain",
-            "symbol": "OORC"
+            "symbol": "Orbit Chain"
         },
         {
             "imgSize": {
@@ -427,7 +427,7 @@
             },
             "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3945.png",
             "name": "Harmony",
-            "symbol": "ONE"
+            "symbol": "Harmony"
         }
     ],
     "version": {
