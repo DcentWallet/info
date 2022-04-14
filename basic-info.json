@@ -336,8 +336,8 @@
                 "width": "32px"
             },
             "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2087.png",
-            "name": "KuCoin Token",
-            "symbol": "KCC"
+            "name": "KCC",
+            "symbol": "KSC"
         },
         {
             "imgSize": {
@@ -345,8 +345,8 @@
                 "width": "32px"
             },
             "imgUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-songbird.png",
-            "name": "Songbird Token",
-            "symbol": "SONGBIRD"
+            "name": "SONGBIRD",
+            "symbol": "SGB"
         },
         {
             "imgSize": {
@@ -363,8 +363,8 @@
                 "width": "32px"
             },
             "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5268.png",
-            "name": "Energy Web Token",
-            "symbol": "EWC"
+            "name": "EWC",
+            "symbol": "EWT"
         },
         {
             "imgSize": {
@@ -381,8 +381,8 @@
                 "width": "32px"
             },
             "imgUrl": "https://info-repo.dcentwallet.com/dapp/images/network_boba.png",
-            "name": "Boba ETH",
-            "symbol": "Boba L2"
+            "name": "Boba L2",
+            "symbol": "ETH"
         },
         {
             "imgSize": {
@@ -418,7 +418,7 @@
             },
             "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5326.png",
             "name": "Orbit Chain",
-            "symbol": "Orbit Chain"
+            "symbol": "OORC"
         },
         {
             "imgSize": {
@@ -427,7 +427,7 @@
             },
             "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3945.png",
             "name": "Harmony",
-            "symbol": "Harmony"
+            "symbol": "ONE"
         }
     ],
     "version": {
