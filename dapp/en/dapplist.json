@@ -13,14 +13,14 @@
             "platform": "android"
         },
         {
-            "name": "changenow",
-            "title": "ChangeNOW",
-            "description": "ChangeNOW is a non-custodial service created for simple and fast cryptocurrency exchanges. It is account-free, worry-free, faster than light.",
-            "link": "https://changenow.io/en",
+            "name": "exchange",
+            "title": "Exchange",
+            "description": "A service that allows you to quickly and easily exchange 200+ cryptocurrencies through a network of various exchange service partners.",
+            "link": "https://exchange.dcentwallet.com",
             "kind": [],
             "category": [],
-            "iconPath": "icon_changenow.png",
-            "type": "widget",
+            "iconPath": "icon_exchange.png",
+            "type": "dapp_dcent",
             "externalWindow": false
         },
         {
