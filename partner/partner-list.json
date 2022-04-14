@@ -1,5 +1,10 @@
 [   
     {
+    "name": "simplex",
+    "imageUrl": "../images/simplex.png",
+    "gotoLink": "https://www.simplex.com/"
+    },
+    {
     "name": "harmony",
     "imageUrl": "../images/harmony.png",
     "gotoLink": "https://www.harmony.one/"

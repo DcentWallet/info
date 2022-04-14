@@ -419,6 +419,15 @@
             "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5326.png",
             "name": "Orbit Chain",
             "symbol": "OORC"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3945.png",
+            "name": "Harmony",
+            "symbol": "ONE"
         }
     ],
     "version": {
