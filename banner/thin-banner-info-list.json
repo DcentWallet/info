@@ -1,1 +1,50 @@
-[]
+[
+    {
+        "img": {
+            "ko": {
+                "desktop": {
+                "path": "../images/ko/april_giveaway_ko_pc.jpg",
+                "height": "90px", 
+                "background-color": "#212121" 
+                },
+                "tablet": {
+                "path": "../images/ko/april_giveaway_ko_pc.jpg",
+                "height": "65px",
+                "background-color": "#212121"
+                },
+                "mobile": {
+                "path": "../images/ko/april_giveaway_ko_mo.jpg",
+                "height": "15.64vw",
+                "background-color": "#212121"
+                }
+            },
+            "en": {
+                "desktop": {
+                "path": "../images/en/april_giveaway_en_pc.jpg",
+                "height": "90px", 
+                "background-color": "#212121" 
+                },
+                "tablet": {
+                "path": "../images/en/april_giveaway_en_pc.jpg",
+                "height": "65px",
+                "background-color": "#212121"
+                },
+                "mobile": {
+                "path": "../images/en/april_giveaway_en_mo.jpg",
+                "height": "15.64vw",
+                "background-color": "#212121"
+                }
+            }
+        },
+        "link": {
+            "ko": {
+                "internal": "/events/202204-exchange-promotion?lang=ko&utm_source=dcentwallet&utm_medium=website_banner&utm_campaign=202204-exchange-promotion", 
+                "external": false
+            },
+            "en": {
+                "internal": "/events/202204-exchange-promotion?lang=en&utm_source=dcentwallet&utm_medium=website_banner&utm_campaign=202204-exchange-promotion", 
+                "external": false
+            }
+        }
+    }
+]
