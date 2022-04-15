@@ -34,7 +34,7 @@
                 "ko": "HECO"
             },
             "coinType": "CHAN:128",
-            "preRelease": true
+            "preRelease": false
         },
         {
             "name": {
