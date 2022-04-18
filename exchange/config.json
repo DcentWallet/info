@@ -1,0 +1,12 @@
+{
+  "services": [
+    {
+      "name": "changenow",
+      "available": true
+    },
+    {
+      "name": "changelly",
+      "available": true
+    }
+  ]
+}

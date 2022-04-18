@@ -21,6 +21,7 @@
             "category": [],
             "iconPath": "icon_exchange.png",
             "type": "dapp_dcent",
+            "device": "ble_dongle",
             "externalWindow": false
         },
         {
