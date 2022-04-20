@@ -493,5 +493,15 @@
       "CFX-CRC20"
     ],
     "needExtraId": false
+  },
+  {
+    "network": "one",
+    "protocol": "ONE",
+    "groupName": "HARMONY",
+    "supportCustom": true,
+    "tokenGroup": [
+      "CHAN:1666600000"
+    ],
+    "needExtraId": false
   }
 ]
