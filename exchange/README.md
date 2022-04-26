@@ -21,6 +21,7 @@
 **tokenGroup**: typeAccount가 가진 groupName을 포함해야한다. 그래야 어떤 네트워크인지 알 수 있다.
 **extraName**: 해당 이름으로 changeNow의 ticker를 찾을 수 있다. 예를들어 우리가 가진 bsc 메인넷의 심볼은 bnb이다. changeNow에서는 bnbbsc 이므로 심볼로 비교할 수 없다. 여기서 값을 넣어주면 메인넷 코인으로 취급한다.
 **least**: estimated value 와 balance 를 합쳤을 때 넘어야하는 최소 수량이다. xrp의 경우 20이다.
+**needExtraId**: memo, destination등 활용 여부
 
 ---
 ### changeNow
