@@ -1,23 +1,28 @@
 [
   {
     "product_id": "b15125cd52814be19a3f0edf54c8bc17",
-    "shopify_product_id": "biometric-wallet"
+    "shopify_product_id": "biometric-wallet",
+    "kr_shopify_product_id": "지문인증형-지갑"
   },
   {
     "product_id": "abc0c9c658f74ae4b10fc48495b66d07",
-    "shopify_product_id": "biometric-wallet-2x-package"
+    "shopify_product_id": "biometric-wallet-2x-package",
+    "kr_shopify_product_id": "지문인증형-지갑-2x-패키지"
   },
   {
     "product_id": "54aa5dae021a42d2b2079a4dc1c69cba",
-    "shopify_product_id": "ethereum-card-wallet-backup-card-package"
+    "shopify_product_id": "ethereum-card-wallet-backup-card-package",
+    "kr_shopify_product_id": "이더리움카드지갑-백업카드-패키지"
   },
   {
     "product_id": "d237f83005e54ffd9613abd1091a09c2",
-    "shopify_product_id": "klaytn-card-wallet-backup-card-package"
+    "shopify_product_id": "klaytn-card-wallet-backup-card-package",
+    "kr_shopify_product_id": "클레이튼카드지갑-백업카드-패키지"
   },
   {
     "product_id": "35013f5e171b4b9c9852a2bc97e77592",
-    "shopify_product_id": "backup-card"
+    "shopify_product_id": "backup-card",
+    "kr_shopify_product_id": "백업카드"
   },
   {
     "product_id": "fcea8887cece407a8e433b0964de9d5f",
