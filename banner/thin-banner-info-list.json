@@ -3,36 +3,36 @@
         "img": {
             "ko": {
                 "desktop": {
-                "path": "../images/ko/april_giveaway_ko_pc.jpg",
+                "path": "../images/ko/event_banner_giveaway_pc_kr_0502.png",
                 "height": "90px", 
-                "background-color": "#212121" 
+                "background-color": "#020e37" 
                 },
                 "tablet": {
-                "path": "../images/ko/april_giveaway_ko_pc.jpg",
+                "path": "../images/ko/event_banner_giveaway_pc_kr_0502.png",
                 "height": "65px",
-                "background-color": "#212121"
+                "background-color": "#020e37"
                 },
                 "mobile": {
-                "path": "../images/ko/april_giveaway_ko_mo.jpg",
+                "path": "../images/ko/event_banner_giveaway_mo_kr_0502.png",
                 "height": "15.64vw",
-                "background-color": "#212121"
+                "background-color": "#020e37"
                 }
             },
             "en": {
                 "desktop": {
-                "path": "../images/en/april_giveaway_en_pc.jpg",
+                "path": "../images/en/event_banner_giveaway_pc_en_0502.png",
                 "height": "90px", 
-                "background-color": "#212121" 
+                "background-color": "#020e37" 
                 },
                 "tablet": {
-                "path": "../images/en/april_giveaway_en_mo.jpg",
+                "path": "../images/en/event_banner_giveaway_pc_en_0502.png",
                 "height": "65px",
-                "background-color": "#212121"
+                "background-color": "#020e37"
                 },
                 "mobile": {
-                "path": "../images/en/april_giveaway_en_mo.jpg",
+                "path": "../images/en/event_banner_giveaway_mo_en_0502.png",
                 "height": "15.64vw",
-                "background-color": "#212121"
+                "background-color": "#020e37"
                 }
             }
         },
