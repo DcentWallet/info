@@ -1,5 +1,10 @@
 [
     {
+    "name": "scharf",
+    "imageUrl": "../images_en/scharf.png",
+    "gotoLink": "https://ecarts.co/electronics-united/smart-home-security-wifi/dcent-biometric-wallet-cryptocurrency-hardware-wallet-bluetooth-supporting-bitcoin-ethereum-and-more/"
+    },
+    {
     "name": "cryptherion",
     "imageUrl": "../images_en/cryptherion.png",
     "gotoLink": "http://www.cryptherion.io"
