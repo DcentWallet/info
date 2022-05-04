@@ -428,6 +428,15 @@
             "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3945.png",
             "name": "Harmony",
             "symbol": "ONE"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-OPC.png",
+            "name": "OpenCoin",
+            "symbol": "OPC"
         }
     ],
     "version": {
