@@ -173,6 +173,15 @@
                     "iconPath": "network_ava.png"
                 },
                 {
+                    "networkId": "Cronos",
+                    "name": "cronos",
+                    "description": "Cronos Chain",
+                    "coinType": "CHAN:25",
+                    "chainId": 25,
+                    "iconPath": "network_cronos.png",
+                    "preRelease": true
+                },
+                {
                     "networkId": "ewc-mainnet",
                     "name": "ewc",
                     "description": "Energy Web Chain",
@@ -247,15 +256,6 @@
                     "chainId": 2017,
                     "iconPath": "network_orbit.png",
                     "testnet": true
-                },
-                {
-                    "networkId": "Cronos",
-                    "name": "cronos",
-                    "description": "Cronos Chain",
-                    "coinType": "CHAN:25",
-                    "chainId": 25,
-                    "iconPath": "network_cronos.png",
-                    "preRelease": true
                 }
             ]
         },
