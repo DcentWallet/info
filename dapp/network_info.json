@@ -178,8 +178,7 @@
                     "description": "Cronos Chain",
                     "coinType": "CHAN:25",
                     "chainId": 25,
-                    "iconPath": "network_cronos.png",
-                    "preRelease": true
+                    "iconPath": "network_cronos.png"
                 },
                 {
                     "networkId": "ewc-mainnet",
