@@ -279,7 +279,7 @@
   },
   {
     "network": "matic",
-    "protocol": "",
+    "protocol": "MATIC",
     "groupName": "POLYGON",
     "supportCustom": true,
     "tokenGroup": [
@@ -501,6 +501,26 @@
     "supportCustom": true,
     "tokenGroup": [
       "CHAN:1666600000"
+    ],
+    "needExtraId": false
+  },
+  {
+    "network": "",
+    "protocol": "",
+    "groupName": "OPENCOIN",
+    "supportCustom": true,
+    "tokenGroup": [
+      "CHAN:474142"
+    ],
+    "needExtraId": false
+  },
+  {
+    "network": "",
+    "protocol": "",
+    "groupName": "CRONOS",
+    "supportCustom": true,
+    "tokenGroup": [
+      "CHAN:25"
     ],
     "needExtraId": false
   }

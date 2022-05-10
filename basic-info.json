@@ -437,6 +437,15 @@
             "imgUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-OPC.png",
             "name": "OpenCoin",
             "symbol": "OPC"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://info-repo.dcentwallet.com/dapp/images/network_cronos.png",
+            "name": "Cronos",
+            "symbol": "CRO"
         }
     ],
     "version": {
