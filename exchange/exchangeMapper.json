@@ -287,7 +287,10 @@
       "POLYGON-ERC20"
     ],
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3890.png",
-    "needExtraId": false
+    "needExtraId": false,
+    "extraName": [
+      "maticpolygon"
+    ]
   },
   {
     "network": "",
