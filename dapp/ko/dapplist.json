@@ -4,13 +4,13 @@
             "name": "buysell",
             "title": "암호화폐 구매",
             "description": "다양한 파트너로 구성된 네트워크를 통해 100개 이상의 암호화폐를 간편하고 안전하게 구매 할 수 있는 서비스입니다." ,
+            "iOS_description" :"Apple Pay를 통해 쉽고 간편하게 암호화폐를 구매할 수 있는 서비스 입니다.",
             "link": "",
             "kind": [],
             "category": [],
             "iconPath": "icon_buy.png",
             "testnet": false,
-            "externalWindow": false,
-            "platform": "android"
+            "externalWindow": false
         },
         {
             "name": "exchange",
@@ -23,18 +23,6 @@
             "type": "dapp_dcent",
             "device": "ble_dongle",
             "externalWindow": false
-        },
-        {
-            "name": "moonpay",
-            "title": "MoonPay",
-            "description": "MoonPay는 비자나 마스터카드로 암호화폐를 간단하고 안전하게 구매할 수 있는 서비스입니다",
-            "link": "https://buy.moonpay.com?language=ko",
-            "kind": [],
-            "category": [],
-            "iconPath": "icon_moonpay.png",
-            "testnet": false,
-            "externalWindow": false,
-            "platform": "iOS"
         },
         {
             "name": "ftso",
