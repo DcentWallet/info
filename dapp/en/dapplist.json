@@ -11,7 +11,7 @@
             "iconPath": "icon_buy.png",
             "testnet": false,
             "externalWindow": false,
-            "platform": "android"
+            "platform": "android" 
         },
         {
             "name": "exchange",
