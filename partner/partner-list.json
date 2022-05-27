@@ -1,5 +1,10 @@
 [   
     {
+    "name": "kansong",
+    "imageUrl": "../images/kansong.png",
+    "gotoLink": "https://kansong.io/"
+    },
+    {
     "name": "simplex",
     "imageUrl": "../images/simplex.png",
     "gotoLink": "https://www.simplex.com/"
