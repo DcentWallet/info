@@ -528,6 +528,17 @@
     }
   },
   {
+    "iconUrl": "https://info-repo.dcentwallet.com/dapp/images/network_palm.jpg",
+    "name": "Palm",
+    "symbol": "PALM",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://github.com/DcentWallet/info/raw/master/images/coins/original/asset-bptc.png",
     "symbol": "BPTC",
     "name": "Business Platform Tomato Coin",
@@ -21609,6 +21620,84 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/15283.png",
+    "symbol": "ARV",
+    "name": "Artemis Vision",
+    "type": "ERC20",
+    "contract": "0x28fda76721a8077a5de802ab0212849b8c38429e",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/19722.png",
+    "symbol": "BREED",
+    "name": "BreederDAO",
+    "type": "ERC20",
+    "contract": "0x94e9eb8b5ab9fd6b9ea3169d55ffade62a01702e",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8826.png",
+    "symbol": "MCO2",
+    "name": "Moss Carbon Credit",
+    "type": "ERC20",
+    "contract": "0xfc98e825a2264d890f9a1e68ed50e1526abccacd",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6249.png",
+    "symbol": "ZIK",
+    "name": "Ziktalk",
+    "type": "ERC20",
+    "contract": "0x88303fed02b31db9c7a9eafb711da9ef4a03e5d3",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8495.png",
+    "symbol": "ID",
+    "name": "Everest",
+    "type": "ERC20",
+    "contract": "0xebd9d99a3982d547c5bb4db7e3b1f9f14b67eb83",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/10090.png",
+    "symbol": "FWB",
+    "name": "Friends With Benefits Pro",
+    "type": "ERC20",
+    "contract": "0x35bd01fc9d6d5d81ca9e055db88dc49aa2c699a8",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/logo_doc.svg",
     "symbol": "DOC",
     "name": "Dollar on Chain",
@@ -21950,11 +22039,24 @@
     "symbol": "RPR",
     "name": "The Reaper",
     "type": "TrustLine",
-    "contract": "18.r3qWgpz2ry3BhcRJ8JE6rxM8esrfhuKp4R.MLD.101000000",
+    "contract": "18.r3qWgpz2ry3BhcRJ8JE6rxM8esrfhuKp4R.RPR.101000000",
     "support": {
       "biometric": true,
       "ethCard": false,
       "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-box.png",
+    "symbol": "BOX",
+    "name": "BOX",
+    "type": "KCT",
+    "contract": "0x656f86dd0f3bc25af2d15855f2a2f142f9eaed87",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": true,
       "software": true
     }
   },
@@ -22076,19 +22178,6 @@
     }
   },
   {
-    "symbol": "BOX",
-    "name": "BOX",
-    "type": "KCT",
-    "contract": "0x5288f80F4145035866aC4cB45a4D8DEa889ec827",
-    "support": {
-      "biometric": true,
-      "ethCard": false,
-      "klayCard": true,
-      "software": true
-    },
-    "klaytn_verify": true
-  },
-  {
     "symbol": "BNS",
     "name": "Beans",
     "type": "KCT",
@@ -22098,8 +22187,7 @@
       "ethCard": false,
       "klayCard": true,
       "software": true
-    },
-    "klaytn_verify": true
+    }
   },
   {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3466.png",
@@ -22112,8 +22200,7 @@
       "ethCard": false,
       "klayCard": true,
       "software": true
-    },
-    "klaytn_verify": true
+    }
   },
   {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3722.png",
@@ -22126,8 +22213,7 @@
       "ethCard": false,
       "klayCard": true,
       "software": true
-    },
-    "klaytn_verify": true
+    }
   },
   {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3768.png",
@@ -22140,8 +22226,7 @@
       "ethCard": false,
       "klayCard": true,
       "software": true
-    },
-    "klaytn_verify": true
+    }
   },
   {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4091.png",
@@ -22154,8 +22239,7 @@
       "ethCard": false,
       "klayCard": true,
       "software": true
-    },
-    "klaytn_verify": true
+    }
   },
   {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4254.png",
@@ -22168,8 +22252,7 @@
       "ethCard": false,
       "klayCard": true,
       "software": true
-    },
-    "klaytn_verify": true
+    }
   },
   {
     "symbol": "ATT",
@@ -22181,8 +22264,7 @@
       "ethCard": false,
       "klayCard": true,
       "software": true
-    },
-    "klaytn_verify": true
+    }
   },
   {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3712.png",
@@ -22195,8 +22277,7 @@
       "ethCard": false,
       "klayCard": true,
       "software": true
-    },
-    "klaytn_verify": true
+    }
   },
   {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3789.png",
@@ -22209,8 +22290,7 @@
       "ethCard": false,
       "klayCard": true,
       "software": true
-    },
-    "klaytn_verify": true
+    }
   },
   {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3327.png",
@@ -22223,8 +22303,7 @@
       "ethCard": false,
       "klayCard": true,
       "software": true
-    },
-    "klaytn_verify": true
+    }
   },
   {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2955.png",
@@ -22787,6 +22866,19 @@
     "name": "Monstock",
     "type": "KCT",
     "contract": "0x648fd38efefb4f97cf2df3ff93eff70e94da0691",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": true,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/18895.png",
+    "symbol": "MBX",
+    "name": "MARBLEX",
+    "type": "KCT",
+    "contract": "0xd068c52d81f4409b9502da926ace3301cc41f623",
     "support": {
       "biometric": true,
       "ethCard": false,
@@ -32885,6 +32977,71 @@
     "name": "Synapse",
     "type": "BEP20",
     "contract": "0xa4080f1778e69467e905b8d6f72f6e441f9e9484",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/15283.png",
+    "symbol": "ARV",
+    "name": "Artemis Vision",
+    "type": "BEP20",
+    "contract": "0x7f295cbaae4ee39e723e1a4bdeb0ce7a381e56a9",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2348.png",
+    "symbol": "MDT",
+    "name": "Measurable Data Token",
+    "type": "BEP20",
+    "contract": "0x668db7aa38eac6b40c9d13dbe61361dc4c4611d1",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/13243.png",
+    "symbol": "FOXGIRL",
+    "name": "FoxGirl",
+    "type": "BEP20",
+    "contract": "0x599beec263fa6ea35055011967597b259fc012a4",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/9176.png",
+    "symbol": "RVF",
+    "name": "RocketX exchange",
+    "type": "BEP20",
+    "contract": "0x872a34ebb2d54af86827810eebc7b9dc6b2144aa",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/19979.png",
+    "symbol": "YUSE",
+    "name": "Yuse",
+    "type": "BEP20",
+    "contract": "0x8526ff6bbd8a976127443b1ce451ca1044aa3ce2",
     "support": {
       "biometric": true,
       "ethCard": false,
