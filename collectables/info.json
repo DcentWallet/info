@@ -39,7 +39,7 @@
         {
             "name": {
                 "en": "XinFinNetwork",
-                "ko": "신핀네트워크"
+                "ko": "XDC네트워크"
             },
             "coinType": "XINFIN",
             "preRelease": true
@@ -71,7 +71,7 @@
         {
             "name": {
                 "en": "XinFinNetwork-Apothem",
-                "ko": "신핀네트워크-Apothem"
+                "ko": "XDC네트워크-Apothem"
             },
             "coinType": "XDC-APOTHEM",
             "testnet": true,
