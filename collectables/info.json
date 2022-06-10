@@ -38,8 +38,8 @@
         },
         {
             "name": {
-                "en": "XinFinNetwork",
-                "ko": "XDC네트워크"
+                "en": "XDC-Network",
+                "ko": "XDC-네트워크"
             },
             "coinType": "XINFIN",
             "preRelease": true
@@ -70,8 +70,8 @@
         },
         {
             "name": {
-                "en": "XinFinNetwork-Apothem",
-                "ko": "XDC네트워크-Apothem"
+                "en": "XDC-Network-Apothem",
+                "ko": "XDC-Network-Apothem"
             },
             "coinType": "XDC-APOTHEM",
             "testnet": true,
