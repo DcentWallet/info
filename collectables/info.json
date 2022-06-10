@@ -38,6 +38,14 @@
         },
         {
             "name": {
+                "en": "XDC-Network",
+                "ko": "XDC-네트워크"
+            },
+            "coinType": "XINFIN",
+            "preRelease": true
+        },
+        {
+            "name": {
                 "en": "Ethereum-Rinkeby",
                 "ko": "이더리움-Rinkeby"
             },
@@ -59,6 +67,15 @@
             },
             "coinType": "POLYGON-TESTNET",
             "testnet": true
+        },
+        {
+            "name": {
+                "en": "XDC-Network-Apothem",
+                "ko": "XDC-Network-Apothem"
+            },
+            "coinType": "XDC-APOTHEM",
+            "testnet": true,
+            "preRelease": true
         }
     ]
 }
