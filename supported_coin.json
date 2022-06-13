@@ -21698,6 +21698,71 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4172.png",
+    "symbol": "LUNC",
+    "name": "Terra Classic (Wormhole)",
+    "type": "ERC20",
+    "contract": "0xbd31ea8212119f94a611fa969881cba3ea06fa3d",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/12416.png",
+    "symbol": "PLSPAD",
+    "name": "PulsePad",
+    "type": "ERC20",
+    "contract": "0x8a74bc8c372bc7f0e9ca3f6ac0df51be15aec47a",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/12140.png",
+    "symbol": "RMRK",
+    "name": "RMRK",
+    "type": "ERC20",
+    "contract": "0x471ea49dd8e60e697f4cac262b5fafcc307506e4",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/20513.png",
+    "symbol": "SAITAMA",
+    "name": "Saitama V2",
+    "type": "ERC20",
+    "contract": "0xce3f08e664693ca792cace4af1364d5e220827b2",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4901.png",
+    "symbol": "ANCT",
+    "name": "Anchor",
+    "type": "ERC20",
+    "contract": "0x5456bc77dd275c45c3c15f0cf936b763cf57c3b5",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/logo_doc.svg",
     "symbol": "DOC",
     "name": "Dollar on Chain",
@@ -33050,6 +33115,84 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/9763.png",
+    "symbol": "COP",
+    "name": "Copiosa",
+    "type": "BEP20",
+    "contract": "0x8789337a176e6e7223ff115f1cd85c993d42c25c",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4172.png",
+    "symbol": "LUNC",
+    "name": "Terra Classic (Wormhole)",
+    "type": "BEP20",
+    "contract": "0x156ab3346823b651294766e23e6cf87254d68962",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/11240.png",
+    "symbol": "HI",
+    "name": "HI",
+    "type": "BEP20",
+    "contract": "0x77087ab5df23cfb52449a188e80e9096201c2097",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/15563.png",
+    "symbol": "COPI",
+    "name": "Cornucopias",
+    "type": "BEP20",
+    "contract": "0xfea292e5ea4510881bdb840e3cec63abd43f936f",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2982.png",
+    "symbol": "MVL",
+    "name": "MVL",
+    "type": "BEP20",
+    "contract": "0xa849eaae994fb86afa73382e9bd88c2b6b18dc71",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/9089.png",
+    "symbol": "10SET",
+    "name": "Tenset",
+    "type": "BEP20",
+    "contract": "0x1ae369a6ab222aff166325b7b87eb9af06c86e57",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-skp.png",
     "symbol": "SKP",
     "name": "SKY PLAY",
@@ -34598,6 +34741,19 @@
     "name": "Wonderful Memories",
     "contract": "0xddc0385169797937066bbd8ef409b5b3c0dfeb52",
     "symbol": "WMEMO",
+    "type": "FTM-ERC20",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/15399.png",
+    "name": "Supernova Token",
+    "contract": "0x69d17c151ef62421ec338a0c92ca1c1202a427ec",
+    "symbol": "SNT",
     "type": "FTM-ERC20",
     "support": {
       "biometric": true,
