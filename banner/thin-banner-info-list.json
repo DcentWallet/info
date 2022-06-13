@@ -8,7 +8,7 @@
             "background-color": "#eeeeee" 
           },
           "tablet": {
-            "path": "../images/ko/marketing_event_banner_ko_mo.png",
+            "path": "../images/ko/marketing_event_banner_ko_pc.png",
             "height": "65px",
             "background-color": "#eeeeee"
           },
