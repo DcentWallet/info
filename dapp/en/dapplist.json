@@ -26,6 +26,24 @@
             "externalWindow": false
         },
         {
+            "name": "qr_based_metamask",
+            "title": "Metamask Integration",
+            "description": "EVM compatible addresses in the D'CENT Wallet can be connected with the Metamask.",
+            "link": "https://qr-based.dcentwallet.com",
+            "kind": ["eth"],
+            "network": [ 
+                {
+                "id": "ethereum-mainnet",
+                "name": "Ethereum"
+                } 
+            ],
+            "category": [],
+            "iconPath": "icon_qr_based_metamaks.png",
+            "type": "dapp_dcent",
+            "device": "ble_dongle",
+            "externalWindow": false
+        },
+        {
             "name": "moonpay",
             "title": "MoonPay",
             "description": "MoonPay offers simple and safer way to buy crypto instantly using VISA/Mastercard payment",
