@@ -330,17 +330,6 @@
     }
   },
   {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6636.png",
-    "symbol": "DOT",
-    "name": "Polkadot",
-    "support": {
-      "biometric": false,
-      "ethCard": false,
-      "klayCard": false,
-      "software": false
-    }
-  },
-  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7334.png",
     "symbol": "CFX",
     "name": "Conflux",
