@@ -42,7 +42,7 @@
                 "ko": "XDC-네트워크"
             },
             "coinType": "XINFIN",
-            "preRelease": true
+            "preRelease": false
         },
         {
             "name": {
@@ -75,7 +75,7 @@
             },
             "coinType": "XDC-APOTHEM",
             "testnet": true,
-            "preRelease": true
+            "preRelease": false
         }
     ]
 }
