@@ -52,7 +52,8 @@
         "fee_coin_group": "CHAN:42161",
         "group": "CH20"
       },
-      "explorer": "https://ftmscan.com/tx/"
+      "explorer": "https://ftmscan.com/tx/",
+      "pre": true
     }
   ]
 }
