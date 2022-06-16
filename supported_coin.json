@@ -330,6 +330,17 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6636.png",
+    "symbol": "DOT",
+    "name": "Polkadot",
+    "support": {
+      "biometric": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": false
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7334.png",
     "symbol": "CFX",
     "name": "Conflux",
@@ -25207,6 +25218,201 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/14112.png",
+    "symbol": "AQUA",
+    "name": "Aquarius",
+    "type": "STELLAR-TA",
+    "contract": "0.GBNZILSTVQZ4R7IKQDGHYGY2QXL5QOFJYQMXPKWRRM5PAV7Y4M67AQUA.AQUA.99994418409",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/512.png",
+    "symbol": "yXLM",
+    "name": "Stellar",
+    "type": "STELLAR-TA",
+    "contract": "1.GARDNV3Q7YGT4AKSDF25LT32YSCCW4EV22Y2TV3I2PU2MMXJTEDL5T55.yXLM.183160321",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3408.png",
+    "symbol": "USDC",
+    "name": "USD Coin",
+    "type": "STELLAR-TA",
+    "contract": "2.GA5ZSEJYB37JRC5AVCIA5MOP4RHTM335X2KGX3IHOJAPP5RE34K4KZVN.USDC.178780167",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3408.png",
+    "symbol": "yUSDC",
+    "name": "USD Coin",
+    "type": "STELLAR-TA",
+    "contract": "3.GDGTVWSM4MGS4T7Z6W4RPWOCHE2I6RDFCIFZGS3DOA63LWQTRNZNTTFF.yUSDC.3620473",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2876.png",
+    "symbol": "TERN",
+    "name": "Ternio",
+    "type": "STELLAR-TA",
+    "contract": "4.GDGQDVO6XPFSY4NMX75A7AOVYCF5JYGW2SHCJJNWCQWIDGOZB53DGP6C.TERN.899896142",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5474.png",
+    "symbol": "XXA",
+    "name": "Ixinium",
+    "type": "STELLAR-TA",
+    "contract": "5.GC4HS4CQCZULIOTGLLPGRAAMSBDLFRR6Y7HCUQG66LNQDISXKIXXADIM.XXA.404233621",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2429.png",
+    "symbol": "MOBI",
+    "name": "Mobius",
+    "type": "STELLAR-TA",
+    "contract": "6.GA6HCMBLTZS5VYYBCATRBRZ3BZJMAFUDKYYF6AH6MVCMGWMRDNSWJPIH.MOBI.887796476",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2471.png",
+    "symbol": "SLT",
+    "name": "Smartlands Network",
+    "type": "STELLAR-TA",
+    "contract": "7.GCKA6K5PCQ6PNF5RQBF7PQDJWRHO6UOGFMRLK3DYHDOI244V47XKQ4GP.SLT.7182418",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/52.png",
+    "symbol": "XRP",
+    "name": "XRP",
+    "type": "STELLAR-TA",
+    "contract": "8.GBXRPL45NPHCVMFFAYZVUVFFVKSIZ362ZXFP7I2ETNQ3QKZMFLPRDTD5.XRP.22497985",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3803.png",
+    "symbol": "DRA",
+    "name": "Diruna",
+    "type": "STELLAR-TA",
+    "contract": "9.GCJKSAQECBGSLPQWAU7ME4LVQVZ6IDCNUA5NVTPPCUWZWBN5UBFMXZ53.DRA.29776159322",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/825.png",
+    "symbol": "USDT",
+    "name": "Tether",
+    "type": "STELLAR-TA",
+    "contract": "10.GCQTGZQQ5G4PTM2GL7CDIFKUBIPEC52BROAQIAPW53XBRJVN6ZJVTG6V.USDT.3698049",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/9872.png",
+    "symbol": "TFC",
+    "name": "TheFutbolCoin",
+    "type": "STELLAR-TA",
+    "contract": "11.GDS3XDJAA4VY6MJYASIGSIMPHZ7AQNZ54RKLWT7MWCOU5YKYEVCNLVS3.TFC.1499999949",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3914.png",
+    "symbol": "GTN",
+    "name": "GlitzKoin",
+    "type": "STELLAR-TA",
+    "contract": "12.GARFMAHQM4JDI55SK2FGEPLOZU7BTEODS3Y5QNT3VMQQIU3WV2HTBA46.GTN.998999328",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3661.png",
+    "symbol": "SHX",
+    "name": "Stronghold Token",
+    "type": "STELLAR-TA",
+    "contract": "13.GDSTRSHXHGJ7ZIVRBXEYE5Q74XUVCUSEKEBR7UCHEUUEK72N7I7KJ6JH.SHX.99756857812",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5392.png",
+    "symbol": "SCOP",
+    "name": "Scopuly Token",
+    "type": "STELLAR-TA",
+    "contract": "14.GC6OYQJIZF3HFXCYPFCBXYXNGIBQ4TNSFUBUXQJOZWIP6F3YZK4QH3VQ.SCOP.9999999640",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://coin.top/production/logo/TNjt5fShPVJ4YpsLuU4THuBbg58g2bZoLk.png",
     "symbol": "HORA",
     "name": "HORA Token",
@@ -33160,7 +33366,7 @@
     "symbol": "MVL",
     "name": "MVL",
     "type": "BEP20",
-    "contract": "0x5f588EfAf8eB57e3837486e834fC5a4E07768D98",
+    "contract": "0x5f588efaf8eb57e3837486e834fc5a4e07768d98",
     "support": {
       "biometric": true,
       "ethCard": false,
