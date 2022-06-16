@@ -1,0 +1,58 @@
+{
+  "networks": [
+    {
+      "name": "Polygon",
+      "networkId": "polygon-mainnet",
+      "type": "ethereum",
+      "available": {
+        "1inch": true
+      },
+      "tokenGroup": {
+        "fee_coin_group": "POLYGON",
+        "group": "POLYGON-ERC20"
+      },
+      "explorer": "https://polygonscan.com/tx/"
+    },
+    {
+      "name": "Arbitrum",
+      "networkId": "arbitrum-mainnet",
+      "type": "ethereum",
+      "available": {
+        "1inch": true
+      },
+      "tokenGroup": {
+        "erc20Name": "FTM-ERC20",
+        "fee_coin_group": "CHAN:250",
+        "group": "CH20"
+      },
+      "explorer": "https://arbiscan.io/tx/"
+    },
+    {
+      "name": "BSC",
+      "networkId": "bsc-mainnet",
+      "type": "ethereum",
+      "available": {
+        "1inch": true
+      },
+      "tokenGroup": {
+        "fee_coin_group": "BSC",
+        "group": "BEP20"
+      },
+      "explorer": "https://bscscan.com/tx/"
+    },
+    {
+      "name": "Fantom",
+      "networkId": "ftm-mainnet",
+      "type": "ethereum",
+      "available": {
+        "1inch": true
+      },
+      "tokenGroup": {
+        "erc20Name": "ARBITRUM-ERC20",
+        "fee_coin_group": "CHAN:42161",
+        "group": "CH20"
+      },
+      "explorer": "https://ftmscan.com/tx/"
+    }
+  ]
+}

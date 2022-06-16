@@ -1,0 +1,30 @@
+{
+  "networks": [
+    {
+      "name": "Polygon",
+      "networkId": "polygon-mainnet",
+      "type": "ethereum",
+      "available": {
+        "1inch": true
+      },
+      "tokenGroup": {
+        "fee_coin_group": "POLYGON",
+        "group": "POLYGON-ERC20"
+      },
+      "explorer": "https://polygonscan.com/tx/"
+    },
+    {
+      "name": "BSC",
+      "networkId": "bsc-mainnet",
+      "type": "ethereum",
+      "available": {
+        "1inch": true
+      },
+      "tokenGroup": {
+        "fee_coin_group": "BSC",
+        "group": "BEP20"
+      },
+      "explorer": "https://bscscan.com/tx/"
+    }
+  ]
+}
