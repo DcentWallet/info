@@ -1,5 +1,10 @@
 [
     {
+    "name": "superiorhomessupplies",
+    "imageUrl": "../images_en/superiorhomessupplies.jpg",
+    "gotoLink": "https://www.superiorhomessupplies.com/"
+    },
+    {
     "name": "aplustrend",
     "imageUrl": "../images_en/aplustrend.jpg",
     "gotoLink": "https://aplustrend.com/"
