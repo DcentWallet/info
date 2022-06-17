@@ -1,5 +1,10 @@
 [
     {
+    "name": "aplustrend",
+    "imageUrl": "../images_en/aplustrend.jpg",
+    "gotoLink": "https://aplustrend.com/"
+    },
+    {
     "name": "futuretechs",
     "imageUrl": "../images_en/futuretechs.png",
     "gotoLink": "https://futuretechs.ca/products/dcent-biometric-wallet"
