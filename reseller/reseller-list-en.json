@@ -1,5 +1,10 @@
 [
     {
+    "name": "samsretailers",
+    "imageUrl": "../images_en/samsretailers.jpg",
+    "gotoLink": "https://samsretailers.com/"
+    },
+    {
     "name": "superiorhomessupplies",
     "imageUrl": "../images_en/superiorhomessupplies.jpg",
     "gotoLink": "https://www.superiorhomessupplies.com/"
