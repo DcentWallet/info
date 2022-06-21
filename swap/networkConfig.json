@@ -21,8 +21,8 @@
         "1inch": true
       },
       "tokenGroup": {
-        "erc20Name": "FTM-ERC20",
-        "fee_coin_group": "CHAN:250",
+        "erc20Name": "ARBITRUM-ERC20",
+        "fee_coin_group": "CHAN:42161",
         "group": "CH20"
       },
       "explorer": "https://arbiscan.io/tx/"
@@ -48,8 +48,8 @@
         "1inch": true
       },
       "tokenGroup": {
-        "erc20Name": "ARBITRUM-ERC20",
-        "fee_coin_group": "CHAN:42161",
+        "erc20Name": "FTM-ERC20",
+        "fee_coin_group": "CHAN:250",
         "group": "CH20"
       },
       "explorer": "https://ftmscan.com/tx/",
