@@ -1,2 +1,30 @@
-[]
+[
+    {
+      "img": {
+        "ko": {
+          "desktop": {
+            "path": "../images/ko/career_banner_pc.png",
+            "height": "90px", 
+            "background-color": "#202020" 
+          },
+          "tablet": {
+            "path": "../images/ko/career_banner_pc.png",
+            "height": "65px",
+            "background-color": "#202020"
+          },
+          "mobile": {
+            "path": "../images/ko/career_banner_mo.png",
+            "height": "15.64vw",
+            "background-color": "#202020"
+          }
+        }
+      },
+      "link": {
+        "ko": {
+          "internal": false,
+          "external": "https://career.dcentwallet.com"
+        }
+      }
+    }
+  ]
   
