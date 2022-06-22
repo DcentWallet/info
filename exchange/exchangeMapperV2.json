@@ -8,7 +8,8 @@
       "BITCOIN"
     ],
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/1.png",
-    "legacyTicker": "btc"
+    "legacyTicker": "btc",
+    "changellyTicker": "btc"
   },
   {
     "network": "eth",
@@ -23,7 +24,8 @@
       "ETHEREUM"
     ],
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/1027.png",
-    "legacyTicker": "eth"
+    "legacyTicker": "eth",
+    "changellyTicker": "eth"
   },
   {
     "network": "",
@@ -56,7 +58,8 @@
     ],
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/52.png",
     "least": 22,
-    "legacyTicker": "xrp"
+    "legacyTicker": "xrp",
+    "changellyTicker": "xrp"
   },
   {
     "network": "",
@@ -88,7 +91,8 @@
       "BITCOINCASH"
     ],
     "iconUrl": "https://github.com/DcentWallet/info/raw/master/images/coins/original/12-bitcoin-cash-square-crop-small.png",
-    "legacyTicker": "bch"
+    "legacyTicker": "bch",
+    "changellyTicker": "bch"
   },
   {
     "network": "ltc",
@@ -99,7 +103,8 @@
       "LITECOIN"
     ],
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2.png",
-    "legacyTicker": "ltc"
+    "legacyTicker": "ltc",
+    "changellyTicker": "ltc"
   },
   {
     "network": "btg",
@@ -110,7 +115,8 @@
       "BITCOIN-GOLD"
     ],
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2083.png",
-    "legacyTicker": "btg"
+    "legacyTicker": "btg",
+    "changellyTicker": "btg"
   },
   {
     "network": "zec",
@@ -121,7 +127,8 @@
       "ZCASH"
     ],
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/1437.png",
-    "legacyTicker": "zec"
+    "legacyTicker": "zec",
+    "changellyTicker": "zec"
   },
   {
     "network": "dash",
@@ -132,7 +139,8 @@
       "DASH"
     ],
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/131.png",
-    "legacyTicker": "dash"
+    "legacyTicker": "dash",
+    "changellyTicker": "dash"
   },
   {
     "network": "dgb",
@@ -143,7 +151,8 @@
       "DIGIBYTE"
     ],
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/109.png",
-    "legacyTicker": "dgb"
+    "legacyTicker": "dgb",
+    "changellyTicker": "dgb"
   },
   {
     "network": "rvn",
@@ -154,7 +163,8 @@
       "RAVENCOIN"
     ],
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2577.png",
-    "legacyTicker": "rvn"
+    "legacyTicker": "rvn",
+    "changellyTicker": "rvn"
   },
   {
     "network": "bnb",
@@ -166,7 +176,8 @@
       "BEP2"
     ],
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/1839.png",
-    "legacyTicker": "bnbmainnet"
+    "legacyTicker": "bnbmainnet",
+    "changellyTicker": "bnb"
   },
   {
     "network": "xlm",
@@ -177,7 +188,8 @@
       "STELLAR"
     ],
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/512.png",
-    "legacyTicker": "xlm"
+    "legacyTicker": "xlm",
+    "changellyTicker": "xlm"
   },
   {
     "network": "etc",
@@ -188,7 +200,8 @@
       "ETH-CLASSIC"
     ],
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/1321.png",
-    "legacyTicker": "etc"
+    "legacyTicker": "etc",
+    "changellyTicker": "etc"
   },
   {
     "network": "trx",
@@ -203,7 +216,8 @@
       "TRC-TOKEN"
     ],
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/1958.png",
-    "legacyTicker": "trx"
+    "legacyTicker": "trx",
+    "changellyTicker": "trx"
   },
   {
     "network": "bsv",
@@ -214,7 +228,8 @@
       "BITCOIN-SV"
     ],
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3602.png",
-    "legacyTicker": "bsv"
+    "legacyTicker": "bsv",
+    "changellyTicker": "bsv"
   },
   {
     "network": "doge",
@@ -225,7 +240,8 @@
       "DOGECOIN"
     ],
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/74.png",
-    "legacyTicker": "doge"
+    "legacyTicker": "doge",
+    "changellyTicker": "doge"
   },
   {
     "network": "",
@@ -245,7 +261,8 @@
       "XINFIN",
       "XRC20"
     ],
-    "legacyTicker": "xdc"
+    "legacyTicker": "xdc",
+    "changellyTicker": "xdc"
   },
   {
     "network": "bsc",
@@ -257,7 +274,8 @@
       "BEP20"
     ],
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/binance-logo.png",
-    "legacyTicker": "bnbbsc"
+    "legacyTicker": "bnbbsc",
+    "changellyTicker": "bnbbsc"
   },
   {
     "network": "ada",
@@ -268,7 +286,8 @@
       "CARDANO"
     ],
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2010.png",
-    "legacyTicker": "ada"
+    "legacyTicker": "ada",
+    "changellyTicker": "ada"
   },
   {
     "network": "matic",
@@ -280,7 +299,8 @@
       "POLYGON-ERC20"
     ],
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3890.png",
-    "legacyTicker": "maticmainnet"
+    "legacyTicker": "maticmainnet",
+    "changellyTicker": "maticpolygon"
   },
   {
     "network": "",
@@ -312,7 +332,8 @@
       "CH20:250"
     ],
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3513.png",
-    "legacyTicker": "ftmmainnet"
+    "legacyTicker": "ftmmainnet",
+    "changellyTicker": "ftmmainnet"
   },
   {
     "network": "celo",
@@ -324,7 +345,8 @@
       "CH20:42220"
     ],
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5567.png",
-    "legacyTicker": "celo"
+    "legacyTicker": "celo",
+    "changellyTicker": "celo"
   },
   {
     "network": "",
@@ -356,7 +378,8 @@
       "CH20:43114"
     ],
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5805.png",
-    "legacyTicker": "avaxc"
+    "legacyTicker": "avaxc",
+    "changellyTicker": "avaxc"
   },
   {
     "network": "",
@@ -418,7 +441,8 @@
       "HEDERA-HTS"
     ],
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4642.png",
-    "legacyTicker": "hbar"
+    "legacyTicker": "hbar",
+    "changellyTicker": "hbar"
   },
   {
     "network": "zen",
@@ -429,7 +453,8 @@
       "HORIZEN"
     ],
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/1698.png",
-    "legacyTicker": "zen"
+    "legacyTicker": "zen",
+    "changellyTicker": "zen"
   },
   {
     "network": "",
@@ -460,7 +485,8 @@
       "SPL-TOKEN"
     ],
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5426.png",
-    "legacyTicker": "sol"
+    "legacyTicker": "sol",
+    "changellyTicker": "sol"
   },
   {
     "network": "",
@@ -480,7 +506,8 @@
     "tokenGroup": [
       "CHAN:1666600000"
     ],
-    "legacyTicker": "one"
+    "legacyTicker": "one",
+    "changellyTicker": "one"
   },
   {
     "network": "",
