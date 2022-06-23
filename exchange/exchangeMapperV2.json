@@ -504,6 +504,7 @@
     "groupName": "HARMONY",
     "supportCustom": true,
     "tokenGroup": [
+      "HARMONY",
       "CHAN:1666600000"
     ],
     "legacyTicker": "one",
