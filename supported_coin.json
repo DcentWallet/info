@@ -10189,7 +10189,7 @@
     "symbol": "WPP",
     "name": "WPP TOKEN",
     "type": "ERC20",
-    "contract": "0x056dd20b01799e9c1952c7c9a5ff4409a6110085",
+    "contract": "0x1955d744f9435522be508d1ba60e3c12d0690b6a",
     "support": {
       "biometric": true,
       "ethCard": true,
@@ -19271,7 +19271,7 @@
     "symbol": "LUFFY",
     "name": "LUFFY",
     "type": "ERC20",
-    "contract": "0xc1bfccd4c29813ede019d00d2179eea838a67703",
+    "contract": "0x7121d00b4fa18f13da6c2e30d19c04844e6afdc8",
     "support": {
       "biometric": true,
       "ethCard": true,
@@ -21755,6 +21755,58 @@
     "name": "Anchor",
     "type": "ERC20",
     "contract": "0x5456bc77dd275c45c3c15f0cf936b763cf57c3b5",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7653.png",
+    "symbol": "wROSE",
+    "name": "Oasis Netweork (Wormhome)",
+    "type": "ERC20",
+    "contract": "0x26b80fbfc01b71495f477d5237071242e0d959d7",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/20533.png",
+    "symbol": "SHIT",
+    "name": "I will poop it NFT",
+    "type": "ERC20",
+    "contract": "0x4e4a47cac6a28a62dcc20990ed2cda9bc659469f",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7111.png",
+    "symbol": "XSP",
+    "name": "XSwap",
+    "type": "ERC20",
+    "contract": "0x9b06d48e0529ecf05905ff52dd426ebec0ea3011",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7475.png",
+    "symbol": "CAMP",
+    "name": "Camp",
+    "type": "ERC20",
+    "contract": "0xe9e73e1ae76d17a16cc53e3e87a9a7da78834d37",
     "support": {
       "biometric": true,
       "ethCard": true,
@@ -25405,6 +25457,45 @@
     "name": "Scopuly Token",
     "type": "STELLAR-TA",
     "contract": "14.GC6OYQJIZF3HFXCYPFCBXYXNGIBQ4TNSFUBUXQJOZWIP6F3YZK4QH3VQ.SCOP.9999999640",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/11813.png",
+    "symbol": "AFR",
+    "name": "Afreum",
+    "type": "STELLAR-TA",
+    "contract": "15.GBX6YI45VU7WNAAKA3RBFDR3I3UKNFHTJPQ5F6KOOKSGYIAM4TRQN54W.AFR.20508283716",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/11678.png",
+    "symbol": "LSP",
+    "name": "Lumenswap",
+    "type": "STELLAR-TA",
+    "contract": "16.GAB7STHVD5BDH3EEYXPI3OM7PCS4V443PYB5FNT6CFGJVPDLMKDM24WK.LSP.1000000000",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/15987.png",
+    "symbol": "NUNA",
+    "name": "NUNA",
+    "type": "STELLAR-TA",
+    "contract": "17.GCX2ENOVSSOOH6G4HIOBMPCBFXHDVDGA546NK3ZFX3NP3QS25BKZBWOW.NUNA.1000000000",
     "support": {
       "biometric": true,
       "ethCard": false,
@@ -33380,6 +33471,97 @@
     "name": "Tenset",
     "type": "BEP20",
     "contract": "0x1ae369a6ab222aff166325b7b87eb9af06c86e57",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2505.png",
+    "symbol": "BLZ",
+    "name": "Bluzelle",
+    "type": "BEP20",
+    "contract": "0x935a544bf5816e3a7c13db2efe3009ffda0acda2",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3077.png",
+    "symbol": "VET",
+    "name": "VeChain",
+    "type": "BEP20",
+    "contract": "0x6fdcdfef7c496407ccb0cec90f9c5aaa1cc8d888",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6636.png",
+    "symbol": "DOT",
+    "name": "Polkadot",
+    "type": "BEP20",
+    "contract": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3814.png",
+    "symbol": "CELR",
+    "name": "Celer Network",
+    "type": "BEP20",
+    "contract": "0x1f9f6a696c6fd109cd3956f45dc709d2b3902163",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/1975.png",
+    "symbol": "LINK",
+    "name": "Chainlink",
+    "type": "BEP20",
+    "contract": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7083.png",
+    "symbol": "UNI",
+    "name": "Uniswap",
+    "type": "BEP20",
+    "contract": "0xbf5140a22578168fd562dccf235e5d43a02ce9b1",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6500.png",
+    "symbol": "TFT",
+    "name": "ThreeFold",
+    "type": "BEP20",
+    "contract": "0x8f0fb159380176d324542b3a7933f0c2fd0c2bbf",
     "support": {
       "biometric": true,
       "ethCard": false,
