@@ -5,7 +5,8 @@
     "groupName": "BITCOIN",
     "supportCustom": false,
     "tokenGroup": [
-      "BITCOIN"
+      "BITCOIN",
+      "BTC-SEGWIT"
     ],
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/1.png",
     "legacyTicker": "btc",
