@@ -530,7 +530,7 @@
   },
   {
     "network": "dot",
-    "protocol": "Dot",
+    "protocol": "DOT",
     "groupName": "POLKADOT",
     "supportCustom": false,
     "tokenGroup": [
