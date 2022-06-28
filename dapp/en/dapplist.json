@@ -41,7 +41,9 @@
             "iconPath": "icon_qr_based_metamaks.png",
             "type": "dapp_dcent",
             "device": "ble_dongle",
-            "externalWindow": false
+            "externalWindow": false,
+            "appVersion": "5.16.1",
+            "preRelease": true
         },
         {
             "name": "moonpay",
@@ -54,26 +56,6 @@
             "testnet": false,
             "externalWindow": false,
             "platform": "iOS"
-        },
-        {
-            "name": "metamask",
-            "title": "Connect Metamask",
-            "description": "You can use the EVM-type address in the Descent wallet by connecting it with the metamask.",
-            "link": "https://qrbase.dcentwallet.com",
-            "kind": ["eth"],
-            "network": [ 
-                {
-                "id": "ethereum-mainnet",
-                "name": "이더리움"
-                } 
-            ],
-            "category": [],
-            "iconPath": "icon_metamask.png",
-            "type": "dapp_dcent",
-            "device": "ble_dongle",
-            "externalWindow": false,
-            "appVersion": "5.16.1",
-            "preRelease": true
         },
         {
             "name": "ftso",

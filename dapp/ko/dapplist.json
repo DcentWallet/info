@@ -41,7 +41,9 @@
             "iconPath": "icon_qr_based_metamaks.png",
             "type": "dapp_dcent",
             "device": "ble_dongle",
-            "externalWindow": false
+            "externalWindow": false,
+            "appVersion": "5.16.1",
+            "preRelease": true
         },
         {
             "name": "moonpay",
@@ -54,26 +56,6 @@
             "testnet": false,
             "externalWindow": false,
             "platform": "iOS"
-        },
-        {
-            "name": "metamask",
-            "title": "Metamask 연동",
-            "description": "디센트 지갑에 있는 EVM 계열의 주소를 메타마스크와 연결하여 사용할 수 있습니다.",
-            "link": "https://qrbase.dcentwallet.com",
-            "kind": ["eth"],
-            "network": [ 
-                {
-                "id": "ethereum-mainnet",
-                "name": "이더리움"
-                } 
-            ],
-            "category": [],
-            "iconPath": "icon_metamask.png",
-            "type": "dapp_dcent",
-            "device": "ble_dongle",
-            "externalWindow": false,
-            "appVersion": "5.16.1",
-            "preRelease": true
         },
         {
             "name": "ftso",
