@@ -54,7 +54,8 @@
             "type": "dapp_dcent",
             "device": "ble_dongle",
             "externalWindow": false,
-            "appVersion": "5.16.1"
+            "appVersion": "5.16.1",
+            "preRelease": true
         },
         {
             "name": "ftso",
