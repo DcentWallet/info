@@ -5,7 +5,8 @@
     "groupName": "BITCOIN",
     "supportCustom": false,
     "tokenGroup": [
-      "BITCOIN"
+      "BITCOIN",
+      "BTC-SEGWIT"
     ],
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/1.png",
     "needExtraId": false
@@ -529,12 +530,13 @@
   },
   {
     "network": "dot",
-    "protocol": "dot",
+    "protocol": "Dot",
     "groupName": "POLKADOT",
     "supportCustom": false,
     "tokenGroup": [
       "POLKADOT"
     ],
-    "needExtraId": false
+    "needExtraId": false,
+    "least": 2
   }
 ]
