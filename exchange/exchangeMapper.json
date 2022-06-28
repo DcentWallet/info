@@ -526,5 +526,15 @@
       "CHAN:25"
     ],
     "needExtraId": false
+  },
+  {
+    "network": "dot",
+    "protocol": "dot",
+    "groupName": "POLKADOT",
+    "supportCustom": false,
+    "tokenGroup": [
+      "POLKADOT"
+    ],
+    "needExtraId": false
   }
 ]
