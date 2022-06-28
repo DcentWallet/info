@@ -446,6 +446,15 @@
             "imgUrl": "https://info-repo.dcentwallet.com/dapp/images/network_cronos.png",
             "name": "Cronos",
             "symbol": "CRO"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6636.png",
+            "name": "Polkadot",
+            "symbol": "DOT"
         }
     ],
     "version": {

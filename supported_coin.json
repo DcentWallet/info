@@ -408,7 +408,7 @@
   },
   {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2087.png",
-    "name": "KuCoin Token",
+    "name": "KuCoin Token (KCC)",
     "symbol": "KCS",
     "support": {
       "biometric": true,
@@ -18894,7 +18894,7 @@
     "symbol": "KLEE",
     "name": "KleeKai",
     "type": "ERC20",
-    "contract": "0x382f0160c24f5c515a19f155bac14d479433a407",
+    "contract": "0xa67e9f021b9d208f7e3365b2a155e3c55b27de71",
     "support": {
       "biometric": true,
       "ethCard": true,
@@ -21807,6 +21807,58 @@
     "name": "Camp",
     "type": "ERC20",
     "contract": "0xe9e73e1ae76d17a16cc53e3e87a9a7da78834d37",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8007.png",
+    "symbol": "NFUP",
+    "name": "Natural Farm Union Protocol",
+    "type": "ERC20",
+    "contract": "0x26cbc7008cd879f4b63b69a915378f2d9b17bbf0",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/17715.png",
+    "symbol": "ARTEQ",
+    "name": "artèQ",
+    "type": "ERC20",
+    "contract": "0x805c2077f3ab224d889f9c3992b41b2f4722c787",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/11584.png",
+    "symbol": "BTRST",
+    "name": "Braintrust",
+    "type": "ERC20",
+    "contract": "0x799ebfabe77a6e34311eeee9825190b9ece32824",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/19618.png",
+    "symbol": "CAW",
+    "name": "CAW(A Hunters Dream)",
+    "type": "ERC20",
+    "contract": "0xf3b9569f82b18aef890de263b84189bd33ebe452",
     "support": {
       "biometric": true,
       "ethCard": true,
@@ -33570,6 +33622,32 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/14329.png",
+    "symbol": "MZ",
+    "name": "MetaZilla",
+    "type": "BEP20",
+    "contract": "0x0d4992e48278aa7f7c915f820743d9fab7fea713",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/1414.png",
+    "symbol": "FIRO",
+    "name": "Firo",
+    "type": "BEP20",
+    "contract": "0xd5d0322b6bab6a762c79f8c81a0b674778e13aed",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-skp.png",
     "symbol": "SKP",
     "name": "SKY PLAY",
@@ -34142,6 +34220,19 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/10725.png",
+    "symbol": "WEXPOLY",
+    "name": "WaultSwap Polygon",
+    "type": "POLYGON-ERC20",
+    "contract": "0x4c4bf319237d98a30a929a96112effa8da3510eb",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-npt.png",
     "symbol": "NADA",
     "name": "NADA Token",
@@ -34612,6 +34703,19 @@
     "name": "MM Finance",
     "contract": "0x97749c9b61f878a880dfe312d2594ae07aed7656",
     "symbol": "MMF",
+    "type": "CRO-ERC20",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/16430.png",
+    "name": "Tectonic",
+    "contract": "0xdd73dea10abc2bff99c60882ec5b2b81bb1dc5b2",
+    "symbol": "TONIC",
     "type": "CRO-ERC20",
     "support": {
       "biometric": true,
