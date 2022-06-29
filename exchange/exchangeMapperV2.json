@@ -538,6 +538,7 @@
       "POLKADOT"
     ],
     "legacyTicker": "dot",
-    "changellyTicker": "dot"
+    "changellyTicker": "dot",
+    "least": 2
   }
 ]
