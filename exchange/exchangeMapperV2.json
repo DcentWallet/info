@@ -528,5 +528,16 @@
     "tokenGroup": [
       "CHAN:25"
     ]
+  },
+  {
+    "network": "dot",
+    "protocol": "DOT",
+    "groupName": "POLKADOT",
+    "supportCustom": true,
+    "tokenGroup": [
+      "POLKADOT"
+    ],
+    "legacyTicker": "dot",
+    "changellyTicker": "dot"
   }
 ]
