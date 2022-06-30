@@ -42,7 +42,10 @@
             "type": "dapp_dcent",
             "device": "ble_dongle",
             "externalWindow": false,
-            "appVersion": "5.16.1",
+            "appVersion": {
+                "android": "5.16.1",
+                "ios": "5.16.2"
+            },
             "preRelease": true
         },
         {
