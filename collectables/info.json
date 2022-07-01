@@ -82,7 +82,7 @@
                 "en": "PALM",
                 "ko": "PALM"
             },
-            "coinType": "CHAN:11297108109",
+            "coinType": "CHAN:X-PALM",
             "preRelease": true
         },
         {
@@ -90,7 +90,7 @@
                 "en": "PALM-Testnet",
                 "ko": "PALM-Testnet"
             },
-            "coinType": "CHAN:11297108099",
+            "coinType": "EVMT:X-PALMTEST",
             "testnet": true,
             "preRelease": true
         }
