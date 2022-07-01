@@ -76,6 +76,23 @@
             "coinType": "XDC-APOTHEM",
             "testnet": true,
             "preRelease": false
+        },
+        {
+            "name": {
+                "en": "PALM",
+                "ko": "PALM"
+            },
+            "coinType": "CHAN:11297108109",
+            "preRelease": true
+        },
+        {
+            "name": {
+                "en": "PALM-Testnet",
+                "ko": "PALM-Testnet"
+            },
+            "coinType": "CHAN:11297108099",
+            "testnet": true,
+            "preRelease": true
         }
     ]
 }
