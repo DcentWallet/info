@@ -538,6 +538,10 @@
       "POLKADOT"
     ],
     "legacyTicker": "dot",
-    "changellyTicker": "dot"
+    "changellyTicker": "dot",
+    "requireVersion": {
+      "android": "5.16.0",
+      "ios": "5.16.2"
+    }
   }
 ]
