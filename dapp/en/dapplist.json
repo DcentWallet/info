@@ -62,8 +62,7 @@
             "appVersion": {
                 "android": "5.16.1",
                 "ios": "5.16.2"
-            },
-            "preRelease": true
+            }
         },
         {
             "name": "moonpay",
