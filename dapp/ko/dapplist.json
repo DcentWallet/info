@@ -27,10 +27,10 @@
         },
         {
             "name": "swap",
-            "title": "Swap",
-            "description": "",
+            "title": "스왑",
+            "description": "다양한 스왑 서비스 파트너를 통해 3000개 이상의 암호화폐를 쉽고 빠르게 스왑할 수 있는 서비스입니다.",
             "link": "https://swap.dcentwallet.com",
-            "kind": [],
+            "kind": ["eth"],
             "category": [],
             "iconPath": "icon_swap.png",
             "type": "dapp_dcent",
@@ -51,7 +51,7 @@
             "network": [ 
                 {
                 "id": "ethereum-mainnet",
-                "name": "Ethereum"
+                "name": "이더리움"
                 } 
             ],
             "category": [],

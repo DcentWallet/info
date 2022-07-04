@@ -28,9 +28,9 @@
         {
             "name": "swap",
             "title": "Swap",
-            "description": "",
+            "description": "A service that allows you to quickly and easily swap 3000+ cryptocurrencies through various swap service partners.",
             "link": "https://swap.dcentwallet.com",
-            "kind": [],
+            "kind": ["eth"],
             "category": [],
             "iconPath": "icon_swap.png",
             "type": "dapp_dcent",
