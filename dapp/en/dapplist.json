@@ -26,6 +26,23 @@
             "externalWindow": false
         },
         {
+            "name": "swap",
+            "title": "Swap",
+            "description": "",
+            "link": "https://swap.dcentwallet.com",
+            "kind": [],
+            "category": [],
+            "iconPath": "icon_swap.png",
+            "type": "dapp_dcent",
+            "device": "ble_dongle",
+            "externalWindow": false,
+            "appVersion": {
+                "android": "5.16.0",
+                "ios": "5.16.2"
+            },
+            "preRelease": true
+        },
+        {
             "name": "qr_based_metamask",
             "title": "Metamask Integration",
             "description": "EVM compatible addresses in the D'CENT Wallet can be connected with the Metamask.",
