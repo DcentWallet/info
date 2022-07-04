@@ -39,8 +39,7 @@
             "appVersion": {
                 "android": "5.16.0",
                 "ios": "5.16.2"
-            },
-            "preRelease": true
+            }
         },
         {
             "name": "qr_based_metamask",
