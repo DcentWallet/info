@@ -1,5 +1,10 @@
 [   
     {
+    "name": "1inch",
+    "imageUrl": "../images/1inch.png",
+    "gotoLink": "https://1inch.io/"
+    },
+    {
     "name": "kansong",
     "imageUrl": "../images/kansong.png",
     "gotoLink": "https://kansong.io/"
