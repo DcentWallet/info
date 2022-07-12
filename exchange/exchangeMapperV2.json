@@ -58,7 +58,8 @@
       "RIPPLE-TA"
     ],
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/52.png",
-    "least": 22,
+    "activable": 22,
+    "sustainable": 10,
     "legacyTicker": "xrp",
     "changellyTicker": "xrp"
   },
@@ -542,6 +543,8 @@
     "requireVersion": {
       "android": "5.16.0",
       "ios": "5.16.2"
-    }
+    },
+    "activable": 1,
+    "sustainable": 1
   }
 ]

@@ -83,3 +83,5 @@ changelly 의 구조체는 다음과 같다.
 
 ## v2
 - legacyTicker 가 추가됨, changenow 에서 네트워크 토큰을 특정하기 위함.
+- activable : 계정이 활성화 되기 위한 최소 단위수량
+- sustainable : 계정이 유지 되기 위한 최소 단위수량
