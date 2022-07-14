@@ -74,7 +74,7 @@
   },
   {
     "network": "klay",
-    "protocol": "",
+    "protocol": "KLAY",
     "groupName": "KLAYTN",
     "supportCustom": true,
     "tokenGroup": [
@@ -82,7 +82,8 @@
       "KLAYTN-ERC20"
     ],
     "iconUrl": "https://info-repo.dcentwallet.com/dapp/images/network_klaytn2.png",
-    "legacyTicker": "klay"
+    "legacyTicker": "klay",
+    "changellyTicker": "klay"
   },
   {
     "network": "bch",
@@ -460,12 +461,13 @@
   },
   {
     "network": "",
-    "protocol": "",
+    "protocol": "STX",
     "groupName": "STACKS",
     "supportCustom": false,
     "tokenGroup": [
       "STACKS"
-    ]
+    ],
+    "changellyTicker": "stx"
   },
   {
     "network": "",
