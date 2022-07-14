@@ -536,7 +536,7 @@
     "network": "dot",
     "protocol": "DOT",
     "groupName": "POLKADOT",
-    "supportCustom": true,
+    "supportCustom": false,
     "tokenGroup": [
       "POLKADOT"
     ],
@@ -548,5 +548,20 @@
     },
     "activable": 1,
     "sustainable": 1
+  },
+  {
+    "network": "atom",
+    "protocol": "ATOM",
+    "groupName": "COSMOS",
+    "supportCustom": false,
+    "tokenGroup": [
+      "COSMOS"
+    ],
+    "legacyTicker": "atom",
+    "changellyTicker": "atom",
+    "requireVersion": {
+      "android": "5.17.0",
+      "ios": "5.17.0"
+    }
   }
 ]
