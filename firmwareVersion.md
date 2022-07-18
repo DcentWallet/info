@@ -1,5 +1,6 @@
 |Kernel Version|Release Date|Notes|
 |----|----|------|
+|v2.21.0.7fca|2022-07-18|• Added supporting coin : COSMOS (ATOM) |
 |v2.20.0.cd73|2022-06-15|• Added supporting coin : Stellar TrustLine |
 |v2.19.7.7572|2022-05-30|• Supporting 64bit ChainID(EVM series) |
 |v2.19.2.80ca|2022-04-06|• Message sign Bug Fix |
