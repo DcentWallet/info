@@ -547,7 +547,8 @@
       "ios": "5.16.2"
     },
     "activable": 1,
-    "sustainable": 1
+    "sustainable": 1,
+    "pre": true
   },
   {
     "network": "atom",
@@ -562,6 +563,7 @@
     "requireVersion": {
       "android": "5.17.0",
       "ios": "5.17.0"
-    }
+    },
+    "pre": true
   }
 ]
