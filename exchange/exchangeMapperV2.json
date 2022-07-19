@@ -265,7 +265,8 @@
       "XRC20"
     ],
     "legacyTicker": "xdc",
-    "changellyTicker": "xdc"
+    "changellyTicker": "xdc",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2634.png"
   },
   {
     "network": "bsc",
@@ -467,7 +468,8 @@
     "tokenGroup": [
       "STACKS"
     ],
-    "changellyTicker": "stx"
+    "changellyTicker": "stx",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4847.png"
   },
   {
     "network": "",
@@ -512,7 +514,8 @@
       "CHAN:1666600000"
     ],
     "legacyTicker": "one",
-    "changellyTicker": "one"
+    "changellyTicker": "one",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3945.png"
   },
   {
     "network": "",
@@ -548,7 +551,8 @@
     },
     "activable": 1,
     "sustainable": 1,
-    "pre": true
+    "pre": true,
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6636.png"
   },
   {
     "network": "atom",
@@ -564,6 +568,7 @@
       "android": "5.17.0",
       "ios": "5.17.0"
     },
-    "pre": true
+    "pre": true,
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3794.png"
   }
 ]
