@@ -334,16 +334,27 @@
     "symbol": "DOT",
     "name": "Polkadot",
     "support": {
-      "biometric": false,
+      "biometric": true,
       "ethCard": false,
       "klayCard": false,
-      "software": false
+      "software": true
     }
   },
   {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7334.png",
     "symbol": "CFX",
     "name": "Conflux",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3794.png",
+    "symbol": "ATOM",
+    "name": "Cosmos",
     "support": {
       "biometric": true,
       "ethCard": false,
@@ -33796,32 +33807,6 @@
     "name": "Firo",
     "type": "BEP20",
     "contract": "0xd5d0322b6bab6a762c79f8c81a0b674778e13aed",
-    "support": {
-      "biometric": true,
-      "ethCard": false,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5994.png",
-    "symbol": "SHIB",
-    "name": "Binance-Peg SHIBA INU",
-    "type": "BEP20",
-    "contract": "0x2859e4544c4bb03966803b044a93563bd2d0dd4d",
-    "support": {
-      "biometric": true,
-      "ethCard": false,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5824.png",
-    "symbol": "SLP",
-    "name": "Binance-Peg Smooth Love Potion",
-    "type": "BEP20",
-    "contract": "0x070a08beef8d36734dd67a491202ff35a6a16d97",
     "support": {
       "biometric": true,
       "ethCard": false,
