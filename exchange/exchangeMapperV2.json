@@ -551,7 +551,6 @@
     },
     "activable": 1,
     "sustainable": 1,
-    "pre": true,
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6636.png"
   },
   {
@@ -568,7 +567,6 @@
       "android": "5.17.0",
       "ios": "5.17.0"
     },
-    "pre": true,
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3794.png"
   }
 ]
