@@ -52,8 +52,7 @@
         "fee_coin_group": "CHAN:250",
         "group": "CH20"
       },
-      "explorer": "https://ftmscan.com/tx/",
-      "pre": true
+      "explorer": "https://ftmscan.com/tx/"
     }
   ]
 }
