@@ -1,11 +1,11 @@
 {
     "list": [
         {
-            "name": "dcent",
-            "title": "D'CENT",
+            "name": "randombox",
+            "title": "randombox",
             "description": "",
-            "link": "https://dcentwallet.com",
-            "imagePath": "banner_dcent.png",
+            "link": "https://qrlink.dcentwallet.com/qrview?link=https://link.dcentwallet.com/DAppBrowser?url=https://box.dcentwallet.com/events/EVO19EAICO?lang=en%26utm_source=dcentwallet%26utm_medium=app_banner%26utm_campaign=202207-LuckyRouletteEvent-promotion",
+            "imagePath": "randombox_promotion_app banner_en.png",
             "externalWindow": true
         }
     ]
