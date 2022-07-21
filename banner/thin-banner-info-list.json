@@ -30,17 +30,17 @@
       "img": {
         "en": {
           "desktop": {
-            "path": "../images/ko/randombox_promotion_homepage banner_pc_en.png",
+            "path": "../images/en/randombox_promotion_homepage_banner_pc_en.png",
             "height": "90px", 
             "background-color": "#2a7aeb" 
           },
           "tablet": {
-            "path": "../images/ko/randombox_promotion_homepage banner_pc_en.png",
+            "path": "../images/en/randombox_promotion_homepage_banner_pc_en.png",
             "height": "65px",
             "background-color": "#2a7aeb"
           },
           "mobile": {
-            "path": "../images/ko/randombox_promotion_homepage banner_mobile_en.png",
+            "path": "../images/en/randombox_promotion_homepage_banner_mobile_en.png",
             "height": "15.64vw",
             "background-color": "#2a7aeb"
           }
