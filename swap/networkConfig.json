@@ -61,7 +61,8 @@
       "available": {
         "1inch": true
       },
-      "explorer": "https://etherscan.io/tx/"
+      "explorer": "https://etherscan.io/tx/",
+      "pre": true
     }
   ]
 }
