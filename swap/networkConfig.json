@@ -53,6 +53,15 @@
         "group": "CH20"
       },
       "explorer": "https://ftmscan.com/tx/"
+    },
+    {
+      "name": "Ethereum",
+      "networkId": "ethereum-mainnet",
+      "type": "ethereum",
+      "available": {
+        "1inch": true
+      },
+      "explorer": "https://etherscan.io/tx/"
     }
   ]
 }
