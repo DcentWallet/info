@@ -11,7 +11,8 @@
         "fee_coin_group": "POLYGON",
         "group": "POLYGON-ERC20"
       },
-      "explorer": "https://polygonscan.com/tx/"
+      "explorer": "https://polygonscan.com/tx/",
+      "iconPath": "network_polygon.svg"
     },
     {
       "name": "Arbitrum",
@@ -25,7 +26,8 @@
         "fee_coin_group": "CHAN:42161",
         "group": "CH20"
       },
-      "explorer": "https://arbiscan.io/tx/"
+      "explorer": "https://arbiscan.io/tx/",
+      "iconPath": "network_arbitrum.svg"
     },
     {
       "name": "BSC",
@@ -38,7 +40,8 @@
         "fee_coin_group": "BSC",
         "group": "BEP20"
       },
-      "explorer": "https://bscscan.com/tx/"
+      "explorer": "https://bscscan.com/tx/",
+      "iconPath": "network_bsc.svg"
     },
     {
       "name": "Fantom",
@@ -52,7 +55,19 @@
         "fee_coin_group": "CHAN:250",
         "group": "CH20"
       },
-      "explorer": "https://ftmscan.com/tx/"
+      "explorer": "https://ftmscan.com/tx/",
+      "iconPath": "network_ftm.svg"
+    },
+    {
+      "name": "Ethereum",
+      "networkId": "ethereum-mainnet",
+      "type": "ethereum",
+      "available": {
+        "1inch": true
+      },
+      "explorer": "https://etherscan.io/tx/",
+      "pre": true,
+      "iconPath": "network_ethereum.svg"
     }
   ]
 }
