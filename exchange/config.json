@@ -2,7 +2,7 @@
   "services": [
     {
       "name": "changenow",
-      "available": false
+      "available": true
     },
     {
       "name": "changelly",
