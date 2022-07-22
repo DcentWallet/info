@@ -9,7 +9,7 @@
 	.st3{fill:#858685;}
 	.st4{fill:#343534;}
 </style>
-<rect class="st0" width="80" height="80"/>
+<circle class="st0" cx="40" cy="40" r="40"/>
 <g>
 	<polygon class="st1" points="39.9,53.4 39.9,66.8 56.4,43.7 	"/>
 	<polygon class="st2" points="39.9,33 39.9,50.2 56.4,40.5 	"/>
