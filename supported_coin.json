@@ -6350,7 +6350,7 @@
     "symbol": "BAX",
     "name": "BABB",
     "type": "ERC20",
-    "contract": "0x9a0242b7a33dacbe40edb927834f96eb39f8fbcb",
+    "contract": "0xf920e4f3fbef5b3ad0a25017514b769bdc4ac135",
     "support": {
       "biometric": true,
       "ethCard": true,
@@ -22074,6 +22074,45 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/19269.png",
+    "symbol": "COW",
+    "name": "CoW Protocol",
+    "type": "ERC20",
+    "contract": "0xdef1ca1fb7fbcdc777520aa7f396b4e015f497ab",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/9291.png",
+    "symbol": "CAPS",
+    "name": "Ternoa",
+    "type": "ERC20",
+    "contract": "0x03be5c903c727ee2c8c4e9bc0acc860cca4715e2",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3930.png",
+    "symbol": "TT",
+    "name": "ThunderCore",
+    "type": "ERC20",
+    "contract": "0x1e053d89e08c24aa2ce5c5b4206744dc2d7bd8f5",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/logo_doc.svg",
     "symbol": "DOC",
     "name": "Dollar on Chain",
@@ -26349,6 +26388,19 @@
     "name": "USDD",
     "type": "TRC20",
     "contract": "TPYmHEhy5n8TCEfYGqW2rPxsghSfzghPDn",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/19217.png",
+    "symbol": "BIO",
+    "name": "BITONE",
+    "type": "TRC20",
+    "contract": "TJhfYTHKrpavuCpDG2GXyf9c8eQTeKhLDZ",
     "support": {
       "biometric": true,
       "ethCard": false,
@@ -34037,6 +34089,45 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/9291.png",
+    "symbol": "CAPS",
+    "name": "Ternoa",
+    "type": "BEP20",
+    "contract": "0xffba7529ac181c2ee1844548e6d7061c9a597df4",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3930.png",
+    "symbol": "TT",
+    "name": "ThunderCore",
+    "type": "BEP20",
+    "contract": "0x990e7154bb999faa9b2fa5ed29e822703311ea85",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4747.png",
+    "symbol": "VLX",
+    "name": "Velas",
+    "type": "BEP20",
+    "contract": "0xe9c803f48dffe50180bd5b01dc04da939e3445fc",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-skp.png",
     "symbol": "SKP",
     "name": "SKY PLAY",
@@ -34535,7 +34626,7 @@
     "symbol": "SPHERE",
     "name": "Sphere Finance",
     "type": "POLYGON-ERC20",
-    "contract": "0x8D546026012bF75073d8A586f24A5d5ff75b9716",
+    "contract": "0x62f594339830b90ae4c084ae7d223ffafd9658a7",
     "support": {
       "biometric": true,
       "ethCard": false,
@@ -35676,6 +35767,19 @@
     "name": "Supernova Token",
     "contract": "0x69d17c151ef62421ec338a0c92ca1c1202a427ec",
     "symbol": "SNT",
+    "type": "FTM-ERC20",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/11497.png",
+    "name": "Scream",
+    "contract": "0xe0654c8e6fd4d733349ac7e09f6f23da256bf475",
+    "symbol": "SCREAM",
     "type": "FTM-ERC20",
     "support": {
       "biometric": true,
