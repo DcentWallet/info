@@ -9,7 +9,7 @@
       },
       "explorer": "https://polygonscan.com/tx/",
       "iconPath": "network_polygon.svg",
-      "priority": 1
+      "priority": 2
     },
     {
       "name": "Arbitrum",
@@ -20,7 +20,7 @@
       },
       "explorer": "https://arbiscan.io/tx/",
       "iconPath": "network_arbitrum.svg",
-      "priority": 4
+      "priority": 5
     },
     {
       "name": "BSC",
@@ -31,7 +31,7 @@
       },
       "explorer": "https://bscscan.com/tx/",
       "iconPath": "network_bsc.svg",
-      "priority": 2
+      "priority": 3
     },
     {
       "name": "Fantom",
@@ -42,7 +42,7 @@
       },
       "explorer": "https://ftmscan.com/tx/",
       "iconPath": "network_ftm.svg",
-      "priority": 3
+      "priority": 4
     },
     {
       "name": "Ethereum",
@@ -54,7 +54,7 @@
       "explorer": "https://etherscan.io/tx/",
       "pre": true,
       "iconPath": "network_ethereum.svg",
-      "priority": 0
+      "priority": 1
     }
   ]
 }
