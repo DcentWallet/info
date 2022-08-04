@@ -52,7 +52,6 @@
         "1inch": true
       },
       "explorer": "https://etherscan.io/tx/",
-      "pre": true,
       "iconPath": "network_ethereum.svg",
       "priority": 1
     }
