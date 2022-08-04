@@ -166,6 +166,25 @@
             "externalWindow": false
         },
         {
+            "name": "XDSea",
+            "title": "XDSea",
+            "description": "XDSea is the world's first and largest peer-to-peer decentralized marketplace for buying and selling NFTs built on the XDC Network.",
+            "link": "https://xdsea.com/",
+            "kind": ["xdc"],
+            "network": [ 
+                {
+                    "networkId": "xdc-mainnet",
+                    "name": "XDC Network"
+                } 
+            ],
+            "category": [],
+            "iconPath": "icon_xdsea.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false,
+            "preRelease": true
+        },
+        {
             "name": "cbridge",
             "title": "cBridge",
             "description": "Celer cBridge is a multi-chain, cross-layer asset bridge offering instant transfer with the most number of chains, lowest fee and zero trust needed.",
