@@ -173,7 +173,7 @@
             "kind": ["xdc"],
             "network": [ 
                 {
-                    "networkId": "xdc-mainnet",
+                    "id": "xdc-mainnet",
                     "name": "XDC 네트워크"
                 } 
             ],
