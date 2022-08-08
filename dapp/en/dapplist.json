@@ -181,8 +181,7 @@
             "iconPath": "icon_xdsea.png",
             "type": "dapp",
             "device": "ble_dongle",
-            "externalWindow": false,
-            "preRelease": true
+            "externalWindow": false
         },
         {
             "name": "cbridge",
