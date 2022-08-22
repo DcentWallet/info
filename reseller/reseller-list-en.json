@@ -1,5 +1,10 @@
 [
     {
+    "name": "masenllc",
+    "imageUrl": "../images_en/masenllc.jpg",
+    "gotoLink": "http://www.masenllc.com/"
+    },
+    {
     "name": "samsretailers",
     "imageUrl": "../images_en/samsretailers.jpg",
     "gotoLink": "https://samsretailers.com/"

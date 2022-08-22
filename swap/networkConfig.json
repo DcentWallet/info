@@ -7,12 +7,9 @@
       "available": {
         "1inch": true
       },
-      "tokenGroup": {
-        "fee_coin_group": "POLYGON",
-        "group": "POLYGON-ERC20"
-      },
       "explorer": "https://polygonscan.com/tx/",
-      "iconPath": "network_polygon.svg"
+      "iconPath": "network_polygon.svg",
+      "priority": 2
     },
     {
       "name": "Arbitrum",
@@ -21,13 +18,9 @@
       "available": {
         "1inch": true
       },
-      "tokenGroup": {
-        "erc20Name": "ARBITRUM-ERC20",
-        "fee_coin_group": "CHAN:42161",
-        "group": "CH20"
-      },
       "explorer": "https://arbiscan.io/tx/",
-      "iconPath": "network_arbitrum.svg"
+      "iconPath": "network_arbitrum.svg",
+      "priority": 5
     },
     {
       "name": "BSC",
@@ -36,12 +29,9 @@
       "available": {
         "1inch": true
       },
-      "tokenGroup": {
-        "fee_coin_group": "BSC",
-        "group": "BEP20"
-      },
       "explorer": "https://bscscan.com/tx/",
-      "iconPath": "network_bsc.svg"
+      "iconPath": "network_bsc.svg",
+      "priority": 3
     },
     {
       "name": "Fantom",
@@ -50,13 +40,9 @@
       "available": {
         "1inch": true
       },
-      "tokenGroup": {
-        "erc20Name": "FTM-ERC20",
-        "fee_coin_group": "CHAN:250",
-        "group": "CH20"
-      },
       "explorer": "https://ftmscan.com/tx/",
-      "iconPath": "network_ftm.svg"
+      "iconPath": "network_ftm.svg",
+      "priority": 4
     },
     {
       "name": "Ethereum",
@@ -66,8 +52,8 @@
         "1inch": true
       },
       "explorer": "https://etherscan.io/tx/",
-      "pre": true,
-      "iconPath": "network_ethereum.svg"
+      "iconPath": "network_ethereum.svg",
+      "priority": 1
     }
   ]
 }

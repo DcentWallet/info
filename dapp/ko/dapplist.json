@@ -164,7 +164,25 @@
             "type": "dapp",
             "device": "ble_dongle",
             "externalWindow": false
-        },  
+        },
+        {
+            "name": "XDSea",
+            "title": "XDSea",
+            "description": "XDSea는 XDC 네트워크에 구축된 NFT를 사고 파는 세계 최초이자 최대 규모의 P2P 분산형 시장입니다.",
+            "link": "https://xdsea.com/",
+            "kind": ["xdc"],
+            "network": [ 
+                {
+                    "id": "xdc-mainnet",
+                    "name": "XDC 네트워크"
+                } 
+            ],
+            "category": [],
+            "iconPath": "icon_xdsea.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false
+        },
         {
             "name": "cbridge",
             "title": "Celer cBridge",

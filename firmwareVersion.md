@@ -1,5 +1,6 @@
 |Kernel Version|Release Date|Notes|
 |----|----|------|
+|v2.23.1.8331|2022-08-22|• Added supporting coin : TEZOS (XTZ), TEZOS Token(FA1.2 & FA2) |
 |v2.21.0.7fca|2022-07-18|• Added supporting coin : COSMOS (ATOM) |
 |v2.20.0.cd73|2022-06-15|• Added supporting coin : Stellar TrustLine |
 |v2.19.7.7572|2022-05-30|• Supporting 64bit ChainID(EVM series) |
