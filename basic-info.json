@@ -464,6 +464,15 @@
             "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3794.png",
             "name": "Cosmos",
             "symbol": "ATOM"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2011.png",
+            "name": "Tezos",
+            "symbol": "XTZ"
         }
     ],
     "version": {
