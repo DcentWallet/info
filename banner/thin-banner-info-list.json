@@ -20,17 +20,17 @@
       },
       "en": {
         "desktop": {
-          "path": "../images/ko/dcent_gift_give_event_en.png",
+          "path": "../images/en/dcent_gift_give_event_en.png",
           "height": "90px", 
           "background-color": "#6d52d5" 
         },
         "tablet": {
-          "path": "../images/ko/dcent_gift_give_event_en.png",
+          "path": "../images/en/dcent_gift_give_event_en.png",
           "height": "65px",
           "background-color": "#6d52d5"
         },
         "mobile": {
-          "path": "../images/ko/dcent_gift_give_event_mo_en.png",
+          "path": "../images/en/dcent_gift_give_event_mo_en.png",
           "height": "15.64vw",
           "background-color": "#6d52d5"
         }
