@@ -3,54 +3,6 @@
     "img": {
       "ko": {
         "desktop": {
-          "path": "../images/ko/dcent_gift_give_event_kr.png",
-          "height": "90px", 
-          "background-color": "#6d52d5" 
-        },
-        "tablet": {
-          "path": "../images/ko/dcent_gift_give_event_kr.png",
-          "height": "65px",
-          "background-color": "#6d52d5"
-        },
-        "mobile": {
-          "path": "../images/ko/dcent_gift_give_event_mo_kr.png",
-          "height": "15.64vw",
-          "background-color": "#6d52d5"
-        }
-      },
-      "en": {
-        "desktop": {
-          "path": "../images/en/dcent_gift_give_event_en.png",
-          "height": "90px", 
-          "background-color": "#6d52d5" 
-        },
-        "tablet": {
-          "path": "../images/en/dcent_gift_give_event_en.png",
-          "height": "65px",
-          "background-color": "#6d52d5"
-        },
-        "mobile": {
-          "path": "../images/en/dcent_gift_give_event_mo_en.png",
-          "height": "15.64vw",
-          "background-color": "#6d52d5"
-        }
-      }
-    },
-    "link": {
-      "ko": {
-        "internal": "/events/202208-OTGgiveaway-promotion?utm_medium=web&utm_source=OTGgiveaway&utm_campaign=202208-OTGgiveaway-promotion&lang=ko",
-        "external": false
-      },
-      "en": {
-        "internal": "/events/202208-OTGgiveaway-promotion?utm_medium=web&utm_source=OTGgiveaway&utm_campaign=202208-OTGgiveaway-promotion",
-        "external": false
-      }
-    }
-  },
-  {
-    "img": {
-      "ko": {
-        "desktop": {
           "path": "../images/ko/career_banner_pc.png",
           "height": "90px", 
           "background-color": "#202020" 
