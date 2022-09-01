@@ -374,6 +374,17 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3077.png",
+    "symbol": "VET",
+    "name": "VeChain",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-heco.png",
     "name": "HECO",
     "symbol": "HT",
@@ -22202,6 +22213,32 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6859.png",
+    "symbol": "FARM",
+    "name": "Harvest Finance",
+    "type": "ERC20",
+    "contract": "0xa0246c9032bc3a600820415ae600c6388619a14d",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7860.png",
+    "symbol": "CTI",
+    "name": "ClinTex CTi",
+    "type": "ERC20",
+    "contract": "0xcb8fb2438a805664cd8c3e640b85ac473da5be87",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/logo_doc.svg",
     "symbol": "DOC",
     "name": "Dollar on Chain",
@@ -22557,6 +22594,19 @@
     "name": "xSPECTAR",
     "type": "TrustLine",
     "contract": "19.rh5jzTCdMRCVjQ7LT6zucjezC47KATkuvv.7853504543544152000000000000000000000000.88888888",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/17486.png",
+    "symbol": "NVL",
+    "name": "NVL",
+    "type": "TrustLine",
+    "contract": "20.r458JvSEmmPwrRbEtmrHvWsGqZjq8jK6aE.NVL.8527872",
     "support": {
       "biometric": true,
       "ethCard": false,
@@ -35492,6 +35542,19 @@
     "name": "Matter",
     "type": "XTZ-FA",
     "contract": "KT1K4jn23GonEmZot3pMGth7unnzZ6EaMVjY",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://assets.coingecko.com/coins/images/5230/thumb/vethor-token.png?1548760043",
+    "symbol": "VTHO",
+    "name": "VeThor Token",
+    "type": "VECHAIN-ERC20",
+    "contract": "0x0000000000000000000000000000456E65726779",
     "support": {
       "biometric": true,
       "ethCard": false,

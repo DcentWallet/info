@@ -1,5 +1,6 @@
 |Kernel Version|Release Date|Notes|
 |----|----|------|
+|v2.23.4.a4a5|2022-08-31|• Added supporting coin : VeChain (VET), VeChain Token |
 |v2.23.1.8331|2022-08-22|• Added supporting coin : TEZOS (XTZ), TEZOS Token(FA1.2 & FA2) |
 |v2.21.0.7fca|2022-07-18|• Added supporting coin : COSMOS (ATOM) |
 |v2.20.0.cd73|2022-06-15|• Added supporting coin : Stellar TrustLine |

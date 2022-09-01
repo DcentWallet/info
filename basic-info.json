@@ -473,6 +473,15 @@
             "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2011.png",
             "name": "Tezos",
             "symbol": "XTZ"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3077.png",
+            "name": "VeChain",
+            "symbol": "VET"
         }
     ],
     "version": {
