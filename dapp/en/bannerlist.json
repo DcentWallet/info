@@ -1,12 +1,42 @@
 {
-    "list": [
-        {
-            "name": "dcent",
-            "title": "D'CENT",
-            "description": "",
-            "link": "https://dcentwallet.com",
-            "imagePath": "banner_dcent.png",
-            "externalWindow": true
-        }
-    ]
+  "list": [
+    {
+      "name": "dcent",
+      "title": "D'CENT",
+      "description": "",
+      "link": "https://dcentwallet.com",
+      "imagePath": "banner_dcent.png",
+      "externalWindow": true
+    },
+    {
+      "name": "dcent",
+      "title": "D'CENT",
+      "description": "Enhance your security with <br/><b>D’CENT biometric wallet</b>",
+      "link": "https://store.dcentwallet.com/",
+      "imagePath": "discovery_banner-dcent_bg.png",
+      "externalWindow": true,
+      "button": "Buy Now",
+      "preRelease": true
+    },
+    {
+      "name": "medium",
+      "title": "D'CENT",
+      "description": "<b>Join us</b> and<br/> never miss an update!",
+      "link": "https://medium.com/dcentwallet/tagged/english",
+      "imagePath": "discovery_banner-medium_bg.png",
+      "externalWindow": true,
+      "button": "Follow",
+      "preRelease": true
+    },
+    {
+      "name": "youtube",
+      "title": "D'CENT",
+      "description": "Welcome Newbies!<br/> Here’s <b>D’CENT tutorial</b>",
+      "link": "https://www.youtube.com/c/DCENTWallet",
+      "imagePath": "discovery_banner-youtube_bg.png",
+      "externalWindow": true,
+      "button": "Subscribe",
+      "preRelease": true
+    }
+  ]
 }

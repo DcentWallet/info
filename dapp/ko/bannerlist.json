@@ -1,12 +1,42 @@
 {
-    "list": [
-        {
-            "name": "dcent",
-            "title": "D'CENT",
-            "description": "",
-            "link": "https://dcentwallet.com/events/202208-OTGgiveaway-promotion?utm_medium=app&utm_source=OTGgiveaway&utm_campaign=202208-OTGgiveaway-promotion&lang=ko",
-            "imagePath": "dcent_gift_give_event_app_kr.png",
-            "externalWindow": true
-        }
-    ]
+  "list": [
+    {
+      "name": "dcent",
+      "title": "D'CENT",
+      "description": "",
+      "link": "https://dcentwallet.com",
+      "imagePath": "banner_dcent.png",
+      "externalWindow": true
+    },
+    {
+      "name": "dcent",
+      "title": "D'CENT",
+      "description": "<b>디센트 지문인증형 지갑</b>으로<br/> 한층 더 강화된 보안을 경험하세요!",
+      "link": "https://store-kr.dcentwallet.com/",
+      "imagePath": "discovery_banner-dcent_bg.png",
+      "externalWindow": true,
+      "button": "구매하기",
+      "preRelease": true
+    },
+    {
+      "name": "medium",
+      "title": "D'CENT",
+      "description": "디센트 소식을 알 수 있는<br/> <b>가장 쉽고 빠른 방법<b/>",
+      "link": "https://medium.com/dcentwallet/tagged/korean",
+      "imagePath": "discovery_banner-medium_bg.png",
+      "externalWindow": true,
+      "button": "팔로우",
+      "preRelease": true
+    },
+    {
+      "name": "youtube",
+      "title": "D'CENT",
+      "description": "누구나 쉽게 따라하는<br/> <b>디센트 사용법</b>",
+      "link": "https://www.youtube.com/c/DCENTWallet",
+      "imagePath": "discovery_banner-youtube_bg.png",
+      "externalWindow": true,
+      "button": "구독",
+      "preRelease": true
+    }
+  ]
 }
