@@ -25,6 +25,54 @@
         "external": "https://career.dcentwallet.com"
       }
     }
+  },
+  {
+    "img": {
+      "ko": {
+        "desktop": {
+          "path": "../images/ko/wallet_buy_event_winner_pc_kr.png",
+          "height": "90px", 
+          "background-color": "#eee8df" 
+        },
+        "tablet": {
+          "path": "../images/ko/wallet_buy_event_winner_mo_kr.png",
+          "height": "65px",
+          "background-color": "#eee8df"
+        },
+        "mobile": {
+          "path": "../images/ko/wallet_buy_event_winner_mo_kr.png",
+          "height": "15.64vw",
+          "background-color": "#eee8df"
+        }
+      },
+      "en": {
+        "desktop": {
+          "path": "../images/en/wallet_buy_event_winner_pc_en.png",
+          "height": "90px", 
+          "background-color": "#eee8df" 
+        },
+        "tablet": {
+          "path": "../images/en/wallet_buy_event_winner_mo_en.png",
+          "height": "65px",
+          "background-color": "#eee8df"
+        },
+        "mobile": {
+          "path": "../images/en/wallet_buy_event_winner_mo_en.png",
+          "height": "15.64vw",
+          "background-color": "#eee8df"
+        }
+      }
+    },
+    "link": {
+      "ko": {
+        "internal": false,
+        "external": "https://www.instagram.com/p/Ch_4uk4Owh_/?utm_source=ig_web_copy_link"
+      },
+      "en": {
+        "internal": false,
+        "external": "https://twitter.com/DCENTWALLETS/status/1565625929715847168"
+      }
+    }
   }
 ]
 
