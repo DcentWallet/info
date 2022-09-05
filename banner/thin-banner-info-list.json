@@ -3,26 +3,47 @@
     "img": {
       "ko": {
         "desktop": {
-          "path": "../images/ko/career_banner_pc.png",
+          "path": "../images/ko/thanksgivingday_shipping_delay_pc_ko.jpg",
           "height": "90px", 
-          "background-color": "#202020" 
+          "background-color": "#e8ded4" 
         },
         "tablet": {
-          "path": "../images/ko/career_banner_pc.png",
+          "path": "../images/ko/thanksgivingday_shipping_delay_mo_ko.jpg",
           "height": "65px",
-          "background-color": "#202020"
+          "background-color": "#e8ded4"
         },
         "mobile": {
-          "path": "../images/ko/career_banner_mo.png",
+          "path": "../images/ko/thanksgivingday_shipping_delay_mo_ko.jpg",
           "height": "15.64vw",
-          "background-color": "#202020"
+          "background-color": "#e8ded4"
+        }
+      },
+      "en": {
+        "desktop": {
+          "path": "../images/en/thanksgivingday_shipping_delay_pc_en.jpg",
+          "height": "90px", 
+          "background-color": "#e8ded4" 
+        },
+        "tablet": {
+          "path": "../images/en/thanksgivingday_shipping_delay_mo_en.jpg",
+          "height": "65px",
+          "background-color": "#e8ded4"
+        },
+        "mobile": {
+          "path": "../images/en/thanksgivingday_shipping_delay_mo_en.jpg",
+          "height": "15.64vw",
+          "background-color": "#e8ded4"
         }
       }
     },
     "link": {
       "ko": {
         "internal": false,
-        "external": "https://career.dcentwallet.com"
+        "external": "#"
+      },
+      "en": {
+        "internal": false,
+        "external": "#"
       }
     }
   },
@@ -71,6 +92,33 @@
       "en": {
         "internal": false,
         "external": "https://twitter.com/DCENTWALLETS/status/1565625929715847168"
+      }
+    }
+  },
+  {
+    "img": {
+      "ko": {
+        "desktop": {
+          "path": "../images/ko/career_banner_pc.png",
+          "height": "90px", 
+          "background-color": "#202020" 
+        },
+        "tablet": {
+          "path": "../images/ko/career_banner_pc.png",
+          "height": "65px",
+          "background-color": "#202020"
+        },
+        "mobile": {
+          "path": "../images/ko/career_banner_mo.png",
+          "height": "15.64vw",
+          "background-color": "#202020"
+        }
+      }
+    },
+    "link": {
+      "ko": {
+        "internal": false,
+        "external": "https://career.dcentwallet.com"
       }
     }
   }
