@@ -38,12 +38,12 @@
     },
     "link": {
       "ko": {
-        "internal": false,
-        "external": "#"
+        "internal": "#",
+        "external": false
       },
       "en": {
-        "internal": false,
-        "external": "#"
+        "internal": "#",
+        "external": false
       }
     }
   },
