@@ -37,6 +37,16 @@
       "externalWindow": true,
       "button": "Subscribe",
       "preRelease": true
+    },
+    {
+      "name": "randombox",
+      "title": "Randombox",
+      "description": "",
+      "link": " https://box.dcentwallet.com/events/EVSV5G5NM0?utm_medium=app&utm_source=dcent_app&utm_campaign=202209-LuckyRouletteEvent-promotion",
+      "imagePath": "randombox_promotion_app_banner_en.png",
+      "externalWindow": false,
+      "preRelease": true
     }
   ]
+        
 }
