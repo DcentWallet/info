@@ -1,6 +1,33 @@
 [
   {
     "img": {
+      "en": {
+        "desktop": {
+          "path": "../images/en/randombox_promotion_homepage_banner_pc_en.png",
+          "height": "90px", 
+          "background-color": "#2A7AEB" 
+        },
+        "tablet": {
+          "path": "../images/en/randombox_promotion_homepage_banner_mobile_en.png",
+          "height": "65px",
+          "background-color": "#2A7AEB"
+        },
+        "mobile": {
+          "path": "../images/en/randombox_promotion_homepage_banner_mobile_en.png",
+          "height": "15.64vw",
+          "background-color": "#2A7AEB"
+        }
+      }
+    },
+    "link": {
+      "en": {
+        "internal": false,
+        "external": "https://box.dcentwallet.com/events/EVSV5G5NM0?utm_medium=web&utm_source=dcent_web&utm_campaign=202209-LuckyRouletteEvent-promotion"
+      }
+    }
+  },
+  {
+    "img": {
       "ko": {
         "desktop": {
           "path": "../images/ko/thanksgivingday_shipping_delay_pc_ko.jpg",
