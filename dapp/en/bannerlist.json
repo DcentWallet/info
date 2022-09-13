@@ -7,8 +7,7 @@
       "link": "https://store.dcentwallet.com/?utm_source=dcent_app&utm_medium=app&utm_campaign=app_banner_store",
       "imagePath": "discovery_banner-dcent_bg.png",
       "externalWindow": true,
-      "button": "Buy Now",
-      "preRelease": true
+      "button": "Buy Now"
     },
     {
       "name": "medium",
@@ -17,8 +16,7 @@
       "link": "https://medium.com/dcentwallet/tagged/english?utm_source=dcent_app_new&utm_medium=app&utm_campaign=app_banner_medium",
       "imagePath": "discovery_banner-medium_bg.png",
       "externalWindow": true,
-      "button": "Follow",
-      "preRelease": true
+      "button": "Follow"
     },
     {
       "name": "youtube",
@@ -27,8 +25,7 @@
       "link": "https://www.youtube.com/c/DCENTWallet?utm_source=dcent_app&utm_medium=app&utm_campaign=app_banner_youtube",
       "imagePath": "discovery_banner-youtube_bg.png",
       "externalWindow": true,
-      "button": "Subscribe",
-      "preRelease": true
+      "button": "Subscribe"
     }
   ]
         
