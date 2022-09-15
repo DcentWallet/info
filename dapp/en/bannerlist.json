@@ -1,6 +1,13 @@
 {
   "list": [
     {
+      "name": "randombox",
+      "title": "RandomBox",
+      "link": "https://box.dcentwallet.com/events/EVSV5G5NM0?utm_medium=dcent_app_new&utm_source=dcent_app_new&utm_campaign=202209-LuckyRouletteEvent-promotion-end",
+      "imagePath": "banner_lucky_roulette_closed.png",
+      "externalWindow": false
+    },
+    {
       "name": "dcent",
       "title": "D'CENT",
       "description": "Enhance your security with <br/><b>D’CENT biometric wallet</b>",
