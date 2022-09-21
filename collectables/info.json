@@ -38,6 +38,14 @@
         },
         {
             "name": {
+                "en": "Songbird",
+                "ko": "Songbird"
+            },
+            "coinType": "CHAN:19",
+            "preRelease": true
+        },
+        {
+            "name": {
                 "en": "XDC-Network",
                 "ko": "XDC-네트워크"
             },
