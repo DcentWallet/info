@@ -1,6 +1,15 @@
 {
   "list": [
     {
+      "name": "mbti",
+      "title": "D'CENT",
+      "description": "내가 블록체인 업계에서 일한다면?<br/><b>블록체인 소울 테스트</b>",
+      "link": "https://simte.xyz/MBTI-SBT?utm_source=app_banner&utm_medium=app&utm_campaign=blockchain_soul_test_kr",
+      "imagePath": "discovery_banner-mbti.png",
+      "externalWindow": true,
+      "button": "나의 소울 알아보기"
+    },
+    {
       "name": "dcent",
       "title": "D'CENT",
       "description": "<b>디센트 지문인증형 지갑</b>으로<br/> 한층 더 강화된 보안을 경험하세요!",
