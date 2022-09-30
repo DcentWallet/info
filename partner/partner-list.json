@@ -1,5 +1,10 @@
 [   
     {
+    "name": "swapscanner",
+    "imageUrl": "../images/swapscanner.png",
+    "gotoLink": "https://swapscanner.io/ko"
+    },
+    {
     "name": "namulabs",
     "imageUrl": "../images/namulabs.png",
     "gotoLink": "https://www.namu-labs.dev/"
