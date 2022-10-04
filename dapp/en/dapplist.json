@@ -112,6 +112,24 @@
             "externalWindow": false
         },
         {
+            "name": "swapscanner",
+            "title": "Swapscanner",
+            "description": "Swapscanner is the No.1 DEX Aggregator on Klaytn. Swapscanner aggregates every single DEX on Klaytn network. Optimal price is guaranteed by our next generation Navigator™ engine.",
+            "link": "https://swapscanner.io/",
+            "kind": ["klay"],
+            "network": [ 
+                {
+                    "id": "klaytn-mainnet",
+                    "name": "Klaytn"
+                    } 
+            ],
+            "category": [],
+            "iconPath": "icon_swapscanner.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false
+        },
+        {
             "name": "belt.fi",
             "title": "Belt.fi",
             "description": "Belt.fi is an AMM protocol with multi-strategy yield optimization on BSC that also provides aggregation through auto-compounding and yield generation for maximum returns.",

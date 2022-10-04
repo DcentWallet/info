@@ -112,6 +112,24 @@
             "externalWindow": false
         },
         {
+            "name": "swapscanner",
+            "title": "스왑스캐너",
+            "description": "스왑스캐너는 클레이튼의 No.1 DEX 애그리게이터 서비스 입니다. 스왑스캐너는 클레이튼 네트워크 내 모든 DEX를 연동하고 고도화된 자체 엔진 Navigator를 통해 최저가 토큰 구매를 보장합니다.",
+            "link": "https://swapscanner.io/",
+            "kind": ["klay"],
+            "network": [ 
+                {
+                    "id": "klaytn-mainnet",
+                    "name": "클레이튼"
+                    } 
+            ],
+            "category": [],
+            "iconPath": "icon_swapscanner.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false
+        },
+        {
             "name": "belt.fi",
             "title": "Belt.fi",
             "description": "Belt.fi는 바이낸스 스마트 체인에서 동작하는 AMM 기반 다중 전략 수익 최적화 프로토콜로써, 자동화 복리 및 수익 창출 집계를 통해 최대의 수익을 제공합니다.",
