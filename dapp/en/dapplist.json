@@ -94,6 +94,24 @@
             "externalWindow": false
         },
         {
+            "name": "sparklesnft",
+            "title": "Sparkles NFT",
+            "description": "Sparkles is the leading NFT marketplace on Flare & Songbird. Community driven marketplace empowering the big things in web3. Discover the top new NFT Artists and collections today.", 
+            "link": "https://sparklesnft.com/",
+            "kind": ["songbird"],
+            "network": [ 
+                {
+                "id": "songbird-mainnet",
+                "name": "Songbird"
+                } 
+            ],
+            "category": [],
+            "iconPath": "icon-sparkles.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false
+        },
+        {
             "name": "KLAYswap",
             "title": "KLAYswap",
             "description": "KLAYswap extends the Klaytn DeFi ecosystem through liquidity pool-based KLAY, ETH, WBTC, USDT, ORC instant token swapping and liquidity mining.",
@@ -452,25 +470,6 @@
             "type": "dapp",
             "device": "ble_dongle",
             "externalWindow": false
-        },
-        {
-            "name": "sparklesnft",
-            "title": "SparklesNft",
-            "description": "Sparkles is the leading NFT marketplace on Flare & Songbird. Community driven marketplace empowering the big things in web3. Discover the top new NFT Artists and collections today.", 
-            "link": "https://sparklesnft.com/",
-            "kind": ["songbird"],
-            "network": [ 
-                {
-                "id": "songbird-mainnet",
-                "name": "Songbird"
-                } 
-            ],
-            "category": [],
-            "iconPath": "icon-sparkles.png",
-            "type": "dapp",
-            "device": "ble_dongle",
-            "externalWindow": false,
-            "preRelease": true
         }
     ]
 }
