@@ -452,6 +452,25 @@
             "type": "dapp",
             "device": "ble_dongle",
             "externalWindow": false
+        },
+        {
+            "name": "sparklesnft",
+            "title": "SparklesNft",
+            "description": "Sparkles는 Flare 및 Songbird의 선도적인 NFT 마켓플레이스이며 커뮤니티와 함께 web3의 큰 변화를 주도하고 있습니다. 오늘 최고의 NFT 아티스트와 컬렉션을 만나보세요.", 
+            "link": "https://sparklesnft.com/",
+            "kind": ["songbird"],
+            "network": [ 
+                {
+                "id": "songbird-mainnet",
+                "name": "송버드"
+                } 
+            ],
+            "category": [],
+            "iconPath": "icon-sparkles.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false,
+            "preRelease": true
         }
     ]
 }
