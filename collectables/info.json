@@ -42,7 +42,7 @@
                 "ko": "Songbird"
             },
             "coinType": "CHAN:19",
-            "preRelease": true
+            "preRelease": false
         },
         {
             "name": {
