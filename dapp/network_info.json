@@ -163,8 +163,7 @@
                     "coinType": "XDC-APOTHEM",
                     "chainId": 51,
                     "iconPath": "network_xdc.png",
-                    "testnet": true,
-                    "preRelease": true
+                    "testnet": true
                 },
                 {
                     "networkId": "celo-mainnet",

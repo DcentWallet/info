@@ -1,5 +1,15 @@
 [   
     {
+    "name": "swapscanner",
+    "imageUrl": "../images/swapscanner.png",
+    "gotoLink": "https://swapscanner.io/"
+    },
+    {
+    "name": "namulabs",
+    "imageUrl": "../images/namulabs.png",
+    "gotoLink": "https://www.namu-labs.dev/"
+    },
+    {
     "name": "1inch",
     "imageUrl": "../images/1inch.png",
     "gotoLink": "https://1inch.io/"
