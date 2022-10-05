@@ -1,5 +1,10 @@
 [   
     {
+    "name": "angrywhales",
+    "imageUrl": "../images/angrywhales.png",
+    "gotoLink": "https://angrywhales.club/"
+    },
+    {
     "name": "swapscanner",
     "imageUrl": "../images/swapscanner.png",
     "gotoLink": "https://swapscanner.io/"
