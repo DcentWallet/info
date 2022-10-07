@@ -92,7 +92,7 @@
                     "coinType": "CHAN:19",
                     "chainId": 19,
                     "iconPath": "network_sgb.png",
-                    "priority" : 2                
+                    "priority" : 2
                 },
                 {
                     "networkId": "heco-mainnet",
@@ -119,6 +119,15 @@
                     "chainId": 31,
                     "iconPath" : "network_rsk.png",
                     "testnet": true
+                },
+                {
+                    "networkId": "flare",
+                    "name": "flare",
+                    "description": "Flare",
+                    "coinType": "CHAN:14",
+                    "chainId": 14,
+                    "iconPath" : "network_flare.png",
+                    "preRelease": true
                 },
                 {
                     "networkId": "flare-coston",
