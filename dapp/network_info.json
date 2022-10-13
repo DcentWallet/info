@@ -126,8 +126,7 @@
                     "description": "Flare",
                     "coinType": "CHAN:14",
                     "chainId": 14,
-                    "iconPath" : "network_flare.png",
-                    "preRelease": true
+                    "iconPath" : "network_flare.png"
                 },
                 {
                     "networkId": "flare-coston",
