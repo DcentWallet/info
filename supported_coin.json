@@ -583,6 +583,17 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7950.png",
+    "name": "Spark",
+    "symbol": "FLR",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://github.com/DcentWallet/info/raw/master/images/coins/original/asset-bptc.png",
     "symbol": "BPTC",
     "name": "Business Platform Tomato Coin",
@@ -22367,6 +22378,19 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/18687.png",
+    "symbol": "HDRN",
+    "name": "Hedron",
+    "type": "ERC20",
+    "contract": "0x3819f64f282bf135d62168c1e513280daf905e06",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/logo_doc.svg",
     "symbol": "DOC",
     "name": "Dollar on Chain",
@@ -33420,11 +33444,11 @@
     }
   },
   {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/10051.png",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/21400.png",
     "symbol": "LTRBT",
-    "name": "LITTLE RABBIT",
+    "name": "LITTLE RABBIT(V2)",
     "type": "BEP20",
-    "contract": "0x17d749d3e2ac204a07e19d8096d9a05c423ea3af",
+    "contract": "0x6c46422a0f7dbbad9bec3bbbc1189bfaf9794b05",
     "support": {
       "biometric": true,
       "ethCard": false,
@@ -35655,6 +35679,19 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/20909.png",
+    "symbol": "IP3",
+    "name": "CRIPCO",
+    "type": "SPL-TOKEN",
+    "contract": "3uejHm24sWmniGA5m4j4S1DVuGqzYBR5DJpevND4mivq",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/9078.png",
     "symbol": "FC",
     "name": "FansCoin",
@@ -35851,6 +35888,18 @@
     "contract": "0x0b72928cd168419077bECd7AB948Cf0922A098a8",
     "symbol": "XTL",
     "type": "Meta-MRC20",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "name": "Wrapped Flare",
+    "contract": "0x1d80c49bbbcd1c0911346656b529df9e5c2f783d",
+    "symbol": "WFLR",
+    "type": "FLR-ERC20",
     "support": {
       "biometric": true,
       "ethCard": false,
