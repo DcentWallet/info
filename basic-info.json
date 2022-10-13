@@ -491,6 +491,15 @@
             "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6535.png",
             "name": "NEAR",
             "symbol": "NEAR"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7950.png",
+            "name": "Spark",
+            "symbol": "FLR"
         }
     ],
     "version": {
