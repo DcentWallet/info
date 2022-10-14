@@ -38,12 +38,12 @@
     },
     "link": { 
       "en": {
-        "internal": false,
-        "external": "https://dcentwallet.com/events/20221015-Tezos-promotion?utm_medium=web&utm_source=dcent_web&utm_campaign=20221015-Tezos-promotion&lang=en" 
+        "internal": "/events/20221015-Tezos-promotion?utm_medium=web&utm_source=dcent_web&utm_campaign=20221015-Tezos-promotion&lang=en",
+        "external": false
       },
       "ko": {
-        "internal": false, 
-        "extenral": "https://dcentwallet.com/events/20221015-Tezos-promotion?utm_medium=web&utm_source=dcent_web&utm_campaign=20221015-Tezos-promotion&lang=ko"
+        "internal": "/events/20221015-Tezos-promotion?utm_medium=web&utm_source=dcent_web&utm_campaign=20221015-Tezos-promotion&lang=ko", 
+        "extenral": false
       }
     }
   },
