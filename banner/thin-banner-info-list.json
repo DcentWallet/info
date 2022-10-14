@@ -1,6 +1,54 @@
 [
   {
     "img": {
+      "en": {
+        "desktop": {
+          "path": "../images/en/Tezos_Giveaway_Event_pc_banner_EN.png",
+          "height": "90px",
+          "background-color": "#313842"
+        },
+        "tablet": {
+          "path": "../images/en/Tezos_Giveaway_Event_mo_banner_EN.png",
+          "height": "65px",
+          "background-color": "#313842"
+        },
+        "mobile": {
+          "path": "../images/en/Tezos_Giveaway_Event_mo_banner_EN.png",
+          "height": "15.64vw",
+          "background-color": "#313842"
+        }
+      },
+      "ko": {
+        "desktop": {
+          "path": "../images/ko/Tezos_Giveaway_Event_pc_banner_KR.png",
+          "height": "90px", 
+          "background-color": "#313842"
+        },
+        "tablet": {
+          "path": "../images/ko/Tezos_Giveaway_Event_mo_banner_KR.png",
+          "height": "65px",
+          "background-color": "#313842"
+        },
+        "mobile": {
+          "path": "../images/ko/Tezos_Giveaway_Event_mo_banner_KR.png",
+          "height": "15.64vw",
+          "background-color": "#313842"
+        }
+      }
+    },
+    "link": { 
+      "en": {
+        "internal": false,
+        "external": "https://dcentwallet.com/events/20221015-Tezos-promotion?utm_medium=web&utm_source=dcent_web&utm_campaign=20221015-Tezos-promotion&lang=en" 
+      },
+      "ko": {
+        "internal": false, 
+        "extenral": "https://dcentwallet.com/events/20221015-Tezos-promotion?utm_medium=web&utm_source=dcent_web&utm_campaign=20221015-Tezos-promotion&lang=ko"
+      }
+    }
+  },
+  {
+    "img": {
       "ko": {
         "desktop": {
           "path": "../images/ko/career_banner_pc.png",
