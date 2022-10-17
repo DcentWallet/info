@@ -56,16 +56,16 @@
       "priority": 1
     },
     {
-      "name" : "klaytn",
+      "name": "klaytn",
       "networkId": "klaytn-mainnet",
-      "type" : "klaytn",
-      "available" : {
-        "swapscanner":true
+      "type": "klaytn",
+      "available": {
+        "swapscanner": true
       },
-      "explorer" :"https://scope.klaytn.com/",
-      "iconPath" : "",
-      "priority" : 6,
-      "pre" : true
+      "explorer": "https://scope.klaytn.com/",
+      "iconPath": "",
+      "priority": 6,
+      "pre": true
     }
   ]
 }
