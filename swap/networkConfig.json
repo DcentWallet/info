@@ -63,7 +63,7 @@
         "swapscanner": true
       },
       "explorer": "https://scope.klaytn.com/",
-      "iconPath": "",
+      "iconPath": "network_klaytn.svg",
       "priority": 6,
       "pre": true
     }
