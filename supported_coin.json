@@ -35,7 +35,7 @@
   {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/52.png",
     "symbol": "XRP",
-    "name": "XRP",
+    "name": "XRPL",
     "support": {
       "biometric": true,
       "ethCard": false,
@@ -26069,7 +26069,7 @@
   {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/52.png",
     "symbol": "XRP",
-    "name": "XRP",
+    "name": "XRPL",
     "type": "STELLAR-TA",
     "contract": "8.GBXRPL45NPHCVMFFAYZVUVFFVKSIZ362ZXFP7I2ETNQ3QKZMFLPRDTD5.XRP.22497985",
     "support": {
