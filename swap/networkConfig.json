@@ -54,6 +54,18 @@
       "explorer": "https://etherscan.io/tx/",
       "iconPath": "network_ethereum.svg",
       "priority": 1
+    },
+    {
+      "name": "Klaytn",
+      "networkId": "klaytn-mainnet",
+      "type": "klaytn",
+      "available": {
+        "swapscanner": true
+      },
+      "explorer": "https://scope.klaytn.com/",
+      "iconPath": "network_klaytn.svg",
+      "priority": 6,
+      "pre": true
     }
   ]
 }
