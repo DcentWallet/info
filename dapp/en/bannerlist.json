@@ -3,6 +3,17 @@
     {
       "name": "tezos_giveaway",
       "title": "Tezos Giveaway",
+      "description": "",
+      "link": "https://dcentwallet.com/events/20221015-Tezos-promotion?utm_medium=app&utm_source=dcent_app_v02&utm_campaign=20221015-Tezos-promotion&lang=en",
+      "imagePath": "(360x160) Tezos App Banner gold EN.png",
+      "imagePath_480": "(480x160) Tezos App Banner gold EN.png",
+      "bgColor": "#323943",
+      "externalWindow": true,
+      "preRelease": true
+    },
+    {
+      "name": "tezos_giveaway",
+      "title": "Tezos Giveaway",
       "description": "<b>D'CENT X TEZOS<br/>Giveaway Event!</b>",
       "link": "https://dcentwallet.com/events/20221015-Tezos-promotion?utm_medium=app&utm_source=dcent_app&utm_campaign=20221015-Tezos-promotion&lang=en",
       "imagePath": "Tezos-Giveaway-app-banner-bg.jpg",
