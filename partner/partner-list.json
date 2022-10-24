@@ -488,5 +488,10 @@
     "name": "GamePer",
     "imageUrl": "../images/gameper.png",
     "gotoLink": "https://gameper.io/"
+  },
+  {
+    "name": "ROYAL NFT CLUB",
+    "imageUrl": "../images/royalnftclub.png",
+    "gotoLink": "https://www.royalnftclub.com/"
   }
 ]
