@@ -3,46 +3,46 @@
     "img": {
       "en": {
         "desktop": {
-          "path": "../images/en/Tezos_Giveaway_Event_pc_banner_EN.png",
+          "path": "../images/en/Tezos-pc-banner-EN.png",
           "height": "90px",
-          "background-color": "#313842"
+          "background-color": "#323943"
         },
         "tablet": {
-          "path": "../images/en/Tezos_Giveaway_Event_mo_banner_EN.png",
+          "path": "../images/en/Tezos-mo-banner-EN.png",
           "height": "65px",
-          "background-color": "#313842"
+          "background-color": "#323943"
         },
         "mobile": {
-          "path": "../images/en/Tezos_Giveaway_Event_mo_banner_EN.png",
+          "path": "../images/en/Tezos-mo-banner-EN.png",
           "height": "15.64vw",
-          "background-color": "#313842"
+          "background-color": "#323943"
         }
       },
       "ko": {
         "desktop": {
-          "path": "../images/ko/Tezos_Giveaway_Event_pc_banner_KR.png",
+          "path": "../images/ko/Tezos-pc-banner-KR.png",
           "height": "90px", 
-          "background-color": "#313842"
+          "background-color": "#323943"
         },
         "tablet": {
-          "path": "../images/ko/Tezos_Giveaway_Event_mo_banner_KR.png",
+          "path": "../images/ko/Tezos-mo-banner-KR.png",
           "height": "65px",
-          "background-color": "#313842"
+          "background-color": "#323943"
         },
         "mobile": {
-          "path": "../images/ko/Tezos_Giveaway_Event_mo_banner_KR.png",
+          "path": "../images/ko/Tezos-mo-banner-KR.png",
           "height": "15.64vw",
-          "background-color": "#313842"
+          "background-color": "#323943"
         }
       }
     },
     "link": { 
       "en": {
-        "internal": "/events/20221015-Tezos-promotion?utm_medium=web&utm_source=dcent_web&utm_campaign=20221015-Tezos-promotion&lang=en",
+        "internal": "/events/20221015-Tezos-promotion?utm_medium=web&utm_source=dcent_web_v02&utm_campaign=20221015-Tezos-promotion&lang=en",
         "external": false
       },
       "ko": {
-        "internal": "/events/20221015-Tezos-promotion?utm_medium=web&utm_source=dcent_web&utm_campaign=20221015-Tezos-promotion&lang=ko", 
+        "internal": "/events/20221015-Tezos-promotion?utm_medium=web&utm_source=dcent_web_v02&utm_campaign=20221015-Tezos-promotion&lang=ko", 
         "extenral": false
       }
     }
