@@ -8,17 +8,7 @@
       "imagePath": "360x160_Tezos_App_Banner_gold_EN.png",
       "imagePath_480": "480x160_Tezos_App_Banner_gold_EN.png",
       "bgColor": "#323943",
-      "externalWindow": true,
-      "preRelease": true
-    },
-    {
-      "name": "tezos_giveaway",
-      "title": "Tezos Giveaway",
-      "description": "<b>D'CENT X TEZOS<br/>Giveaway Event!</b>",
-      "link": "https://dcentwallet.com/events/20221015-Tezos-promotion?utm_medium=app&utm_source=dcent_app&utm_campaign=20221015-Tezos-promotion&lang=en",
-      "imagePath": "Tezos-Giveaway-app-banner-bg.jpg",
-      "externalWindow": true,
-      "button": "Join Now"
+      "externalWindow": true
     },
     {
       "name": "dcent",
