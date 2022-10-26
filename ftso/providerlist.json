@@ -517,9 +517,12 @@
       "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0xb9dBa66d8e88c6D620F11Ce32553E0CfBC776926.png"
     },
     {
+      "partner": true,
       "name": "EvolveFTSO",
       "description": "EvolveFTSO is a reliable data provider, run by a team providing continuous improvements to produce the best results",
       "url": "https://evolveftso.com",
+      "dapp": "https://evolveftso.com/delegate.html",
+      "twitter": "https://twitter.com/evolveftso",
       "address": "0x0f80AF5b905a9A34f69E74412c4A00B231D26dAa",
       "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x0f80AF5b905a9A34f69E74412c4A00B231D26dAa.png"
     },
@@ -1224,9 +1227,12 @@
       "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0xb9dBa66d8e88c6D620F11Ce32553E0CfBC776926.png"
     },
     {
+      "partner": true,
       "name": "EvolveFTSO",
       "description": "EvolveFTSO is a reliable data provider, run by a team providing continuous improvements to produce the best results",
       "url": "https://evolveftso.com",
+      "dapp": "https://evolveftso.com/delegate.html",
+      "twitter": "https://twitter.com/evolveftso",
       "address": "0x0f80AF5b905a9A34f69E74412c4A00B231D26dAa",
       "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x0f80AF5b905a9A34f69E74412c4A00B231D26dAa.png"
     },
