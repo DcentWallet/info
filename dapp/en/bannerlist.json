@@ -1,6 +1,17 @@
 {
   "list": [
     {
+      "name": "tezos_randombox",
+      "title": "Tezos Spin",
+      "description": "",
+      "link": "https://box.dcentwallet.com/events/EVMNKW1SD0?utm_medium=dcent-app&utm_source=discovery_banner&utm_campaign=roulette-event-promotion_v01",
+      "imagePath": "360x160_tezos_randombox_EN.png",
+      "imagePath_480": "480x160_tezos_randombox_EN.png",
+      "bgColor": "#203a84",
+      "externalWindow": false,
+      "preRelease": true
+    },
+    {
       "name": "tezos_giveaway",
       "title": "Tezos Giveaway",
       "description": "",
