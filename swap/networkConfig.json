@@ -62,7 +62,7 @@
       "available": {
         "swapscanner": true
       },
-      "explorer": "https://scope.klaytn.com/",
+      "explorer": "https://scope.klaytn.com/tx/",
       "iconPath": "network_klaytn.svg",
       "priority": 6,
       "pre": true
