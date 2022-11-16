@@ -1,22 +1,12 @@
 {
   "list": [
     {
-      "name": "black_friday",
-      "title": "Black Friday",
+      "name": "black_friday_2022",
+      "title": "Black Friday 2022",
       "description": "",
       "link": "https://dcentwallet.com/events/20221117-blackfriday-promotion?utm_source=discovery_banner&utm_medium=dcent-web&utm_campaign=202211_blackfriday-promotion_v01&lang=en",
       "imagePath": "black_friday_app_en_360X160.png",
       "imagePath_480": "black_friday_app_en_480X160.png",
-      "bgColor": "#000000",
-      "externalWindow": true
-    },
-    {
-      "name": "black_friday_2022",
-      "title": "Black Friday 2022",
-      "description": "",
-      "link": "https://dcentwallet.com/events/20221117-blackfriday-promotion?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202211_blackfriday-promotion_v01&lang=en",
-      "imagePath": "360x160_Black_Friday_banner_EN.png",
-      "imagePath_480": "480x160_Black_Friday_banner_EN.png",
       "bgColor": "#000000",
       "externalWindow": true
     },
