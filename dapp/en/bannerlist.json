@@ -1,6 +1,16 @@
 {
   "list": [
     {
+      "name": "black_friday_2022",
+      "title": "Black Friday 2022",
+      "description": "",
+      "link": "https://dcentwallet.com/events/20221117-blackfriday-promotion?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202211_blackfriday-promotion_v01&lang=en",
+      "imagePath": "black_friday_app_en_360X160.png",
+      "imagePath_480": "black_friday_app_en_480X160.png",
+      "bgColor": "#000000",
+      "externalWindow": true
+    },
+    {
       "name": "tezos_giveaway",
       "title": "Tezos Giveaway",
       "description": "",

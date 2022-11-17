@@ -3,6 +3,33 @@
     "img": {
       "en": {
         "desktop": {
+          "path": "../images/en/Black_Friday-PC-EN.png",
+          "height": "90px",
+          "background-color": "#000000"
+        },
+        "tablet": {
+          "path": "../images/en/Black_Friday-MO-EN.png",
+          "height": "65px",
+          "background-color": "#000000"
+        },
+        "mobile": {
+          "path": "../images/en/Black_Friday-MO-EN.png",
+          "height": "15.64vw",
+          "background-color": "#000000"
+        }
+      }
+    },
+    "link": { 
+      "en": {
+        "internal": "/events/20221117-blackfriday-promotion?utm_source=home_banner&utm_medium=dcent-web&utm_campaign=202211_blackfriday-promotion_v01&lang=en",
+        "external": false
+      }
+    }
+  },
+  {
+    "img": {
+      "en": {
+        "desktop": {
           "path": "../images/en/Tezos-pc-banner-EN.png",
           "height": "90px",
           "background-color": "#323943"
