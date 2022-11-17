@@ -64,8 +64,7 @@
       },
       "explorer": "https://scope.klaytn.com/tx/",
       "iconPath": "network_klaytn.svg",
-      "priority": 6,
-      "pre": true
+      "priority": 6
     }
   ]
 }
