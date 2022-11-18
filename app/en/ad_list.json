@@ -4,9 +4,9 @@
         "title": "",
         "link": "https://dcentwallet.com/events/20221117-blackfriday-promotion?utm_source=popup_banner&utm_medium=dcent-app&utm_campaign=202211_blackfriday-promotion_v01&lang=en",
         "image": "ad_app_black_friday_2022_en.png",
-        "endTimestamp": "1669820400",
-        "buttons": [ { "text": "close" } ],
-        "stopShowToday" : true,
+        "endTimestamp": "1669820400000",
+        "buttons": [ { "text": "close", "event": "close" } ],
+        "stopSeeingToday" : "Stop seeing today",
         "externalWindow": true,
         "preRelease": true
     }
