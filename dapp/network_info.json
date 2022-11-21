@@ -289,7 +289,7 @@
                 },
                 {
                     "networkId": "klaytn-evm-mainnet",
-                    "name": "klaytn-evm-mainnet",
+                    "name": "klaytn_evm",
                     "description": "Klaytn - EVM",
                     "coinType": "KLAYTN",
                     "chainId": 8217,
