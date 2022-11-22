@@ -258,7 +258,8 @@
                     "coinType": "CHAN:1666600000",
                     "chainId": 1666600000,
                     "iconPath": "network_harmony.png",
-                    "priority" : 11
+                    "priority" : 11,
+                    "nativeVersion": "5.20.1"
                 },
                 {
                     "networkId": "HARMONY-testnet",
