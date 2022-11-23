@@ -295,7 +295,11 @@
                     "chainId": 8217,
                     "iconPath": "network_klaytn2.png",
                     "testnet": false,
-                    "preRelease": true
+                    "preRelease": true,
+                    "nativeVersion": {
+                        "Android": "5.21.1",
+                        "iOS": "5.21.2"
+                    }                        
                 }
             ]
         },
