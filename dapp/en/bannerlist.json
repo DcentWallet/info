@@ -1,6 +1,16 @@
 {
   "list": [
     {
+      "name": "black_friday_2022",
+      "title": "Black Friday 2022",
+      "description": "",
+      "link": "https://dcentwallet.com/events/20221117-blackfriday-promotion?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202211_blackfriday-promotion_v01&lang=en",
+      "imagePath": "black_friday_app_en_360X160.png",
+      "imagePath_480": "black_friday_app_en_480X160.png",
+      "bgColor": "#000000",
+      "externalWindow": true
+    },
+    {
       "name": "tezos_giveaway",
       "title": "Tezos Giveaway",
       "description": "",
@@ -14,7 +24,7 @@
       "name": "dcent",
       "title": "D'CENT",
       "description": "Enhance your security with <br/><b>D’CENT biometric wallet</b>",
-      "link": "https://store.dcentwallet.com/?utm_source=dcent_app&utm_medium=app&utm_campaign=app_banner_store",
+      "link": "https://store.dcentwallet.com?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=constant_purchase-hardware",
       "imagePath": "discovery_banner-dcent_bg.png",
       "externalWindow": true,
       "button": "Buy Now"
