@@ -286,6 +286,19 @@
                     "chainId": 2017,
                     "iconPath": "network_orbit.png",
                     "testnet": true
+                },
+                {
+                    "networkId": "klaytn-evm-mainnet",
+                    "name": "klaytn_evm",
+                    "description": "Klaytn - EVM",
+                    "coinType": "KLAYTN",
+                    "chainId": 8217,
+                    "iconPath": "network_klaytn2.png",
+                    "testnet": false,
+                    "nativeVersion": {
+                        "Android": "5.21.1",
+                        "iOS": "5.21.2"
+                    }                        
                 }
             ]
         },
