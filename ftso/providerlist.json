@@ -648,6 +648,146 @@
       "url": "https://flarebeacon.xyz",
       "address": "0xdd33Ba13F32C90D678422251B52B005335fB7A4c",
       "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0xdd33Ba13F32C90D678422251B52B005335fB7A4c.png"
+    },
+    {
+      "name": "OracleSwap FTSO",
+      "description": "OracleSwap is the premier decentralized exchange on the Songbird Network. The OracleSwap FTSO uses a Machine Learning algorithm to aggregate price data from many sources to submit the most accurate price data possible.",
+      "url": "https://www.oracleswap.io",
+      "address": "0xEdFac79f110b0d792941508867f84552E6f3AA75",
+      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xEdFac79f110b0d792941508867f84552E6f3AA75.png"
+    },
+    {
+      "name": "EDPFTSO",
+      "description": "Enterprise Data Provider FTSO",
+      "url": "https://edp-ftso.com",
+      "address": "0xad918962795547a8c997F96f7BAbB822612a5FfE",
+      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xad918962795547a8c997F96f7BAbB822612a5FfE.png"
+    },
+    {
+      "name": "Ivy Oracle",
+      "description": "Low fee and optimised rewards, Ivy Oracle strive for providing the best open analytics tools for the community.",
+      "url": "https://ivyoracle.xyz",
+      "address": "0x64D998BC81424131E5aF05071263fDeBD1a82986",
+      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x64D998BC81424131E5aF05071263fDeBD1a82986.png"
+    },
+    {
+      "name": "FTSO4ALL",
+      "description": "FTSO4ALL is a reliable data provider that aims to become the reference data provider for everyone",
+      "url": "https://ftso4all.xyz",
+      "address": "0x0937E91c116767ffD2256ABc15B67561BaD5d1C2",
+      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0937E91c116767ffD2256ABc15B67561BaD5d1C2.png"
+    },
+    {
+      "name": "SolidiFi FTSO",
+      "description": "The SolidiFi FTSO Data provider aims to provide accurate price information to the Flare Network",
+      "url": "https://solidifi.app",
+      "address": "0x4CfB79399cd840414a2BeF2c7C7A0cE3b9b0F89d",
+      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4CfB79399cd840414a2BeF2c7C7A0cE3b9b0F89d.png"
+    },
+    {
+      "name": "Ad. Owl",
+      "description": "Ad. Owl is a flexible and adaptable data provider for both Songbird and Flare network",
+      "url": "https://owl-ftso.com",
+      "address": "0x7B6DA41157852a86142bc4c62A73f969AC15a869",
+      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7B6DA41157852a86142bc4c62A73f969AC15a869.png"
+    },
+    {
+      "name": "Envision",
+      "description": "Providing reliable data feeds to the Flare Network",
+      "url": "https://www.envisionftso.com",
+      "address": "0x9b42B895D2A10D048eaf4996fDf93aEBf59167BF",
+      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9b42B895D2A10D048eaf4996fDf93aEBf59167BF.png"
+    },
+    {
+      "name": "TheGrungies",
+      "description": "TheGrungies FTSO is a Signal Provider based on the TheGrungies NFT Community",
+      "url": "https://ftso.thegrungies.com",
+      "address": "0x085841B253590281cc5c5222b09D4e59a605E774",
+      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x085841B253590281cc5c5222b09D4e59a605E774.png"
+    },
+    {
+      "name": "Starlink Oracle",
+      "description": "Starlink Oracle aggregates data from reliable sources. This ensures that our data algorithm computes accurate prices to consistently submit on delegators behalf. Building the future of global decentralized oracle services.",
+      "url": "https://starlinkoracle.com",
+      "address": "0xEb190a42eff3bCCAf65A432F2B7D2b1CaBE30c25",
+      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xEb190a42eff3bCCAf65A432F2B7D2b1CaBE30c25.png"
+    },
+    {
+      "name": "Aimlezz",
+      "description": "Aimlezzly providing the best prices.",
+      "url": "https://www.aimlezz.com",
+      "address": "0xD1eDC6Dd3Ba8b0881A44002Ac501a69E924b8F00",
+      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xD1eDC6Dd3Ba8b0881A44002Ac501a69E924b8F00.png"
+    },
+    {
+      "name": "NewWave",
+      "description": "NewWave is a SongBird Network signal provider. We are proud to be a part of Flare Network.",
+      "url": "https://newwave-provider.com",
+      "address": "0xF1f2a4859EA38A0c2CEb2eAF4c591a8257F2BB34",
+      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xF1f2a4859EA38A0c2CEb2eAF4c591a8257F2BB34.png"
+    },
+    {
+      "name": "MyFTSO",
+      "description": "MyFtso is a community centric data provider. We are looking to deliver accurate and reliable price feeds to the Flare/Songbird Networks to maximize returns for all.",
+      "url": "https://myftso.xyz",
+      "address": "0x6da8b10612c2C5a5A62642d4a666bC830E74FC40",
+      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6da8b10612c2C5a5A62642d4a666bC830E74FC40.png"
+    },
+    {
+      "name": "Atlas TSO",
+      "description": "Atlas Flare Network Data Provider. Doing what is best for the users and the network.",
+      "url": "https://tsoatlas.xyz",
+      "address": "0x07702A7494F760B0b3642463BdD2B7A13cFDDbb2",
+      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x07702A7494F760B0b3642463BdD2B7A13cFDDbb2.png"
+    },
+    {
+      "name": "XAWC FTSO",
+      "description": "Helping provide dentralised prices to Songbird and Flare.",
+      "url": "https://ftso.xawc.live",
+      "address": "0x07aDBa9ecB8de51AeC39d8FF90cD8e49DBcFfd02",
+      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x07aDBa9ecB8de51AeC39d8FF90cD8e49DBcFfd02.png"
+    },
+    {
+      "name": "Odin",
+      "description": "California data provider on the Flare Network. Aggregating hundreds of external data points in order to provide the most accurate prices to the FTSO system.",
+      "url": "https://odinftso.com",
+      "address": "0x0701ab70BB0deb504e2daD44ffe2f8E0f7399a1D",
+      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0701ab70BB0deb504e2daD44ffe2f8E0f7399a1D.png"
+    },
+    {
+      "name": "True FTSO",
+      "description": "Still improving. No cheating. Reliable data. No dumping. Low fee.",
+      "url": "https://trueftso.com",
+      "address": "0xb6deD9D9CA19af10C67f9A8be8ca75e38E166faA",
+      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb6deD9D9CA19af10C67f9A8be8ca75e38E166faA.png"
+    },
+    {
+      "name": "Mickey B Fresh",
+      "description": "We provide a hub of resources revolving around everything build on the XRP, SGB and Flare networks. We pride ourselves on transparency and evidence-based content. The group behind this site are long term holders of XRP and researching this digital asset for years. The focus of the site will mainly be on the XRP, Flare and Songbird Networks.",
+      "url": "https://www.mickeybfresh.com",
+      "address": "0x4E94Dbff86b7f1F5ac9FD849E8101A4d52E947eC",
+      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4E94Dbff86b7f1F5ac9FD849E8101A4d52E947eC.png"
+    },
+    {
+      "name": "FTSchizO",
+      "description": "FTSchizO is a SGB/FLR data provider that focuses on esoteric community building.",
+      "url": "https://ftschizo.xyz",
+      "address": "0xa41d19F4258a388c639B7CcD938FCE3fb7D05e86",
+      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xa41d19F4258a388c639B7CcD938FCE3fb7D05e86.png"
+    },
+    {
+      "name": "CFN",
+      "description": "A passive income community driven project based on utility NFTs.",
+      "url": "https://cryptapero.fr",
+      "address": "0xf12f09E8Ee7E0C0D0b3279120325A97dc821E971",
+      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xf12f09E8Ee7E0C0D0b3279120325A97dc821E971.png"
+    },
+    {
+      "name": "TempestFTSO",
+      "description": "TempestFTSO created by industry professionals to deliver the most reliable and accurate price feeds to the FTSO system.",
+      "url": "https://tempestftso.com",
+      "address": "0x4eb408FA585a5C66E523a4aE5f5706374Ec9E8c7",
+      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4eb408FA585a5C66E523a4aE5f5706374Ec9E8c7.png"
     }
   ],
   "19": [
@@ -1392,6 +1532,132 @@
       "url": "https://ivy-oracle.vercel.app",
       "address": "0xA174D46EF49D7d4a0328f9910222689E9eAb2f45",
       "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0xA174D46EF49D7d4a0328f9910222689E9eAb2f45.png"
+    },
+    {
+      "name": "FTSO4ALL",
+      "description": "FTSO4ALL is a reliable data provider that aims to become the reference data provider for everyone",
+      "url": "https://ftso4all.xyz",
+      "address": "0x0937E91c116767ffD2256ABc15B67561BaD5d1C2",
+      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0937E91c116767ffD2256ABc15B67561BaD5d1C2.png"
+    },
+    {
+      "name": "SolidiFi FTSO",
+      "description": "The SolidiFi FTSO Data provider aims to provide accurate price information to the Songbird Network",
+      "url": "https://solidifi.app",
+      "address": "0x769530a9F2e4624aE2D6869869d510D4cd55b545",
+      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x769530a9F2e4624aE2D6869869d510D4cd55b545.png"
+    },
+    {
+      "name": "Ad. Owl",
+      "description": "Ad. Owl is a flexible and adaptable data provider for both Songbird and Flare network",
+      "url": "https://owl-ftso.com",
+      "address": "0xad6f97449d5D7C6c191B58792137E6204bD0538F",
+      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xad6f97449d5D7C6c191B58792137E6204bD0538F.png"
+    },
+    {
+      "name": "Envision",
+      "description": "Providing reliable data feeds to the Songbird Network",
+      "url": "https://www.envisionftso.com",
+      "address": "0x58Cd43E9FcdBd4D0F507aB4f6029dB8032746da8",
+      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x58Cd43E9FcdBd4D0F507aB4f6029dB8032746da8.png"
+    },
+    {
+      "name": "TheGrungies",
+      "description": "TheGrungies FTSO is a Signal Provider based on the TheGrungies NFT Community",
+      "url": "https://ftso.thegrungies.com",
+      "address": "0x2C293599ca61bb53e8fF82c8a19c2A8B883ea23f",
+      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2C293599ca61bb53e8fF82c8a19c2A8B883ea23f.png"
+    },
+    {
+      "name": "Starlink Oracle",
+      "description": "Starlink Oracle aggregates data from reliable sources. This ensures that our data algorithm computes accurate prices to consistently submit on delegators behalf. Building the future of global decentralized oracle services.",
+      "url": "https://starlinkoracle.com",
+      "address": "0xA9a143FEe74E12E97DC794fD1340f851813BDA92",
+      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xA9a143FEe74E12E97DC794fD1340f851813BDA92.png"
+    },
+    {
+      "name": "Aimlezz",
+      "description": "Aimlezzly providing the best prices.",
+      "url": "https://www.aimlezz.com",
+      "address": "0x0501B6306b03A9EEDe8165d4B9abCB4915937b89",
+      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0501B6306b03A9EEDe8165d4B9abCB4915937b89.png"
+    },
+    {
+      "name": "NewWave",
+      "description": "NewWave is a SongBird Network signal provider. We are proud to be a part of Flare Network.",
+      "url": "https://newwave-provider.com",
+      "address": "0xC84d776Ddf92dA03C37d77BC65519AF696cDfe8b",
+      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xC84d776Ddf92dA03C37d77BC65519AF696cDfe8b.png"
+    },
+    {
+      "name": "MyFTSO",
+      "description": "MyFtso is a community centric data provider. We are looking to deliver accurate and reliable price feeds to the Flare/Songbird Networks to maximize returns for all.",
+      "url": "https://myftso.xyz",
+      "address": "0x399A2dE69e38D93bc397Eb2b1f5487bD25a71C00",
+      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x399A2dE69e38D93bc397Eb2b1f5487bD25a71C00.png"
+    },
+    {
+      "name": "Atlas TSO",
+      "description": "Atlas Songbird Network Data Provider. Doing what is best for the users and the network.",
+      "url": "https://tsoatlas.xyz",
+      "address": "0xB5ECB64526F777Eb6f02D4A83AbAB1FAD26b1C00",
+      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xB5ECB64526F777Eb6f02D4A83AbAB1FAD26b1C00.png"
+    },
+    {
+      "name": "XAWC FTSO",
+      "description": "Helping provide dentralised prices to Songbird and Flare.",
+      "url": "https://ftso.xawc.live",
+      "address": "0x190C6f470A866Db58A6c17631e24b07BE257eAf5",
+      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x190C6f470A866Db58A6c17631e24b07BE257eAf5.png"
+    },
+    {
+      "name": "Odin",
+      "description": "California data provider on the Songbird Network. Aggregating hundreds of external data points in order to provide the most accurate prices to the FTSO system.",
+      "url": "https://odinftso.com",
+      "address": "0x8FdBcb218561776759702b175084dBa856282a88",
+      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x8FdBcb218561776759702b175084dBa856282a88.png"
+    },
+    {
+      "name": "The Fat Cats FTSO",
+      "description": "The Fat Cats official Songbird data provider.",
+      "url": "https://fat-cats.club",
+      "address": "0x7776fC062AE648466958a28b3001f6a4517a147c",
+      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7776fC062AE648466958a28b3001f6a4517a147c.png"
+    },
+    {
+      "name": "True FTSO",
+      "description": "Still improving. No cheating. Reliable data. No dumping. Low fee.",
+      "url": "https://trueftso.com",
+      "address": "0xb6deD9D9CA19af10C67f9A8be8ca75e38E166faA",
+      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb6deD9D9CA19af10C67f9A8be8ca75e38E166faA.png"
+    },
+    {
+      "name": "Mickey B Fresh",
+      "description": "We provide a hub of resources revolving around everything build on the XRP, SGB and Flare networks. We pride ourselves on transparency and evidence-based content. The group behind this site are long term holders of XRP and researching this digital asset for years. The focus of the site will mainly be on the XRP, Flare and Songbird Networks.",
+      "url": "https://www.mickeybfresh.com",
+      "address": "0xE304AF184b9ca77E3576Aef834A4dc1A43EBfA70",
+      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xE304AF184b9ca77E3576Aef834A4dc1A43EBfA70.png"
+    },
+    {
+      "name": "FTSchizO",
+      "description": "FTSchizO is a SGB/FLR data provider that focuses on esoteric community building.",
+      "url": "https://ftschizo.xyz",
+      "address": "0xa41d19F4258a388c639B7CcD938FCE3fb7D05e86",
+      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xa41d19F4258a388c639B7CcD938FCE3fb7D05e86.png"
+    },
+    {
+      "name": "CFN",
+      "description": "A passive income community driven project based on utility NFTs.",
+      "url": "https://cryptapero.fr",
+      "address": "0x889FD8C79FCC81E619b720BD589154C2c9fD74e9",
+      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x889FD8C79FCC81E619b720BD589154C2c9fD74e9.png"
+    },
+    {
+      "name": "TempestFTSO",
+      "description": "TempestFTSO created by industry professionals to deliver the most reliable and accurate price feeds to the FTSO system.",
+      "url": "https://tempestftso.com",
+      "address": "0x4eb408FA585a5C66E523a4aE5f5706374Ec9E8c7",
+      "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4eb408FA585a5C66E523a4aE5f5706374Ec9E8c7.png"
     }
   ]
 }
