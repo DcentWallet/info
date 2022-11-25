@@ -21,8 +21,8 @@
     },
     "link": { 
       "en": {
-        "internal": "/events/20221117-blackfriday-promotion?utm_source=home_banner&utm_medium=dcent-web&utm_campaign=202211_blackfriday-promotion_v01&lang=en",
-        "external": false
+        "internal": false,
+        "external": "https://store.dcentwallet.com/pages/black-friday-d-cent?utm_source=home_banner&utm_medium=dcent-web&utm_campaign=202211_blackfriday-promotion_v02"
       }
     }
   },
