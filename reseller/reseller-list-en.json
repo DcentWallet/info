@@ -1,5 +1,10 @@
 [
     {
+    "name": "cryptobilis",
+    "imageUrl": "../images_en/cryptobilis.png",
+    "gotoLink": "https://www.cryptobilis.com/"
+    },
+    {
     "name": "masenllc",
     "imageUrl": "../images_en/masenllc.jpg",
     "gotoLink": "http://www.masenllc.com/"
