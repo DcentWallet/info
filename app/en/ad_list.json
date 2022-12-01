@@ -1,13 +1,2 @@
 [
-    {
-        "name": "black_friday_2022",
-        "title": "",
-        "link": "https://store.dcentwallet.com/pages/black-friday-d-cent?utm_source=popup_banner&utm_medium=dcent-app&utm_campaign=202211_blackfriday-promotion_v02",
-        "image": "ad_app_black_friday_2022_en.png",
-        "endTimestamp": "1669820400000",
-        "buttons": [ { "text": "close", "event": "close" } ],
-        "stopSeeingToday" : "Stop seeing today",
-        "externalWindow": true,
-        "preRelease": true
-    }
 ]
