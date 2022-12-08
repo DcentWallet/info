@@ -298,7 +298,16 @@
                     "nativeVersion": {
                         "Android": "5.21.1",
                         "iOS": "5.21.3"
-                    }                        
+                    }
+                },
+                {
+                    "networkId": "Oasys",
+                    "name": "oasys",
+                    "description": "Oasys Games",
+                    "coinType": "CHAN:248",
+                    "chainId": 248,
+                    "iconPath": "network_oasys.png",
+                    "preRelease": true
                 }
             ]
         },
