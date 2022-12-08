@@ -8,7 +8,8 @@
       "imagePath": "360X160_AWC_All_in_one_KO.png",
       "imagePath_480": "480X160_AWC_All_in_one_KO.png",
       "bgColor": "#21A2FE",
-      "externalWindow": true
+      "externalWindow": true,
+      "preRelease": true
     },
     {
       "name": "tezos_giveaway",
