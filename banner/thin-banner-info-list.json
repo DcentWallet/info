@@ -70,7 +70,7 @@
     "link": {
       "ko": {
         "internal": "/events/20221208-AWC-promotion?utm_source=home_banner&utm_medium=dcent-web&utm_campaign=202212_awc-collab-promotion_v01",
-        "extenral": false
+        "external": false
       }
     }
   },
@@ -118,7 +118,7 @@
       },
       "ko": {
         "internal": "/events/20221015-Tezos-promotion?utm_medium=web&utm_source=dcent_web_v02&utm_campaign=20221015-Tezos-promotion&lang=ko",
-        "extenral": false
+        "external": false
       }
     }
   },
