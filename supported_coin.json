@@ -17842,11 +17842,11 @@
     }
   },
   {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/10498.png",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/20513.png",
     "symbol": "SAITAMA",
-    "name": "Saitama Inu",
+    "name": "Saitama",
     "type": "ERC20",
-    "contract": "0x8b3192f5eebd8579568a2ed41e6feb402f93f73f",
+    "contract": "0xce3f08e664693ca792cace4af1364d5e220827b2",
     "support": {
       "biometric": true,
       "ethCard": true,
@@ -20783,7 +20783,7 @@
     "symbol": "KIBA",
     "name": "Kiba Inu",
     "type": "ERC20",
-    "contract": "0x4b2c54b80b77580dc02a0f6734d3bad733f50900",
+    "contract": "0x005d1123878fc55fbd56b54c73963b234a64af3c",
     "support": {
       "biometric": true,
       "ethCard": true,
@@ -21793,19 +21793,6 @@
     }
   },
   {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/20513.png",
-    "symbol": "SAITAMA",
-    "name": "Saitama V2",
-    "type": "ERC20",
-    "contract": "0xce3f08e664693ca792cace4af1364d5e220827b2",
-    "support": {
-      "biometric": true,
-      "ethCard": true,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4901.png",
     "symbol": "ANCT",
     "name": "Anchor",
@@ -22682,6 +22669,32 @@
     "name": "Gold Retriever",
     "type": "ERC20",
     "contract": "0xfeeb4d0f5463b1b04351823c246bdb84c4320cc2",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/10103.png",
+    "symbol": "LSS",
+    "name": "Lossless",
+    "type": "ERC20",
+    "contract": "0x3b9be07d622accaed78f479bc0edabfd6397e320",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/18795.png",
+    "symbol": "KOMPETE",
+    "name": "KOMPETE",
+    "type": "ERC20",
+    "contract": "0x1e0b2992079b620aa13a7c2e7c88d2e1e18e46e9",
     "support": {
       "biometric": true,
       "ethCard": true,
@@ -24014,6 +24027,19 @@
     "name": "Decentralized Liquidity Program",
     "type": "KCT",
     "contract": "0x4d87baa66061a3bb391456576cc49b77540b9aa9",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": true,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/19632.png",
+    "symbol": "LEMC",
+    "name": "LEMONCHAIN",
+    "type": "KCT",
+    "contract": "0xe15b6cc249af44f2057f85a609285519a318f2ff",
     "support": {
       "biometric": true,
       "ethCard": false,
@@ -35217,6 +35243,97 @@
     "name": "Golden Doge",
     "type": "BEP20",
     "contract": "0xa53e61578ff54f1ad70186be99332a6e20b6ffa9",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/12201.png",
+    "symbol": "PFY",
+    "name": "Portify",
+    "type": "BEP20",
+    "contract": "0x69083b64988933e8b4783e8302b9bbf90163280e",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/18531.png",
+    "symbol": "WZRD",
+    "name": "Wizardia",
+    "type": "BEP20",
+    "contract": "0xfa40d8fc324bcdd6bbae0e086de886c571c225d4",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/16033.png",
+    "symbol": "MTS",
+    "name": "Metastrike",
+    "type": "BEP20",
+    "contract": "0x496cc0b4ee12aa2ac4c42e93067484e7ff50294b",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/22112.png",
+    "symbol": "KRS",
+    "name": "Kingdom Raids",
+    "type": "BEP20",
+    "contract": "0x37b53894e7429f794b56f22a32e1695567ee9913",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/22111.png",
+    "symbol": "MARU",
+    "name": "marumaruNFT",
+    "type": "BEP20",
+    "contract": "0x08a84af1368cd333073ac5dfb2254208e06b3a70",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/18813.png",
+    "symbol": "WEAR",
+    "name": "MetaWear",
+    "type": "BEP20",
+    "contract": "0x9d39ef3bbca5927909dde44476656b81bbe4ee75",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/22026.png",
+    "symbol": "BNI",
+    "name": "Bitindi Chain",
+    "type": "BEP20",
+    "contract": "0x77fc65deda64f0cca9e3aea7b9d8521f4151882e",
     "support": {
       "biometric": true,
       "ethCard": false,
