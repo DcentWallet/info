@@ -21,16 +21,6 @@
       "externalWindow": true
     },
     {
-      "name": "tezos_giveaway",
-      "title": "Tezos Giveaway",
-      "description": "",
-      "link": "https://dcentwallet.com/events/20221015-Tezos-promotion?utm_medium=app&utm_source=dcent_app_v02&utm_campaign=20221015-Tezos-promotion&lang=ko",
-      "imagePath": "360x160_Tezos_App_Banner_gold_KR.png",
-      "imagePath_480": "480x160_Tezos_App_Banner_gold_KR.png",
-      "bgColor": "#323943",
-      "externalWindow": true
-    },
-    {
       "name": "dcent",
       "title": "D'CENT",
       "description": "<b>디센트 지문인증형 지갑</b>으로<br/> 한층 더 강화된 보안을 경험하세요!",

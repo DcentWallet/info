@@ -11,16 +11,6 @@
       "externalWindow": true
     },
     {
-      "name": "tezos_giveaway",
-      "title": "Tezos Giveaway",
-      "description": "",
-      "link": "https://dcentwallet.com/events/20221015-Tezos-promotion?utm_medium=app&utm_source=dcent_app_v02&utm_campaign=20221015-Tezos-promotion&lang=en",
-      "imagePath": "360x160_Tezos_App_Banner_gold_EN.png",
-      "imagePath_480": "480x160_Tezos_App_Banner_gold_EN.png",
-      "bgColor": "#323943",
-      "externalWindow": true
-    },
-    {
       "name": "dcent",
       "title": "D'CENT",
       "description": "Enhance your security with <br/><b>D’CENT biometric wallet</b>",
