@@ -594,6 +594,17 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/22265.png",
+    "name": "Oasys",
+    "symbol": "OAS",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://github.com/DcentWallet/info/raw/master/images/coins/original/asset-bptc.png",
     "symbol": "BPTC",
     "name": "Business Platform Tomato Coin",
@@ -17002,7 +17013,7 @@
     "symbol": "BNA",
     "name": "Bananatok",
     "type": "ERC20",
-    "contract": "0x20910e5b5f087f6439dfcb0dda4e27d1014ac2b8",
+    "contract": "0x07eef7c8db33b69b7a541829bb988c745e3ca16c",
     "support": {
       "biometric": true,
       "ethCard": true,
@@ -22695,6 +22706,19 @@
     "name": "KOMPETE",
     "type": "ERC20",
     "contract": "0x1e0b2992079b620aa13a7c2e7c88d2e1e18e46e9",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7229.png",
+    "symbol": "GEL",
+    "name": "Gelato",
+    "type": "ERC20",
+    "contract": "0x15b7c0c907e4c6b9adaaaabc300c08991d6cea05",
     "support": {
       "biometric": true,
       "ethCard": true,
@@ -37056,6 +37080,18 @@
     "contract": "0x6b3bd0478DF0eC4984b168Db0E12A539Cc0c83cd",
     "symbol": "WEWT",
     "type": "EWC-ERC20",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "name": "Stakable OAS",
+    "contract": "0x5200000000000000000000000000000000000002",
+    "symbol": "SOAS",
+    "type": "OAS-ERC20",
     "support": {
       "biometric": true,
       "ethCard": false,
