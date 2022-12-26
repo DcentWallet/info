@@ -383,6 +383,31 @@
                     "preRelease": true
                 }
             ]
+        },
+        {
+            "type": "tezos",
+            "list": [
+                {
+                    "networkId": "tezos-mainnet",
+                    "name": "mainnet",
+                    "description": "Tezos",
+                    "coinType": "TEZOS",
+                    "chainId": 1,
+                    "iconPath" : "network_tezos.png",
+                    "selected" : true,
+                    "preRelease": true
+                },
+                {
+                    "networkId": "tezos-tesetnet",
+                    "name": "testnet",
+                    "description": "Tezos-Testnet",
+                    "coinType": "TEZOS-TESTNET",
+                    "chainId": 2,
+                    "iconPath" : "network_tezos_testnet.png",
+                    "testnet" : true,
+                    "preRelease": true
+                }
+            ]
         }
     ]
 }
