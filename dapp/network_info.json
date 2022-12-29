@@ -403,7 +403,7 @@
                     "description": "Tezos-Testnet",
                     "coinType": "TEZOS-TESTNET",
                     "chainId": 2,
-                    "iconPath" : "network_tezos_testnet.png",
+                    "iconPath" : "network_tezos.png",
                     "testnet" : true,
                     "preRelease": true
                 }
