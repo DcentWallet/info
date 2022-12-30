@@ -42,8 +42,6 @@
         "title": "D'CENT",
         "bgColor": "#27C4B8",
         "externalWindow": true,
-        "startTimestamp": 0,
-        "endTimestamp": 0,
         "locale": {
             "en": {
                 "description": "Enhance your security with <br/><b>D’CENT biometric wallet</b>",
@@ -64,8 +62,6 @@
         "title": "D'CENT",
         "bgColor": "#252525",
         "externalWindow": true,
-        "startTimestamp": 0,
-        "endTimestamp": 0,
         "locale": {
             "en": {
                 "description": "<b>Join us</b> and<br/> never miss an update!",
@@ -86,8 +82,6 @@
         "title": "D'CENT",
         "bgColor": "#FF0000",
         "externalWindow": true,        
-        "startTimestamp": 0,
-        "endTimestamp": 0,
         "locale": {
             "en": {
                 "description": "Welcome Newbies!<br/> Here’s <b>D’CENT tutorial</b>",
