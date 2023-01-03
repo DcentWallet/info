@@ -1,27 +1,5 @@
 [
     {
-        "name": "2022_EndOfYear",
-        "title": "2022 End OF Year",
-        "bgColor": "#9D242B",
-        "externalWindow": true,
-        "startTimestamp": 0,
-        "endTimestamp": 0,
-        "locale": {
-            "en": {
-                "description": "",
-                "link": "https://store.dcentwallet.com/pages/end-of-year-2022?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202212_end-of-year-promotion_v01",
-                "imagePath": "360X160_2022_EndOfYear_EN.png",
-                "imagePath_480": "480X160_2022_EndOfYear_EN.png"
-            },
-            "ko": {
-                "description": "",
-                "link": "https://store-kr.dcentwallet.com/pages/end-of-year-2022?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202212_end-of-year-promotion_v01",
-                "imagePath": "360X160_2022_EndOfYear_KO.png",
-                "imagePath_480": "480X160_2022_EndOfYear_KO.png"            
-            }
-        }
-    },
-    {
         "name": "awc_all_in_one",
         "title": "AWC all-in-one",
         "bgColor": "#21A2FE",
