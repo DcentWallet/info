@@ -1,0 +1,78 @@
+[
+    {
+        "name": "awc_all_in_one",
+        "title": "AWC all-in-one",
+        "bgColor": "#21A2FE",
+        "externalWindow": true,
+        "startTimestamp": 0,
+        "endTimestamp": 0,
+        "locale": {
+            "ko": {
+                "description": "",
+                "link": "https://dcentwallet.com/events/20221208-AWC-promotion?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202212_awc-collab-promotion_v01",
+                "imagePath": "360X160_AWC_All_in_one_KO.png",
+                "imagePath_480": "480X160_AWC_All_in_one_KO.png"
+            }
+        }
+    },
+    {
+        "name": "dcent",
+        "title": "D'CENT",
+        "bgColor": "#27C4B8",
+        "externalWindow": true,
+        "locale": {
+            "en": {
+                "description": "Enhance your security with <br/><b>D’CENT biometric wallet</b>",
+                "link": "https://store.dcentwallet.com?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=constant_purchase-hardware",
+                "imagePath": "discovery_banner-dcent_bg.png",
+                "button": "Buy Now"
+            },
+            "ko": {
+                "description": "<b>디센트 지문인증형 지갑</b>으로<br/> 한층 더 강화된 보안을 경험하세요!",
+                "link": "https://store-kr.dcentwallet.com?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=constant_purchase-hardware",
+                "imagePath": "discovery_banner-dcent_bg.png",        
+                "button": "구매하기"
+            }
+        }
+    },
+    {
+        "name": "medium",
+        "title": "D'CENT",
+        "bgColor": "#252525",
+        "externalWindow": true,
+        "locale": {
+            "en": {
+                "description": "<b>Join us</b> and<br/> never miss an update!",
+                "link": "https://medium.com/dcentwallet/tagged/english?utm_source=dcent_app_new&utm_medium=app&utm_campaign=app_banner_medium",
+                "imagePath": "discovery_banner-medium_bg.png",
+                "button": "Follow"
+            },
+            "ko": {
+                "description": "디센트 소식을 알 수 있는<br/> <b>가장 쉽고 빠른 방법<b/>",
+                "link": "https://medium.com/dcentwallet/tagged/korean?utm_source=dcent_app_new&utm_medium=app&utm_campaign=app_banner_medium",
+                "imagePath": "discovery_banner-medium_bg.png",
+                "button": "팔로우"
+            }
+        }
+    },
+    {
+        "name": "youtube",
+        "title": "D'CENT",
+        "bgColor": "#FF0000",
+        "externalWindow": true,        
+        "locale": {
+            "en": {
+                "description": "Welcome Newbies!<br/> Here’s <b>D’CENT tutorial</b>",
+                "link": "https://www.youtube.com/c/DCENTWallet?utm_source=dcent_app&utm_medium=app&utm_campaign=app_banner_youtube",
+                "imagePath": "discovery_banner-youtube_bg.png",
+                "button": "Subscribe"
+            }, 
+            "ko": {
+                "description": "누구나 쉽게 따라하는<br/> <b>디센트 사용법</b>",
+                "link": "https://www.youtube.com/c/DCENTWallet?utm_source=dcent_app&utm_medium=app&utm_campaign=app_banner_youtube",
+                "imagePath": "discovery_banner-youtube_bg.png",
+                "button": "구독"
+            }
+        }
+    }
+]
