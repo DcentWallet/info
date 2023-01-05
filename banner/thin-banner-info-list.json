@@ -1,6 +1,33 @@
 [
   {
     "img": {
+      "en": {
+        "desktop": {
+          "path": "../images/en/1920x90_Simplex_PC_ENG.png",
+          "height": "90px",
+          "background-color": "#05A79A"
+        },
+        "tablet": {
+          "path": "../images/en/768x120_Simplex_MO_ENG.png",
+          "height": "65px",
+          "background-color": "#05A79A"
+        },
+        "mobile": {
+          "path": "../images/en/768x120_Simplex_MO_ENG.png",
+          "height": "15.64vw",
+          "background-color": "#05A79A"
+        }
+      }
+    },
+    "link": {
+      "en": {
+        "internal": false,
+        "external": "https://qrlink.dcentwallet.com/qrview?link=http://link.dcentwallet.com/DAppBrowser?utm_source=home_banner&utm_medium=dcent-web&utm_campaign=202301_simplex-fee-discount_v01"
+      }
+    }
+  },
+  {
+    "img": {
       "ko": {
         "desktop": {
           "path": "../images/ko/AWC_All_in_One_pc_KO.png",
