@@ -1,5 +1,21 @@
 [
     {
+        "name": "simplex-special-offer",
+        "title": "Simplex Special Offer",
+        "bgColor": "#05A79A",
+        "externalWindow": false,
+        "platform": "android",
+        "locale": {
+            "en": {
+                "description": "",
+                "link": "/buysell",
+                "imagePath": "360x160_Simplex_ENG.png",
+                "imagePath_480": "480x160_Simplex_ENG.png"
+            }
+        },
+        "preRelease": true
+    },
+    {
         "name": "awc_all_in_one",
         "title": "AWC all-in-one",
         "bgColor": "#21A2FE",
