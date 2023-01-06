@@ -12,8 +12,7 @@
                 "imagePath": "360x160_Simplex_ENG.png",
                 "imagePath_480": "480x160_Simplex_ENG.png"
             }
-        },
-        "preRelease": true
+        }
     },
     {
         "name": "awc_all_in_one",
