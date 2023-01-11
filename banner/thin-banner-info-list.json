@@ -25,34 +25,7 @@
         "external": "https://qrlink.dcentwallet.com/qrview?link=http://link.dcentwallet.com/DAppBrowser?utm_source=home_banner&utm_medium=dcent-web&utm_campaign=202301_simplex-fee-discount_v01"
       }
     }
-  },
-  {
-    "img": {
-      "ko": {
-        "desktop": {
-          "path": "../images/ko/AWC_All_in_One_pc_KO.png",
-          "height": "90px",
-          "background-color": "#21A2FE"
-        },
-        "tablet": {
-          "path": "../images/ko/AWC_All_in_One_mo_KO.png",
-          "height": "65px",
-          "background-color": "#21A2FE"
-        },
-        "mobile": {
-          "path": "../images/ko/AWC_All_in_One_mo_KO.png",
-          "height": "15.64vw",
-          "background-color": "#21A2FE"
-        }
-      }
-    },
-    "link": {
-      "ko": {
-        "internal": "/events/20221208-AWC-promotion?utm_source=home_banner&utm_medium=dcent-web&utm_campaign=202212_awc-collab-promotion_v01",
-        "external": false
-      }
-    }
-  },
+  }, 
   {
     "img": {
       "ko": {
