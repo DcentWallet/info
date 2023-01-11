@@ -15,22 +15,6 @@
         }
     },
     {
-        "name": "awc_all_in_one",
-        "title": "AWC all-in-one",
-        "bgColor": "#21A2FE",
-        "externalWindow": true,
-        "startTimestamp": 0,
-        "endTimestamp": 0,
-        "locale": {
-            "ko": {
-                "description": "",
-                "link": "https://dcentwallet.com/events/20221208-AWC-promotion?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202212_awc-collab-promotion_v01",
-                "imagePath": "360X160_AWC_All_in_one_KO.png",
-                "imagePath_480": "480X160_AWC_All_in_one_KO.png"
-            }
-        }
-    },
-    {
         "name": "dcent",
         "title": "D'CENT",
         "bgColor": "#27C4B8",
