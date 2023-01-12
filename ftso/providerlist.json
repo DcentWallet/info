@@ -88,13 +88,6 @@
       "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x1E8F916CE03F4ce86186531a8994d366581Ed4be.png"
     },
     {
-      "name": "Interoracle",
-      "description": "An interchain oracle built by whirledlabs. Price ranked by liquidity.",
-      "url": "https://interoracle.io",
-      "address": "0x62d6116d6A139F2D402e8d8E30BAaF5790542801",
-      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x62d6116d6A139F2D402e8d8E30BAaF5790542801.png"
-    },
-    {
       "name": "Lena Instruments",
       "description": "Institutional grade vote delegation service and FTSO signal provider to the Flare ecosystem",
       "url": "https://www.lena.tech",
@@ -108,7 +101,7 @@
       "url": "https://ftso.alexdupre.com",
       "dapp": "https://ftso.alexdupre.com/",
       "twitter": "",
-      "address": "0x2d7bf53ED6117aD1DCD6416d460481522a16aFdf",
+      "address": "0xAF7504242064532CbD3370aD7591452B1D09BBdc",
       "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x2d7bf53ED6117aD1DCD6416d460481522a16aFdf.png"
     },
     {
@@ -132,25 +125,11 @@
       "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0xCa60cd408A5E447897258cDB1F699478c71Cc55E.png"
     },
     {
-      "name": "KysenPool",
-      "description": "Global Proof-of-Stake Validator experienced operating nodes for Cardano, Cosmos, Terra , Harmony, Kava and Desmos. Now FTSO for Flare/Songbird.",
-      "url": "https://www.kysenpool.io/",
-      "address": "0xb53D69B2519aC9F6D65cff8e7824Bf09F7064D61",
-      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0xb53D69B2519aC9F6D65cff8e7824Bf09F7064D61.png"
-    },
-    {
       "name": "HEWG",
       "description": "HEWG strikes to provide best FTSO price data.",
       "url": "https://hewg.org",
       "address": "0x819eaB111BD9A6E595187A914240529D2EFfF21f",
       "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x819eaB111BD9A6E595187A914240529D2EFfF21f.png"
-    },
-    {
-      "name": "Taco-Tso",
-      "description": "A time series oracle for lovers of mexican and asian cuisine.",
-      "address": "0xaCb098842542b8DEcAD0EA49eCd97d1410cbEb26",
-      "url": "https://taco-tso.io",
-      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0xaCb098842542b8DEcAD0EA49eCd97d1410cbEb26.png"
     },
     {
       "partner": true,
@@ -159,7 +138,7 @@
       "url": "https://flareoracle.io",
       "dapp": "https://flareoracle.io",
       "twitter": "https://twitter.com/flareoracle_io",
-      "address": "0x1B00870092a929D160492daf8E734b4bCA033266",
+      "address": "0xF0F095bbd5e2E33e9c1703cdEDd0015280406E90",
       "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x1B00870092a929D160492daf8E734b4bCA033266.png"
     },
     {
@@ -802,7 +781,8 @@
       "dapp": "",
       "twitter": "https://twitter.com/TowoLabs",
       "address": "0x69141E890F3a79cd2CFf552c0B71508bE23712dC",
-      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x69141E890F3a79cd2CFf552c0B71508bE23712dC.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x69141E890F3a79cd2CFf552c0B71508bE23712dC.png",      
+      "noDelegate": true
     },
     {
       "partner": true,
@@ -886,7 +866,8 @@
       "description": "An interchain oracle built by whirledlabs. Price ranked by liquidity.",
       "url": "https://interoracle.io",
       "address": "0x62d6116d6A139F2D402e8d8E30BAaF5790542801",
-      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x62d6116d6A139F2D402e8d8E30BAaF5790542801.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x62d6116d6A139F2D402e8d8E30BAaF5790542801.png",
+      "noDelegate": true
     },
     {
       "name": "Lena Instruments",
