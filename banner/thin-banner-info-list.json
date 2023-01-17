@@ -20,17 +20,17 @@
       },
       "ko": {
         "desktop": {
-          "path": "../images/ko/1920X90_hp_banner_ko.png",
+          "path": "../images/ko/1920X90_hp_banner_kr.png",
           "height": "90px",
           "background-color": "#E0F0EE"
         },
         "tablet": {
-          "path": "../images/ko/768X120_hp_banner_ko.png",
+          "path": "../images/ko/768X120_hp_banner_kr.png",
           "height": "65px",
           "background-color": "#E0F0EE"
         },
         "mobile": {
-          "path": "../images/ko/768X120_hp_banner_ko.png",
+          "path": "../images/ko/768X120_hp_banner_kr.png",
           "height": "15.64vw",
           "background-color": "#E0F0EE"
         }
