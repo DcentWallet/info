@@ -3,6 +3,54 @@
     "img": {
       "en": {
         "desktop": {
+          "path": "../images/en/1920X90_hp_banner_en.png",
+          "height": "90px",
+          "background-color": "#E0F0EE"
+        },
+        "tablet": {
+          "path": "../images/en/768X120_hp_banner_en.png",
+          "height": "65px",
+          "background-color": "#E0F0EE"
+        },
+        "mobile": {
+          "path": "../images/en/768X120_hp_banner_en.png",
+          "height": "15.64vw",
+          "background-color": "#E0F0EE"
+        }
+      },
+      "ko": {
+        "desktop": {
+          "path": "../images/ko/1920X90_hp_banner_ko.png",
+          "height": "90px",
+          "background-color": "#E0F0EE"
+        },
+        "tablet": {
+          "path": "../images/ko/768X120_hp_banner_ko.png",
+          "height": "65px",
+          "background-color": "#E0F0EE"
+        },
+        "mobile": {
+          "path": "../images/ko/768X120_hp_banner_ko.png",
+          "height": "15.64vw",
+          "background-color": "#E0F0EE"
+        }
+      }
+    },
+    "link": {
+      "en": {
+        "internal": false,
+        "external": false
+      },
+      "ko": {
+        "internal": false,
+        "external": false
+      }
+    }
+  }, 
+  {
+    "img": {
+      "en": {
+        "desktop": {
           "path": "../images/en/1920x90_Simplex_PC_ENG.png",
           "height": "90px",
           "background-color": "#05A79A"
