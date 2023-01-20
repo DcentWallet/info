@@ -1,5 +1,19 @@
 [
     {
+        "name": "calendar-offer",
+        "title": "2023 Calendar Offer",
+        "bgColor": "#27C4B8",
+        "externalWindow": true,
+        "locale": {
+            "ko": {
+                "description": "",
+                "link": "https://twitter.com/DCENTWALLETS_KR/status/1616291960687587329",
+                "imagePath": "KOR_app_calendar_360X160_2.png",
+                "imagePath_480": "KOR_app_calendar_480X160_2.png"
+            }
+        }
+    },
+    {
         "name": "simplex-special-offer",
         "title": "Simplex Special Offer",
         "bgColor": "#05A79A",

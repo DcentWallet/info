@@ -1,6 +1,33 @@
 [
   {
     "img": {
+      "ko": {
+        "desktop": {
+          "path": "../images/ko/KOR_home_calendar_PC_1920X90__2.png",
+          "height": "90px",
+          "background-color": "#27C4B8"
+        },
+        "tablet": {
+          "path": "../images/ko/KOR_home_calendar_MO_768X120_2.png",
+          "height": "65px",
+          "background-color": "#27C4B8"
+        },
+        "mobile": {
+          "path": "../images/ko/KOR_home_calendar_MO_768X120_2.png",
+          "height": "15.64vw",
+          "background-color": "#27C4B8"
+        }
+      }
+    },
+    "link": {
+      "ko": {
+        "internal": false,
+        "external": "https://twitter.com/DCENTWALLETS_KR/status/1616291960687587329"
+      }
+    }
+  },
+  {
+    "img": {
       "en": {
         "desktop": {
           "path": "../images/en/1920X90_hp_banner_en.png",
