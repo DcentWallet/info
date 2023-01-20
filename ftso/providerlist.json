@@ -148,7 +148,18 @@
       "url": "https://xtoadz.xyz/signal-provider",
       "twitter": "https://twitter.com/xtoadz",
       "address": "0xf9D68721929eF5811fcBbBc7C77ea897dCc8bB05",
-      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x879Fb0b354733674FD403286eBb2eB17EF97E5Ae.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x879Fb0b354733674FD403286eBb2eB17EF97E5Ae.png",
+      "deprecated": true,
+      "noDelegate": true
+    },
+    {
+      "partner": true,
+      "name": "sToadz FTSO",
+      "description": "FTSO Stoadz provides a Flare Time Series Oracle for those who want to delegate their assets!",
+      "url": "https://xtoadz.xyz/signal-provider",
+      "twitter": "https://twitter.com/xtoadz",
+      "address": "0x729589694a78FF2D8BACf75b7AC4389bd53ee533",
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x729589694a78FF2D8BACf75b7AC4389bd53ee533.png"
     },
     {
       "name": "HONO-TSO",
@@ -1259,7 +1270,18 @@
       "url": "https://xtoadz.xyz/signal-provider",
       "twitter": "https://twitter.com/xtoadz",
       "address": "0x879Fb0b354733674FD403286eBb2eB17EF97E5Ae",
-      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x879Fb0b354733674FD403286eBb2eB17EF97E5Ae.png"
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x879Fb0b354733674FD403286eBb2eB17EF97E5Ae.png",
+      "deprecated": true,
+      "noDelegate": true
+    },
+    {
+      "partner": true,
+      "name": "sToadz FTSO",
+      "description": "FTSO Stoadz provides a Flare Time Series Oracle for those who want to delegate their assets!",
+      "url": "https://xtoadz.xyz/signal-provider",
+      "twitter": "https://twitter.com/xtoadz",
+      "address": "0x6Bf25C0256CBE8969424F6994e19Cf5e0A3C23Bb",
+      "image": "https://info-repo.dcentwallet.com/ftso/images/logo/0x6Bf25C0256CBE8969424F6994e19Cf5e0A3C23Bb.png"
     },
     {
       "name": "SSDS",
