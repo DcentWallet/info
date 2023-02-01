@@ -2,9 +2,6 @@
 
 먼저 images 폴더에 배너에 올릴 이미지를 업로드합니다.  
 
-이미지를 업로드한 뒤 **en/banenrlist.json** 과 **ko/bannerlist.json** 을 수정합니다.
-
-
 ## (New version) banner-list.json 작성 예시
 
 **실제 json 작성시에는 // 뒤에 있는 주석은 전부 제거하셔야 합니다.**  
@@ -48,6 +45,7 @@
     },
 ```
 ## (Old version) {language}/banenrlist.json 작성 예시  
+이미지를 업로드한 뒤 **en/banenrlist.json** 과 **ko/bannerlist.json** 을 수정합니다.
 
 **실제 json 작성시에는 // 뒤에 있는 주석은 전부 제거하셔야 합니다.**  
 이벤트 배너를 전부 내려도 디센트 기본 배너를 이용해서 배너가 최소 한개는 보이게 해야합니다.
