@@ -56,7 +56,7 @@
                     "coinType": "BSC",
                     "chainId": 56,
                     "iconPath": "network_bsc.png",
-                    "priority" : 4
+                    "priority" : 5
                 },
                 {
                     "networkId": "bsc-testnet",
@@ -74,7 +74,7 @@
                     "coinType": "POLYGON",
                     "chainId": 137,
                     "iconPath": "network_polygon2.png",
-                    "priority" : 7
+                    "priority" : 8
                 },
                 {
                     "networkId": "polygon-mumbai",
@@ -109,7 +109,7 @@
                     "coinType": "RSK",
                     "chainId": 30,
                     "iconPath": "network_rsk.png",
-                    "priority" : 15
+                    "priority" : 16
                 },
                 {
                     "networkId": "rsk-testnet",
@@ -126,7 +126,8 @@
                     "description": "Flare",
                     "coinType": "CHAN:14",
                     "chainId": 14,
-                    "iconPath" : "network_flare.png"
+                    "iconPath" : "network_flare.png",
+                    "priority": 3
                 },
                 {
                     "networkId": "flare-coston",
@@ -144,7 +145,7 @@
                     "coinType": "CHAN:100",
                     "chainId": 100,
                     "iconPath": "network_gnosis.png",
-                    "priority" : 16
+                    "priority" : 17
                 },
                 {
                     "networkId": "ftm-mainnet",
@@ -153,7 +154,7 @@
                     "coinType": "CHAN:250",
                     "chainId": 250,
                     "iconPath": "network_ftm.png",
-                    "priority" : 8
+                    "priority" : 9
                 },
                 {
                     "networkId": "xdc-mainnet",
@@ -162,7 +163,7 @@
                     "coinType": "XINFIN",
                     "chainId": 50,
                     "iconPath": "network_xdc.png",
-                    "priority" : 5
+                    "priority" : 6
                 },
                 {
                     "networkId": "xdc-apothem",
@@ -188,7 +189,7 @@
                     "coinType": "CHAN:321",
                     "chainId": 321,
                     "iconPath": "network_kcc.png",
-                    "priority" : 10
+                    "priority" : 11
                 },
                 {
                     "networkId": "avalanche-mainnet",
@@ -197,7 +198,7 @@
                     "coinType": "CHAN:43114",
                     "chainId": 43114,
                     "iconPath": "network_ava.png",
-                    "priority" : 6
+                    "priority" : 7
                 },
                 {
                     "networkId": "Cronos",
@@ -223,7 +224,7 @@
                     "coinType": "CHAN:42161",
                     "chainId": 42161,
                     "iconPath": "network_arbitrum.png",
-                    "priority" : 13
+                    "priority" : 14
                 },
                 {
                     "networkId": "arbitrum-testnet",
@@ -241,7 +242,7 @@
                     "coinType": "CHAN:288",
                     "chainId": 288,
                     "iconPath": "network_boba.png",
-                    "priority" : 14
+                    "priority" : 15
                 },
                 {
                     "networkId": "oec-mainnet",
@@ -258,7 +259,7 @@
                     "coinType": "CHAN:1666600000",
                     "chainId": 1666600000,
                     "iconPath": "network_harmony.png",
-                    "priority" : 11
+                    "priority" : 12
                 },
                 {
                     "networkId": "HARMONY-testnet",
@@ -276,7 +277,7 @@
                     "coinType": "CHAN:2017",
                     "chainId": 2017,
                     "iconPath": "network_orbit.png",
-                    "priority" : 12
+                    "priority" : 13
                 },
                 {
                     "networkId": "Orbit-testnet",
