@@ -23026,6 +23026,45 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7189.png",
+    "symbol": "OUSD",
+    "name": "Origin Dollar",
+    "type": "ERC20",
+    "contract": "0x2a8e1e676ec238d8a992307b495b45b3feaa5e86",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/16049.png",
+    "symbol": "TGT",
+    "name": "THORWallet DEX",
+    "type": "ERC20",
+    "contract": "0x108a850856db3f85d0269a2693d896b394c80325",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/12942.png",
+    "symbol": "THOR",
+    "name": "THORSwap",
+    "type": "ERC20",
+    "contract": "0xa5f2211b9b8170f694421f2046281775e8468044",
+    "support": {
+      "biometric": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/logo_doc.svg",
     "symbol": "DOC",
     "name": "Dollar on Chain",
@@ -23446,6 +23485,19 @@
     "name": "xCORE",
     "type": "TrustLine",
     "contract": "24.r3dVizzUAS3U29WKaaSALqkieytA2LCoRe.58434F5245000000000000000000000000000000.50000000",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/23365.png",
+    "symbol": "XRPH",
+    "name": "XRP Healthcare",
+    "type": "TrustLine",
+    "contract": "25.rM8hNqA3jRJ5Zgp3Xf3xzdZcx2G37guiZk.5852504800000000000000000000000000000000.100000000",
     "support": {
       "biometric": true,
       "ethCard": false,
@@ -35964,6 +36016,32 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/21811.png",
+    "symbol": "BAFC",
+    "name": "BabyApeFunClub",
+    "type": "BEP20",
+    "contract": "0x035ad59058c557be4532141fbcd60f0998fce413",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/21363.png",
+    "symbol": "SMURF",
+    "name": "SmurfsINU",
+    "type": "BEP20",
+    "contract": "0x75afa9915b2210cd6329e820af0365e932bc1dd5",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8918.png",
     "symbol": "MAUSDC",
     "name": "Matic Aave Interest Bearing USDC",
@@ -38283,6 +38361,19 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/22949.png",
+    "name": "Camelot Token",
+    "contract": "0x3d9907f9a368ad0a51be60f7da3b97cf940982d8",
+    "symbol": "GRAIL",
+    "type": "ARBITRUM-ERC20",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7236.png",
     "name": "Celo Dollar",
     "contract": "0x765de816845861e75a25fca122bb6898b8b1282a",
@@ -38560,6 +38651,19 @@
     "name": "Binance USD",
     "contract": "0x9c9e5fd8bbc25984b178fdce6117defa39d2db39",
     "symbol": "BUSD",
+    "type": "AVA-ERC20",
+    "support": {
+      "biometric": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/21749.png",
+    "name": "DegenX",
+    "contract": "0x51e48670098173025c477d9aa3f0eff7bf9f7812",
+    "symbol": "DGNX",
     "type": "AVA-ERC20",
     "support": {
       "biometric": true,
