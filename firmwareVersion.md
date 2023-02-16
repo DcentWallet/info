@@ -1,5 +1,6 @@
 |Kernel Version|Release Date|Notes|
 |----|----|------|
+|v2.25.0|2023-02-16|• Improved stability |
 |v2.24.1|2022-11-29|• Added supporting coin : TEZOS Testnet (XTZt) |
 |v2.24.0|2022-09-20|• Added supporting coin : Near Protocol (NEAR) |
 |v2.23.4.a4a5|2022-08-31|• Added supporting coin : VeChain (VET), VeChain Token |
