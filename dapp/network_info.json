@@ -393,6 +393,40 @@
                     "preRelease": true
                 }
             ]
+        },
+        {
+            "type": "tezos",
+            "list": [
+                {
+                    "networkId": "tezos-mainnet",
+                    "name": "mainnet",
+                    "description": "Tezos",
+                    "coinType": "TEZOS",
+                    "chainId": 1,
+                    "iconPath" : "network_tezos.png",
+                    "selected" : true,
+                    "preRelease": true,
+                    "nativeVersion": {
+                        "Android": "5.25.0",
+                        "iOS": "5.25.2"
+                    }
+                },
+                {
+                    "networkId": "tezos-tesetnet",
+                    "name": "testnet",
+                    "description": "Tezos-Testnet",
+                    "coinType": "TEZOS-TESTNET",
+                    "chainId": 2,
+                    "iconPath" : "network_tezos.png",
+                    "testnet" : true,
+                    "preRelease": true,
+                    "preRelease": true,
+                    "nativeVersion": {
+                        "Android": "5.25.0",
+                        "iOS": "5.25.2"
+                    }
+                }
+            ]
         }
     ]
 }
