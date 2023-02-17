@@ -395,7 +395,11 @@
                     "chainId": 1,
                     "iconPath" : "network_tezos.png",
                     "selected" : true,
-                    "preRelease": true
+                    "preRelease": true,
+                    "nativeVersion": {
+                        "Android": "5.25.0",
+                        "iOS": "5.25.2"
+                    }
                 },
                 {
                     "networkId": "tezos-tesetnet",
