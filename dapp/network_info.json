@@ -420,7 +420,6 @@
                     "iconPath" : "network_tezos.png",
                     "testnet" : true,
                     "preRelease": true,
-                    "preRelease": true,
                     "nativeVersion": {
                         "Android": "5.25.0",
                         "iOS": "5.25.2"
