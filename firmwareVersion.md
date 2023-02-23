@@ -1,5 +1,6 @@
 |Kernel Version|Release Date|Notes|
 |----|----|------|
+|v2.25.1|2023-02-23|• Added Hedera Transaction - TokenCreateTransaction, tokenUpdateTransaction |
 |v2.25.0|2023-02-16|• Improved stability |
 |v2.24.1|2022-11-29|• Added supporting coin : TEZOS Testnet (XTZt) |
 |v2.24.0|2022-09-20|• Added supporting coin : Near Protocol (NEAR) |
