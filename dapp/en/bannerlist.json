@@ -1,16 +1,6 @@
 {
   "list": [
     {
-      "name": "2022_EndOfYear",
-      "title": "2022 End OF Year",
-      "description": "",
-      "link": "https://store.dcentwallet.com/pages/end-of-year-2022?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202212_end-of-year-promotion_v01",
-      "imagePath": "360X160_2022_EndOfYear_EN.png",
-      "imagePath_480": "480X160_2022_EndOfYear_EN.png",
-      "bgColor": "#9D242B",
-      "externalWindow": true
-    },
-    {
       "name": "dcent",
       "title": "D'CENT",
       "description": "Enhance your security with <br/><b>D’CENT biometric wallet</b>",
