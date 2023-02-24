@@ -1081,5 +1081,10 @@
   {
     "product_id": "a45d76b690c2481589d93a8dc2ef9b7e",
     "kr_shopify_product_id": "지문인증형-지갑-2x-패키지-메타프리덤"
+  },
+  {
+    "product_id": "redirect_00000001",
+    "shopify_product_id": "biometric-wallet-nft-korea-festival-2023",
+    "kr_shopify_product_id": "지문인증형-지갑-nft-korea-festival-2023"
   }
 ]
