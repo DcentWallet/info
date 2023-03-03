@@ -405,7 +405,6 @@
                     "chainId": 1,
                     "iconPath" : "network_tezos.png",
                     "selected" : true,
-                    "preRelease": true,
                     "nativeVersion": {
                         "Android": "5.23.2",
                         "iOS": "5.23.2"
@@ -419,7 +418,6 @@
                     "chainId": 2,
                     "iconPath" : "network_tezos.png",
                     "testnet" : true,
-                    "preRelease": true,
                     "nativeVersion": {
                         "Android": "5.23.2",
                         "iOS": "5.23.2"
