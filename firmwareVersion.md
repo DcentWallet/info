@@ -1,5 +1,6 @@
 |Kernel Version|Release Date|Notes|
 |----|----|------|
+|v2.25.2|2023-03-09|• Added Hedera Transaction - AccountCreateTransaction, AccountUpdateTransaction, TokenDissociateTransaction, TokenFreezeTransaction, TokenUnfreezeTransaction, TokenPauseTransaction, TokenUnpauseTransaction, TokenWipeTransaction |
 |v2.25.1|2023-02-23|• Added Hedera Transaction - TokenCreateTransaction, TokenUpdateTransaction |
 |v2.25.0|2023-02-16|• Improved stability |
 |v2.24.1|2022-11-29|• Added supporting coin : TEZOS Testnet (XTZt) |
