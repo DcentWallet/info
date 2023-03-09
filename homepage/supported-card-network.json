@@ -1,98 +1,125 @@
 [
   {
     "name": "Ethereum",
+    "symbol": "ETH",
     "iconPath": "https://info-repo.dcentwallet.com/dapp/images/network_ethereum.png"
   },
   {
     "name": "Klaytn",
+    "symbol": "KLAY",
     "iconPath": "https://info-repo.dcentwallet.com/dapp/images/network_klaytn2.png"
   },
   {
     "name": "Binance Smart Chain",
+    "symbol": "BNB",
     "iconPath": "https://info-repo.dcentwallet.com/dapp/images/network_bsc.png"
   },
   {
     "name": "Polygon",
+    "symbol": "MATIC",
     "iconPath": "https://info-repo.dcentwallet.com/dapp/images/network_polygon2.png"
   },
   {
     "name": "Songbird",
+    "symbol": "SGB",
     "iconPath": "https://info-repo.dcentwallet.com/dapp/images/network_sgb.png"
   },
   {
     "name": "HECO",
+    "symbol": "HT",
     "iconPath": "https://info-repo.dcentwallet.com/dapp/images/network_heco_2.png"
   },
   {
     "name": "RSK",
+    "symbol": "RBTC",
     "iconPath": "https://info-repo.dcentwallet.com/dapp/images/network_rsk.png"
   },
   {
     "name": "Flare",
+    "symbol": "FLR",
     "iconPath": "https://info-repo.dcentwallet.com/dapp/images/network_flare.png"
   },
   {
     "name": "Gnosis Chain",
+    "symbol": "XDAI",
     "iconPath": "https://info-repo.dcentwallet.com/dapp/images/network_gnosis.png"
   },
   {
     "name": "Fantom Opera",
+    "symbol": "FTM",
     "iconPath": "https://info-repo.dcentwallet.com/dapp/images/network_ftm.png"
   },
   {
     "name": "XDC Network",
+    "symbol": "XDC",
     "iconPath": "https://info-repo.dcentwallet.com/dapp/images/network_xdc.png"
   },
   {
     "name": "Celo",
+    "symbol": "CELO",
     "iconPath": "https://info-repo.dcentwallet.com/dapp/images/network_celo.png"
   },
   {
     "name": "KCC",
+    "symbol": "KCS",
     "iconPath": "https://info-repo.dcentwallet.com/dapp/images/network_kcc.png"
   },
   {
     "name": "Avalanche C-Chain",
+    "symbol": "AVAX",
     "iconPath": "https://info-repo.dcentwallet.com/dapp/images/network_ava.png"
   },
   {
     "name": "Cronos Chain",
+    "symbol": "CRO",
     "iconPath": "https://info-repo.dcentwallet.com/dapp/images/network_cronos.png"
   },
   {
     "name": "Energy Web Chain",
-    "iconPath": "https://info-repo.dcentwallet.com/dapp/images/network_ewc.png"
+    "symbol": "EWT",
+    "iconPath": "https://info-repo.dcentwallet.com/dapp/images/network_ewc.png",
+    "preRelease": true
   },
   {
     "name": "Arbitrum",
+    "symbol": "ETH",
     "iconPath": "https://info-repo.dcentwallet.com/dapp/images/network_arbitrum.png"
   },
   {
     "name": "BOBA L2",
+    "symbol": "ETH",
     "iconPath": "https://info-repo.dcentwallet.com/dapp/images/network_boba.png"
   },
   {
     "name": "OEC",
+    "symbol": "OKT",
     "iconPath": "https://info-repo.dcentwallet.com/dapp/images/network_oec.png"
   },
   {
     "name": "Harmony",
+    "symbol": "ONE",
     "iconPath": "https://info-repo.dcentwallet.com/dapp/images/network_harmony.png"
   },
   {
     "name": "Orbit Chain",
+    "symbol": "OORC",
     "iconPath": "https://info-repo.dcentwallet.com/dapp/images/network_orbit.png"
   },
   {
     "name": "Klaytn - EVM",
+    "symbole": "KLAY",
     "iconPath": "https://info-repo.dcentwallet.com/dapp/images/network_klaytn2.png"
   },
   {
     "name": "Oasys Games",
-    "iconPath": "https://info-repo.dcentwallet.com/dapp/images/network_oasys.png"
+    "symbol": "OAS",
+    "iconPath": "https://info-repo.dcentwallet.com/dapp/images/network_oasys.png",
+    "preRelease": true
   },
   {
     "name": "Optimism",
-    "iconPath": "https://info-repo.dcentwallet.com/dapp/images/network_optimism.png"
+    "symbol": "OP",
+    "iconPath": "https://info-repo.dcentwallet.com/dapp/images/network_optimism.png",
+    "preRelease": true
   }
 ]
