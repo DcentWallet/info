@@ -5,6 +5,11 @@
     "iconPath": "https://info-repo.dcentwallet.com/dapp/images/network_ethereum.png"
   },
   {
+    "name":"Ethereum Classic",
+    "symbol" :"ETC",
+    "iconPath":"https://s2.coinmarketcap.com/static/img/coins/32x32/1321.png"
+  },
+  {
     "name": "Klaytn",
     "symbol": "KLAY",
     "iconPath": "https://info-repo.dcentwallet.com/dapp/images/network_klaytn2.png"
@@ -28,11 +33,6 @@
     "name": "HECO",
     "symbol": "HT",
     "iconPath": "https://info-repo.dcentwallet.com/dapp/images/network_heco_2.png"
-  },
-  {
-    "name": "RSK",
-    "symbol": "RBTC",
-    "iconPath": "https://info-repo.dcentwallet.com/dapp/images/network_rsk.png"
   },
   {
     "name": "Flare",
@@ -122,8 +122,7 @@
   {
     "name": "Oasys Games",
     "symbol": "OAS",
-    "iconPath": "https://info-repo.dcentwallet.com/dapp/images/network_oasys.png",
-    "preRelease": true
+    "iconPath": "https://info-repo.dcentwallet.com/dapp/images/network_oasys.png"
   },
   {
     "name": "Optimism",
