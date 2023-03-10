@@ -50,6 +50,11 @@
     "iconPath": "https://info-repo.dcentwallet.com/dapp/images/network_ftm.png"
   },
   {
+    "name": "Metadium",
+    "symbol": "META",
+    "iconPath": "https://s2.coinmarketcap.com/static/img/coins/32x32/3418.png"
+  },
+  {
     "name": "XDC Network",
     "symbol": "XDC",
     "iconPath": "https://info-repo.dcentwallet.com/dapp/images/network_xdc.png"
@@ -77,8 +82,7 @@
   {
     "name": "Energy Web Chain",
     "symbol": "EWT",
-    "iconPath": "https://info-repo.dcentwallet.com/dapp/images/network_ewc.png",
-    "preRelease": true
+    "iconPath": "https://info-repo.dcentwallet.com/dapp/images/network_ewc.png"
   },
   {
     "name": "Arbitrum",
@@ -106,9 +110,14 @@
     "iconPath": "https://info-repo.dcentwallet.com/dapp/images/network_orbit.png"
   },
   {
-    "name": "Klaytn - EVM",
-    "symbol": "KLAY",
-    "iconPath": "https://info-repo.dcentwallet.com/dapp/images/network_klaytn2.png"
+    "name": "OpenChain",
+    "symbol": "OPC",
+    "iconPath": "https://info-repo.dcentwallet.com/images/coins/original/asset-OPC.png"
+  },
+  {
+    "name": "Palm",
+    "symbol": "PALM",
+    "iconPath": "https://info-repo.dcentwallet.com/dapp/images/network_palm.jpg"
   },
   {
     "name": "Oasys Games",
