@@ -127,7 +127,6 @@
   {
     "name": "Optimism",
     "symbol": "OP",
-    "iconPath": "https://info-repo.dcentwallet.com/dapp/images/network_optimism.png",
-    "preRelease": true
+    "iconPath": "https://info-repo.dcentwallet.com/dapp/images/network_optimism.png"
   }
 ]
