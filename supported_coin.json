@@ -660,6 +660,18 @@
     }
   },
   {
+    "iconUrl": "https://info-repo.dcentwallet.com/dapp/images/network_optimism.png",
+    "name": "Optimism ETH",
+    "symbol": "ETH",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://github.com/DcentWallet/info/raw/master/images/coins/original/asset-bptc.png",
     "symbol": "BPTC",
     "name": "Business Platform Tomato Coin",
@@ -25016,6 +25028,118 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/9537.png",
+    "symbol": "EPK",
+    "name": "EpiK Protocol",
+    "type": "ERC20",
+    "contract": "0xdaf88906ac1de12ba2b1d2f7bfc94e9638ac40c4",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/23838.png",
+    "symbol": "MEMAG",
+    "name": "Meta Masters Guild",
+    "type": "ERC20",
+    "contract": "0x6e39a587691b8c9d4341ce0a960998ed6f537af6",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3843.png",
+    "symbol": "BOLT",
+    "name": "BOLT",
+    "type": "ERC20",
+    "contract": "0xd5930c307d7395ff807f2921f12c5eb82131a789",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/11232.png",
+    "symbol": "HIGH",
+    "name": "Highstreet",
+    "type": "ERC20",
+    "contract": "0x71ab77b7dbb4fa7e017bc15090b2163221420282",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/23825.png",
+    "symbol": "NXRA",
+    "name": "AllianceBlock Nexera",
+    "type": "ERC20",
+    "contract": "0x644192291cc835a93d6330b24ea5f5fedd0eef9e",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/10102.png",
+    "symbol": "BSL",
+    "name": "BankSocial",
+    "type": "ERC20",
+    "contract": "0x0af55d5ff28a3269d69b98680fd034f115dd53ac",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/13967.png",
+    "symbol": "GFI",
+    "name": "Goldfinch",
+    "type": "ERC20",
+    "contract": "0xdab396ccf3d84cf2d07c4454e10c8a6f5b008d2b",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/15584.png",
+    "symbol": "HEART",
+    "name": "Humans.ai",
+    "type": "ERC20",
+    "contract": "0x8fac8031e079f409135766c7d5de29cf22ef897c",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/logo_doc.svg",
     "symbol": "DOC",
     "name": "Dollar on Chain",
@@ -39209,6 +39333,48 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/11784.png",
+    "symbol": "SCIX",
+    "name": "Scientix",
+    "type": "BEP20",
+    "contract": "0x2cfc48cdfea0678137854f010b5390c5144c0aa5",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/23654.png",
+    "symbol": "SAVANTAI",
+    "name": "Savant AI",
+    "type": "BEP20",
+    "contract": "0x8ae14ce43f71201bb79babd00cc8d00a7fadb3bd",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/20700.png",
+    "symbol": "WKC",
+    "name": "Wiki Cat",
+    "type": "BEP20",
+    "contract": "0x6ec90334d89dbdc89e08a133271be3d104128edb",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8918.png",
     "symbol": "MAUSDC",
     "name": "Matic Aave Interest Bearing USDC",
@@ -40893,6 +41059,62 @@
     "support": {
       "biometric": true,
       "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/11840.png",
+    "name": "Optimism",
+    "contract": "0x4200000000000000000000000000000000000042",
+    "symbol": "OP",
+    "type": "OPTIMISM-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/825.png",
+    "name": "Tether USD",
+    "contract": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+    "symbol": "USDT",
+    "type": "OPTIMISM-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3408.png",
+    "name": "USDC",
+    "contract": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+    "symbol": "USDC",
+    "type": "OPTIMISM-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4943.png",
+    "name": "Dai Stablecoin",
+    "contract": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+    "symbol": "DAI",
+    "type": "OPTIMISM-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
       "ethCard": false,
       "klayCard": false,
       "software": true
