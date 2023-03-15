@@ -1,6 +1,33 @@
 [
   {
     "img": {
+      "en": {
+        "desktop": {
+          "path": "../images/en/usa_web_1920_2.png",
+          "height": "90px",
+          "background-color": "#111111"
+        },
+        "tablet": {
+          "path": "../images/en/usa_web_1920_2.png",
+          "height": "65px",
+          "background-color": "#111111"
+        },
+        "mobile": {
+          "path": "../images/en/usa_mobile_768.png",
+          "height": "15.64vw",
+          "background-color": "#111111"
+        }
+      }
+    },
+    "link": {
+      "en": {
+        "internal": false,
+        "external": "https://store.dcentwallet.com/collections/frontpage/products/biometric-wallet?utm_source=home_banner&utm_medium=dcent-web&utm_campaign=202303_free-shipping-us_v01"
+      }
+    }
+  },
+  {
+    "img": {
       "ko": {
         "desktop": {
           "path": "../images/ko/career_banner_pc.png",

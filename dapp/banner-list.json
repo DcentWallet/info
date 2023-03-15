@@ -1,5 +1,19 @@
 [
     {
+        "name": "usa-free-shipping",
+        "title": "USA Free Shipping",
+        "bgColor": "#111111",
+        "externalWindow": true,
+        "locale": {
+            "en": {
+                "description": "",
+                "link": "https://store.dcentwallet.com/collections/frontpage/products/biometric-wallet?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202303_free-shipping-us_v01",
+                "imagePath": "usa_mobile_360.jpg",
+                "imagePath_480": "usa_mobile_480.jpg"
+            }
+        }
+    },
+    {
         "name": "dcent",
         "title": "D'CENT",
         "bgColor": "#27C4B8",
