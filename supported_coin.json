@@ -25140,6 +25140,90 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/19899.png",
+    "symbol": "EVMOS",
+    "name": "Evmos",
+    "type": "ERC20",
+    "contract": "0x93581991f68dbae1ea105233b67f7fa0d6bdee7b",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/9566.png",
+    "symbol": "LUSD",
+    "name": "Liquity USD",
+    "type": "ERC20",
+    "contract": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/23669.png",
+    "symbol": "GETH",
+    "name": "Goerli ETH",
+    "type": "ERC20",
+    "contract": "0xdd69db25f6d620a7bad3023c5d32761d353d3de9",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/23946.png",
+    "symbol": "CINU",
+    "name": "Cheems Inu (new)",
+    "type": "ERC20",
+    "contract": "0xa64d5d1eb67748226d84812b45711453f1118c32",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/23846.png",
+    "symbol": "GPT",
+    "name": "CryptoGPT",
+    "type": "ERC20",
+    "contract": "0xd04e772bc0d591fbd288f2e2a86afa3d3cb647f8",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/23624.png",
+    "symbol": "XFT",
+    "name": "Offshift (new)",
+    "type": "ERC20",
+    "contract": "0x76bc677d444f1e9d57daf5187ee2b7dc852745ae",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/logo_doc.svg",
     "symbol": "DOC",
     "name": "Dollar on Chain",
@@ -26664,6 +26748,20 @@
     "name": "LEMON",
     "type": "KCT",
     "contract": "0xc8a5c66d63408406c12f1a94608d28a5319f2399",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": true,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/18624.png",
+    "symbol": "AZIT",
+    "name": "azit",
+    "type": "KCT",
+    "contract": "0x6cef6dd9a3c4ad226b8b66effeea2c125df194f1",
     "support": {
       "biometric": true,
       "card": true,
@@ -39366,6 +39464,20 @@
     "name": "Wiki Cat",
     "type": "BEP20",
     "contract": "0x6ec90334d89dbdc89e08a133271be3d104128edb",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/23506.png",
+    "symbol": "MILKAI",
+    "name": "MilkAI",
+    "type": "BEP20",
+    "contract": "0x1d8e589379cf74a276952b56856033ad0d489fb3",
     "support": {
       "biometric": true,
       "card": true,
