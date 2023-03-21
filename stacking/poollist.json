@@ -11,7 +11,8 @@
             "isCustodial": false,
             "poolClose": 82,
             "homepage": "https://app.nfpstudio.io/stacking",
-            "logo": "nfp_logo.svg"
+            "logo": "nfp_logo.svg",
+            "isDisabled": true
         },
         {
             "poolAddress": "SP3TDKYYRTYFE32N19484838WEJ25GX40Z24GECPZ",
@@ -23,7 +24,8 @@
             "isCustodial": false,
             "poolClose": 102,
             "homepage": "https://planbetter.org/",
-            "logo": "planbetter_logo.svg"
+            "logo": "planbetter_logo.svg",
+            "isDisabled": false
         },
         {
             "poolAddress": "SP1K1A1PMGW2ZJCNF46NWZWHG8TS1D23EGH1KNK60",
@@ -37,7 +39,8 @@
             "isCustodial": false,
             "poolClose": 202,
             "homepage": "https://pool.friedger.de/",
-            "logo": "friedger_logo.svg"
+            "logo": "friedger_logo.svg",
+            "isDisabled": false
         }
     ]
 }
