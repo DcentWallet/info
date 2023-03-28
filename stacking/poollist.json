@@ -40,7 +40,7 @@
             "poolClose": 202,
             "homepage": "https://pool.friedger.de/",
             "logo": "friedger_logo.svg",
-            "isDisabled": false
+            "isDisabled": true
         }
     ]
 }
