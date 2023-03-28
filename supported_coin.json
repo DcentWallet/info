@@ -672,6 +672,18 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/19063.png",
+    "name": "MEVerse",
+    "symbol": "MEV",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://github.com/DcentWallet/info/raw/master/images/coins/original/asset-bptc.png",
     "symbol": "BPTC",
     "name": "Business Platform Tomato Coin",
@@ -42004,6 +42016,74 @@
     "contract": "0x53e98bd5ea34d3c1cf53bd72b628aa03978ffd76",
     "symbol": "OORC",
     "type": "ORC-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3408.png",
+    "name": "MEVerse Wrap USDC",
+    "contract": "0x572de9454fe4eed75964f6dc736185a64ebbd05c",
+    "symbol": "USDC",
+    "type": "MEV-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3717.png",
+    "name": "MEVerse Wrap BTCB",
+    "contract": "0x032467b0c21f46704db10980f54aa6c3b2bb29f4",
+    "symbol": "BTCB",
+    "type": "MEV-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4687.png",
+    "name": "MEVerse Wrap BUSD",
+    "contract": "0x88c27fa21e8e5eba0731ed02615b591246f6243e",
+    "symbol": "BUSD",
+    "type": "MEV-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "name": "MEVerse Play",
+    "contract": "0xbd95e72f28b5ac5ee4d99b6a8bcb2d03f25247e3",
+    "symbol": "MPL",
+    "type": "MEV-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "name": "MEVerse DeFi",
+    "contract": "0x743708041d1f630df1dce7b14fb11b4845fb2da9",
+    "symbol": "MEFI",
+    "type": "MEV-ERC20",
     "support": {
       "biometric": true,
       "card": true,
