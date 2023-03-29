@@ -509,6 +509,15 @@
             "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/22265.png",
             "name": "Oasys Network",
             "symbol": "OAS"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/19063.png",
+            "name": "MEVerse",
+            "symbol": "MEV"
         }
     ],
     "version": {
