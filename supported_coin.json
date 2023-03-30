@@ -25236,6 +25236,20 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/23151.png",
+    "symbol": "BTTY",
+    "name": "Bitcointry Token",
+    "type": "ERC20",
+    "contract": "0x9cc83d580180f0d37d00e5d86ce868f73b6e3d0a",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/logo_doc.svg",
     "symbol": "DOC",
     "name": "Dollar on Chain",
@@ -39499,6 +39513,34 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/23662.png",
+    "symbol": "SBG",
+    "name": "SB Group",
+    "type": "BEP20",
+    "contract": "0x5e95a952a7f79f978585afd54a053af0f51372fa",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/11245.png",
+    "symbol": "LAND",
+    "name": "Landshare",
+    "type": "BEP20",
+    "contract": "0xa73164db271931cf952cbaeff9e8f5817b42fa5c",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8918.png",
     "symbol": "MAUSDC",
     "name": "Matic Aave Interest Bearing USDC",
@@ -42181,6 +42223,20 @@
     "name": "SolidLizard",
     "contract": "0x463913d3a3d3d291667d53b8325c598eb88d3b0e",
     "symbol": "SLIZ",
+    "type": "ARBITRUM-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/11841.png",
+    "name": "Arbitrum",
+    "contract": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+    "symbol": "ARB",
     "type": "ARBITRUM-ERC20",
     "support": {
       "biometric": true,
