@@ -321,6 +321,19 @@
                         "Android": "5.16.0",
                         "iOS": "5.16.1"
                     }
+                },
+                {
+                    "networkId": "MEVerse",
+                    "name": "meverse",
+                    "description": "MEVerse",
+                    "coinType": "CHAN:7518",
+                    "chainId": 7518,
+                    "iconPath": "network_mev.png",
+                    "nativeVersion": {
+                        "Android": "5.16.0",
+                        "iOS": "5.16.1"
+                    },
+                    "preRelease": true
                 }
             ]
         },
