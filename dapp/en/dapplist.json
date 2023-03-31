@@ -23,7 +23,8 @@
             "iconPath": "icon_exchange.png",
             "type": "dapp_dcent",
             "device": "ble_dongle",
-            "externalWindow": false
+            "externalWindow": false,
+            "notSupportCardWallet": true
         },
         {
             "name": "swap",
@@ -61,7 +62,8 @@
             "appVersion": {
                 "android": "5.16.1",
                 "ios": "5.16.2"
-            }
+            },
+            "notSupportCardWallet": true
         },
         {
             "name": "moonpay",
