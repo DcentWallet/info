@@ -17193,7 +17193,7 @@
   {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8397.png",
     "symbol": "FEG",
-    "name": "FEGtoken",
+    "name": "FEGtoken (old)",
     "type": "ERC20",
     "contract": "0x389999216860ab8e0175387a0c90e5c52522c945",
     "support": {
@@ -25241,6 +25241,62 @@
     "name": "Bitcointry Token",
     "type": "ERC20",
     "contract": "0x9cc83d580180f0d37d00e5d86ce868f73b6e3d0a",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8397.png",
+    "symbol": "FEG",
+    "name": "FEGtoken",
+    "type": "ERC20",
+    "contract": "0xbededdf2ef49e87037c4fb2ca34d1ff3d3992a11",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/16810.png",
+    "symbol": "CIA",
+    "name": "Cia Protocol",
+    "type": "ERC20",
+    "contract": "0x52f4d5ee6c91e01be67ca1f64b11ed0ee370817d",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7245.png",
+    "symbol": "STBU",
+    "name": "Stobox Token",
+    "type": "ERC20",
+    "contract": "0xa6422e3e219ee6d4c1b18895275fe43556fd50ed",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5275.png",
+    "symbol": "PCI",
+    "name": "Paycoin",
+    "type": "ERC20",
+    "contract": "0x3c2a309d9005433c1bc2c92ef1be06489e5bf258",
     "support": {
       "biometric": true,
       "card": true,
@@ -33537,7 +33593,7 @@
   {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8397.png",
     "symbol": "FEG",
-    "name": "FEGtoken",
+    "name": "FEGtoken (old)",
     "type": "BEP20",
     "contract": "0xacfc95585d80ab62f67a14c566c1b7a49fe91167",
     "support": {
@@ -39541,6 +39597,34 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8397.png",
+    "symbol": "FEG",
+    "name": "FEGtoken",
+    "type": "BEP20",
+    "contract": "0xbededdf2ef49e87037c4fb2ca34d1ff3d3992a11",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/16675.png",
+    "symbol": "CTP",
+    "name": "Ctomorrow Platform",
+    "type": "BEP20",
+    "contract": "0xb850cac12ab85d4400db61ac78dc5fc2418b6868",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8918.png",
     "symbol": "MAUSDC",
     "name": "Matic Aave Interest Bearing USDC",
@@ -41287,6 +41371,20 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/20435.png",
+    "name": "Velodrome Finance",
+    "contract": "0x3c8b650257cfb5f272f799f5e2b4e65093a11a05",
+    "symbol": "VELO",
+    "type": "OPTIMISM-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "name": "XTL",
     "contract": "0x0b72928cd168419077bECd7AB948Cf0922A098a8",
     "symbol": "XTL",
@@ -42237,6 +42335,34 @@
     "name": "Arbitrum",
     "contract": "0x912ce59144191c1204e64559fe8253a0e49e6548",
     "symbol": "ARB",
+    "type": "ARBITRUM-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/21824.png",
+    "name": "NitroShiba",
+    "contract": "0x4dad357726b41bb8932764340ee9108cc5ad33a0",
+    "symbol": "NISHIB",
+    "type": "ARBITRUM-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/23248.png",
+    "name": "Vela Exchange",
+    "contract": "0x088cd8f5ef3652623c22d48b1605dcfe860cd704",
+    "symbol": "VELA",
     "type": "ARBITRUM-ERC20",
     "support": {
       "biometric": true,
