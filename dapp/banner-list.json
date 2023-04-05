@@ -1,5 +1,25 @@
 [
     {
+        "name": "coreum-event",
+        "title": "Coreum Event",
+        "bgColor": "#111111",
+        "externalWindow": true,
+        "locale": {
+            "en": {
+                "description": "",
+                "link": "https://dcentwallet.com/events/20230405_coreum_promotion?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202304_coreum-promotion_v01",
+                "imagePath": "coreum_app_en.jpg",
+                "imagePath_480": "coreum_app_en_480.jpg"
+            },
+            "ko": {
+                "description": "",
+                "link": "https://dcentwallet.com/events/20230405_coreum_promotion?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202304_coreum-promotion_v01",
+                "imagePath": "coreum_app_ko.jpg",
+                "imagePath_480": "coreum_app_ko_480.jpg"
+            }
+        }
+    },
+    {
         "name": "usa-free-shipping",
         "title": "USA Free Shipping",
         "bgColor": "#111111",
@@ -7,7 +27,7 @@
         "locale": {
             "en": {
                 "description": "",
-                "link": "https://store.dcentwallet.com/collections/frontpage/products/biometric-wallet?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202303_free-shipping-us_v01",
+                "link": "https://dcentwallet.com/events/20230405_coreum_promotion?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202304_coreum-promotion_v01",
                 "imagePath": "usa_mobile_360.jpg",
                 "imagePath_480": "usa_mobile_480.jpg"
             }
