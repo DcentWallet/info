@@ -8,7 +8,7 @@
           "background-color": "#111111"
         },
         "tablet": {
-          "path": "../images/en/coreum_web_en_pc.jpg",
+          "path": "../images/en/coreum_web_en_mo.jpg",
           "height": "65px",
           "background-color": "#111111"
         },
@@ -25,7 +25,7 @@
           "background-color": "#111111"
         },
         "tablet": {
-          "path": "../images/ko/coreum_web_ko_pc.jpg",
+          "path": "../images/ko/coreum_web_ko_mo.jpg",
           "height": "65px",
           "background-color": "#111111"
         },
