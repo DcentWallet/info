@@ -25306,6 +25306,34 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/23769.png",
+    "symbol": "RJV",
+    "name": "Rejuve.AI",
+    "type": "ERC20",
+    "contract": "0x02c3296c6eb50249f290ae596f2be9454bffadab",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5490.png",
+    "symbol": "LBXC",
+    "name": "Lux Bio Cell",
+    "type": "ERC20",
+    "contract": "0xffe510a92434a0df346c5e72a3494b043cf249eb",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/logo_doc.svg",
     "symbol": "DOC",
     "name": "Dollar on Chain",
@@ -39616,6 +39644,34 @@
     "name": "Ctomorrow Platform",
     "type": "BEP20",
     "contract": "0xb850cac12ab85d4400db61ac78dc5fc2418b6868",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/23895.png",
+    "symbol": "FAST",
+    "name": "PodFast",
+    "type": "BEP20",
+    "contract": "0x391088b4594e41c003463c7e3a56a8ba00b8e7a9",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8813.png",
+    "symbol": "LABS",
+    "name": "LABS Group",
+    "type": "BEP20",
+    "contract": "0x510ca7d22a84599e7d0f15f09e674056a6255389",
     "support": {
       "biometric": true,
       "card": true,
