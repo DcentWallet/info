@@ -3,6 +3,33 @@
     "img": {
       "en": {
         "desktop": {
+          "path": "../images/en/koinly_1920_en.jpg",
+          "height": "90px",
+          "background-color": "#465CE7"
+        },
+        "tablet": {
+          "path": "../images/en/koinly_768_en.jpg",
+          "height": "65px",
+          "background-color": "#465CE7"
+        },
+        "mobile": {
+          "path": "../images/en/koinly_768_en.jpg",
+          "height": "15.64vw",
+          "background-color": "#465CE7"
+        }
+      }
+    },
+    "link": {
+      "en": {
+        "internal": false,
+        "external": "https://koinly.io/dcent-offer/"
+      }
+    }
+  },
+  {
+    "img": {
+      "en": {
+        "desktop": {
           "path": "../images/en/coreum_web_en_pc.jpg",
           "height": "90px",
           "background-color": "#111111"
