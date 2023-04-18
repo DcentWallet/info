@@ -25334,6 +25334,48 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/23404.png",
+    "symbol": "PAW",
+    "name": "PAWSWAP",
+    "type": "ERC20",
+    "contract": "0xdc63269ea166b70d4780b3a11f5c825c2b761b01",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/17852.png",
+    "symbol": "JAM",
+    "name": "Geojam Token",
+    "type": "ERC20",
+    "contract": "0x23894dc9da6c94ecb439911caf7d337746575a72",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/21831.png",
+    "symbol": "O",
+    "name": "Childhoods End",
+    "type": "ERC20",
+    "contract": "0xb53ecF1345caBeE6eA1a65100Ebb153cEbcac40f",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/logo_doc.svg",
     "symbol": "DOC",
     "name": "Dollar on Chain",
