@@ -1,6 +1,6 @@
 |Kernel Version|Release Date|Notes|
 |----|----|------|
-|v2.25.3|2023-04-11|• XRP Transaction Bug Fix |
+|v2.25.3|2023-04-11|• Improved XRP Transaaction stability |
 |v2.25.2|2023-03-09|• Added Hedera Transaction - AccountCreateTransaction, AccountUpdateTransaction, TokenDissociateTransaction, TokenFreezeTransaction, TokenUnfreezeTransaction, TokenPauseTransaction, TokenUnpauseTransaction, TokenWipeTransaction |
 |v2.25.1|2023-02-23|• Added Hedera Transaction - TokenCreateTransaction, TokenUpdateTransaction |
 |v2.25.0|2023-02-16|• Improved stability |
