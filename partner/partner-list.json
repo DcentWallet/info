@@ -1,5 +1,10 @@
 [
   {
+    "name": "Koinly",
+    "imageUrl": "../images/koinly.png",
+    "gotoLink": "https://koinly.io/"
+  },
+  {
     "name": "Coreum",
     "imageUrl": "../images/coreum.png",
     "gotoLink": "https://www.coreum.com/"
