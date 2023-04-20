@@ -21,15 +21,15 @@
         "locale": {
             "en": {
                 "description": "",
-                "link": "https://dcentwallet.com/events/20230405_coreum_promotion?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202304_coreum-promotion_v02",
-                "imagePath": "coreum_app_360_en.jpg",
-                "imagePath_480": "coreum_app_480_en.jpg"
+                "link": "https://forms.gle/1Nc2r1Hiu4Vjpy6j8",
+                "imagePath": "coreum_360_en.jpg",
+                "imagePath_480": "coreum_480_en.jpg"
             },
             "ko": {
                 "description": "",
-                "link": "https://dcentwallet.com/events/20230405_coreum_promotion?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202304_coreum-promotion_v02",
-                "imagePath": "coreum_app_360_ko.jpg",
-                "imagePath_480": "coreum_app_480_ko.jpg"
+                "link": "https://forms.gle/6unX4ywPoTWCZJXy7",
+                "imagePath": "coreum_360_ko.jpg",
+                "imagePath_480": "coreum_480_ko.jpg"
             }
         }
     },
