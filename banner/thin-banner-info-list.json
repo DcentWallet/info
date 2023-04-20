@@ -30,7 +30,7 @@
     "img": {
       "en": {
         "desktop": {
-          "path": "../images/en/coreum_1024_en.jpg",
+          "path": "../images/en/coreum_1920_en.jpg",
           "height": "90px",
           "background-color": "#111111"
         },
@@ -47,7 +47,7 @@
       },
       "ko": {
         "desktop": {
-          "path": "../images/ko/coreum_1024_ko.jpg",
+          "path": "../images/ko/coreum_1920_ko.jpg",
           "height": "90px",
           "background-color": "#111111"
         },
