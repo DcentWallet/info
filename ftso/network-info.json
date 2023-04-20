@@ -1,0 +1,29 @@
+[
+    {
+        "chainId": 14,
+        "name": "Flare",
+        "symbol": "FLR",
+        "bip44_type": 60,
+        "decimals": 18,
+        "explorer": "https://flare-explorer.flare.network/",
+        "icon": "network-flare-icon.png"
+    },
+    {
+        "chainId": 16,
+        "name": "Flare Coston",
+        "symbol": "FLRt",
+        "bip44_type": 60,
+        "decimals": 18,
+        "explorer": "https://coston-explorer.flare.network/",
+        "icon": "network-flare-icon.png"
+    },
+    {
+        "chainId": 19,
+        "name": "Songbird",
+        "symbol": "SGB",
+        "bip44_type": 60,
+        "decimals": 18,
+        "explorer": "https://songbird-explorer.flare.network/",
+        "icon": "network-songbird-icon.png"
+    }
+]

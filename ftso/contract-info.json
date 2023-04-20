@@ -1,0 +1,86 @@
+[
+    {
+        "chainId": 14,
+        "symbol": "FLR",
+        "wflr": {
+            "contract": "0x1D80c49BbBCd1C0911346656B529DF9E5c2F783d",
+            "name": "Wrapped Flare",
+            "desc": "Wrapped Flare",
+            "symbol": "WFLR",
+            "decimals": 18
+        },
+        "voteWhiteLister": {
+            "contract": "0x0F45493e4C321b238e1fA242692BFFf3f30fBdfD"
+        },
+        "vp": {
+            "symbol": "%",
+            "decimals": 2,
+            "maxDelegate": 2,
+            "contract": "0x1D80c49BbBCd1C0911346656B529DF9E5c2F783d"
+        },
+        "rewardManager": {
+            "contract": "0x85627d71921ae25769f5370e482ada5e1e418d37"
+        },
+        "ftsoManager": {
+            "contract": "0x2F5107461D1BF7D4D6d3b2b577621b2071343166"
+        },
+        "ftsoRegistry": {
+            "contract": "0x13DC2b5053857AE17a4f95aFF55530b267F3E040"
+        }
+    },
+    {
+        "chainId": 19,
+        "symbol": "SGB",
+        "wflr": {
+            "contract": "0x02f0826ef6aD107Cfc861152B32B52fD11BaB9ED",
+            "name": "W-Songbird",
+            "desc": "W-Songbird",
+            "symbol": "WSGB",
+            "decimals": 18
+        },
+        "voteWhiteLister": {
+            "contract": "0xa76906EfBA6dFAe155FfC4c0eb36cDF0A28ae24D"
+        },
+        "vp": {
+            "symbol": "%",
+            "decimals": 2,
+            "maxDelegate": 2,
+            "contract": "0x02f0826ef6aD107Cfc861152B32B52fD11BaB9ED"
+        },
+        "rewardManager": {
+            "contract": "0xE82A1f25b2b661fe98e6f1aA982A69cdB33AF27b"
+        },
+        "ftsoManager": {
+            "contract": "0x7A6B15E17b7691ba687ad182bD12cb4a91D533ae"
+        },
+        "ftsoRegistry": {
+            "contract": "0xEf4c203470553C654B3870f37ce4DE1fA862Dee0"
+        }
+    },
+    {
+        "chainId": 16,
+        "symbol": "tFLR",
+        "wflr": {
+            "contract": "0x5A0773Ff307Bf7C71a832dBB5312237fD3437f9F",
+            "name": "Wrapped Flare",
+            "desc": "Wrapped Flare",
+            "symbol": "WFLR",
+            "decimals": 18
+        },
+        "voteWhiteLister": {
+            "contract": "0x5bcb88A0d20426e451332eE6C4324b0e663c50E0"
+        },
+        "vp": {
+            "symbol": "%",
+            "decimals": 2,
+            "maxDelegate": 2,
+            "contract": "0x5A0773Ff307Bf7C71a832dBB5312237fD3437f9F"
+        },
+        "rewardManager": {
+            "contract": "0xc5738334b972745067fFa666040fdeADc66Cb925"
+        },
+        "ftsoManager": {
+            "contract": "0xbfA12e4E1411B62EdA8B035d71735667422A6A9e"
+        }
+    }
+]
