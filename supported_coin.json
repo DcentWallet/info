@@ -432,6 +432,18 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/23633.png",
+    "symbol": "HVH",
+    "name": "Havah",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-heco.png",
     "name": "HECO",
     "symbol": "HT",
@@ -25376,6 +25388,104 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/10427.png",
+    "symbol": "PKR",
+    "name": "Polker",
+    "type": "ERC20",
+    "contract": "0x001a8ffcb0f03e99141652ebcdecdb0384e3bd6c",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/21916.png",
+    "symbol": "ISK",
+    "name": "ISKRA Token",
+    "type": "ERC20",
+    "contract": "0x17d2628d30f8e9e966c9ba831c9b9b01ea8ea75c",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3060.png",
+    "symbol": "YCC",
+    "name": "Yuan Chain Coin",
+    "type": "ERC20",
+    "contract": "0x37e1160184f7dd29f00b78c050bf13224780b0b0",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/24303.png",
+    "symbol": "MCADE",
+    "name": "Metacade",
+    "type": "ERC20",
+    "contract": "0xed328e9c1179a30ddc1e7595e036aed8760c22af",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/24478.png",
+    "symbol": "PEPE",
+    "name": "Pepe",
+    "type": "ERC20",
+    "contract": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/24552.png",
+    "symbol": "BOBO",
+    "name": "Bobo",
+    "type": "ERC20",
+    "contract": "0x5888641e3e6cbea6d84ba81edb217bd691d3be38",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/24581.png",
+    "symbol": "MUMU",
+    "name": "Mumu",
+    "type": "ERC20",
+    "contract": "0x2f573070e6090b3264fe707e2c9f201716f123c7",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/logo_doc.svg",
     "symbol": "DOC",
     "name": "Dollar on Chain",
@@ -26036,7 +26146,7 @@
     "symbol": "ISR",
     "name": "Insureum",
     "type": "KCT",
-    "contract": "0x9657fb399847d85a9c1a234ece9ca09d5c00f466",
+    "contract": "0xb6b6fd8e645084ec45ebdcb452e8dab7c1e6f4c8",
     "support": {
       "biometric": true,
       "card": true,
@@ -26914,6 +27024,20 @@
     "name": "azit",
     "type": "KCT",
     "contract": "0x6cef6dd9a3c4ad226b8b66effeea2c125df194f1",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": true,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/21916.png",
+    "symbol": "ISK",
+    "name": "ISKRA Token",
+    "type": "KCT",
+    "contract": "0x17d2628d30f8e9e966c9ba831c9b9b01ea8ea75c",
     "support": {
       "biometric": true,
       "card": true,
@@ -30414,20 +30538,6 @@
     }
   },
   {
-    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-gbex.png",
-    "symbol": "GBEX",
-    "name": "Globiance Exchange Token",
-    "type": "XRC20",
-    "contract": "xdc34514748f86a8da01ef082306b6d6e738f777f5a",
-    "support": {
-      "biometric": true,
-      "card": true,
-      "ethCard": false,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-eurg.png",
     "symbol": "EURG",
     "name": "Globiance Euro Stablecoin",
@@ -30544,6 +30654,20 @@
     "name": "Agave",
     "type": "XRC20",
     "contract": "0x3a97704a1b25F08aa230ae53B352e2e72ef52843",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/19699.png",
+    "symbol": "GBEX",
+    "name": "Globiance Exchange Token",
+    "type": "XRC20",
+    "contract": "xdc34514748f86a8da01ef082306b6d6e738f777f5a",
     "support": {
       "biometric": true,
       "card": true,
@@ -39723,6 +39847,20 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/12965.png",
+    "symbol": "GGG",
+    "name": "Good Games Guild",
+    "type": "BEP20",
+    "contract": "0xd8047afecb86e44eff3add991b9f063ed4ca716b",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8918.png",
     "symbol": "MAUSDC",
     "name": "Matic Aave Interest Bearing USDC",
@@ -41178,6 +41316,34 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/23799.png",
+    "symbol": "ROA",
+    "name": "ROA CORE",
+    "type": "SPL-TOKEN",
+    "contract": "5tB5D6DGJMxxHYmNkfJNG237x6pZGEwTzGpUUh62yQJ7",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3908.png",
+    "symbol": "DIO",
+    "name": "Decimated",
+    "type": "SPL-TOKEN",
+    "contract": "BiDB55p4G3n1fGhwKFpxsokBMqgctL4qnZpDH1bVQxMD",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/9078.png",
     "symbol": "FC",
     "name": "FansCoin",
@@ -41404,6 +41570,45 @@
     "name": "OceanEx Token",
     "type": "VECHAIN-ERC20",
     "contract": "0x0ce6661b4ba86a0ea7ca2bd86a0de87b0b860f14",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "symbol": "PER",
+    "name": "PER Token",
+    "type": "HAVAH-HSP20",
+    "contract": "cxd7fed2ae1d9b2314087520efe1870c33e5c5baa4",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "symbol": "ttUSDTe",
+    "name": "mitter USDT",
+    "type": "HAVAH-HSP20",
+    "contract": "cxd458b2d66f17a03843845fd7fee640b550d24073",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "symbol": "XPER",
+    "name": "XPER Token",
+    "type": "HAVAH-HSP20",
+    "contract": "cx845d39382f26509a4db7af8e3b38159f9c533852",
     "support": {
       "biometric": true,
       "card": false,

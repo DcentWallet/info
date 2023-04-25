@@ -528,6 +528,15 @@
             "name": "Coreum",
             "symbol": "CORE"
         }
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/23633.png",
+            "name": "Havah",
+            "symbol": "HVH"
+        }
     ],
     "version": {
         "biometric": {
