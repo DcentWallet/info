@@ -333,6 +333,15 @@
                         "Android": "5.16.0",
                         "iOS": "5.16.1"
                     }
+                },
+                {
+                    "networkId": "BASE-Goerli",
+                    "name": "base_goerli",
+                    "description": "BASE Goerli",
+                    "coinType": "EVMT:84531",
+                    "chainId": 84531,
+                    "iconPath": "network_base_goerli.png",
+                    "testnet": true
                 }
             ]
         },
