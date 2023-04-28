@@ -341,7 +341,8 @@
                     "coinType": "EVMT:84531",
                     "chainId": 84531,
                     "iconPath": "network_base_goerli.png",
-                    "testnet": true
+                    "testnet": true,
+                    "preRelease":true
                 }
             ]
         },
