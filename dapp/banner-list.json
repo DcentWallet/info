@@ -14,26 +14,6 @@
         }
     },
     {
-        "name": "coreum-event",
-        "title": "Coreum Event",
-        "bgColor": "#111111",
-        "externalWindow": true,
-        "locale": {
-            "en": {
-                "description": "",
-                "link": "https://forms.gle/1Nc2r1Hiu4Vjpy6j8",
-                "imagePath": "coreum_360_en.jpg",
-                "imagePath_480": "coreum_480_en.jpg"
-            },
-            "ko": {
-                "description": "",
-                "link": "https://forms.gle/6unX4ywPoTWCZJXy7",
-                "imagePath": "coreum_360_ko.jpg",
-                "imagePath_480": "coreum_480_ko.jpg"
-            }
-        }
-    },
-    {
         "name": "usa-free-shipping",
         "title": "USA Free Shipping",
         "bgColor": "#111111",

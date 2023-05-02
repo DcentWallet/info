@@ -30,54 +30,6 @@
     "img": {
       "en": {
         "desktop": {
-          "path": "../images/en/coreum_1920_en.jpg",
-          "height": "90px",
-          "background-color": "#111111"
-        },
-        "tablet": {
-          "path": "../images/en/coreum_768_en.jpg",
-          "height": "65px",
-          "background-color": "#111111"
-        },
-        "mobile": {
-          "path": "../images/en/coreum_768_en.jpg",
-          "height": "15.64vw",
-          "background-color": "#111111"
-        }
-      },
-      "ko": {
-        "desktop": {
-          "path": "../images/ko/coreum_1920_ko.jpg",
-          "height": "90px",
-          "background-color": "#111111"
-        },
-        "tablet": {
-          "path": "../images/ko/coreum_768_ko.jpg",
-          "height": "65px",
-          "background-color": "#111111"
-        },
-        "mobile": {
-          "path": "../images/ko/coreum_768_ko.jpg",
-          "height": "15.64vw",
-          "background-color": "#111111"
-        }
-      }
-    },
-    "link": {
-      "en": {
-        "internal": false,
-        "external": "https://forms.gle/1Nc2r1Hiu4Vjpy6j8"
-      },
-      "ko": {
-        "internal": false,
-        "external": "https://forms.gle/6unX4ywPoTWCZJXy7"
-      }
-    }
-  },
-  {
-    "img": {
-      "en": {
-        "desktop": {
           "path": "../images/en/usa_web_1920_2.jpg",
           "height": "90px",
           "background-color": "#111111"
