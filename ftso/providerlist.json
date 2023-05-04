@@ -522,6 +522,13 @@
       "url": "https://tempestftso.com",
       "address": "0x96616c93747baBE136bB56310bE2AE665b18dA63",
       "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x96616c93747baBE136bB56310bE2AE665b18dA63.png"
+    },
+    {
+     "name": "Flare Ocean",
+     "description": "FlareOcean provides accurate and reliable price feeds to the Songbird & Flare Networks and a transparent, incentivized, risk-free delegation service.",
+     "url": "https://flareocean.io",
+     "address": "0x50bd2D0B457E27a481f97C4685d16EeB8B978155",
+     "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x50bd2D0B457E27a481f97C4685d16EeB8B978155.png"
     }
   ],
   "19": [
@@ -1428,6 +1435,13 @@
       "url": "https://tempestftso.com",
       "address": "0x4eb408FA585a5C66E523a4aE5f5706374Ec9E8c7",
       "image": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4eb408FA585a5C66E523a4aE5f5706374Ec9E8c7.png"
+    },
+    {
+     "name": "Flare Ocean",
+     "description": "FlareOcean provides accurate and reliable price feeds to the Songbird & Flare Networks and a transparent, incentivized, risk-free delegation service.",
+     "url": "https://flareocean.io",
+     "address": "0xf4213E49488b9320769D35924AC52ea31a4C9fc1",
+     "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xf4213E49488b9320769D35924AC52ea31a4C9fc1.png"
     }
   ]
 }
