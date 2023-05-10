@@ -1,5 +1,25 @@
 [
     {
+        "name": "HAVAH",
+        "title": "HAVAH",
+        "bgColor": "#050505",
+        "externalWindow": true,
+        "locale": {
+            "en": {
+                "description": "",
+                "link": "https://dcentwallet.com/events/20230510_havah_promotion?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202305_havah_promotion_v01",
+                "imagePath": "HAVAH_360x160_EN.png",
+                "imagePath_480": "HAVAH_480x160_EN.png"
+            },
+            "ko": {
+                "description": "",
+                "link": "https://dcentwallet.com/events/20230510_havah_promotion?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202305_havah_promotion_v01",
+                "imagePath": "HAVAH_360x160_KO.png",
+                "imagePath_480": "HAVAH_480x160_KO.png"
+            }
+        }
+    },
+    {
         "name": "Koinly",
         "title": "Koinly",
         "bgColor": "#465CE7",
