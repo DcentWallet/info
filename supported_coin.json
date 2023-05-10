@@ -216,18 +216,6 @@
     }
   },
   {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3602.png",
-    "symbol": "BSV",
-    "name": "Bitcoin SV",
-    "support": {
-      "biometric": true,
-      "card": false,
-      "ethCard": false,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/1958.png",
     "symbol": "TRX",
     "name": "TRON",
