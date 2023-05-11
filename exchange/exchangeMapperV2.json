@@ -328,7 +328,7 @@
   },
   {
     "network": "ftm",
-    "protocol": "",
+    "protocol": "FTM",
     "groupName": "ftm",
     "supportCustom": true,
     "tokenGroup": [
@@ -373,7 +373,10 @@
     ]
   },
   {
-    "network": "cchain",
+    "network": [
+      "cchain",
+      "avaxc"
+    ],
     "protocol": "c-chain",
     "groupName": "avalanche",
     "supportCustom": true,
@@ -406,14 +409,17 @@
     ]
   },
   {
-    "network": "",
-    "protocol": "",
+    "network": "arbitrum",
+    "protocol": "ARB",
     "groupName": "arbitrum",
     "supportCustom": true,
     "tokenGroup": [
       "CHAN:42161",
       "CH20:42161"
-    ]
+    ],
+    "iconUrl": "https://info-repo.dcentwallet.com/dapp/images/network_arbitrum.png",
+    "legacyTicker": "etharb",
+    "changellyTicker": "arb"
   },
   {
     "network": "",
@@ -461,24 +467,28 @@
     "changellyTicker": "zen"
   },
   {
-    "network": "",
+    "network": "stx",
     "protocol": "STX",
     "groupName": "STACKS",
     "supportCustom": false,
     "tokenGroup": [
       "STACKS"
     ],
+    "legacyTicker": "stx",
     "changellyTicker": "stx",
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4847.png"
   },
   {
-    "network": "",
-    "protocol": "",
+    "network": "xec",
+    "protocol": "XEC",
     "groupName": "ECASH",
     "supportCustom": false,
     "tokenGroup": [
       "ECASH"
-    ]
+    ],
+    "legacyTicker": "xec",
+    "changellyTicker": "xec",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/10791.png"
   },
   {
     "network": "sol",
@@ -527,12 +537,24 @@
     ]
   },
   {
-    "network": "",
+    "network": "croevm",
     "protocol": "",
     "groupName": "CRONOS",
     "supportCustom": true,
     "tokenGroup": [
       "CHAN:25"
+    ],
+    "legacyTicker": "croevm",
+    "changellyTicker": "",
+    "iconUrl": "https://info-repo.dcentwallet.com/dapp/images/network_cronos.png"
+  },
+  {
+    "network": "",
+    "protocol": "",
+    "groupName": "PALM",
+    "supportCustom": false,
+    "tokenGroup": [
+      "CHAN:X-PALM"
     ]
   },
   {
@@ -568,5 +590,131 @@
       "ios": "5.17.0"
     },
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3794.png"
+  },
+  {
+    "network": "xtz",
+    "protocol": "",
+    "groupName": "TEZOS",
+    "supportCustom": true,
+    "tokenGroup": [
+      "TEZOS",
+      "XTZ-FA"
+    ],
+    "legacyTicker": "xtz",
+    "changellyTicker": "",
+    "requireVersion": {
+      "android": "5.18.0",
+      "ios": "5.18.0"
+    },
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2011.png"
+  },
+  {
+    "network": "vet",
+    "protocol": "VET",
+    "groupName": "VECHAIN",
+    "supportCustom": true,
+    "tokenGroup": [
+      "VECHAIN",
+      "VECHAIN-ERC20"
+    ],
+    "legacyTicker": "vet",
+    "changellyTicker": "vet",
+    "requireVersion": {
+      "android": "5.19.0",
+      "ios": "5.19.0"
+    },
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3077.png"
+  },
+  {
+    "network": "near",
+    "protocol": "NEAR",
+    "groupName": "NEAR",
+    "supportCustom": false,
+    "tokenGroup": [
+      "NEAR"
+    ],
+    "legacyTicker": "near",
+    "changellyTicker": "nearmainnet",
+    "requireVersion": {
+      "android": "5.20.0",
+      "ios": "5.20.0"
+    },
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6535.png"
+  },
+  {
+    "network": "",
+    "protocol": "",
+    "groupName": "FLARE",
+    "supportCustom": true,
+    "tokenGroup": [],
+    "legacyTicker": "",
+    "changellyTicker": "",
+    "iconUrl": ""
+  },
+  {
+    "network": "",
+    "protocol": "",
+    "groupName": "OASYS",
+    "supportCustom": true,
+    "tokenGroup": [],
+    "legacyTicker": "",
+    "changellyTicker": "",
+    "iconUrl": ""
+  },
+  {
+    "network": "op",
+    "protocol": "OPTIMISM",
+    "groupName": "OPTIMISM",
+    "supportCustom": true,
+    "tokenGroup": [
+      "CHAN:10"
+    ],
+    "legacyTicker": "ethop",
+    "changellyTicker": "",
+    "iconUrl": "https://info-repo.dcentwallet.com/dapp/images/network_optimism.png"
+  },
+  {
+    "network": "",
+    "protocol": "",
+    "groupName": "MEVERSE",
+    "supportCustom": true,
+    "tokenGroup": [],
+    "legacyTicker": "",
+    "changellyTicker": "",
+    "iconUrl": ""
+  },
+  {
+    "network": "",
+    "protocol": "",
+    "groupName": "COREUM",
+    "supportCustom": false,
+    "tokenGroup": [
+      "CZONE:core",
+      "CZONE"
+    ],
+    "legacyTicker": "",
+    "changellyTicker": "",
+    "requireVersion": {
+      "android": "5.23.0",
+      "ios": "5.23.0"
+    },
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/16399.png"
+  },
+  {
+    "network": "",
+    "protocol": "",
+    "groupName": "HAVAH",
+    "supportCustom": true,
+    "tokenGroup": [
+      "HAVAH",
+      "HAVAH-HSP20"
+    ],
+    "legacyTicker": "",
+    "changellyTicker": "",
+    "requireVersion": {
+      "android": "5.24.0",
+      "ios": "5.24.0"
+    },
+    "iconUrl": ""
   }
 ]
