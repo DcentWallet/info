@@ -1,5 +1,10 @@
 [
   {
+    "name": "Havah",
+    "imageUrl": "../images/Havah.png",
+    "gotoLink": "https://havah.io/"
+  },
+  {
     "name": "Koinly",
     "imageUrl": "../images/koinly.png",
     "gotoLink": "https://koinly.io/"
