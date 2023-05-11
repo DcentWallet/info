@@ -38,11 +38,11 @@
     },
     "link": {
       "en": {
-        "internal": "/events/20230510_havah_promotion?utm_source=home_banner&utm_medium=dcent-web&utm_campaign=202305_havah_promotion_v01",
+        "internal": "/events/20230510_havah_promotion",
         "external": false
       },
       "ko": {
-        "internal": "/events/20230510_havah_promotion?utm_source=home_banner&utm_medium=dcent-web&utm_campaign=202305_havah_promotion_v01",
+        "internal": "/events/20230510_havah_promotion",
         "external": false
       }
     }
