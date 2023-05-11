@@ -593,7 +593,7 @@
   },
   {
     "network": "xtz",
-    "protocol": "",
+    "protocol": "XTZ",
     "groupName": "TEZOS",
     "supportCustom": true,
     "tokenGroup": [
@@ -601,7 +601,7 @@
       "XTZ-FA"
     ],
     "legacyTicker": "xtz",
-    "changellyTicker": "",
+    "changellyTicker": "xtz",
     "requireVersion": {
       "android": "5.18.0",
       "ios": "5.18.0"
@@ -670,7 +670,7 @@
       "CHAN:10"
     ],
     "legacyTicker": "ethop",
-    "changellyTicker": "",
+    "changellyTicker": "op",
     "iconUrl": "https://info-repo.dcentwallet.com/dapp/images/network_optimism.png"
   },
   {
