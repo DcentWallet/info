@@ -452,6 +452,15 @@
                 "height": "32px",
                 "width": "32px"
             },
+            "imgUrl": "https://info-repo.dcentwallet.com/dapp/images/network_palm.jpg",
+            "name": "Palm",
+            "symbol": "PALM"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
             "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6636.png",
             "name": "Polkadot",
             "symbol": "DOT"
@@ -509,6 +518,15 @@
             "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/22265.png",
             "name": "Oasys Network",
             "symbol": "OAS"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://info-repo.dcentwallet.com/dapp/images/network_optimism.png",
+            "name": "Optimism ETH",
+            "symbol": "ETH"
         },
         {
             "imgSize": {
