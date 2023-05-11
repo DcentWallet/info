@@ -216,18 +216,6 @@
     }
   },
   {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3602.png",
-    "symbol": "BSV",
-    "name": "Bitcoin SV",
-    "support": {
-      "biometric": true,
-      "card": false,
-      "ethCard": false,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/1958.png",
     "symbol": "TRX",
     "name": "TRON",
@@ -25486,6 +25474,62 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/14489.png",
+    "symbol": "CDT",
+    "name": "CheckDot",
+    "type": "ERC20",
+    "contract": "0xcdb37a4fbc2da5b78aa4e41a432792f9533e85cc",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/21926.png",
+    "symbol": "LEOX",
+    "name": "LEOX",
+    "type": "ERC20",
+    "contract": "0xa444ec96ee01bb219a44b285de47bf33c3447ad5",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/12999.png",
+    "symbol": "SSV",
+    "name": "SSV Network",
+    "type": "ERC20",
+    "contract": "0x9d65ff81a3c488d585bbfb0bfe3c7707c7917f54",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/23955.png",
+    "symbol": "AI",
+    "name": "Chat AI",
+    "type": "ERC20",
+    "contract": "0xa89bf95c5f15a847c8eb8d348cd7fed719ad7d80",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/logo_doc.svg",
     "symbol": "DOC",
     "name": "Dollar on Chain",
@@ -39861,6 +39905,118 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/14489.png",
+    "symbol": "CDT",
+    "name": "CheckDot",
+    "type": "BEP20",
+    "contract": "0x0cbd6fadcf8096cc9a43d90b45f65826102e3ece",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7245.png",
+    "symbol": "STBU",
+    "name": "Stobox Token",
+    "type": "BEP20",
+    "contract": "0xb0c4080a8fa7afa11a09473f3be14d44af3f8743",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/22391.png",
+    "symbol": "MGP",
+    "name": "Magpie",
+    "type": "BEP20",
+    "contract": "0xd06716e1ff2e492cc5034c2e81805562dd3b45fa",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/22239.png",
+    "symbol": "WMX",
+    "name": "Wombex",
+    "type": "BEP20",
+    "contract": "0xa75d9ca2a0a1d547409d82e1b06618ec284a2ced",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/23955.png",
+    "symbol": "AI",
+    "name": "Chat AI",
+    "type": "BEP20",
+    "contract": "0xa89bf95c5f15a847c8eb8d348cd7fed719ad7d80",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/24062.png",
+    "symbol": "PEPA",
+    "name": "Pepa Inu",
+    "type": "BEP20",
+    "contract": "0xc3137c696796d69f783cd0be4ab4bb96814234aa",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/24275.png",
+    "symbol": "OGGY",
+    "name": "Oggy Inu",
+    "type": "BEP20",
+    "contract": "0x92ed61fb8955cc4e392781cb8b7cd04aadc43d0c",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/24716.png",
+    "symbol": "ARMY",
+    "name": "BabyDogeARMY",
+    "type": "BEP20",
+    "contract": "0x906089721cc5cb41c87d35bb05bea70bdf47a269",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8918.png",
     "symbol": "MAUSDC",
     "name": "Matic Aave Interest Bearing USDC",
@@ -40785,6 +40941,20 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/14489.png",
+    "symbol": "CDT",
+    "name": "CheckDot",
+    "type": "POLYGON-ERC20",
+    "contract": "0x26c80854c36ff62bba7414a358c8c23bbb8dec39",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "symbol": "ys",
     "name": "Dcent",
     "type": "HEDERA-HTS",
@@ -41335,6 +41505,34 @@
     "name": "Decimated",
     "type": "SPL-TOKEN",
     "contract": "BiDB55p4G3n1fGhwKFpxsokBMqgctL4qnZpDH1bVQxMD",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5665.png",
+    "symbol": "HNT",
+    "name": "Helium",
+    "type": "SPL-TOKEN",
+    "contract": "hntyVP6YFm1Hg25TN9WGLqM12b8TQmcknKrdu1oxWux",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/24600.png",
+    "symbol": "MOBILE",
+    "name": "Helium Mobile",
+    "type": "SPL-TOKEN",
+    "contract": "mb1eu7TzEc71KxDpsmsKoucSSuuoGLv1drys1oP2jh6",
     "support": {
       "biometric": true,
       "card": false,
@@ -42666,6 +42864,20 @@
     "name": "Vela Exchange",
     "contract": "0x088cd8f5ef3652623c22d48b1605dcfe860cd704",
     "symbol": "VELA",
+    "type": "ARBITRUM-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/14489.png",
+    "name": "CheckDot",
+    "contract": "0x0cbd6fadcf8096cc9a43d90b45f65826102e3ece",
+    "symbol": "CDT",
     "type": "ARBITRUM-ERC20",
     "support": {
       "biometric": true,
