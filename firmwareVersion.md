@@ -1,5 +1,6 @@
 |Kernel Version|Release Date|Notes|
 |----|----|------|
+|v2.27.1|2023-05-18|• Added supporting coin : Near Token |
 |v2.26.0|2023-04-25|• Added supporting coin : HAVAH (HVH), HAVAH HSP20 Token |
 |v2.25.3|2023-04-11|• Improved XRP Transaaction stability |
 |v2.25.2|2023-03-09|• Added Hedera Transaction - AccountCreateTransaction, AccountUpdateTransaction, TokenDissociateTransaction, TokenFreezeTransaction, TokenUnfreezeTransaction, TokenPauseTransaction, TokenUnpauseTransaction, TokenWipeTransaction |
