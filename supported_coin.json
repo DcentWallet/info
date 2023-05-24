@@ -23796,7 +23796,7 @@
   {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/9308.png",
     "symbol": "PYR",
-    "name": "Vulcan Forged PYR",
+    "name": "Vulcan Forged",
     "type": "ERC20",
     "contract": "0x430ef9263e76dae63c84292c3409d61c598e9682",
     "support": {
@@ -25633,6 +25633,90 @@
     "name": "Dogey-Inu",
     "type": "ERC20",
     "contract": "0xbb1ee07d6c7baeb702949904080eb61f5d5e7732",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/25378.png",
+    "symbol": "LOVESNOOPY",
+    "name": "I LOVE SNOOPY",
+    "type": "ERC20",
+    "contract": "0xf0edac27aa3e85e2d176f689b0025f90c154393a",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/24007.png",
+    "symbol": "AGI",
+    "name": "Delysium",
+    "type": "ERC20",
+    "contract": "0x7da2641000cbb407c329310c461b2cb9c70c3046",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/24929.png",
+    "symbol": "$SPONGE",
+    "name": "Sponge",
+    "type": "ERC20",
+    "contract": "0x25722cd432d02895d9be45f5deb60fc479c8781e",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/25081.png",
+    "symbol": "SIMPSON",
+    "name": "Homer",
+    "type": "ERC20",
+    "contract": "0x44aad22afbb2606d7828ca1f8f9e5af00e779ae1",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8144.png",
+    "symbol": "OVR",
+    "name": "OVR",
+    "type": "ERC20",
+    "contract": "0x21bfbda47a0b4b5b1248c767ee49f7caa9b23697",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/24520.png",
+    "symbol": "LHINU",
+    "name": "Love Hate Inu",
+    "type": "ERC20",
+    "contract": "0xcedefe438860d2789da6419b3a19cece2a41038d",
     "support": {
       "biometric": true,
       "card": true,
@@ -30533,6 +30617,20 @@
     "name": "BITONE",
     "type": "TRC20",
     "contract": "TJhfYTHKrpavuCpDG2GXyf9c8eQTeKhLDZ",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/23761.png",
+    "symbol": "USHA",
+    "name": "uShark",
+    "type": "TRC20",
+    "contract": "TH1mbwCRzZwyGBUEPLBYFyfxAT3LFUbSDA",
     "support": {
       "biometric": true,
       "card": false,
@@ -40241,6 +40339,62 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/24007.png",
+    "symbol": "AGI",
+    "name": "Delysium",
+    "type": "BEP20",
+    "contract": "0x818835503f55283cd51a4399f595e295a9338753",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/15178.png",
+    "symbol": "GSTS",
+    "name": "Gunstar Metaverse",
+    "type": "BEP20",
+    "contract": "0x7edc0ec89f987ecd85617b891c44fe462a325869",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8823.png",
+    "symbol": "POODL",
+    "name": "Poodl",
+    "type": "BEP20",
+    "contract": "0x4a68c250486a116dc8d6a0c5b0677de07cc09c5d",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8144.png",
+    "symbol": "OVR",
+    "name": "OVR",
+    "type": "BEP20",
+    "contract": "0x7e35d0e9180bf3a1fc47b0d110be7a21a10b41fe",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8918.png",
     "symbol": "MAUSDC",
     "name": "Matic Aave Interest Bearing USDC",
@@ -41170,6 +41324,34 @@
     "name": "CheckDot",
     "type": "POLYGON-ERC20",
     "contract": "0x26c80854c36ff62bba7414a358c8c23bbb8dec39",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/9308.png",
+    "symbol": "PYR",
+    "name": "Vulcan Forged",
+    "type": "POLYGON-ERC20",
+    "contract": "0x430ef9263e76dae63c84292c3409d61c598e9682",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8144.png",
+    "symbol": "OVR",
+    "name": "OVR",
+    "type": "POLYGON-ERC20",
+    "contract": "0x1631244689ec1fecbdd22fb5916e920dfc9b8d30",
     "support": {
       "biometric": true,
       "card": true,
