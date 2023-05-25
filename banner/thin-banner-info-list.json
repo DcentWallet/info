@@ -3,6 +3,33 @@
     "img": {
       "en": {
         "desktop": {
+          "path": "../images/en/1920x90_EN.png",
+          "height": "90px",
+          "background-color": "#100C25"
+        },
+        "tablet": {
+          "path": "../images/en/768x120_EN.png",
+          "height": "65px",
+          "background-color": "#100C25"
+        },
+        "mobile": {
+          "path": "../images/en/768x120_EN.png",
+          "height": "15.64vw",
+          "background-color": "#100C25"
+        }
+      }
+    },
+    "link": {
+      "en": {
+        "internal": false,
+        "external": "https://store.dcentwallet.com/collections/frontpage/products/biometric-wallet"
+      }
+    }
+  },
+  {
+    "img": {
+      "en": {
+        "desktop": {
           "path": "../images/en/HAVAH_1920x90_EN.png",
           "height": "90px",
           "background-color": "#050505"
