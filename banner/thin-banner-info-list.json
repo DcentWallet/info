@@ -51,34 +51,34 @@
     "img": {
       "en": {
         "desktop": {
-          "path": "../images/en/HAVAH_1920x90_EN.png",
+          "path": "../images/en/1920x90_EN_HVclose.png",
           "height": "90px",
           "background-color": "#050505"
         },
         "tablet": {
-          "path": "../images/en/HAVAH_768x120_EN.png",
+          "path": "../images/en/768x120_EN_HVclose.png",
           "height": "65px",
           "background-color": "#050505"
         },
         "mobile": {
-          "path": "../images/en/HAVAH_768x120_EN.png",
+          "path": "../images/en/768x120_EN_HVclose.png",
           "height": "15.64vw",
           "background-color": "#050505"
         }
       },
       "ko": {
         "desktop": {
-          "path": "../images/ko/HAVAH_1920x90_KO.png",
+          "path": "../images/ko/1920x90_KO_HVclose.png",
           "height": "90px",
           "background-color": "#050505"
         },
         "tablet": {
-          "path": "../images/ko/HAVAH_768x120_KO.png",
+          "path": "../images/ko/768x120_KO_HVclose.png",
           "height": "65px",
           "background-color": "#050505"
         },
         "mobile": {
-          "path": "../images/ko/HAVAH_768x120_KO.png",
+          "path": "../images/ko/768x120_KO_HVclose.png",
           "height": "15.64vw",
           "background-color": "#050505"
         }
@@ -86,12 +86,12 @@
     },
     "link": {
       "en": {
-        "internal": "/events/20230510_havah_promotion",
-        "external": false
+        "internal": false,
+        "external": "https://forms.gle/iqbuzuY5o1LqVxdQ7"
       },
       "ko": {
-        "internal": "/events/20230510_havah_promotion",
-        "external": false
+        "internal": false,
+        "external": "https://forms.gle/okhGcxBUvyCLgVdE8"
       }
     }
   },
