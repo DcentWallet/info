@@ -20,17 +20,17 @@
       },
       "ko": {
         "desktop": {
-          "path": "../images/en/1920x90_KR.png",
+          "path": "../images/ko/1920x90_KR.png",
           "height": "90px",
           "background-color": "#100C25"
         },
         "tablet": {
-          "path": "../images/en/768x120_KR.png",
+          "path": "../images/ko/768x120_KR.png",
           "height": "65px",
           "background-color": "#100C25"
         },
         "mobile": {
-          "path": "../images/en/768x120_KR.png",
+          "path": "../images/ko/768x120_KR.png",
           "height": "15.64vw",
           "background-color": "#100C25"
         }
