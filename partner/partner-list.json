@@ -1,5 +1,10 @@
 [
   {
+    "name": "Blade",
+    "imageUrl": "../images/Blade.png",
+    "gotoLink": "https://www.bladewallet.io/"
+  },
+  {
     "name": "Havah",
     "imageUrl": "../images/Havah.png",
     "gotoLink": "https://havah.io/"
