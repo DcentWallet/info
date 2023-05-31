@@ -25726,6 +25726,90 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/23633.png",
+    "symbol": "HVH",
+    "name": "HAVAH",
+    "type": "ERC20",
+    "contract": "0xd076c4ba62c57b3fa10800bcfd8da66742110e0e",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/25482.png",
+    "symbol": "COPIUM",
+    "name": "Copium",
+    "type": "ERC20",
+    "contract": "0x36520f6336490088c2455279c59cefac66984b36",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5070.png",
+    "symbol": "XTP",
+    "name": "Tap",
+    "type": "ERC20",
+    "contract": "0x6368e1e18c4c419ddfc608a0bed1ccb87b9250fc",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/21473.png",
+    "symbol": "DIONE",
+    "name": "Dione Protocol",
+    "type": "ERC20",
+    "contract": "0x89b69f2d1adffa9a253d40840b6baa7fc903d697",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/23430.png",
+    "symbol": "STABLZ",
+    "name": "Stablz",
+    "type": "ERC20",
+    "contract": "0xa4eb9c64ec359d093eac7b65f51ef933d6e5f7cd",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/22706.png",
+    "symbol": "HYCO",
+    "name": "HYPERCOMIC",
+    "type": "ERC20",
+    "contract": "0x77f76483399dc6328456105b1db23e2aca455bf9",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/logo_doc.svg",
     "symbol": "DOC",
     "name": "Dollar on Chain",
@@ -43392,6 +43476,20 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/21106.png",
+    "name": "Radiant Capital",
+    "contract": "0x3082cc23568ea640225c2467653db90e9250aaa0",
+    "symbol": "RDNT",
+    "type": "ARBITRUM-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7236.png",
     "name": "Celo Dollar",
     "contract": "0x765de816845861e75a25fca122bb6898b8b1282a",
@@ -43704,6 +43802,34 @@
     "name": "DegenX",
     "contract": "0x51e48670098173025c477d9aa3f0eff7bf9f7812",
     "symbol": "DGNX",
+    "type": "AVA-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/11415.png",
+    "name": "Yield Yak",
+    "contract": "0x59414b3089ce2af0010e7523dea7e2b35d776ec7",
+    "symbol": "YAK",
+    "type": "AVA-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/20721.png",
+    "name": "Bitcoin Avalanche Bridged",
+    "contract": "0x152b9d0fdc40c096757f570a51e494bd4b943e50",
+    "symbol": "BTC.b",
     "type": "AVA-ERC20",
     "support": {
       "biometric": true,
