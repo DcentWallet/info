@@ -1,25 +1,5 @@
 [
     {
-        "name": "Special-Discount",
-        "title": "Special-Discount",
-        "bgColor": "#100C25",
-        "externalWindow": true,
-        "locale": {
-            "en": {
-                "description": "",
-                "link": "https://store.dcentwallet.com/collections/frontpage/products/biometric-wallet?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202305_private-keys_promotion_v01",
-                "imagePath": "360x160_EN.png",
-                "imagePath_480": "480x160_EN.png"
-            },
-            "ko": {
-                "description": "",
-                "link": "https://store-kr.dcentwallet.com/collections/frontpage/products/%EC%A7%80%EB%AC%B8%EC%9D%B8%EC%A6%9D%ED%98%95-%EC%A7%80%EA%B0%91?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202305_private-keys_promotion_v01",
-                "imagePath": "360x160_KR.png",
-                "imagePath_480": "480x160_KR.png"
-            }
-        }
-    },
-    {
         "name": "HAVAH",
         "title": "HAVAH",
         "bgColor": "#050505",

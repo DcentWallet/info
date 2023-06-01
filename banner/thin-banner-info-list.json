@@ -3,54 +3,6 @@
     "img": {
       "en": {
         "desktop": {
-          "path": "../images/en/1920x90_EN.png",
-          "height": "90px",
-          "background-color": "#100C25"
-        },
-        "tablet": {
-          "path": "../images/en/768x120_EN.png",
-          "height": "65px",
-          "background-color": "#100C25"
-        },
-        "mobile": {
-          "path": "../images/en/768x120_EN.png",
-          "height": "15.64vw",
-          "background-color": "#100C25"
-        }
-      },
-      "ko": {
-        "desktop": {
-          "path": "../images/ko/1920x90_KR.png",
-          "height": "90px",
-          "background-color": "#100C25"
-        },
-        "tablet": {
-          "path": "../images/ko/768x120_KR.png",
-          "height": "65px",
-          "background-color": "#100C25"
-        },
-        "mobile": {
-          "path": "../images/ko/768x120_KR.png",
-          "height": "15.64vw",
-          "background-color": "#100C25"
-        }
-      }
-    },
-    "link": {
-      "en": {
-        "internal": false,
-        "external": "https://store.dcentwallet.com/collections/frontpage/products/biometric-wallet"
-      },
-      "ko": {
-        "internal": false,
-        "external": "https://store-kr.dcentwallet.com/collections/frontpage/products/%EC%A7%80%EB%AC%B8%EC%9D%B8%EC%A6%9D%ED%98%95-%EC%A7%80%EA%B0%91"
-      }
-    }
-  },
-  {
-    "img": {
-      "en": {
-        "desktop": {
           "path": "../images/en/1920x90_EN_HVclose.png",
           "height": "90px",
           "background-color": "#050505"
