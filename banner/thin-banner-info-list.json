@@ -3,54 +3,6 @@
     "img": {
       "en": {
         "desktop": {
-          "path": "../images/en/1920x90_EN_HVclose.png",
-          "height": "90px",
-          "background-color": "#050505"
-        },
-        "tablet": {
-          "path": "../images/en/768x120_EN_HVclose.png",
-          "height": "65px",
-          "background-color": "#050505"
-        },
-        "mobile": {
-          "path": "../images/en/768x120_EN_HVclose.png",
-          "height": "15.64vw",
-          "background-color": "#050505"
-        }
-      },
-      "ko": {
-        "desktop": {
-          "path": "../images/ko/1920x90_KO_HVclose.png",
-          "height": "90px",
-          "background-color": "#050505"
-        },
-        "tablet": {
-          "path": "../images/ko/768x120_KO_HVclose.png",
-          "height": "65px",
-          "background-color": "#050505"
-        },
-        "mobile": {
-          "path": "../images/ko/768x120_KO_HVclose.png",
-          "height": "15.64vw",
-          "background-color": "#050505"
-        }
-      }
-    },
-    "link": {
-      "en": {
-        "internal": false,
-        "external": "https://forms.gle/iqbuzuY5o1LqVxdQ7"
-      },
-      "ko": {
-        "internal": false,
-        "external": "https://forms.gle/okhGcxBUvyCLgVdE8"
-      }
-    }
-  },
-  {
-    "img": {
-      "en": {
-        "desktop": {
           "path": "../images/en/koinly_1920_en.jpg",
           "height": "90px",
           "background-color": "#465CE7"

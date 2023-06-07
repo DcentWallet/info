@@ -1,25 +1,5 @@
 [
     {
-        "name": "HAVAH",
-        "title": "HAVAH",
-        "bgColor": "#050505",
-        "externalWindow": true,
-        "locale": {
-            "en": {
-                "description": "",
-                "link": "https://forms.gle/iqbuzuY5o1LqVxdQ7",
-                "imagePath": "360x160_EN_HVclose.png",
-                "imagePath_480": "480x160_EN_HVclose.png"
-            },
-            "ko": {
-                "description": "",
-                "link": "https://forms.gle/okhGcxBUvyCLgVdE8",
-                "imagePath": "360x160_KO_HVclose.png",
-                "imagePath_480": "480x160_KO_HVclose.png"
-            }
-        }
-    },
-    {
         "name": "Koinly",
         "title": "Koinly",
         "bgColor": "#465CE7",
