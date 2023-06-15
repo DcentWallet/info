@@ -25810,6 +25810,118 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/20154.png",
+    "symbol": "ACQ",
+    "name": "Acquire.Fi",
+    "type": "ERC20",
+    "contract": "0x4bdcb66b968060d9390c1d12bd29734496205581",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/14894.png",
+    "symbol": "ONSTON",
+    "name": "ONSTON",
+    "type": "ERC20",
+    "contract": "0x47b9f01b16e9c9cb99191dca68c9cc5bf6403957",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/24911.png",
+    "symbol": "TURBO",
+    "name": "Turbo",
+    "type": "ERC20",
+    "contract": "0xa35923162c49cf95e6bf26623385eb431ad920d3",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/21769.png",
+    "symbol": "METAL",
+    "name": "Metal Blockchain",
+    "type": "ERC20",
+    "contract": "0x294559fa758c88d639fd085751e463fee7806eab",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8708.png",
+    "symbol": "BDP",
+    "name": "Big Data Protocol",
+    "type": "ERC20",
+    "contract": "0xf3dcbc6d72a4e1892f7917b7c43b74131df8480e",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/25047.png",
+    "symbol": "BEN",
+    "name": "Ben",
+    "type": "ERC20",
+    "contract": "0x9bf1d7d63dd7a4ce167cf4866388226eeefa702e",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/12485.png",
+    "symbol": "ARW",
+    "name": "Arowana Token",
+    "type": "ERC20",
+    "contract": "0x351caa9045d65107b9d311d922d15887cfd634e4",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/25014.png",
+    "symbol": "RIBBIT",
+    "name": "Ribbit",
+    "type": "ERC20",
+    "contract": "0xb794ad95317f75c44090f64955954c3849315ffe",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/logo_doc.svg",
     "symbol": "DOC",
     "name": "Dollar on Chain",
@@ -30848,20 +30960,6 @@
     }
   },
   {
-    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-storx.svg",
-    "symbol": "SRX",
-    "name": "StorX",
-    "type": "XRC20",
-    "contract": "xdc5d5f074837f5d4618b3916ba74de1bf9662a3fed",
-    "support": {
-      "biometric": true,
-      "card": true,
-      "ethCard": false,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-usnota.png",
     "symbol": "USNOTA",
     "name": "USNOTA",
@@ -30978,6 +31076,20 @@
     "name": "TXRC20",
     "type": "XRC20",
     "contract": "xdc07318f7651eeb9ba05b9ba6ccb9e195c23b72a51",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/10894.png",
+    "symbol": "SRX",
+    "name": "StorX",
+    "type": "XRC20",
+    "contract": "xdc5d5f074837f5d4618b3916ba74de1bf9662a3fed",
     "support": {
       "biometric": true,
       "card": true,
@@ -40470,6 +40582,20 @@
     "name": "OVR",
     "type": "BEP20",
     "contract": "0x7e35d0e9180bf3a1fc47b0d110be7a21a10b41fe",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/10586.png",
+    "symbol": "TABOO",
+    "name": "TABOO TOKEN",
+    "type": "BEP20",
+    "contract": "0x9abdba20edfba06b782126b4d8d72a5853918fd0",
     "support": {
       "biometric": true,
       "card": true,
