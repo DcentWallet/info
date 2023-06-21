@@ -1,19 +1,5 @@
 [
     {
-        "name": "Koinly",
-        "title": "Koinly",
-        "bgColor": "#465CE7",
-        "externalWindow": true,
-        "locale": {
-            "en": {
-                "description": "",
-                "link": "https://koinly.io/dcent-offer/",
-                "imagePath": "koinly_360_en.jpg",
-                "imagePath_480": "koinly_480_en.jpg"
-            }
-        }
-    },
-    {
         "name": "usa-free-shipping",
         "title": "USA Free Shipping",
         "bgColor": "#111111",
