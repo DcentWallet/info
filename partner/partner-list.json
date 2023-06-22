@@ -1,5 +1,10 @@
 [
   {
+    "name": "Brickstreet",
+    "imageUrl": "../images/Brickstreet.png",
+    "gotoLink": "https://brickstreet.shop/"
+  },
+  {
     "name": "Blade",
     "imageUrl": "../images/Blade.png",
     "gotoLink": "https://www.bladewallet.io/"
