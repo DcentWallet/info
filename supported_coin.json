@@ -25922,6 +25922,20 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/15060.png",
+    "symbol": "RETH",
+    "name": "Rocket Pool ETH",
+    "type": "ERC20",
+    "contract": "0xae78736cd615f374d3085123a210448e74fc6393",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/logo_doc.svg",
     "symbol": "DOC",
     "name": "Dollar on Chain",
@@ -27474,6 +27488,20 @@
     "name": "ISKRA Token",
     "type": "KCT",
     "contract": "0x17d2628d30f8e9e966c9ba831c9b9b01ea8ea75c",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": true,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/20301.png",
+    "symbol": "FAVR",
+    "name": "Favor",
+    "type": "KCT",
+    "contract": "0x37e35406c8d87ae243932bf4c9a2138c2b93c8fa",
     "support": {
       "biometric": true,
       "card": true,
@@ -30201,6 +30229,20 @@
     "name": "Wirex Token",
     "type": "STELLAR-TA",
     "contract": "19.GASBLVHS5FOABSDNW5SPPH3QRJYXY5JHA2AOA2QHH2FJLZBRXSG4SWXT.WXT.10000000000",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5109.png",
+    "symbol": "FRED",
+    "name": "FRED Energy",
+    "type": "STELLAR-TA",
+    "contract": "20.GCA73U2PZFWAXJSNVMEVPNPPJCZGETWPWZC6E4DJAIWP3ZW3BAGYZLV6.FRED.900000000",
     "support": {
       "biometric": true,
       "card": false,
