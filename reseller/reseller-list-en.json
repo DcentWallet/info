@@ -1,5 +1,10 @@
 [
     {
+    "name": "Brickstreet",
+    "imageUrl": "../images_en/Brickstreet.png",
+    "gotoLink": "https://brickstreet.shop/"
+    },
+    {
     "name": "cryptobilis",
     "imageUrl": "../images_en/cryptobilis.png",
     "gotoLink": "https://www.cryptobilis.com/"
