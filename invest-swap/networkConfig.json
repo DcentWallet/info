@@ -1,0 +1,49 @@
+{
+  "networks": [
+    {
+      "group": "ETHEREUM",
+      "name": "Ethereum",
+      "symbol": "ETH"
+    },
+    {
+      "group": "BSC",
+      "name": "Binance Coin",
+      "symbol": "BNB"
+    },
+    {
+      "group": "POLYGON",
+      "name": "Polygon",
+      "symbol": "MATIC"
+    },
+    {
+      "group": "CHAN:10",
+      "name": "Optimism ETH",
+      "symbol": "ETH"
+    },
+    {
+      "group": "CHAN:42161",
+      "name": "Arbitrum ETH",
+      "symbol": "ETH"
+    },
+    {
+      "group": "CHAN:100",
+      "name": "Gnosis xDAI",
+      "symbol": "XDAI"
+    },
+    {
+      "group": "CHAN:43114",
+      "name": "Avalanche",
+      "symbol": "AVAX"
+    },
+    {
+      "group": "CHAN:250",
+      "name": "Fantom",
+      "symbol": "FTM"
+    },
+    {
+      "group": "KLAYTN",
+      "name": "Klaytn",
+      "symbol": "KLAY"
+    }
+  ]
+}
