@@ -1,49 +1,121 @@
 {
   "networks": [
     {
-      "group": "ETHEREUM",
       "name": "Ethereum",
+      "networkId": "ethereum-mainnet",
+      "type": "ethereum",
+      "available": {
+        "1inch": true
+      },
+      "explorer": "https://etherscan.io/tx/",
+      "iconPath": "network_ethereum.svg",
+      "priority": 1,
+      "group": "ETHEREUM",
       "symbol": "ETH"
     },
     {
-      "group": "BSC",
-      "name": "Binance Coin",
-      "symbol": "BNB"
-    },
-    {
-      "group": "POLYGON",
       "name": "Polygon",
+      "networkId": "polygon-mainnet",
+      "type": "ethereum",
+      "available": {
+        "1inch": true
+      },
+      "explorer": "https://polygonscan.com/tx/",
+      "iconPath": "network_polygon.svg",
+      "priority": 2,
+      "group": "POLYGON",
       "symbol": "MATIC"
     },
     {
-      "group": "CHAN:10",
-      "name": "Optimism ETH",
-      "symbol": "ETH"
+      "name": "BSC",
+      "networkId": "bsc-mainnet",
+      "type": "ethereum",
+      "available": {
+        "1inch": true
+      },
+      "explorer": "https://bscscan.com/tx/",
+      "iconPath": "network_bsc.svg",
+      "priority": 3,
+      "group": "BSC",
+      "symbol": "BNB"
     },
     {
-      "group": "CHAN:42161",
-      "name": "Arbitrum ETH",
-      "symbol": "ETH"
-    },
-    {
-      "group": "CHAN:100",
-      "name": "Gnosis xDAI",
-      "symbol": "XDAI"
-    },
-    {
-      "group": "CHAN:43114",
-      "name": "Avalanche",
-      "symbol": "AVAX"
-    },
-    {
-      "group": "CHAN:250",
       "name": "Fantom",
+      "networkId": "ftm-mainnet",
+      "type": "ethereum",
+      "available": {
+        "1inch": true
+      },
+      "explorer": "https://ftmscan.com/tx/",
+      "iconPath": "network_ftm.svg",
+      "priority": 4,
+      "group": "CHAN:250",
       "symbol": "FTM"
     },
     {
-      "group": "KLAYTN",
+      "name": "Arbitrum",
+      "networkId": "arbitrum-mainnet",
+      "type": "ethereum",
+      "available": {
+        "1inch": true
+      },
+      "explorer": "https://arbiscan.io/tx/",
+      "iconPath": "network_arbitrum.svg",
+      "priority": 5,
+      "group": "CHAN:42161",
+      "symbol": "ETH"
+    },
+    {
       "name": "Klaytn",
+      "networkId": "klaytn-mainnet",
+      "type": "klaytn",
+      "available": {
+        "swapscanner": true
+      },
+      "explorer": "https://scope.klaytn.com/tx/",
+      "iconPath": "network_klaytn.svg",
+      "priority": 6,
+      "group": "KLAYTN",
       "symbol": "KLAY"
+    },
+    {
+      "name": "Optimism",
+      "networkId": "Optimism",
+      "type": "ethereum",
+      "available": {
+        "1inch": true
+      },
+      "explorer": "https://optimism.blockscout.com/tx/",
+      "iconPath": "network_optimism.png",
+      "priority": 7,
+      "group": "CHAN:10",
+      "symbol": "ETH"
+    },
+    {
+      "name": "Gnosis",
+      "networkId": "xdai-mainnet",
+      "type": "ethereum",
+      "available": {
+        "1inch": true
+      },
+      "explorer": "https://gnosisscan.io/tx/",
+      "iconPath": "network_gnosis.svg",
+      "priority": 8,
+      "group": "CHAN:100",
+      "symbol": "XDAI"
+    },
+    {
+      "name": "Avalanche",
+      "networkId": "avalanche-mainnet",
+      "type": "ethereum",
+      "available": {
+        "1inch": true
+      },
+      "explorer": "https://snowtrace.io/tx/",
+      "iconPath": "network_avalanche.svg",
+      "priority": 9,
+      "group": "CHAN:43114",
+      "symbol": "AVAX"
     }
   ]
 }
