@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 80 80" style="enable-background:new 0 0 80 80;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_00000121260715455227819300000012363145221058526099_);}
+	.st2{fill:url(#SVGID_00000006705993465815199400000013429291155974026632_);}
+</style>
+<g id="레이어_1">
+	<g>
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="18.5271" y1="48.0111" x2="49.1173" y2="14.3937">
+			<stop  offset="0" style="stop-color:#FF0B00"/>
+			<stop  offset="1" style="stop-color:#FF8C00"/>
+		</linearGradient>
+		<path class="st0" d="M59.5,16.6c-5.3-4.5-11.8-6.8-18.4-7l-15.5,41L59.5,16.6z"/>
+		
+			<linearGradient id="SVGID_00000164509881532891407880000009712066407712758166_" gradientUnits="userSpaceOnUse" x1="55.5863" y1="53.4103" x2="58.9321" y2="26.4845">
+			<stop  offset="0" style="stop-color:#FF0B00"/>
+			<stop  offset="1" style="stop-color:#FF8C00"/>
+		</linearGradient>
+		<path style="fill:url(#SVGID_00000164509881532891407880000009712066407712758166_);" d="M43.9,40l19.5,19.5
+			c9.4-11.3,9.4-27.7,0-39L43.9,40z"/>
+		
+			<linearGradient id="SVGID_00000093861656192614523850000005146116981309359259_" gradientUnits="userSpaceOnUse" x1="22.6699" y1="22.6246" x2="12.6325" y2="54.6488">
+			<stop  offset="0" style="stop-color:#FF3C00"/>
+			<stop  offset="1" style="stop-color:#7A0000"/>
+		</linearGradient>
+		<path style="fill:url(#SVGID_00000093861656192614523850000005146116981309359259_);" d="M9.7,38.1c-0.5,7.5,1.8,15,6.8,21.1
+			l17-44.9L9.7,38.1z"/>
+	</g>
+	<g>
+		<defs>
+			<path id="SVGID_00000132788786490314205050000008344885729637734562_" d="M20.5,63.3c11.3,9.4,27.7,9.4,38.9,0L40,43.9L20.5,63.3
+				z"/>
+		</defs>
+		
+			<linearGradient id="SVGID_00000035511132241936367880000013535428260622563508_" gradientUnits="userSpaceOnUse" x1="43.6786" y1="43.862" x2="38.9554" y2="68.8754">
+			<stop  offset="0" style="stop-color:#FF3C00"/>
+			<stop  offset="1" style="stop-color:#7A0000"/>
+		</linearGradient>
+		
+			<use xlink:href="#SVGID_00000132788786490314205050000008344885729637734562_"  style="overflow:visible;fill:url(#SVGID_00000035511132241936367880000013535428260622563508_);"/>
+		<clipPath id="SVGID_00000095302202719461571950000003674106079930898072_">
+			<use xlink:href="#SVGID_00000132788786490314205050000008344885729637734562_"  style="overflow:visible;"/>
+		</clipPath>
+	</g>
+</g>
+<g id="레이어_2">
+</g>
+</svg>
