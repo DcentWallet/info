@@ -11,6 +11,7 @@
   explorer: 트랜잭션을 확인할 수 있는 스캐너 url. tx/ 까지 입력하여 뒤에 해쉬값이 올 수 있도록 한다.
   group: 'info/dapp/network_info.json' 의 coinType과 같아야 한다.
   symbol: 'info/supported_coin.json' 의 symbol과 같아야 한다.
+  platform: cmc / cgk의 플랫폼 이름, invest의 coin information api 응답의 data.platforms의 key와 같아야 한다.
   pre: *프리릴리즈* true 이면 stage(프리릴리즈) 에서만 이용할 수 있다.
 }
 ```
