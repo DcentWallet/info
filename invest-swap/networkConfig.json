@@ -11,7 +11,11 @@
       "iconPath": "network_ethereum.svg",
       "priority": 1,
       "group": "ETHEREUM",
-      "symbol": "ETH"
+      "symbol": "ETH",
+      "platform": {
+        "cgk": "ethereum",
+        "cmc": "Ethereum"
+      }
     },
     {
       "name": "Polygon",
@@ -24,7 +28,11 @@
       "iconPath": "network_polygon.svg",
       "priority": 2,
       "group": "POLYGON",
-      "symbol": "MATIC"
+      "symbol": "MATIC",
+      "platform": {
+        "cgk": "polygon-pos",
+        "cmc": "Polygon"
+      }
     },
     {
       "name": "BSC",
@@ -37,7 +45,11 @@
       "iconPath": "network_bsc.svg",
       "priority": 3,
       "group": "BSC",
-      "symbol": "BNB"
+      "symbol": "BNB",
+      "platform": {
+        "cgk": "binance-smart-chain",
+        "cmc": "BNB Smart Chain (BEP20)"
+      }
     },
     {
       "name": "Fantom",
@@ -50,7 +62,11 @@
       "iconPath": "network_ftm.svg",
       "priority": 4,
       "group": "CHAN:250",
-      "symbol": "FTM"
+      "symbol": "FTM",
+      "platform": {
+        "cgk": "fantom",
+        "cmc": "Fantom"
+      }
     },
     {
       "name": "Arbitrum",
@@ -63,7 +79,11 @@
       "iconPath": "network_arbitrum.svg",
       "priority": 5,
       "group": "CHAN:42161",
-      "symbol": "ETH"
+      "symbol": "ETH",
+      "platform": {
+        "cgk": "arbitrum-one",
+        "cmc": "Arbitrum"
+      }
     },
     {
       "name": "Klaytn",
@@ -76,7 +96,11 @@
       "iconPath": "network_klaytn.svg",
       "priority": 6,
       "group": "KLAYTN",
-      "symbol": "KLAY"
+      "symbol": "KLAY",
+      "platform": {
+        "cgk": "klay-token",
+        "cmc": "Klaytn"
+      }
     },
     {
       "name": "Optimism",
@@ -89,7 +113,11 @@
       "iconPath": "network_optimism.png",
       "priority": 7,
       "group": "CHAN:10",
-      "symbol": "ETH"
+      "symbol": "ETH",
+      "platform": {
+        "cgk": "optimistic-ethereum",
+        "cmc": "Optimism"
+      }
     },
     {
       "name": "Gnosis",
@@ -102,7 +130,11 @@
       "iconPath": "network_gnosis.svg",
       "priority": 8,
       "group": "CHAN:100",
-      "symbol": "XDAI"
+      "symbol": "XDAI",
+      "platform": {
+        "cgk": "xdai",
+        "cmc": "Gnosis Chain"
+      }
     },
     {
       "name": "Avalanche",
@@ -115,7 +147,11 @@
       "iconPath": "network_avalanche.svg",
       "priority": 9,
       "group": "CHAN:43114",
-      "symbol": "AVAX"
+      "symbol": "AVAX",
+      "platform": {
+        "cgk": "avalanche",
+        "cmc": "Avalanche C-Chain"
+      }
     }
   ]
 }
