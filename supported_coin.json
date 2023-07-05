@@ -25936,6 +25936,48 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/24102.png",
+    "symbol": "PAW",
+    "name": "PAWZONE",
+    "type": "ERC20",
+    "contract": "0x1aa51bc7eb181ce48ce626bf62f8956fa9555136",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/12256.png",
+    "symbol": "CHEQ",
+    "name": "cheqd",
+    "type": "ERC20",
+    "contract": "0x70edf1c215d0ce69e7f16fd4e6276ba0d99d4de7",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/25023.png",
+    "symbol": "LADYS",
+    "name": "Milady Meme Coin",
+    "type": "ERC20",
+    "contract": "0x12970e6868f88f6557b76120662c1b3e50a646bf",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/logo_doc.svg",
     "symbol": "DOC",
     "name": "Dollar on Chain",
@@ -40647,6 +40689,20 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/23641.png",
+    "symbol": "FLOKICEO",
+    "name": "FLOKI CEO",
+    "type": "BEP20",
+    "contract": "0x45289007706e7ee7b42b1fa506661d97740edfb4",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8918.png",
     "symbol": "MAUSDC",
     "name": "Matic Aave Interest Bearing USDC",
@@ -41613,6 +41669,20 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7245.png",
+    "symbol": "STBU",
+    "name": "Stobox Token",
+    "type": "POLYGON-ERC20",
+    "contract": "0xcf403036bc139d30080d2cf0f5b48066f98191bb",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "symbol": "ys",
     "name": "Dcent",
     "type": "HEDERA-HTS",
@@ -42219,6 +42289,20 @@
     "name": "STEPN",
     "type": "SPL-TOKEN",
     "contract": "7i5KKsX2weiTkry7jA4ZwSuXGhs5eJBEjY8vVxR4pfRx",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/16859.png",
+    "symbol": "MALL",
+    "name": "Metamall",
+    "type": "SPL-TOKEN",
+    "contract": "5EbpXhW7t8ypBF3Q1X7odFaHjuh7XJfCohXR3VYAW32i",
     "support": {
       "biometric": true,
       "card": false,
