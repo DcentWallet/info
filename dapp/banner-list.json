@@ -1,5 +1,25 @@
 [
     {
+        "name": "allinone",
+        "title": "All in One",
+        "bgColor": "#E2F8F5",
+        "externalWindow": true,
+        "locale": {
+            "en": {
+                "description": "",
+                "link": "https://store.dcentwallet.com/pages/all-in-one-card-event?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202306_allinone_promotion_v01",
+                "imagePath": "3_380x160_EN.png",
+                "imagePath_480": "3_480x160_EN.png"
+            },
+            "ko": {
+                "description": "",
+                "link": "https://store-kr.dcentwallet.com/pages/all-in-one-card-event?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202306_allinone_promotion_v01",
+                "imagePath": "3_380x160_KR.png",        
+                "imagePath_480": "3_480x160_KR.png"
+            }
+        }
+    },
+    {
         "name": "usa-free-shipping",
         "title": "USA Free Shipping",
         "bgColor": "#111111",
