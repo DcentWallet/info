@@ -51,17 +51,17 @@
     "img": {
       "en": {
         "desktop": {
-          "path": "../images/en/shipping_web_1920_3.jpg",
+          "path": "../images/en/shipping_web_1920.jpg",
           "height": "90px",
           "background-color": "#111111"
         },
         "tablet": {
-          "path": "../images/en/shipping_mobile_768_3.jpg",
+          "path": "../images/en/shipping_mobile_768.png",
           "height": "65px",
           "background-color": "#111111"
         },
         "mobile": {
-          "path": "../images/en/shipping_mobile_768_3.jpg",
+          "path": "../images/en/shipping_mobile_768.png",
           "height": "15.64vw",
           "background-color": "#111111"
         }
