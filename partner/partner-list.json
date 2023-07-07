@@ -1,5 +1,10 @@
 [
   {
+    "name": "Near Korea",
+    "imageUrl": "../images/Near-korea.png",
+    "gotoLink": "https://nearkorea.org/"
+  },
+  {
     "name": "Brickstreet",
     "imageUrl": "../images/Brickstreet.png",
     "gotoLink": "https://brickstreet.shop/"
