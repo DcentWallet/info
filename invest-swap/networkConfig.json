@@ -86,9 +86,9 @@
       }
     },
     {
-      "name": "Klaytn",
-      "networkId": "klaytn-mainnet",
-      "type": "klaytn",
+      "name": "Klaytn_evm",
+      "networkId": "klaytn-evm-mainnet",
+      "type": "ethereum",
       "available": {
         "swapscanner": true
       },
