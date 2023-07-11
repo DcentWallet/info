@@ -1,5 +1,19 @@
 [
     {
+        "name": "amazone-prime-day",
+        "title": "Amazone Prime Day",
+        "bgColor": "#1E98FA",
+        "externalWindow": true,
+        "locale": {
+            "en": {
+                "description": "",
+                "link": "https://dcentwallet.com/ShopList?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202307_amazon_prime_days_v01",
+                "imagePath": "380-160.png",
+                "imagePath_480": "480-160.png"
+            }
+        }
+    },
+    {
         "name": "allinone",
         "title": "All in One",
         "bgColor": "#E2F8F5",

@@ -3,6 +3,33 @@
     "img": {
       "en": {
         "desktop": {
+          "path": "../images/en/1920-90.png",
+          "height": "90px",
+          "background-color": "#1E98FA"
+        },
+        "tablet": {
+          "path": "../images/en/768-120.png",
+          "height": "65px",
+          "background-color": "#1E98FA"
+        },
+        "mobile": {
+          "path": "../images/en/s768-120.png",
+          "height": "15.64vw",
+          "background-color": "#1E98FA"
+        }
+      }
+    },
+    "link": {
+      "en": {
+        "internal": "/ShopList",
+        "external": false
+      }
+    }
+  },
+  {
+    "img": {
+      "en": {
+        "desktop": {
           "path": "../images/en/3_1920x90_EN.png",
           "height": "90px",
           "background-color": "#E2F8F5"
