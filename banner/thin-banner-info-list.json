@@ -13,7 +13,7 @@
           "background-color": "#1E98FA"
         },
         "mobile": {
-          "path": "../images/en/s768-120.png",
+          "path": "../images/en/768-120.png",
           "height": "15.64vw",
           "background-color": "#1E98FA"
         }
