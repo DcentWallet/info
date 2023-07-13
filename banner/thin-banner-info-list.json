@@ -3,17 +3,17 @@
     "img": {
       "en": {
         "desktop": {
-          "path": "../images/en/1920-90.png",
+          "path": "../images/en/1_1920x90_EN-All.png",
           "height": "90px",
           "background-color": "#1E98FA"
         },
         "tablet": {
-          "path": "../images/en/768-120.png",
+          "path": "../images/en/1_768x120_EN-All.png",
           "height": "65px",
           "background-color": "#1E98FA"
         },
         "mobile": {
-          "path": "../images/en/768-120.png",
+          "path": "../images/en/1_768x120_EN-All.png",
           "height": "15.64vw",
           "background-color": "#1E98FA"
         }
