@@ -5,17 +5,17 @@
         "desktop": {
           "path": "../images/en/xrp-Site-desktop.jpg",
           "height": "90px",
-          "background-color": "#D11193"
+          "background-color": "#AE196A"
         },
         "tablet": {
           "path": "../images/en/xrp-Site-mobile.jpg",
           "height": "65px",
-          "background-color": "#D11193"
+          "background-color": "#AE196A"
         },
         "mobile": {
           "path": "../images/en/xrp-Site-mobile.jpg",
           "height": "15.64vw",
-          "background-color": "#D11193"
+          "background-color": "#AE196A"
         }
       }
     },
