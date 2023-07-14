@@ -3,6 +3,33 @@
     "img": {
       "en": {
         "desktop": {
+          "path": "../images/en/xrp-Site-desktop.jpg",
+          "height": "90px",
+          "background-color": "#D11193"
+        },
+        "tablet": {
+          "path": "../images/en/xrp-Site-mobile.jpg",
+          "height": "65px",
+          "background-color": "#D11193"
+        },
+        "mobile": {
+          "path": "../images/en/xrp-Site-mobile.jpg",
+          "height": "15.64vw",
+          "background-color": "#D11193"
+        }
+      }
+    },
+    "link": {
+      "en": {
+        "internal": "/events/24000-xrp-giveaway",
+        "external": false
+      }
+    }
+  },
+  {
+    "img": {
+      "en": {
+        "desktop": {
           "path": "../images/en/1_1920x90_EN-All.png",
           "height": "90px",
           "background-color": "#1E98FA"
