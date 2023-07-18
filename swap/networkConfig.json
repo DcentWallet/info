@@ -65,6 +65,42 @@
       "explorer": "https://scope.klaytn.com/tx/",
       "iconPath": "network_klaytn.svg",
       "priority": 6
+    },
+    {
+      "name": "Optimism",
+      "networkId": "Optimism",
+      "type": "ethereum",
+      "available": {
+        "1inch": true
+      },
+      "explorer": "https://optimism.blockscout.com/tx/",
+      "iconPath": "network_optimism.png",
+      "priority": 7,
+      "pre": true
+    },
+    {
+      "name": "Gnosis",
+      "networkId": "xdai-mainnet",
+      "type": "ethereum",
+      "available": {
+        "1inch": true
+      },
+      "explorer": "https://gnosisscan.io/tx/",
+      "iconPath": "network_gnosis.svg",
+      "priority": 8,
+      "pre": true
+    },
+    {
+      "name": "Avalanche",
+      "networkId": "avalanche-mainnet",
+      "type": "ethereum",
+      "available": {
+        "1inch": true
+      },
+      "explorer": "https://snowtrace.io/tx/",
+      "iconPath": "network_avalanche.svg",
+      "priority": 9,
+      "pre": true
     }
   ]
 }
