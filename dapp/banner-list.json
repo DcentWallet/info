@@ -1,35 +1,15 @@
 [
     {
-        "name": "amazone-prime-day",
-        "title": "Amazone Prime Day",
-        "bgColor": "#1E98FA",
+        "name": "xrp-giveaway",
+        "title": "XRP Giveaway",
+        "bgColor": "#AE196A",
         "externalWindow": true,
         "locale": {
             "en": {
                 "description": "",
-                "link": "https://dcentwallet.com/ShopList?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202307_amazon_prime_days_v01",
-                "imagePath": "1_380x160_EN-All.png",
-                "imagePath_480": "1_480x160_EN-All.png"
-            }
-        }
-    },
-    {
-        "name": "allinone",
-        "title": "All in One",
-        "bgColor": "#E2F8F5",
-        "externalWindow": true,
-        "locale": {
-            "en": {
-                "description": "",
-                "link": "https://store.dcentwallet.com/pages/all-in-one-card-event?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202306_allinone_promotion_v01",
-                "imagePath": "3_380x160_EN.png",
-                "imagePath_480": "3_480x160_EN.png"
-            },
-            "ko": {
-                "description": "",
-                "link": "https://store-kr.dcentwallet.com/pages/all-in-one-card-event?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202306_allinone_promotion_v01",
-                "imagePath": "3_380x160_KR.png",        
-                "imagePath_480": "3_480x160_KR.png"
+                "link": "https://dcentwallet.com/events/24000-xrp-giveaway?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202307_xrp_giveaway_v01",
+                "imagePath": "xrp-img-380-120.png",
+                "imagePath_480": "xrp-img-480-160.png"
             }
         }
     },
