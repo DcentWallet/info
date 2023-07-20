@@ -10,6 +10,12 @@
                 "link": "https://dcentwallet.com/events/24000-xrp-giveaway?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202307_xrp_giveaway_v01",
                 "imagePath": "xrp-img-380-120.png",
                 "imagePath_480": "xrp-img-480-160.png"
+            }, 
+            "ko": {
+                "description": "",
+                "link": "https://dcentwallet.com/events/24000-xrp-giveaway?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202307_xrp_giveaway_v01",
+                "imagePath": "XRP_app-banner_380_KR.png",
+                "imagePath_480": "XRP_app-banner_480_KR.png"
             }
         }
     },
