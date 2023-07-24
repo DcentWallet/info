@@ -10,7 +10,7 @@
             "decimals": 18
         },
         "voteWhiteLister": {
-            "contract": "0x0F45493e4C321b238e1fA242692BFFf3f30fBdfD"
+            "contract": "0x072A199670fAD8883c7A92D108dFA56828EfCE87"
         },
         "vp": {
             "symbol": "%",
@@ -22,7 +22,7 @@
             "contract": "0x85627d71921ae25769f5370e482ada5e1e418d37"
         },
         "ftsoManager": {
-            "contract": "0x2F5107461D1BF7D4D6d3b2b577621b2071343166"
+            "contract": "0x2E99a4543F9ea708Cf8CCaC447515e61706D9DE9" 
         },
         "ftsoRegistry": {
             "contract": "0x13DC2b5053857AE17a4f95aFF55530b267F3E040"
@@ -39,7 +39,7 @@
             "decimals": 18
         },
         "voteWhiteLister": {
-            "contract": "0xa76906EfBA6dFAe155FfC4c0eb36cDF0A28ae24D"
+            "contract": "0x6Ce15a3aDd04d1A4C575B6be19674D6bb11Ba614"
         },
         "vp": {
             "symbol": "%",
