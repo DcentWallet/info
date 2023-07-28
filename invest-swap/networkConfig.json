@@ -86,7 +86,7 @@
       }
     },
     {
-      "name": "Klaytn_evm",
+      "name": "Klaytn",
       "networkId": "klaytn-evm-mainnet",
       "type": "ethereum",
       "available": {
@@ -151,6 +151,32 @@
       "platform": {
         "cgk": "avalanche",
         "cmc": "Avalanche C-Chain"
+      }
+    }
+  ],
+  "specificToken": [
+    {
+      "cgk": "ethereum",
+      "cmc": 1027,
+      "plaforms": {
+        "ethereum-mainnet": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "polygon-mainnet": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+        "bsc-mainnet": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "ftm-mainnet": "0x74b23882a30290451a17c44f4f05243b6b58c76d",
+        "arbitrum-mainnet": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "klaytn-evm-mainnet": "0x34d21b1e550d73cee41151c77f3c73359527a396",
+        "Optimism": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "xdai-mainnet": "0x6a023ccd1ff6f2045c3309768ead9e68f978f6e1",
+        "avalanche-mainnet": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab"
+      }
+    },
+    {
+      "cgk": "matic-network",
+      "cmc": 3890,
+      "plaforms": {
+        "ethereum-mainnet": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+        "polygon-mainnet": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "bsc-mainnet": "0xcc42724c6683b7e57334c4e856f4c9965ed682bd"
       }
     }
   ]
