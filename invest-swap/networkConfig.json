@@ -178,6 +178,91 @@
         "polygon-mainnet": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
         "bsc-mainnet": "0xcc42724c6683b7e57334c4e856f4c9965ed682bd"
       }
+    },
+    {
+      "cgk": "binancecoin",
+      "cmc": 1839,
+      "plaforms": {
+        "ethereum-mainnet": "0xb8c77482e45f1f44de1745f52c74426c631bdd52",
+        "bsc-mainnet": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+      }
+    },
+    {
+      "cgk": "fantom",
+      "cmc": 3513,
+      "plaforms": {
+        "ethereum-mainnet": "0x4e15361fd6b4bb609fa63c81a2be19d873717870",
+        "bsc-mainnet": "0xad29abb318791d579433d831ed122afeaf29dcfe",
+        "ftm-mainnet": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+      }
+    },
+    {
+      "cgk": "klay-token",
+      "cmc": 4256,
+      "plaforms": {
+        "klaytn-evm-mainnet": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+      }
+    },
+    {
+      "cgk": "xdai",
+      "cmc": 8635,
+      "plaforms": {
+        "xdai-mainnet": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+      }
+    },
+    {
+      "cgk": "avalanche-2",
+      "cmc": 5805,
+      "plaforms": {
+        "avalanche-mainnet": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+      }
+    }
+  ],
+  "defaultNetwork": [
+    {
+      "cgk": "ethereum",
+      "cmc": 1027,
+      "networkId": "ethereum-mainnet"
+    },
+    {
+      "cgk": "matic-network",
+      "cmc": 3890,
+      "networkId": "polygon-mainnet"
+    },
+    {
+      "cgk": "binancecoin",
+      "cmc": 1839,
+      "networkId": "bsc-mainnet"
+    },
+    {
+      "cgk": "fantom",
+      "cmc": 3513,
+      "networkId": "ftm-mainnet"
+    },
+    {
+      "cgk": "arbitrum",
+      "cmc": 11841,
+      "networkId": "arbitrum-mainnet"
+    },
+    {
+      "cgk": "klay-token",
+      "cmc": 4256,
+      "networkId": "klaytn-evm-mainnet"
+    },
+    {
+      "cgk": "optimism",
+      "cmc": 11840,
+      "networkId": "Optimism"
+    },
+    {
+      "cgk": "xdai",
+      "cmc": 8635,
+      "networkId": "xdai-mainnet"
+    },
+    {
+      "cgk": "avalanche-2",
+      "cmc": 5805,
+      "networkId": "avalanche-mainnet"
     }
   ]
 }
