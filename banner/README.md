@@ -56,6 +56,10 @@ en 에는 영어에서 보일 이미지, ko 에는 한국어에서 보일 이미
         "internal": "/ShopList", // dcentwallet.com/ShopList 로 이동함
         "extenral": false
       }
+    },
+    "period": { // 배너가 표시될 기간 ISO 8601
+      "start": "2022-07-31T04:52:00.000Z",
+      "end": "2023-07-31T04:52:00.000Z"
     }
   }
 ]

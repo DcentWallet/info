@@ -45,6 +45,60 @@
         "internal": "/events/24000-xrp-giveaway",
         "external": false
       }
+    },
+    "period": {
+      "end": "2023-07-31T09:00:00.000Z"
+    }
+  }, 
+  {
+    "img": {
+      "en": {
+        "desktop": {
+          "path": "../images/en/XRP_EVENT_CLOSED_WEB1920_EN.png",
+          "height": "90px",
+          "background-color": "#c7367a"
+        },
+        "tablet": {
+          "path": "../images/en/XRP_EVENT_CLOSED_WEB768_EN.png",
+          "height": "65px",
+          "background-color": "#c7367a"
+        },
+        "mobile": {
+          "path": "../images/en/XRP_EVENT_CLOSED_WEB768_EN.png",
+          "height": "15.64vw",
+          "background-color": "#c7367a"
+        }
+      },
+      "ko": {
+        "desktop": {
+          "path": "../images/ko/XRP_EVENT_CLOSED_WEB1920_KR.png",
+          "height": "90px",
+          "background-color": "#c7367a"
+        },
+        "tablet": {
+          "path": "../images/ko/XRP_EVENT_CLOSED_WEB768_KR.png",
+          "height": "65px",
+          "background-color": "#c7367a"
+        },
+        "mobile": {
+          "path": "../images/ko/XRP_EVENT_CLOSED_WEB768_KR.png",
+          "height": "15.64vw",
+          "background-color": "#c7367a"
+        }
+      }
+    },
+    "link": {
+      "en": {
+        "internal": false,
+        "external": "https://forms.gle/iCTJoCvy5gDWV1q4A"
+      },
+      "ko": {
+        "internal": false,
+        "external": "https://forms.gle/AziUoRq4Bvc65eFG7"
+      }
+    },
+    "period": {
+      "start": "2023-07-31T09:00:00.000Z"
     }
   }, 
   {
