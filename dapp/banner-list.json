@@ -1,5 +1,27 @@
 [
     {
+        "name": "xrp-closed",
+        "title": "XRP Closed",
+        "bgColor": "#c7367a",
+        "externalWindow": true,
+        "locale": {
+            "en": {
+                "description": "",
+                "link": "https://forms.gle/iCTJoCvy5gDWV1q4A",
+                "imagePath": "XRP_EVENT_CLOSED_APP380_EN.png",
+                "imagePath_480": "XRP_EVENT_CLOSED_APP480_EN.png"
+            }, 
+            "ko": {
+                "description": "",
+                "link": "https://forms.gle/AziUoRq4Bvc65eFG7",
+                "imagePath": "XRP_EVENT_CLOSED_APP380_KR.png",
+                "imagePath_480": "XRP_EVENT_CLOSED_APP480_KR.png"
+            }
+        },
+        "startTimestamp": 1690794000000,
+        "endTimestamp": 0
+    },
+    {
         "name": "xrp-giveaway",
         "title": "XRP Giveaway",
         "bgColor": "#AE196A",
@@ -17,7 +39,9 @@
                 "imagePath": "XRP_app-banner_380_KR.png",
                 "imagePath_480": "XRP_app-banner_480_KR.png"
             }
-        }
+        },
+        "startTimestamp": 0,
+        "endTimestamp": 1690794000000
     },
     {
         "name": "usa-free-shipping",
