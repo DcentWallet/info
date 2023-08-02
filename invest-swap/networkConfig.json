@@ -264,5 +264,213 @@
       "cmc": 5805,
       "networkId": "avalanche-mainnet"
     }
+  ],
+  "defaultTokenMetaInfo": [
+    {
+      "networkId": "ethereum-mainnet",
+      "metaInfo":
+      [
+        {
+          "cmc": 825,
+          "cgk": "tether",
+          "contract": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+          "name": "Tether",
+          "symbol": "USDT",
+          "decimals": 6
+        },
+        {
+          "cmc": 3408,
+          "cgk": "usd-coin",
+          "contract": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+          "name": "USD Coin",
+          "symbol": "USDC",
+          "decimals": 6
+        }
+      ]
+    },
+    {
+      "networkId": "polygon-mainnet",
+      "metaInfo":
+      [
+        {
+          "cmc": 825,
+          "cgk": "tether",
+          "contract": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+          "name": "Tether USD (PoS)",
+          "symbol": "USDT",
+          "decimals": 6
+        },
+        {
+          "cmc": 3408,
+          "cgk": "usd-coin",
+          "contract": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+          "name": "USD Coin (PoS)",
+          "symbol": "USDC",
+          "decimals": 6
+        }
+      ]
+    },
+    {
+      "networkId": "bsc-mainnet",
+      "metaInfo":
+      [
+        {
+          "cmc": 825,
+          "cgk": "tether",
+          "contract": "0x55d398326f99059ff775485246999027b3197955",
+          "name": "Binance-Peg BUSD-T",
+          "symbol": "BUSD-T",
+          "decimals": 18
+        },
+        {
+          "cmc": 3408,
+          "cgk": "usd-coin",
+          "contract": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+          "name": "Binance-Peg USD Coin",
+          "symbol": "USDC",
+          "decimals": 18
+        }
+      ]
+    },
+    {
+      "networkId": "ftm-mainnet",
+      "metaInfo":
+      [
+        {
+          "cmc": 10244,
+          "cgk": "tether",
+          "contract": "0x049d68029688eabf473097a2fc38ef61633a3c7a",
+          "name": "Frapped USDT",
+          "symbol": "fUSDT",
+          "decimals": 6
+        },
+        {
+          "cmc": 3408,
+          "cgk": "usd-coin",
+          "contract": "0x04068da6c83afcfa0e13ba15a6696662335d5b75",
+          "name": "USDC",
+          "symbol": "USDC",
+          "decimals": 6
+        }
+      ]
+    },
+    {
+      "networkId": "arbitrum-mainnet",
+      "metaInfo":
+      [
+        {
+          "cmc": 825,
+          "cgk": "tether",
+          "contract": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+          "name": "Tether",
+          "symbol": "USDT",
+          "decimals": 6
+        },
+        {
+          "cmc": 3408,
+          "cgk": "usd-coin",
+          "contract": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+          "name": "USD Coin",
+          "symbol": "USDC",
+          "decimals": 6
+        }
+      ]
+    },
+    {
+      "networkId": "klaytn-evm-mainnet",
+      "metaInfo":
+      [
+        {
+          "cmc": 825,
+          "cgk": "tether",
+          "contract": "0xcee8faf64bb97a73bb51e115aa89c17ffa8dd167",
+          "name": "Orbit Bridge Klaytn USD Tether",
+          "symbol": "oUSDT",
+          "decimals": 6
+        },
+        {
+          "cmc": 21495,
+          "cgk": "orbit-bridge-klaytn-usdc",
+          "contract": "0x754288077d0ff82af7a5317c7cb8c444d421d103",
+          "name": "Orbit Bridge Klaytn USDC",
+          "symbol": "USDC",
+          "decimals": 6
+        }
+      ]
+    },
+    {
+      "networkId": "Optimism",
+      "metaInfo":
+      [
+        {
+          "cmc": 825,
+          "cgk": "tether",
+          "contract": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
+          "name": "Tether",
+          "symbol": "USDT",
+          "decimals": 6
+        },
+        {
+          "cmc": 3408,
+          "cgk": "usd-coin",
+          "contract": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+          "name": "USDC",
+          "symbol": "USDC",
+          "decimals": 6
+        }
+      ]
+    },
+    {
+      "networkId": "xdai-mainnet",
+      "metaInfo":
+      [
+        {
+          "cmc": 825,
+          "cgk": "tether",
+          "contract": "0x4ecaba5870353805a9f068101a40e0f32ed605c6",
+          "name": "Tether",
+          "symbol": "USDT",
+          "decimals": 6
+        },
+        {
+          "cmc": 3408,
+          "cgk": "usd-coin",
+          "contract": "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83",
+          "name": "USDC",
+          "symbol": "USDC",
+          "decimals": 6
+        }
+      ]
+    },
+    {
+      "networkId": "avalanche-mainnet",
+      "metaInfo":
+      [
+        {
+          "cmc": 825,
+          "cgk": "tether",
+          "contract": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+          "name": "Tether",
+          "symbol": "USDT",
+          "decimals": 6
+        },
+        {
+          "cmc": 18852,
+          "cgk": "usd-coin-avalanche-bridged-usdc-e",
+          "contract": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+          "name": "USD Coin Bridged",
+          "symbol": "USDCE",
+          "decimals": 6
+        },
+        {
+          "cmc": 3408,
+          "cgk": "usd-coin",
+          "contract": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+          "name": "USDC",
+          "symbol": "USDC",
+          "decimals": 6
+        }
+      ]
+    }
   ]
 }
