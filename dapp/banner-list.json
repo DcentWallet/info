@@ -1,5 +1,27 @@
 [
     {
+        "name": "insight-CBT",
+        "title": "Insight CBT",
+        "bgColor": "#222222",
+        "externalWindow": true,
+        "locale": {
+            "en": {
+                "description": "",
+                "link": "https://dcentwallet.com/events/0803_dcent_cbt?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202308_cbt-recruitment_v01",
+                "imagePath": "app_380x160_EN.png",
+                "imagePath_480": "app_480x160_EN.png"
+            }, 
+            "ko": {
+                "description": "",
+                "link": "https://dcentwallet.com/events/0803_dcent_cbt?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202308_cbt-recruitment_v01",
+                "imagePath": "app_380x160_KR.png",
+                "imagePath_480": "app_480x160_KR.png"
+            }
+        },
+        "startTimestamp": 1691028000000,
+        "endTimestamp": 1691506799000
+    },
+    {
         "name": "xrp-closed",
         "title": "XRP Closed",
         "bgColor": "#ae196a",

@@ -3,6 +3,58 @@
     "img": {
       "en": {
         "desktop": {
+          "path": "../images/en/pc_1920x90_EN.png",
+          "height": "90px",
+          "background-color": "#222222"
+        },
+        "tablet": {
+          "path": "../images/en/mobile_768x120_EN.png",
+          "height": "65px",
+          "background-color": "#222222"
+        },
+        "mobile": {
+          "path": "../images/en/mobile_768x120_EN.png",
+          "height": "15.64vw",
+          "background-color": "#222222"
+        }
+      },
+      "ko": {
+        "desktop": {
+          "path": "../images/ko/pc_1920x90_KR.png",
+          "height": "90px",
+          "background-color": "#222222"
+        },
+        "tablet": {
+          "path": "../images/ko/mobile_768x120_KR.png",
+          "height": "65px",
+          "background-color": "#222222"
+        },
+        "mobile": {
+          "path": "../images/ko/mobile_768x120_KR.png",
+          "height": "15.64vw",
+          "background-color": "#222222"
+        }
+      }
+    },
+    "link": {
+      "en": {
+        "internal": "/events/0803_dcent_cbt",
+        "external": false
+      },
+      "ko": {
+        "internal": "/events/0803_dcent_cbt",
+        "external": false
+      }
+    },
+    "period": {
+      "start": "2023-08-03T11:00:00.000Z",
+      "end": "2023-08-08T23:59:59.000Z"
+    }
+  }, 
+  {
+    "img": {
+      "en": {
+        "desktop": {
           "path": "../images/en/xrp-Site-desktop.jpg",
           "height": "90px",
           "background-color": "#AE196A"
