@@ -43,50 +43,6 @@
         "endTimestamp": 1691506799000
     },
     {
-        "name": "xrp-closed",
-        "title": "XRP Closed",
-        "bgColor": "#ae196a",
-        "externalWindow": true,
-        "locale": {
-            "en": {
-                "description": "",
-                "link": "https://forms.gle/iCTJoCvy5gDWV1q4A",
-                "imagePath": "XRP_EVENT_CLOSED_APP380_EN.png",
-                "imagePath_480": "XRP_EVENT_CLOSED_APP480_EN.png"
-            }, 
-            "ko": {
-                "description": "",
-                "link": "https://forms.gle/AziUoRq4Bvc65eFG7",
-                "imagePath": "XRP_EVENT_CLOSED_APP380_KR.png",
-                "imagePath_480": "XRP_EVENT_CLOSED_APP480_KR.png"
-            }
-        },
-        "startTimestamp": 1690794000000,
-        "endTimestamp": 0
-    },
-    {
-        "name": "xrp-giveaway",
-        "title": "XRP Giveaway",
-        "bgColor": "#AE196A",
-        "externalWindow": true,
-        "locale": {
-            "en": {
-                "description": "",
-                "link": "https://dcentwallet.com/events/24000-xrp-giveaway?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202307_xrp_giveaway_v01",
-                "imagePath": "xrp-img-380-120.png",
-                "imagePath_480": "xrp-img-480-160.png"
-            }, 
-            "ko": {
-                "description": "",
-                "link": "https://dcentwallet.com/events/24000-xrp-giveaway?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202307_xrp_giveaway_v01",
-                "imagePath": "XRP_app-banner_380_KR.png",
-                "imagePath_480": "XRP_app-banner_480_KR.png"
-            }
-        },
-        "startTimestamp": 0,
-        "endTimestamp": 1690794000000
-    },
-    {
         "name": "usa-free-shipping",
         "title": "USA Free Shipping",
         "bgColor": "#111111",
