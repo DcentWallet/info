@@ -90,7 +90,7 @@
       "networkId": "klaytn-evm-mainnet",
       "type": "ethereum",
       "available": {
-        "swapscanner": true
+        "1inch": true
       },
       "explorer": "https://scope.klaytn.com/tx/",
       "iconPath": "network_klaytn.svg",
