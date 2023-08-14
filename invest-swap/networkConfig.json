@@ -16,7 +16,11 @@
       "platform": {
         "cgk": "ethereum",
         "cmc": "Ethereum"
-      }
+      },
+      "rpc": [
+        "https://gateway-v2.dcentwallet.com/alchemy/eth",
+        "https://gateway-v2.dcentwallet.com/infura/eth"
+      ]
     },
     {
       "name": "Polygon",
@@ -34,7 +38,11 @@
       "platform": {
         "cgk": "polygon-pos",
         "cmc": "Polygon"
-      }
+      },      
+      "rpc": [
+        "https://polygon-rpc.com",
+        "https://gateway-v2.dcentwallet.com//matic/infura/mainnet"
+      ]
     },
     {
       "name": "BSC",
@@ -52,7 +60,11 @@
       "platform": {
         "cgk": "binance-smart-chain",
         "cmc": "BNB Smart Chain (BEP20)"
-      }
+      },
+      "rpc": [
+        "https://gateway-v2.dcentwallet.com/binance/bsc/mainnet",
+        "https://gateway-v2.dcentwallet.com/binance/bsc2/mainnet"
+      ]
     },
     {
       "name": "Fantom",
@@ -70,7 +82,11 @@
       "platform": {
         "cgk": "fantom",
         "cmc": "Fantom"
-      }
+      },
+      "rpc": [
+        "https://rpc.ftm.tools",
+        "https://rpcapi.fantom.network"
+      ]
     },
     {
       "name": "Arbitrum",
@@ -88,7 +104,10 @@
       "platform": {
         "cgk": "arbitrum-one",
         "cmc": "Arbitrum"
-      }
+      },
+      "rpc": [
+        "https://arb1.arbitrum.io/rpc"
+      ]
     },
     {
       "name": "Klaytn",
@@ -106,7 +125,11 @@
       "platform": {
         "cgk": "klay-token",
         "cmc": "Klaytn"
-      }
+      },
+      "rpc": [
+        "https://gateway-v2.dcentwallet.com/klaytn/mainnet",
+        "https://gateway-v2.dcentwallet.com/kas/klaytn/mainnet"
+      ]
     },
     {
       "name": "Optimism",
@@ -124,7 +147,10 @@
       "platform": {
         "cgk": "optimistic-ethereum",
         "cmc": "Optimism"
-      }
+      },
+      "rpc": [
+        "https://gateway-v2.dcentwallet.com/optimism/alchemy/mainnet"
+      ]
     },
     {
       "name": "Gnosis",
@@ -142,7 +168,11 @@
       "platform": {
         "cgk": "xdai",
         "cmc": "Gnosis Chain"
-      }
+      },
+      "rpc": [
+        "https://rpc.ankr.com/gnosis",
+        "https://rpc.gnosischain.com"
+      ]
     },
     {
       "name": "Avalanche",
@@ -160,7 +190,10 @@
       "platform": {
         "cgk": "avalanche",
         "cmc": "Avalanche C-Chain"
-      }
+      },
+      "rpc": [
+        "https://api.avax.network/ext/bc/C/rpc"
+      ]
     }
   ],
   "specificToken": [
