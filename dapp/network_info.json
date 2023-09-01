@@ -341,7 +341,11 @@
                     "coinType": "EVMT:84531",
                     "chainId": 84531,
                     "iconPath": "network_base_goerli.png",
-                    "testnet": true
+                    "testnet": true,
+                    "nativeVersion": {
+                        "Android": "5.16.0",
+                        "iOS": "5.16.1"
+                    }
                 },
                 {
                     "networkId": "ethereum-sepolia",
@@ -350,7 +354,11 @@
                     "coinType": "EVMT:11155111",
                     "chainId": 11155111,
                     "iconPath": "network_ethereum.png",
-                    "testnet": true
+                    "testnet": true,
+                    "nativeVersion": {
+                        "Android": "5.16.0",
+                        "iOS": "5.16.1"
+                    }
                 },
                 {
                     "networkId": "kroma-sepolia",
@@ -359,7 +367,11 @@
                     "coinType": "EVMT:2358",
                     "chainId": 2358,
                     "iconPath": "network_kroma_sepolia.png",
-                    "testnet": true
+                    "testnet": true,
+                    "nativeVersion": {
+                        "Android": "5.16.0",
+                        "iOS": "5.16.1"
+                    }
                 }
             ]
         },
