@@ -350,7 +350,7 @@
                 {
                     "networkId": "ethereum-sepolia",
                     "name": "sepolia",
-                    "description": "Sepolia",
+                    "description": "Ethereum-Sepolia",
                     "coinType": "EVMT:11155111",
                     "chainId": 11155111,
                     "iconPath": "network_ethereum.png",
