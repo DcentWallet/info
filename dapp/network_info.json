@@ -335,6 +335,18 @@
                     }
                 },
                 {
+                    "networkId": "BASE",
+                    "name": "base",
+                    "description": "BASE",
+                    "coinType": "CHAN:8453",
+                    "chainId": 8453,
+                    "iconPath": "network_base.png",
+                    "nativeVersion": {
+                        "Android": "5.16.0",
+                        "iOS": "5.16.1"
+                    }
+                },
+                {
                     "networkId": "BASE-Goerli",
                     "name": "base_goerli",
                     "description": "BASE Goerli",
