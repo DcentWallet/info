@@ -1,46 +1,24 @@
 [
     {
-        "name": "ANTTIME",
-        "title": "ANTTIME",
-        "bgColor": "#2A2B2B",
+        "name": "insight-CBT-2",
+        "title": "Insight CBT",
+        "bgColor": "#FFF3B6",
         "externalWindow": true,
         "locale": {
             "en": {
                 "description": "",
-                "link": "https://gleam.io/AvEWa/-anttime-x-dcent-lucky-draw-",
-                "imagePath": "DCENT_banner_380x160_JOINNOW.png",
-                "imagePath_480": "DCENT_banner_480x160_JOINNOW.png"
+                "link": "https://dcentwallet.com/events/insight_supporter_recruitment?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202309_cbt-recruitment",
+                "imagePath": "380_160_EN.png",
+                "imagePath_480": "480_160_EN.png"
             },
             "ko": {
                 "description": "",
-                "link": "https://gleam.io/AvEWa/-anttime-x-dcent-lucky-draw-",
-                "imagePath": "DCENT_banner_380x160_JOINNOW.png",
-                "imagePath_480": "DCENT_banner_480x160_JOINNOW.png"
+                "link": "https://dcentwallet.com/events/insight_supporter_recruitment?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202309_cbt-recruitment",
+                "imagePath": "380_160_KR.png",
+                "imagePath_480": "480_160_KR.png"
             }
         },
-        "endTimestamp": 1692403200000
-    },
-    {
-        "name": "insight-CBT",
-        "title": "Insight CBT",
-        "bgColor": "#222222",
-        "externalWindow": true,
-        "locale": {
-            "en": {
-                "description": "",
-                "link": "https://dcentwallet.com/events/0803_dcent_cbt?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202308_cbt-recruitment_v01",
-                "imagePath": "app_380x160_EN.png",
-                "imagePath_480": "app_480x160_EN.png"
-            }, 
-            "ko": {
-                "description": "",
-                "link": "https://dcentwallet.com/events/0803_dcent_cbt?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202308_cbt-recruitment_v01",
-                "imagePath": "app_380x160_KR.png",
-                "imagePath_480": "app_480x160_KR.png"
-            }
-        },
-        "startTimestamp": 1691028000000,
-        "endTimestamp": 1691485200000
+        "endTimestamp": 1694995200000
     },
     {
         "name": "usa-free-shipping",
@@ -73,46 +51,6 @@
                 "link": "https://store-kr.dcentwallet.com?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=constant_purchase-hardware",
                 "imagePath": "discovery_banner-dcent_bg.png",        
                 "button": "구매하기"
-            }
-        }
-    },
-    {
-        "name": "medium",
-        "title": "D'CENT",
-        "bgColor": "#252525",
-        "externalWindow": true,
-        "locale": {
-            "en": {
-                "description": "<b>Join us</b> and<br/> never miss an update!",
-                "link": "https://medium.com/dcentwallet/tagged/english?utm_source=dcent_app_new&utm_medium=app&utm_campaign=app_banner_medium",
-                "imagePath": "discovery_banner-medium_bg.png",
-                "button": "Follow"
-            },
-            "ko": {
-                "description": "디센트 소식을 알 수 있는<br/> <b>가장 쉽고 빠른 방법<b/>",
-                "link": "https://medium.com/dcentwallet/tagged/korean?utm_source=dcent_app_new&utm_medium=app&utm_campaign=app_banner_medium",
-                "imagePath": "discovery_banner-medium_bg.png",
-                "button": "팔로우"
-            }
-        }
-    },
-    {
-        "name": "youtube",
-        "title": "D'CENT",
-        "bgColor": "#FF0000",
-        "externalWindow": true,        
-        "locale": {
-            "en": {
-                "description": "Welcome Newbies!<br/> Here’s <b>D’CENT tutorial</b>",
-                "link": "https://www.youtube.com/c/DCENTWallet?utm_source=dcent_app&utm_medium=app&utm_campaign=app_banner_youtube",
-                "imagePath": "discovery_banner-youtube_bg.png",
-                "button": "Subscribe"
-            }, 
-            "ko": {
-                "description": "누구나 쉽게 따라하는<br/> <b>디센트 사용법</b>",
-                "link": "https://www.youtube.com/c/DCENTWallet?utm_source=dcent_app&utm_medium=app&utm_campaign=app_banner_youtube",
-                "imagePath": "discovery_banner-youtube_bg.png",
-                "button": "구독"
             }
         }
     }
