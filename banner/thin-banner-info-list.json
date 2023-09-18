@@ -3,57 +3,6 @@
     "img": {
       "en": {
         "desktop": {
-          "path": "../images/en/1920_90_EN.png",
-          "height": "90px",
-          "background-color": "#FFF3B6"
-        },
-        "tablet": {
-          "path": "../images/en/768_120_EN.png",
-          "height": "65px",
-          "background-color": "#FFF3B6"
-        },
-        "mobile": {
-          "path": "../images/en/768_120_EN.png",
-          "height": "15.64vw",
-          "background-color": "#FFF3B6"
-        }
-      },
-      "ko": {
-        "desktop": {
-          "path": "../images/ko/1920_90_KR.png",
-          "height": "90px",
-          "background-color": "#FFF3B6"
-        },
-        "tablet": {
-          "path": "../images/ko/768_120_KR.png",
-          "height": "65px",
-          "background-color": "#FFF3B6"
-        },
-        "mobile": {
-          "path": "../images/ko/768_120_KR.png",
-          "height": "15.64vw",
-          "background-color": "#FFF3B6"
-        }
-      }
-    },
-    "link": {
-      "en": {
-        "internal": "/events/insight_supporter_recruitment",
-        "external": false
-      },
-      "ko": {
-        "internal": "/events/insight_supporter_recruitment",
-        "external": false
-      }
-    },
-    "period": {
-      "end": "2023-09-18T09:00:00.000Z"
-    }
-  },
-  {
-    "img": {
-      "en": {
-        "desktop": {
           "path": "../images/en/shipping_web_1920.jpg",
           "height": "90px",
           "background-color": "#111111"
