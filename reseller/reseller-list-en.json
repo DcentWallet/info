@@ -1,4 +1,10 @@
 [
+  
+    {
+    "name": "N-Crypt ID",
+    "imageUrl": "../images_en/ncrypt.png",
+    "gotoLink": "https://ncrypt.co.id/en/home/"
+    },
     {
     "name": "Brickstreet",
     "imageUrl": "../images_en/brickstreet_reseller.png",
