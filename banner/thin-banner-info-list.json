@@ -1,6 +1,36 @@
 [
   {
     "img": {
+      "ko": {
+        "desktop": {
+          "path": "../images/ko/hp_banner_kr_1.jpg",
+          "height": "90px",
+          "background-color": "#00365D"
+        },
+        "tablet": {
+          "path": "../images/ko/hp_banner_kr_2.png",
+          "height": "65px",
+          "background-color": "#00365D"
+        },
+        "mobile": {
+          "path": "../images/ko/hp_banner_kr_2.png",
+          "height": "15.64vw",
+          "background-color": "#00365D"
+        }
+      }
+    },
+    "link": {
+      "ko": {
+        "internal": false,
+        "external": false
+      }
+    },
+    "period": {
+      "end": "2023-10-04T09:00:00.000Z"
+    }
+  },
+  {
+    "img": {
       "en": {
         "desktop": {
           "path": "../images/en/shipping_web_1920.jpg",
