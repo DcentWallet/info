@@ -3,7 +3,7 @@
     "img": {
       "ko": {
         "desktop": {
-          "path": "../images/ko/hp_banner_kr_1.jpg",
+          "path": "../images/ko/hp_banner_kr_1.png",
           "height": "90px",
           "background-color": "#00365D"
         },
