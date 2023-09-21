@@ -1,6 +1,37 @@
 [
   {
     "img": {
+      "en": {
+        "desktop": {
+          "path": "../images/en/hp_banner_en_1.png",
+          "height": "90px",
+          "background-color": "#00365D"
+        },
+        "tablet": {
+          "path": "../images/en/hp_banner_en_2.png",
+          "height": "65px",
+          "background-color": "#00365D"
+        },
+        "mobile": {
+          "path": "../images/en/hp_banner_en_2.png",
+          "height": "15.64vw",
+          "background-color": "#00365D"
+        }
+      }
+    },
+    "link": {
+      "en": {
+        "internal": false,
+        "external": false
+      }
+    },
+    "period": {
+      "start": "2023-09-27T15:00:00.000Z",
+      "end": "2023-10-03T15:00:00.000Z"
+    }
+  },
+  {
+    "img": {
       "ko": {
         "desktop": {
           "path": "../images/ko/hp_banner_kr_1.png",
