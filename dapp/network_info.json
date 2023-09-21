@@ -478,6 +478,37 @@
                     }
                 }
             ]
+        },
+        {
+            "type": "algorand",
+            "list": [
+                {
+                    "networkId": "algorand-mainnet",
+                    "name": "mainnet",
+                    "description": "Algorand",
+                    "coinType": "ALGORAND",
+                    "chainId": 1,
+                    "iconPath" : "network_algorand.png",
+                    "selected" : true,
+                    "nativeVersion": {
+                        "Android": "5.24.10",
+                        "iOS": "5.24.10"
+                    }
+                },
+                {
+                    "networkId": "algo-tesetnet",
+                    "name": "testnet",
+                    "description": "Alogrand-Testnet",
+                    "coinType": "ALGO-TESTNET",
+                    "chainId": 2,
+                    "iconPath" : "network_algorand.png",
+                    "testnet" : true,
+                    "nativeVersion": {
+                        "Android": "5.24.10",
+                        "iOS": "5.24.10"
+                    }
+                }
+            ]
         }
     ]
 }

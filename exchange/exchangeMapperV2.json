@@ -716,5 +716,22 @@
       "ios": "5.24.0"
     },
     "iconUrl": ""
+  },
+  {
+    "network": "",
+    "protocol": "",
+    "groupName": "ALGORAND",
+    "supportCustom": true,
+    "tokenGroup": [
+      "ALGORAND",
+      "ALGORAND-APP"
+    ],
+    "legacyTicker": "",
+    "changellyTicker": "",
+    "requireVersion": {
+      "android": "5.24.10",
+      "ios": "5.24.10"
+    },
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4030.png"
   }
 ]

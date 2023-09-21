@@ -554,6 +554,15 @@
             "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/23633.png",
             "name": "Havah",
             "symbol": "HVH"
+        },
+        {
+            "imgSize": {
+                "height": "32px",
+                "width": "32px"
+            },
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4030.png",
+            "name": "Algorand",
+            "symbol": "ALGO"
         }
     ],
     "version": {
