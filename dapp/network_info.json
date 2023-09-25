@@ -487,7 +487,7 @@
                     "name": "mainnet",
                     "description": "Algorand",
                     "coinType": "ALGORAND",
-                    "chainId": 1,
+                    "chainId": 4160,
                     "iconPath" : "network_algorand.png",
                     "selected" : true,
                     "nativeVersion": {
@@ -500,7 +500,7 @@
                     "name": "testnet",
                     "description": "Alogrand-Testnet",
                     "coinType": "ALGO-TESTNET",
-                    "chainId": 2,
+                    "chainId": 4160,
                     "iconPath" : "network_algorand.png",
                     "testnet" : true,
                     "nativeVersion": {
