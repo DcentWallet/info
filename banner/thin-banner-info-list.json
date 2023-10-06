@@ -3,51 +3,61 @@
     "img": {
       "en": {
         "desktop": {
-          "path": "../images/en/pc_1920x90_EN.png",
+          "path": "../images/en/hp_banner_en_1.png",
           "height": "90px",
-          "background-color": "#222222"
+          "background-color": "#00365D"
         },
         "tablet": {
-          "path": "../images/en/mobile_768x120_EN.png",
+          "path": "../images/en/hp_banner_en_2.png",
           "height": "65px",
-          "background-color": "#222222"
+          "background-color": "#00365D"
         },
         "mobile": {
-          "path": "../images/en/mobile_768x120_EN.png",
+          "path": "../images/en/hp_banner_en_2.png",
           "height": "15.64vw",
-          "background-color": "#222222"
-        }
-      },
-      "ko": {
-        "desktop": {
-          "path": "../images/ko/pc_1920x90_KR.png",
-          "height": "90px",
-          "background-color": "#222222"
-        },
-        "tablet": {
-          "path": "../images/ko/mobile_768x120_KR.png",
-          "height": "65px",
-          "background-color": "#222222"
-        },
-        "mobile": {
-          "path": "../images/ko/mobile_768x120_KR.png",
-          "height": "15.64vw",
-          "background-color": "#222222"
+          "background-color": "#00365D"
         }
       }
     },
     "link": {
       "en": {
-        "internal": "/events/0803_dcent_cbt",
-        "external": false
-      },
-      "ko": {
-        "internal": "/events/0803_dcent_cbt",
+        "internal": false,
         "external": false
       }
     },
     "period": {
-      "end": "2023-08-08T09:00:00.000Z"
+      "start": "2023-09-27T15:00:00.000Z",
+      "end": "2023-10-03T15:00:00.000Z"
+    }
+  },
+  {
+    "img": {
+      "ko": {
+        "desktop": {
+          "path": "../images/ko/hp_banner_kr_1.png",
+          "height": "90px",
+          "background-color": "#00365D"
+        },
+        "tablet": {
+          "path": "../images/ko/hp_banner_kr_2.png",
+          "height": "65px",
+          "background-color": "#00365D"
+        },
+        "mobile": {
+          "path": "../images/ko/hp_banner_kr_2.png",
+          "height": "15.64vw",
+          "background-color": "#00365D"
+        }
+      }
+    },
+    "link": {
+      "ko": {
+        "internal": false,
+        "external": false
+      }
+    },
+    "period": {
+      "end": "2023-10-04T09:00:00.000Z"
     }
   },
   {
