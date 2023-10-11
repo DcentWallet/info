@@ -14,38 +14,11 @@
                     "priority" : 1
                 },
                 {
-                    "networkId": "ethereum-ropsten",
-                    "name": "ropsten",
-                    "description": "Ethereum-Ropsten",
-                    "coinType": "ETH-ROPSTEN",
-                    "chainId": 3,
-                    "iconPath" : "network_ethereum.png",
-                    "testnet": true
-                },
-                {
-                    "networkId": "ethereum-rinkeby",
-                    "name": "rinkeby",
-                    "description": "Ethereum-Rinkeby",
-                    "coinType": "ETH-RINKEBY",
-                    "chainId": 4,
-                    "iconPath" : "network_ethereum.png",
-                    "testnet": true
-                },
-                {
                     "networkId": "ethereum-goerli",
                     "name": "goerli",
                     "description": "Ethereum-Goerli",
                     "coinType": "ETH-GOERLI",
                     "chainId": 5,
-                    "iconPath" : "network_ethereum.png",
-                    "testnet": true
-                },
-                {
-                    "networkId": "ethereum-kovan",
-                    "name": "kovan",
-                    "description": "Ethereum-Kovan",
-                    "coinType": "ETH-KOVAN",
-                    "chainId": 42,
                     "iconPath" : "network_ethereum.png",
                     "testnet": true
                 },
