@@ -1,24 +1,25 @@
 [
     {
-        "name": "insight-CBT-2",
-        "title": "Insight CBT",
-        "bgColor": "#FFE14B",
+        "name": "Algorand-Giveaway",
+        "title": "Algorand Giveaway",
+        "bgColor": "#100B4E",
         "externalWindow": true,
         "locale": {
             "en": {
                 "description": "",
-                "link": "https://dcentwallet.com/events/insight_supporter_recruitment?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202309_cbt-recruitment",
-                "imagePath": "380_160_EN.png",
-                "imagePath_480": "480_160_EN.png"
+                "link": "https://dcentwallet.com/events/algorand-giveaway?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202310_algorand_promotion_v01",
+                "imagePath": "app_380x160_EN.png",
+                "imagePath_480": "app_480x160_EN.png"
             },
             "ko": {
                 "description": "",
-                "link": "https://dcentwallet.com/events/insight_supporter_recruitment?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202309_cbt-recruitment",
-                "imagePath": "380_160_KR.png",
-                "imagePath_480": "480_160_KR.png"
+                "link": "https://dcentwallet.com/events/algorand-giveaway?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202310_algorand_promotion_v01",
+                "imagePath": "app_380x160_KR.png",
+                "imagePath_480": "app_480x160_KR.png"
             }
         },
-        "endTimestamp": 1694995200000
+        "startTimestamp": 1698386400000,
+        "endTimestamp": 1700200800000
     },
     {
         "name": "usa-free-shipping",

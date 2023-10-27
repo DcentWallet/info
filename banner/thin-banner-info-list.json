@@ -3,31 +3,52 @@
     "img": {
       "en": {
         "desktop": {
-          "path": "../images/en/hp_banner_en_1.png",
+          "path": "../images/en/pc_1920x90_EN.png",
           "height": "90px",
-          "background-color": "#00365D"
+          "background-color": "#100B4E"
         },
         "tablet": {
-          "path": "../images/en/hp_banner_en_2.png",
+          "path": "../images/en/mobile_768x120_EN.png",
           "height": "65px",
-          "background-color": "#00365D"
+          "background-color": "#100B4E"
         },
         "mobile": {
-          "path": "../images/en/hp_banner_en_2.png",
+          "path": "../images/en/mobile_768x120_EN.png",
           "height": "15.64vw",
-          "background-color": "#00365D"
+          "background-color": "#100B4E"
+        }
+      },
+      "ko": {
+        "desktop": {
+          "path": "../images/ko/pc_1920x90_KR.png",
+          "height": "90px",
+          "background-color": "#100B4E"
+        },
+        "tablet": {
+          "path": "../images/ko/mobile_768x120_KR.png",
+          "height": "65px",
+          "background-color": "#100B4E"
+        },
+        "mobile": {
+          "path": "../images/ko/mobile_768x120_KR.png",
+          "height": "15.64vw",
+          "background-color": "#100B4E"
         }
       }
     },
     "link": {
       "en": {
-        "internal": false,
+        "internal": "/events/algorand-giveaway",
+        "external": false
+      },
+      "ko": {
+        "internal": "/events/algorand-giveaway",
         "external": false
       }
     },
     "period": {
-      "start": "2023-09-27T15:00:00.000Z",
-      "end": "2023-10-03T15:00:00.000Z"
+      "start": "2023-10-27T06:00:00.000Z",
+      "end": "2023-11-17T06:00:00.000Z"
     }
   },
   {
