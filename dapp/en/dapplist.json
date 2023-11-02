@@ -24,7 +24,8 @@
             "type": "dapp_dcent",
             "device": "ble_dongle",
             "externalWindow": false,
-            "notSupportCardWallet": true
+            "notSupportCardWallet": true,
+            "platform": "android"
         },
         {
             "name": "swap",
@@ -40,7 +41,8 @@
             "appVersion": {
                 "android": "5.16.0",
                 "ios": "5.16.2"
-            }
+            },
+            "platform": "android"
         },
         {
             "name": "qr_based_metamask",

@@ -1,5 +1,6 @@
 |Kernel Version|Release Date|Notes|
 |----|----|------|
+|v2.29.0|2023-10-20|• Added supporting coin : ALGORAND (ALGO), ALGORAND ASSET / APP |
 |v2.28.1|2023-06-29|• Added supporting coin : Coreum Smart Token |
 |v2.27.1|2023-05-18|• Added supporting coin : Near Token |
 |v2.26.0|2023-04-25|• Added supporting coin : HAVAH (HVH), HAVAH HSP20 Token |
