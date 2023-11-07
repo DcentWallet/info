@@ -1,5 +1,10 @@
 [
   {
+    "name": "Algorand",
+    "imageUrl": "../images/Algorand.png",
+    "gotoLink": "https://algorand.com/"
+  },
+  {
     "name": "Talisman",
     "imageUrl": "../images/Talisman.png",
     "gotoLink": "https://www.talisman.xyz/"
