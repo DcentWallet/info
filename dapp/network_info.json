@@ -370,6 +370,19 @@
                         "Android": "5.16.0",
                         "iOS": "5.16.1"
                     }
+                },
+                {
+                    "networkId": "astar",
+                    "name": "astar",
+                    "description": "Astar - EVM",
+                    "coinType": "CHAN:592",
+                    "chainId": 592,
+                    "iconPath": "network_astar.png",
+                    "preRelease": true,
+                    "nativeVersion": {
+                        "Android": "5.16.0",
+                        "iOS": "5.16.1"
+                    }
                 }
             ]
         },
