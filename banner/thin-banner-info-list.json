@@ -38,17 +38,16 @@
     },
     "link": {
       "en": {
-        "internal": "/events/algorand-giveaway",
-        "external": false
+        "internal": false,
+        "external": "https://forms.gle/PwoHUTumEFDsNZ2CA"
       },
       "ko": {
-        "internal": "/events/algorand-giveaway",
-        "external": false
+        "internal": false,
+        "external": "https://forms.gle/jMHRxZExudGJG6Rd6"
       }
     },
     "period": {
-      "start": "2023-10-27T06:00:00.000Z",
-      "end": "2023-11-17T06:00:00.000Z"
+      "end": "2023-11-23T00:00:00.000Z"
     }
   },
   {

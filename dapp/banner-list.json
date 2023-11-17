@@ -1,25 +1,24 @@
 [
     {
-        "name": "Algorand-Giveaway",
-        "title": "Algorand Giveaway",
+        "name": "Algorand-Giveaway-Ended",
+        "title": "Algorand Giveaway Ended",
         "bgColor": "#100B4E",
         "externalWindow": true,
         "locale": {
             "en": {
                 "description": "",
-                "link": "https://dcentwallet.com/events/algorand-giveaway?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202310_algorand_promotion_v01",
+                "link": "https://forms.gle/PwoHUTumEFDsNZ2CA",
                 "imagePath": "app_380x160_EN.png",
                 "imagePath_480": "app_480x160_EN.png"
             },
             "ko": {
                 "description": "",
-                "link": "https://dcentwallet.com/events/algorand-giveaway?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202310_algorand_promotion_v01",
+                "link": "https://forms.gle/jMHRxZExudGJG6Rd6",
                 "imagePath": "app_380x160_KR.png",
                 "imagePath_480": "app_480x160_KR.png"
             }
         },
-        "startTimestamp": 1698386400000,
-        "endTimestamp": 1700200800000
+        "endTimestamp": 1700697600000
     },
     {
         "name": "usa-free-shipping",
