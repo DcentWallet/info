@@ -3,6 +3,58 @@
     "img": {
       "en": {
         "desktop": {
+          "path": "../images/en/blackfriday_pc_1920x60_EN.png",
+          "height": "90px",
+          "background-color": "#1B1B1B"
+        },
+        "tablet": {
+          "path": "../images/en/blackfriday_mobile_768x120_EN.png",
+          "height": "65px",
+          "background-color": "#1B1B1B"
+        },
+        "mobile": {
+          "path": "../images/en/blackfriday_mobile_768x120_EN.png",
+          "height": "15.64vw",
+          "background-color": "#1B1B1B"
+        }
+      },
+      "ko": {
+        "desktop": {
+          "path": "../images/ko/blackfriday_pc_1920x60_KR.png",
+          "height": "90px",
+          "background-color": "#1B1B1B"
+        },
+        "tablet": {
+          "path": "../images/ko/blackfriday_mobile_768x120_KR.png",
+          "height": "65px",
+          "background-color": "#1B1B1B"
+        },
+        "mobile": {
+          "path": "../images/ko/blackfriday_mobile_768x120_KR.png",
+          "height": "15.64vw",
+          "background-color": "#1B1B1B"
+        }
+      }
+    },
+    "link": {
+      "en": {
+        "internal": false,
+        "external": "https://store.dcentwallet.com/pages/black-friday-2023"
+      },
+      "ko": {
+        "internal": false,
+        "external": "https://store-kr.dcentwallet.com/pages/black-friday-2023"
+      }
+    },
+    "period": {
+      "start": "2023-11-21T15:00:00.000Z",
+      "end": "2023-12-04T00:00:00.000Z"
+    }
+  },
+  {
+    "img": {
+      "en": {
+        "desktop": {
           "path": "../images/en/pc_1920x90_EN.png",
           "height": "90px",
           "background-color": "#100B4E"

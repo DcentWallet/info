@@ -1,5 +1,27 @@
 [
     {
+        "name": "Black-Friday",
+        "title": "Black Friday",
+        "bgColor": "#1B1B1B",
+        "externalWindow": true,
+        "locale": {
+            "en": {
+                "description": "",
+                "link": "https://store.dcentwallet.com/pages/black-friday-2023?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202311_blackfriday_v01",
+                "imagePath": "blackfriday_app_380x160_EN.png",
+                "imagePath_480": "blackfriday_app_480x160_EN.png"
+            },
+            "ko": {
+                "description": "",
+                "link": "https://store-kr.dcentwallet.com/pages/black-friday-2023?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202311_blackfriday_v01",
+                "imagePath": "blackfriday_app_380x160_KR.png",
+                "imagePath_480": "blackfriday_app_480x160_KR.png"
+            }
+        },
+        "startTimestamp": 1732201200000,
+        "endTimestamp": 1733270400000
+    },
+    {
         "name": "Algorand-Giveaway-Ended",
         "title": "Algorand Giveaway Ended",
         "bgColor": "#100B4E",
