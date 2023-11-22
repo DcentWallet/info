@@ -3,7 +3,7 @@
     "img": {
       "en": {
         "desktop": {
-          "path": "../images/en/blackfriday_pc_1920x60_EN.png",
+          "path": "../images/en/blackfriday_pc_1920x90_EN.png",
           "height": "90px",
           "background-color": "#1B1B1B"
         },
@@ -20,7 +20,7 @@
       },
       "ko": {
         "desktop": {
-          "path": "../images/ko/blackfriday_pc_1920x60_KR.png",
+          "path": "../images/ko/blackfriday_pc_1920x90_KR.png",
           "height": "90px",
           "background-color": "#1B1B1B"
         },
