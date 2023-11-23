@@ -101,6 +101,24 @@
             "coinType": "EVMT:X-PALMTEST",
             "testnet": true,
             "preRelease": true
+        },
+        {
+            "name": {
+                "en": "ALGORAND",
+                "ko": "알고랜드"
+            },
+            "coinType": "ALGORAND",
+            "testnet": false,
+            "preRelease": false
+        },
+        {
+            "name": {
+                "en": "ALGORAND-TESTNET",
+                "ko": "알고랜드 테스트넷"
+            },
+            "coinType": "ALGO-TESTNET",
+            "testnet": true,
+            "preRelease": false
         }
     ]
 }
