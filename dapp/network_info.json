@@ -365,7 +365,6 @@
                     "coinType": "CHAN:255",
                     "chainId": 255,
                     "iconPath": "network_kroma.png",
-                    "preRelease": true,
                     "nativeVersion": {
                         "Android": "5.16.0",
                         "iOS": "5.16.1"
