@@ -1,5 +1,10 @@
 [
   {
+    "name": "Kroma",
+    "imageUrl": "../images/Kroma.png",
+    "gotoLink": "https://kroma.network/"
+  },
+  {
     "name": "Algorand",
     "imageUrl": "../images/Algorand.png",
     "gotoLink": "https://algorand.com/"
