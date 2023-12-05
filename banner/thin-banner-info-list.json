@@ -3,7 +3,7 @@
     "img": {
       "en": {
         "desktop": {
-          "path": "../images/en/policy_pc_1920x60_EN.png.png",
+          "path": "../images/en/policy_pc_1920x60_EN.png",
           "height": "60px",
           "background-color": "#262626"
         },
