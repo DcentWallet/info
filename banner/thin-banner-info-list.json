@@ -54,7 +54,7 @@
     "img": {
       "en": {
         "desktop": {
-          "path": "../images/en/Freeshipping_pc_1920x60_EN.jpg",
+          "path": "../images/en/Freeshipping_pc_1920x60_EN.png",
           "height": "60px",
           "background-color": "#262626"
         },
@@ -64,7 +64,7 @@
           "background-color": "#262626"
         },
         "mobile": {
-          "path": "../images/en/shipping_mobile_768.png",
+          "path": "../images/en/Freeshipping_mob_768x60_EN.png",
           "height": "14.44vw",
           "background-color": "#262626"
         }
