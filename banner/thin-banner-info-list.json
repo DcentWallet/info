@@ -8,7 +8,7 @@
           "background-color": "#262626"
         },
         "tablet": {
-          "path": "../images/en/policy_mob_768x60_EN.png",
+          "path": "../images/en/policy_tablet_1399x60_EN.png",
           "height": "60px",
           "background-color": "#262626"
         },
@@ -25,7 +25,7 @@
           "background-color": "#262626"
         },
         "tablet": {
-          "path": "../images/ko/policy_mob_768x60_KR.png",
+          "path": "../images/ko/policy_tablet_1399x60_KR.png",
           "height": "60px",
           "background-color": "#262626"
         },
@@ -59,7 +59,7 @@
           "background-color": "#262626"
         },
         "tablet": {
-          "path": "../images/en/Freeshipping_mob_768x60_EN.png",
+          "path": "../images/en/Freeshipping_tablet_1399x60_EN.png",
           "height": "60px",
           "background-color": "#262626"
         },

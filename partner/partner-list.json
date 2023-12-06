@@ -1,5 +1,10 @@
 [
   {
+    "name": "Astar",
+    "imageUrl": "../images/Astar.png",
+    "gotoLink": "https://astar.network/"
+  },
+  {
     "name": "Kroma",
     "imageUrl": "../images/Kroma.png",
     "gotoLink": "https://kroma.network/"
