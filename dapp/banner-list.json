@@ -1,5 +1,27 @@
 [
     {
+        "name": "2023-year-end",
+        "title": "2023 Year End",
+        "bgColor": "#E5E3E2",
+        "externalWindow": true,
+        "startTimestamp": 1702566000000,
+        "endTimestamp": 1705726800000,
+        "locale": {
+            "en": {
+                "description": "",
+                "link": "https://store.dcentwallet.com/pages/2023-year-end-sale?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202312_year-end_v01",
+                "imagePath": "Year_End_app_380x160_EN.png",
+                "imagePath_480": "Year_End_app_480x160_EN.png"
+            },
+            "ko": {
+                "description": "",
+                "link": "https://store-kr.dcentwallet.com/pages/2023-year-end-sale?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202312_year-end_v01",
+                "imagePath": "Year_End_app_380x160_KR.png",
+                "imagePath_480": "Year_End_app_480x160_KR.png"
+            }
+        }
+    },
+    {
         "name": "usa-free-shipping",
         "title": "USA Free Shipping",
         "bgColor": "#111111",
