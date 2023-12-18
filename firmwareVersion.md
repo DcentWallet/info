@@ -1,5 +1,6 @@
 |Kernel Version|Release Date|Notes|
 |----|----|------|
+|v2.30.1|2023-12-18|• Improved Parachain Transaaction stability |
 |v2.30.0|2023-12-06|• Added supporting coin : Parachin(Astar) |
 |v2.29.0|2023-10-20|• Added supporting coin : ALGORAND (ALGO), ALGORAND ASSET / APP |
 |v2.28.1|2023-06-29|• Added supporting coin : Coreum Smart Token |
