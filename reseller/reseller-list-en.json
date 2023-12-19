@@ -1,5 +1,9 @@
 [
-  
+    {
+    "name": "Bitviva",
+    "imageUrl": "../images_en/bitviva_logo.png",
+    "gotoLink": "https://bitviva.com"
+    },
     {
     "name": "N-Crypt ID",
     "imageUrl": "../images_en/ncrypt.png",
