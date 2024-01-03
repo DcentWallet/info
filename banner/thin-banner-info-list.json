@@ -3,6 +3,58 @@
     "img": {
       "en": {
         "desktop": {
+          "path": "../images/en/year_end_close_pc_1920x60_EN.png",
+          "height": "60px",
+          "background-color": "#262626"
+        },
+        "tablet": {
+          "path": "../images/en/year_end_close_mobile_768x120_EN.png",
+          "height": "60px",
+          "background-color": "#E5E3E2"
+        },
+        "mobile": {
+          "path": "../images/en/year_end_close_mobile_768x120_EN.png",
+          "height": "14.44vw",
+          "background-color": "#E5E3E2"
+        }
+      },
+      "ko": {
+        "desktop": {
+          "path": "../images/ko/year_end_close_pc_1920x60_KR.png",
+          "height": "60px",
+          "background-color": "#262626"
+        },
+        "tablet": {
+          "path": "../images/ko/year_end_close_mobile_768x120_KR.png",
+          "height": "60px",
+          "background-color": "#E5E3E2"
+        },
+        "mobile": {
+          "path": "../images/ko/year_end_close_mobile_768x120_KR.png",
+          "height": "14.44vw",
+          "background-color": "#E5E3E2"
+        }
+      }
+    },
+    "link": {
+      "en": {
+        "internal": false,
+        "external": "https://forms.gle/AijMzDZL6kwzHB8V6"
+      },
+      "ko": {
+        "internal": false,
+        "external": "https://forms.gle/a4tBWiFz8kgM11xH8"
+      }
+    },
+    "period": {
+      "start": "2024-01-04T05:00:00.000Z",
+      "end": "2024-01-17T05:00:00.000Z"
+    }
+  },
+  {
+    "img": {
+      "en": {
+        "desktop": {
           "path": "../images/en/Year_End_pc_1920x60_EN.png",
           "height": "60px",
           "background-color": "#262626"
@@ -48,7 +100,7 @@
     },
     "period": {
       "start": "2023-12-14T15:00:00.000Z",
-      "end": "2024-01-20T05:00:00.000Z"
+      "end": "2024-01-04T05:00:00.000Z"
     }
   },
   {

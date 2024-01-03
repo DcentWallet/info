@@ -1,11 +1,33 @@
 [
     {
+        "name": "2023-year-end-close",
+        "title": "2023 Year End Close",
+        "bgColor": "#E5E3E2",
+        "externalWindow": true,
+        "startTimestamp": 1704344400000,
+        "endTimestamp": 1705467600000,
+        "locale": {
+            "en": {
+                "description": "",
+                "link": "https://forms.gle/AijMzDZL6kwzHB8V6",
+                "imagePath": "year_end_close_app_380x160_EN.png",
+                "imagePath_480": "year_end_close_app_480x160_EN.png"
+            },
+            "ko": {
+                "description": "",
+                "link": "https://forms.gle/a4tBWiFz8kgM11xH8",
+                "imagePath": "year_end_close_app_380x160_KR.png",
+                "imagePath_480": "year_end_close_app_480x160_KR.png"
+            }
+        }
+    },
+    {
         "name": "2023-year-end",
         "title": "2023 Year End",
         "bgColor": "#E5E3E2",
         "externalWindow": true,
         "startTimestamp": 1702566000000,
-        "endTimestamp": 1705726800000,
+        "endTimestamp": 1704344400000,
         "locale": {
             "en": {
                 "description": "",
