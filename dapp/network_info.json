@@ -487,6 +487,37 @@
                     }
                 }
             ]
+        },
+        {
+            "type": "parachain",
+            "list": [
+                {
+                    "networkId": "astar-mainnet",
+                    "name": "astar",
+                    "description": "Astar",
+                    "coinType": "PARA:000105",
+                    "chainId": "000105",
+                    "iconPath" : "network_astar.png",
+                    "selected" : true,
+                    "nativeVersion": {
+                        "Android": "5.26.0",
+                        "iOS": "5.26.0"
+                    }
+                },
+                {
+                    "networkId": "shibuya-tesetnet",
+                    "name": "shibuya",
+                    "description": "Shibuya-Testnet",
+                    "coinType": "PARAT:200105",
+                    "chainId": "200105",
+                    "iconPath" : "network_shibuya.png",
+                    "testnet" : true,
+                    "nativeVersion": {
+                        "Android": "5.26.0",
+                        "iOS": "5.26.0"
+                    }
+                }
+            ]
         }
     ]
 }
