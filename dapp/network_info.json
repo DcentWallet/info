@@ -496,7 +496,7 @@
                     "name": "astar",
                     "description": "Astar",
                     "coinType": "PARA:000105",
-                    "chainId": "000105",
+                    "chainId": 261,
                     "iconPath" : "network_astar.png",
                     "selected" : true,
                     "nativeVersion": {
