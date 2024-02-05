@@ -500,8 +500,8 @@
                     "iconPath" : "network_astar.png",
                     "selected" : true,
                     "nativeVersion": {
-                        "Android": "5.26.0",
-                        "iOS": "5.26.0"
+                        "Android": "6.0.4",
+                        "iOS": "6.0.6"
                     }
                 }
             ]
