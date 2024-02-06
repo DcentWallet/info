@@ -1,49 +1,5 @@
 [
     {
-        "name": "2023-year-end-close",
-        "title": "2023 Year End Close",
-        "bgColor": "#E5E3E2",
-        "externalWindow": true,
-        "startTimestamp": 1704344400000,
-        "endTimestamp": 1705294800000,
-        "locale": {
-            "en": {
-                "description": "",
-                "link": "https://forms.gle/AijMzDZL6kwzHB8V6",
-                "imagePath": "year_end_close_app_380x160_EN.png",
-                "imagePath_480": "year_end_close_app_480x160_EN.png"
-            },
-            "ko": {
-                "description": "",
-                "link": "https://forms.gle/a4tBWiFz8kgM11xH8",
-                "imagePath": "year_end_close_app_380x160_KR.png",
-                "imagePath_480": "year_end_close_app_480x160_KR.png"
-            }
-        }
-    },
-    {
-        "name": "2023-year-end",
-        "title": "2023 Year End",
-        "bgColor": "#E5E3E2",
-        "externalWindow": true,
-        "startTimestamp": 1702566000000,
-        "endTimestamp": 1704344400000,
-        "locale": {
-            "en": {
-                "description": "",
-                "link": "https://store.dcentwallet.com/pages/2023-year-end-sale?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202312_year-end_v01",
-                "imagePath": "Year_End_app_380x160_EN.png",
-                "imagePath_480": "Year_End_app_480x160_EN.png"
-            },
-            "ko": {
-                "description": "",
-                "link": "https://store-kr.dcentwallet.com/pages/2023-year-end-sale?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202312_year-end_v01",
-                "imagePath": "Year_End_app_380x160_KR.png",
-                "imagePath_480": "Year_End_app_480x160_KR.png"
-            }
-        }
-    },
-    {
         "name": "usa-free-shipping",
         "title": "USA Free Shipping",
         "bgColor": "#111111",
@@ -64,7 +20,7 @@
         "externalWindow": true,
         "locale": {
             "en": {
-                "description": "Enhance your security with <br/><b>D’CENT biometric wallet</b>",
+                "description": "Enhance your security with <br/><b>D'CENT biometric wallet</b>",
                 "link": "https://store.dcentwallet.com?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=constant_purchase-hardware",
                 "imagePath": "discovery_banner-dcent_bg.png",
                 "button": "Buy Now"
@@ -74,6 +30,64 @@
                 "link": "https://store-kr.dcentwallet.com?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=constant_purchase-hardware",
                 "imagePath": "discovery_banner-dcent_bg.png",        
                 "button": "구매하기"
+            },
+            "ja": {
+                "description": "大切なあなたの暗号資産を安心できる最強なセキュリティで固められた</br><b>D'CENT 指紋認証型ウォレット</b>がお守りいたします！",
+                "link": "https://store.dcentwallet.com?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=constant_purchase-hardware",
+                "imagePath": "discovery_banner-dcent_bg.png",
+                "button": "購入する"
+            }
+        }
+    },
+    {
+        "name": "medium",
+        "title": "D'CENT",
+        "bgColor": "#252525",
+        "externalWindow": true,
+        "locale": {
+            "en": {
+                "description": "<b>Join us</b> and<br/> never miss an update!",
+                "link": "https://medium.com/dcentwallet/tagged/english?utm_source=dcent_app_new&utm_medium=app&utm_campaign=app_banner_medium",
+                "imagePath": "discovery_banner-medium_bg.png",
+                "button": "Follow"
+            },
+            "ko": {
+                "description": "디센트 소식을 알 수 있는<br/> <b>가장 쉽고 빠른 방법<b/>",
+                "link": "https://medium.com/dcentwallet/tagged/korean?utm_source=dcent_app_new&utm_medium=app&utm_campaign=app_banner_medium",
+                "imagePath": "discovery_banner-medium_bg.png",
+                "button": "팔로우"
+            },
+            "ja": {
+                "description": "D'CENTに関する新しい情報を逸早く確認できてしまう、<br/><b>最も楽な方法<b>",
+                "link": "https://medium.com/dcentwallet/tagged/japanese?utm_source=dcent_app_new&utm_medium=app&utm_campaign=app_banner_medium",
+                "imagePath": "discovery_banner-medium_bg.png",
+                "button": "フォロー"
+            }
+        }
+    },
+    {
+        "name": "youtube",
+        "title": "D'CENT",
+        "bgColor": "#FF0000",
+        "externalWindow": true,        
+        "locale": {
+            "en": {
+                "description": "Welcome Newbies!<br/> Here’s <b>D’CENT tutorial</b>",
+                "link": "https://www.youtube.com/c/DCENTWallet?utm_source=dcent_app&utm_medium=app&utm_campaign=app_banner_youtube",
+                "imagePath": "discovery_banner-youtube_bg.png",
+                "button": "Subscribe"
+            }, 
+            "ko": {
+                "description": "누구나 쉽게 따라하는<br/> <b>디센트 사용법</b>",
+                "link": "https://www.youtube.com/c/DCENTWallet?utm_source=dcent_app&utm_medium=app&utm_campaign=app_banner_youtube",
+                "imagePath": "discovery_banner-youtube_bg.png",
+                "button": "구독"
+            },
+            "ja": {
+                "description": "初心者の方でもすぐに覚えられる、<br/><b>D'CENTの使い方</b>",
+                "link": "https://www.youtube.com/c/DCENTWallet?utm_source=dcent_app&utm_medium=app&utm_campaign=app_banner_youtube",
+                "imagePath": "discovery_banner-youtube_bg.png",
+                "button": "購読する"
             }
         }
     }

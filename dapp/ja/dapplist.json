@@ -1,0 +1,479 @@
+{
+    "list": [
+        {
+            "name": "buysell",
+            "title": "暗号資産の購入",
+            "description": "実に多くのパートナーで構成されたネットワークを介して、100種類以上の暗号資産(仮想通貨)を、簡単且つ安全に購入できるサービスです。",
+            "iOS_description": "Apple Payを使って簡単に暗号資産を購入できるサービスです。",
+            "link": "",
+            "kind": [],
+            "category": [],
+            "iconPath": "icon_buy.png",
+            "testnet": false,
+            "externalWindow": false,
+            "platform": "android" 
+        },
+        {
+            "name": "exchange",
+            "title": "暗号資産の交換",
+            "description": "様々な暗号資産の取引プラットフォーム上から、実に200種類以上の暗号資産をスピーディーに、そしてスマートな方法でスワップ(交換)することができます。",
+            "link": "https://exchange.dcentwallet.com",
+            "kind": [],
+            "category": [],
+            "iconPath": "icon_exchange.png",
+            "type": "dapp_dcent",
+            "device": "ble_dongle",
+            "externalWindow": false,
+            "notSupportCardWallet": true,
+            "platform": "android"
+        },
+        {
+            "name": "swap",
+            "title": "スワップ",
+            "description": "様々なスワップサービスを介して、実に3000種類以上の暗号資産をスピーディーに、そして非常にシンプルな方法でスワップすることが可能なサービスです。",
+            "link": "https://swap.dcentwallet.com",
+            "kind": ["eth"],
+            "category": [],
+            "iconPath": "icon_swap.png",
+            "type": "dapp_dcent",
+            "device": "ble_dongle",
+            "externalWindow": false,
+            "appVersion": {
+                "android": "5.16.0",
+                "ios": "5.16.2"
+            },
+            "platform": "android"
+        },
+        {
+            "name": "qr_based_metamask",
+            "title": "MetaMaskと連携",
+            "description": "D'CENT ウォレット上のEVM系のアドレスとMetaMask間を連携して使用することができます。",
+            "link": "https://qrbase.dcentwallet.com",
+            "kind": ["eth"],
+            "network": [ 
+                {
+                "id": "ethereum-mainnet",
+                "name": "Ethereum"
+                } 
+            ],
+            "category": [],
+            "iconPath": "icon_qr_based_metamaks.png",
+            "type": "dapp_dcent",
+            "device": "ble_dongle",
+            "externalWindow": false,
+            "appVersion": {
+                "android": "5.16.1",
+                "ios": "5.16.2"
+            },
+            "notSupportCardWallet": true
+        },
+        {
+            "name": "moonpay",
+            "title": "MoonPay",
+            "description": "MoonPayは、VISAやMastercardで暗号資産を簡単、且つ安全に購入できるサービスです。",
+            "link": "https://buy.moonpay.com?language=en",
+            "kind": [],
+            "category": [],
+            "iconPath": "icon_moonpay.png",
+            "testnet": false,
+            "externalWindow": false,
+            "platform": "iOS"
+        },
+        {
+            "name": "ftso",
+            "title": "FTSO Portal",
+            "description": "FTSO Portalは、ユーザーが選んだ任意のFTSOプロバイダに、手っ取り早く且つ簡単にVote Power(投票権)を委譲できる、D'CENTのオリジナルサービスです。ユーザーはVote Power(投票権)の委譲を行うことで、Passive Income(受動的所得)を報酬として受け取ることができます。",
+            "link": "https://ftsoportal.com/",
+            "kind": [],
+            "network": [
+                {
+                "id": "songbird-mainnet",
+                "name": "Songbird"
+                }
+            ],
+            "category": [],
+            "iconPath": "icon_ftso.png",
+            "type": "dapp_dcent",
+            "device": "ble_dongle",
+            "externalWindow": false
+        },
+        {
+            "name": "sparklesnft",
+            "title": "Sparkles NFT",
+            "description": "Sparklesは、FlareおよびSongbirdの先駆的存在と云えるNFT系のマーケットプレイスであり、コミュニティと共にWeb3の大きな変化をリードしています。最高のNFTアーティストとコレクションとの出会いがある素晴らしい世界がここにあります。",
+            "link": "https://sparklesnft.com/",
+            "kind": ["songbird"],
+            "network": [ 
+                {
+                "id": "songbird-mainnet",
+                "name": "Songbird"
+                } 
+            ],
+            "category": [],
+            "iconPath": "icon-sparkles.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false
+        },
+        {
+            "name": "KLAYswap",
+            "title": "KLAYswap",
+            "description": "KLAYswapは、流動性プール向けのKLAY、ETH、WBTC、USDT、ORCのトークンスワップと流動性マイニングを通して、Klaytn DeFiの生態系のエコシステムを拡張させます。",
+            "link": "https://klayswap.com/",
+            "kind": ["klay"],
+            "network": [
+                {
+                "id": "klaytn-mainnet",
+                "name": "Klaytn"
+                }
+            ],
+            "category": [],
+            "iconPath": "icon_klayswap.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false
+        },
+        {
+            "name": "swapscanner",
+            "title": "Swapscanner",
+            "description": "Swapscannerは、KlaytnのNo.1のDEX系アグリゲーターサービスです。SwapscannerはKlaytnネットワーク内の全てのDEXと連携し、洗練された自社製エンジンである、「Navigator」を通じて最もお得な価格でのトークン購入を保証します。",
+            "link": "https://swapscanner.io/",
+            "kind": ["klay"],
+            "network": [ 
+                {
+                    "id": "klaytn-mainnet",
+                    "name": "Klaytn"
+                    } 
+            ],
+            "category": [],
+            "iconPath": "icon_swapscanner.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false
+        },
+        {
+            "name": "belt.fi",
+            "title": "Belt.fi",
+            "description": "Belt.fiは、Binance Smart Chainで動作する、AMMを使用したマルチ戦略による利益の最適化をプロトコルとしいます。複利および利益創出の自動集計を通じて最大の利益をもたらします。",
+            "link": "https://belt.fi/",
+            "kind": ["bsc"],
+            "network": [
+                {
+                "id": "bsc-mainnet",
+                "name": "Binance Smart Chain"
+                }
+            ],
+            "category": [],
+            "iconPath": "icon_belt_fi.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false
+        },
+        {
+            "name": "definix",
+            "title": "Definix",
+            "description": "マルチチェーン向けの暗号資産管理用プロトコルです。Definixは、暗号資産を投資する者がDeFiに投資できるよう透明性を提供する暗号資産投資プラットフォームです。投資者は自分だけのファンドを構成し、投資技術を使って更に多くの利益を生み出すことができます。",
+            "link": "https://definix.com/",
+            "kind": ["bsc"],
+            "network": [
+                {
+                "id": "bsc-mainnet",
+                "name": "Binance Smart Chain"
+                }
+            ],
+            "category": [],
+            "iconPath": "icon_definix.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false
+        },
+        {
+            "name": "orbitBridge",
+            "title": "Orbit Bridge",
+            "description": "Orbit Bridgeは、メインネット間のトークンスワップをサポートするブリッジサービスで、Ethereum、Klaytn、Ripple、BNB、HECOなど、様々なブロックチェーンに対応しています。",
+            "link": "https://bridge.orbitchain.io/",
+            "kind": ["eth"],
+            "network": [
+                {
+                "id": "ethereum-mainnet",
+                "name": "Ethereum"
+                }
+            ],
+            "category": [],
+            "iconPath": "icon_orbit.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false
+        },
+        {
+            "name": "XDSea",
+            "title": "XDSea",
+            "description": "XDSeaは、XDC Networkで構築されたNFTを売買する世界初、最大規模のP2P分散型市場です。",
+            "link": "https://xdsea.com/",
+            "kind": ["xdc"],
+            "network": [ 
+                {
+                    "id": "xdc-mainnet",
+                    "name": "XDC Network"
+                } 
+            ],
+            "category": [],
+            "iconPath": "icon_xdsea.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false
+        },
+        {
+            "name": "cbridge",
+            "title": "Celer cBridge",
+            "description": "Celer cBridgeは、マルチネットワークに対応したブリッジサービスで、ブロックチェーン間の暗号資産を低価格な手数料で送金できます。",
+            "link": "https://cbridge.celer.network/",
+            "kind": ["eth"],
+            "network": [
+                {
+                "id": "ethereum-mainnet",
+                "name": "Ethereum"
+                }
+            ],
+            "category": [],
+            "iconPath": "icon_cBridge.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false
+        },
+        {
+            "name": "klayfi",
+            "title": "KlayFi",
+            "description": "KlayFiは、Klaytn向けの利回り最適化(Yield Optimizer)をプロトコルとしています。KLAYswapのユーザーに最適な自動再預入機能を提供し、投資の便宜性を高めて投資暗号資産の利益を最大化させるためのサービスを提供しています。",
+            "link": "https://klayfi.finance/",
+            "kind": ["klay"],
+            "network": [
+                {
+                "id": "klaytn-mainnet",
+                "name": "Klaytn"
+                }
+            ],
+            "category": [],
+            "iconPath": "icon_klayfi.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false
+        },
+        {
+            "name": "KLAYSTATION",
+            "title": "KLAYSTATION",
+            "description": "KLAYSTATIONは、Klaytnネットワーク向けの公式ステーキングツールです。",
+            "link": "https://klaystation.io/dashboard",
+            "kind": ["klay"],
+            "network": [
+                {
+                "id": "klaytn-mainnet",
+                "name": "Klaytn"
+                }
+            ],
+            "category": [],
+            "iconPath": "icon_klaystation.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false
+        },
+        {
+            "name": "TokamakDAO",
+            "title": "Tokamak DAO",
+            "description": "Tokamak DAOは、Tokamak Network(TOK)トークンの所持者が、Tokamak Netwokのエコシステムに関する重要な議題(Agenda)の意思決定に参加できるブロックチェーン上に構築されたスマートコントラクトシステムであり、自治機構を意味します。",
+            "link": "https://dao.tokamak.network/#/",
+            "kind": ["eth"],
+            "network": [
+                {
+                "id": "ethereum-mainnet",
+                "name": "Ethereum"
+                }
+            ],
+            "category": [],
+            "iconPath": "icon_tokamak.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false
+        },
+        {
+            "name": "zapper",
+            "title": "Zapper",
+            "description": "Zapperは、シンプルなインターフェースで、DeFiポートフォリオをモニタリング・管理できるEthereum向けのDeFiダッシュボードサービスです。",
+            "link": "https://zapper.fi/",
+            "kind": ["eth"],
+            "network": [
+                {
+                "id": "ethereum-mainnet",
+                "name": "Ethereum"
+                }
+            ],
+            "category": [],
+            "iconPath": "icon_zapper.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false
+        },
+        {
+            "name": "neverlose.money",
+            "title": "Neverlose.money",
+            "description": "Neverlose.moneyは、ゲーミフィケーションを導入し、Ethereum向けの暗号資産の長期投資促進をプロトコルとしています。ユーザーが自ら目標期間を設定してコインをロックアップ(Lock-up)し、期間満了せずに出金すると10%のペナルティが課せられ、これをプールに参加している他のユーザーにボーナスとして支給することで長期投資へと誘導します。",
+            "link": "https://neverlose.money/",
+            "kind": ["eth"],
+            "network": [
+                {
+                "id": "ethereum-mainnet",
+                "name": "Ethereum"
+                }
+            ],
+            "category": [],
+            "iconPath": "icon_neverlose.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false
+        },
+        {
+            "name": "compound.finance",
+            "title":"Compound",
+            "description": "Compoundは、暗号資産を担保に入れ利息を得たり、暗号資産を増やせるEthereum向けのマネーマーケットをプロトコルとしています。Compoundの流動性プールに暗号資産を預入すると複利を得ることができます。",
+            "link": "https://app.compound.finance/",
+            "kind": [ "eth" ],
+            "network": [
+                {
+                "id": "ethereum-mainnet",
+                "name": "Ethereum"
+                }
+            ],
+            "category": [],
+            "iconPath": "icon_compound.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false
+        },
+        {
+            "name": "pooltogether",
+            "title": "PoolTogether",
+            "description": "Pool Togetherは、貯蓄の楽しさを提供するEthereum向けのサービスです。暗号資産を預入し、貯蓄チケットを受け取ってプールに参加します。各貯蓄チケットには、抽選でプールで得た利息(全ユーザー分)を受け取れるチャンスが生まれます。尚、当選されなくても損失は発生しません。",
+            "link": "https://app.pooltogether.com/",
+            "kind": ["eth"],
+            "network": [
+                {
+                "id": "ethereum-mainnet",
+                "name": "Ethereum"
+                }
+            ],
+            "category": [],
+            "iconPath": "icon_pooltogether.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false
+        },
+        {
+            "name": "uniswap",
+            "title": "Uniswap",
+            "description": "Uniswapは、流動性を供給し、トークンをスワップできるEthereum向けの自動化された分散型プロトコルを適用しています。",
+            "link": "https://app.uniswap.org/",
+            "kind": ["eth"],
+            "network": [
+                {
+                "id": "ethereum-mainnet",
+                "name": "Ethereum"
+                }
+            ],
+            "category": [],
+            "iconPath": "icon_uniswap.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false
+        },
+        {
+            "name": "yearn",
+            "title": "yearn.finance",
+            "description": "yearn.financeは、DeFiサービスを集めたプラットフォームで、自動化されたプロトコルを通じて、最大の収益を得るための方法を提供しているサービスです。",
+            "link": "https://yearn.finance/",
+            "kind": ["eth"],
+            "network": [
+                {
+                "id": "ethereum-mainnet",
+                "name": "Ethereum"
+                }
+            ],
+            "category": [],
+            "iconPath": "icon_yearn.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false
+        },
+        {
+            "name": "1inch.exchange",
+            "title": "1inch.exchange",
+            "description": "1inch Exchangeは、主要DEX(分散型取引所)の流動性と価格情報をひとつのプラットフォームで提供しています。ご希望の取引価格を簡単に照会でき、トークンをスワップも行なえます。",
+            "link": "https://1inch.exchange/",
+            "kind": ["eth"],
+            "network": [
+                {
+                "id": "ethereum-mainnet",
+                "name": "Ethereum"
+                }
+            ],
+            "category": [],
+            "iconPath": "icon_1inch.exchange.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false
+        },
+        {
+            "name": "opensea",
+            "title": "OpenSea",
+            "description": "OpenSeaは、コレクション、ゲームアイテム、デジタルアートなど、Ethereum向けのデジタル商品およびデジタル暗号資産を取引できるマーケットプレイスです。",
+            "link": "https://opensea.io/",
+            "kind": ["eth"],
+            "network": [
+                {
+                "id": "ethereum-mainnet",
+                "name": "Ethereum"
+                }
+            ],
+            "category": [],
+            "iconPath": "icon_opensea.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false
+        },
+        {
+            "name": "rarible",
+            "title": "Rarible",
+            "description": "Raribleは、クリエイター中心のNFTマーケットプレイスサービスです。芸術作品、ゲームアイテムなど、固有のデジタルアイテムを代替不可能なトークン(NFT)で簡単に作ることができます。",
+            "link": "https://rarible.com/",
+            "kind": ["eth"],
+            "network": [
+                {
+                "id": "ethereum-mainnet",
+                "name": "Ethereum"
+                }
+            ],
+            "category": [],
+            "iconPath": "icon_rarible.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false
+        },
+        {
+            "name": "KLAYportal",
+            "title": "KLAYportal",
+            "description": "Klayportalは、HashQuarkで開発した簡単かつ安全な方法でクレイ(KLAY)をステーキングできるKlaytnステーキングツールです。",
+            "link": "https://klayportal.hashquark.io/#/?inApp=true",
+            "kind": ["klay"],
+            "network": [
+                {
+                "id": "klaytn-mainnet",
+                "name": "Klaytn"
+                }
+            ],
+            "category": [],
+            "iconPath": "icon_klayportal.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false
+        }
+    ]
+}
