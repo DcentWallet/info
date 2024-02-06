@@ -20,7 +20,7 @@
         "externalWindow": true,
         "locale": {
             "en": {
-                "description": "Enhance your security with <br/><b>D’CENT biometric wallet</b>",
+                "description": "Enhance your security with <br/><b>D'CENT biometric wallet</b>",
                 "link": "https://store.dcentwallet.com?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=constant_purchase-hardware",
                 "imagePath": "discovery_banner-dcent_bg.png",
                 "button": "Buy Now"
@@ -32,7 +32,7 @@
                 "button": "구매하기"
             },
             "ja": {
-                "description": "大切なあなたの暗号資産を<b>安心できる最強なセキュリティで固められた、<b>D'CENT 指紋認証型ウォレットがお守りいたします！",
+                "description": "大切なあなたの暗号資産を安心できる最強なセキュリティで固められた</br><b>D'CENT 指紋認証型ウォレット</b>がお守りいたします！",
                 "link": "https://store.dcentwallet.com?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=constant_purchase-hardware",
                 "imagePath": "discovery_banner-dcent_bg.png",
                 "button": "購入する"
