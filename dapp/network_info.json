@@ -281,7 +281,10 @@
                     "coinType": "CHAN:248",
                     "chainId": 248,
                     "iconPath": "network_oasys.png",
-                    "preRelease": true
+                    "nativeVersion": {
+                        "Android": "5.16.0",
+                        "iOS": "5.16.1"
+                    }
                 },
                 {
                     "networkId": "Optimism",
