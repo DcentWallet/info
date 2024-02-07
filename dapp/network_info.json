@@ -499,10 +499,7 @@
                     "chainId": 261,
                     "iconPath" : "network_astar.png",
                     "selected" : true,
-                    "nativeVersion": {
-                        "Android": "6.0.4",
-                        "iOS": "6.0.6"
-                    }
+                    "preRelease": true
                 }
             ]
         }
