@@ -9,7 +9,7 @@
         },
         "tablet": {
           "path": "../images/en/new_year_mobile_768x120_EN.png",
-          "height": "60px",
+          "height": "65px",
           "background-color": "#FFEDD1"
         },
         "mobile": {
@@ -26,7 +26,7 @@
         },
         "tablet": {
           "path": "../images/ko/new_year_mobile_768x120_KR.png",
-          "height": "60px",
+          "height": "65px",
           "background-color": "#FFEDD1"
         },
         "mobile": {
