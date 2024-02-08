@@ -55,6 +55,58 @@
     "img": {
       "en": {
         "desktop": {
+          "path": "../images/en/xrp-pc_1920x60_EN.png",
+          "height": "60px",
+          "background-color": "#262626"
+        },
+        "tablet": {
+          "path": "../images/en/xrp-mobile_768x120_EN.png",
+          "height": "65px",
+          "background-color": "#7583FA"
+        },
+        "mobile": {
+          "path": "../images/en/xrp-mobile_768x120_EN.png",
+          "height": "14.44vw",
+          "background-color": "#7583FA"
+        }
+      },
+      "ko": {
+        "desktop": {
+          "path": "../images/ko/xrp-pc_1920x60_KR.png",
+          "height": "60px",
+          "background-color": "#262626"
+        },
+        "tablet": {
+          "path": "../images/ko/xrp-mobile_768x120_KR.png",
+          "height": "65px",
+          "background-color": "#7583FA"
+        },
+        "mobile": {
+          "path": "../images/ko/xrp-mobile_768x120_KR.png",
+          "height": "14.44vw",
+          "background-color": "#7583FA"
+        }
+      }
+    },
+    "link": {
+      "en": {
+        "internal": false,
+        "external": "https://store.dcentwallet.com/pages/2024-xrp-giveaway"
+      },
+      "ko": {
+        "internal": false,
+        "external": "https://store-kr.dcentwallet.com/pages/2024-xrp-giveaway"
+      }
+    },
+    "period": {
+      "start": "2024-02-08T00:00:00.000Z",
+      "end": "2024-02-26T00:00:00.000Z"
+    }
+  },
+  {
+    "img": {
+      "en": {
+        "desktop": {
           "path": "../images/en/policy_pc_1920x60_EN.png",
           "height": "60px",
           "background-color": "#262626"
