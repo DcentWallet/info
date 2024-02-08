@@ -5,11 +5,29 @@
         "bgColor": "#131720",
         "externalWindow": false,
         "endTimestamp": 1707652800000,
+        "platform": "iOS",
         "preRelease": true,
         "locale": {
             "en": {
                 "description": "",
                 "link": "http://pre-discovery.dcentwallet.com/buysell",
+                "imagePath": "topper-app_380x160_EN.png",
+                "imagePath_480": "topper-app_480x160_EN.png"
+            }
+        }
+    },
+    {
+        "name": "Topper",
+        "title": "Topper Event",
+        "bgColor": "#131720",
+        "externalWindow": false,
+        "endTimestamp": 1707652800000,
+        "platform": "android",
+        "preRelease": true,
+        "locale": {
+            "en": {
+                "description": "",
+                "link": "/buysell",
                 "imagePath": "topper-app_380x160_EN.png",
                 "imagePath_480": "topper-app_480x160_EN.png"
             }
