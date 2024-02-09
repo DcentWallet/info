@@ -3,6 +3,23 @@
     "img": {
       "en": {
         "desktop": {
+          "path": "../images/en/topper_pc_1920x60_EN.png",
+          "height": "60px",
+          "background-color": "#131720"
+        }
+      }
+    },
+    "link": {
+      "en": {
+        "internal": false,
+        "external": "https://dcent-wallet.myshopify.com/pages/topper-fee-free-event"
+      }
+    }
+  },
+  {
+    "img": {
+      "en": {
+        "desktop": {
           "path": "../images/en/new_year_pc_1920x60_EN.png",
           "height": "60px",
           "background-color": "#262626"
