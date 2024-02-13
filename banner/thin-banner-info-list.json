@@ -3,17 +3,17 @@
     "img": {
       "en": {
         "desktop": {
-          "path": "../images/en/topper_pc_1920x60_EN.png",
+          "path": "../images/en/topper-pc_1920x60_EN.png",
           "height": "60px",
-          "background-color": "#131720"
+          "background-color": "#262626"
         },
         "tablet": {
-          "path": "../images/en/topper_mobile_768x120_EN.png",
+          "path": "../images/en/topper-mobile_768x120_EN.png",
           "height": "65px",
           "background-color": "#131720"
         },
         "mobile": {
-          "path": "../images/en/topper_mobile_768x120_EN.png",
+          "path": "../images/en/topper-mobile_768x120_EN.png",
           "height": "14.44vw",
           "background-color": "#131720"
         }
@@ -24,6 +24,9 @@
         "internal": false,
         "external": "https://dcent-wallet.myshopify.com/pages/topper-fee-free-event"
       }
+    },
+    "period": {
+      "end": "2024-02-26T00:00:00.000Z"
     }
   },
   {
