@@ -1,5 +1,10 @@
 [
   {
+    "name": "Pomerium",
+    "imageUrl": "../images/Pomerium.png",
+    "gotoLink": "https://pomerium.space/"
+  },
+  {
     "name": "Astar",
     "imageUrl": "../images/Astar.png",
     "gotoLink": "https://astar.network/"
