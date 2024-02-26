@@ -3,116 +3,34 @@
     "img": {
       "en": {
         "desktop": {
-          "path": "../images/en/topper-pc_1920x60_EN.png",
+          "path": "../images/en/xrp-close-pc_1920x60_KR.png",
           "height": "60px",
           "background-color": "#262626"
         },
         "tablet": {
-          "path": "../images/en/topper-mobile_768x120_EN.png",
-          "height": "65px",
-          "background-color": "#131720"
-        },
-        "mobile": {
-          "path": "../images/en/topper-mobile_768x120_EN.png",
-          "height": "14.44vw",
-          "background-color": "#131720"
-        }
-      }
-    },
-    "link": {
-      "en": {
-        "internal": false,
-        "external": "https://dcent-wallet.myshopify.com/pages/topper-fee-free-event"
-      }
-    },
-    "period": {
-      "end": "2024-02-26T00:00:00.000Z"
-    }
-  },
-  {
-    "img": {
-      "en": {
-        "desktop": {
-          "path": "../images/en/new_year_pc_1920x60_EN.png",
-          "height": "60px",
-          "background-color": "#262626"
-        },
-        "tablet": {
-          "path": "../images/en/new_year_mobile_768x120_EN.png",
-          "height": "65px",
-          "background-color": "#FFEDD1"
-        },
-        "mobile": {
-          "path": "../images/en/new_year_mobile_768x120_EN.png",
-          "height": "14.44vw",
-          "background-color": "#FFEDD1"
-        }
-      },
-      "ko": {
-        "desktop": {
-          "path": "../images/ko/new_year_pc_1920x60_KR.png",
-          "height": "60px",
-          "background-color": "#262626"
-        },
-        "tablet": {
-          "path": "../images/ko/new_year_mobile_768x120_KR.png",
-          "height": "65px",
-          "background-color": "#FFEDD1"
-        },
-        "mobile": {
-          "path": "../images/ko/new_year_mobile_768x120_KR.png",
-          "height": "14.44vw",
-          "background-color": "#FFEDD1"
-        }
-      }
-    },
-    "link": {
-      "en": {
-        "internal": false,
-        "external": false
-      },
-      "ko": {
-        "internal": false,
-        "external": false
-      }
-    },
-    "period": {
-      "start": "2024-02-07T00:00:00.000Z",
-      "end": "2024-02-13T00:00:00.000Z"
-    }
-  },
-  {
-    "img": {
-      "en": {
-        "desktop": {
-          "path": "../images/en/xrp-pc_1920x60_EN.png",
-          "height": "60px",
-          "background-color": "#262626"
-        },
-        "tablet": {
-          "path": "../images/en/xrp-mobile_768x120_EN.png",
+          "path": "../images/en/xrp-close-mobile_768x120_EN.png",
           "height": "65px",
           "background-color": "#7583FA"
         },
         "mobile": {
-          "path": "../images/en/xrp-mobile_768x120_EN.png",
+          "path": "../images/en/xrp-close-mobile_768x120_EN.png",
           "height": "14.44vw",
           "background-color": "#7583FA"
         }
       },
       "ko": {
         "desktop": {
-          "path": "../images/ko/xrp-pc_1920x60_KR.png",
+          "path": "../images/ko/xrp-close-pc_1920x60_KR.png",
           "height": "60px",
           "background-color": "#262626"
         },
         "tablet": {
-          "path": "../images/ko/xrp-mobile_768x120_KR.png",
+          "path": "../images/ko/xrp-close-mobile_768x120_KR.png",
           "height": "65px",
           "background-color": "#7583FA"
         },
         "mobile": {
-          "path": "../images/ko/xrp-mobile_768x120_KR.png",
+          "path": "../images/ko/xrp-close-mobile_768x120_KR.png",
           "height": "14.44vw",
           "background-color": "#7583FA"
         }
@@ -121,67 +39,15 @@
     "link": {
       "en": {
         "internal": false,
-        "external": "https://store.dcentwallet.com/pages/2024-xrp-giveaway"
+        "external": "https://forms.gle/jbPxrjcdZ9LiX8w69"
       },
       "ko": {
         "internal": false,
-        "external": "https://store-kr.dcentwallet.com/pages/2024-xrp-giveaway"
+        "external": "https://forms.gle/jFdT4xxpQny2F4Mf9"
       }
     },
     "period": {
-      "start": "2024-02-08T00:00:00.000Z",
-      "end": "2024-02-26T00:00:00.000Z"
-    }
-  },
-  {
-    "img": {
-      "en": {
-        "desktop": {
-          "path": "../images/en/policy_pc_1920x60_EN.png",
-          "height": "60px",
-          "background-color": "#262626"
-        },
-        "tablet": {
-          "path": "../images/en/policy_tablet_1399x60_EN.png",
-          "height": "60px",
-          "background-color": "#262626"
-        },
-        "mobile": {
-          "path": "../images/en/policy_mob_768x60_EN.png",
-          "height": "14.44vw",
-          "background-color": "#262626"
-        }
-      },
-      "ko": {
-        "desktop": {
-          "path": "../images/ko/policy_pc_1920x60_KR.png",
-          "height": "60px",
-          "background-color": "#262626"
-        },
-        "tablet": {
-          "path": "../images/ko/policy_tablet_1399x60_KR.png",
-          "height": "60px",
-          "background-color": "#262626"
-        },
-        "mobile": {
-          "path": "../images/ko/policy_mob_768x60_KR.png",
-          "height": "14.44vw",
-          "background-color": "#262626"
-        }
-      }
-    },
-    "link": {
-      "en": {
-        "internal": false,
-        "external": "https://store.dcentwallet.com/pages/notification-tos-changes"
-      },
-      "ko": {
-        "internal": false,
-        "external": "https://store-kr.dcentwallet.com/pages/notification-tos-changes"
-      }
-    },
-    "period": {
-      "end": "2023-12-18T05:00:00.000Z"
+      "end": "2024-03-07T00:00:00.000Z"
     }
   },
   {

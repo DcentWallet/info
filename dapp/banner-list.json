@@ -1,60 +1,28 @@
 [
     {
-        "name": "Topper-v1",
-        "title": "Topper Event v1",
-        "bgColor": "#131720",
-        "externalWindow": false,
-        "startTimestamp": 1707393600000,
-        "endTimestamp": 1707652800000,
-        "locale": {
-            "en": {
-                "description": "",
-                "link": "/buysell",
-                "imagePath": "topper-v1-app_380x160_EN.png",
-                "imagePath_480": "topper-v1-app_480x160_EN.png"
-            }
-        }
-    },
-    {
-        "name": "Topper-v2",
-        "title": "Topper Event v2",
-        "bgColor": "#131720",
-        "externalWindow": false,
-        "startTimestamp": 1707652860000,
-        "endTimestamp": 1708948800000,
-        "locale": {
-            "en": {
-                "description": "",
-                "link": "/buysell",
-                "imagePath": "topper-app_380x160_EN.png",
-                "imagePath_480": "topper-app_480x160_EN.png"
-            }
-        }
-    },
-    {
-        "name": "XRP-Giveaway-Event",
-        "title": "XRP Giveaway Event",
+        "name": "XRP-Giveaway-Event-Close",
+        "title": "XRP Giveaway Event Closed",
         "bgColor": "#7583FA",
         "externalWindow": true,
-        "endTimestamp": 1708905600000,
+        "endTimestamp": 1709769600000,
         "locale": {
             "en": {
                 "description": "",
-                "link": "https://store.dcentwallet.com/pages/2024-xrp-giveaway?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202402_xrp-giveaway_v01",
-                "imagePath": "xrp-app_380x160_EN.png",
-                "imagePath_480": "xrp-app_480x160_EN.png"
+                "link": "https://forms.gle/jbPxrjcdZ9LiX8w69",
+                "imagePath": "xrp-close-app_380x160_EN.png",
+                "imagePath_480": "xrp-close-app_480x160_EN.png"
             },
             "ko": {
                 "description": "",
-                "link": "https://store-kr.dcentwallet.com/pages/2024-xrp-giveaway?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202402_xrp-giveaway_v01",
-                "imagePath": "xrp-app_380x160_KR.png",
-                "imagePath_480": "xrp-app_480x160_KR.png"
+                "link": "https://forms.gle/jFdT4xxpQny2F4Mf9",
+                "imagePath": "xrp-close-app_380x160_KR.png",
+                "imagePath_480": "xrp-close-app_480x160_KR.png"
             },
             "ja": {
                 "description": "",
-                "link": "https://store.dcentwallet.com/pages/2024-xrp-giveaway?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202402_xrp-giveaway_v01",
-                "imagePath": "xrp-app_380x160_EN.png",
-                "imagePath_480": "xrp-app_480x160_EN.png"
+                "link": "https://forms.gle/jbPxrjcdZ9LiX8w69",
+                "imagePath": "xrp-close-app_380x160_EN.png",
+                "imagePath_480": "xrp-close-app_480x160_EN.png"
             }
         }
     },
