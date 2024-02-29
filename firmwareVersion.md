@@ -1,13 +1,14 @@
 |Kernel Version|Release Date|Notes|
 |----|----|------|
+|v2.30.3|2024-02-29|• Added Hedera functions - SignMessage |
 |v2.30.2|2024-02-01|• Added Parachain functions - SignMessage |
-|v2.30.1|2023-12-18|• Improved Parachain Transaaction stability |
-|v2.30.0|2023-12-06|• Added supporting coin : Parachin(Astar) |
+|v2.30.1|2023-12-18|• Improved Parachain Transaction stability |
+|v2.30.0|2023-12-06|• Added supporting coin : Parachain(Astar) |
 |v2.29.0|2023-10-20|• Added supporting coin : ALGORAND (ALGO), ALGORAND ASSET / APP |
 |v2.28.1|2023-06-29|• Added supporting coin : Coreum Smart Token |
 |v2.27.1|2023-05-18|• Added supporting coin : Near Token |
 |v2.26.0|2023-04-25|• Added supporting coin : HAVAH (HVH), HAVAH HSP20 Token |
-|v2.25.3|2023-04-11|• Improved XRP Transaaction stability |
+|v2.25.3|2023-04-11|• Improved XRP Transaction stability |
 |v2.25.2|2023-03-09|• Added Hedera Transaction - AccountCreateTransaction, AccountUpdateTransaction, TokenDissociateTransaction, TokenFreezeTransaction, TokenUnfreezeTransaction, TokenPauseTransaction, TokenUnpauseTransaction, TokenWipeTransaction |
 |v2.25.1|2023-02-23|• Added Hedera Transaction - TokenCreateTransaction, TokenUpdateTransaction |
 |v2.25.0|2023-02-16|• Improved stability |
@@ -33,7 +34,7 @@
 |v2.10.0.47c5|2021-06-16|• Added supporting coin : Huobi ECO Chain (HT)|
 |v2.9.2.c1e9|2021-05-26|• Changed Main UI<br>• Added a feature of deleting an account |
 |v2.8.0.e981|2021-04-28|• Added supporting coin : Polygon (MATIC), Polygon Erc20<br>• Enhanced Tron Dapp UI |
-|v2.7.1.4740|2021-04-19|• Enhanced large size transation |
+|v2.7.1.4740|2021-04-19|• Enhanced large size transaction |
 |v2.7.0.f8a9|2021-04-08|• Added supporting coin : Cardano (ADA) |
 |v2.6.1.f657|2021-03-23|• Added supporting coin : BSC - Binance Smart Chain (BNB), BEP20 |
 |v2.5.8.0f0c|2021-02-24|• Spanish language stability |
