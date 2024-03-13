@@ -508,6 +508,21 @@
                     }
                 }
             ]
+        },
+        {
+            "type": "solana",
+            "list": [
+                {
+                    "networkId": "solana-mainnet",
+                    "name": "mainnet",
+                    "description": "Solana",
+                    "coinType": "SOLANA",
+                    "chainId": 1,
+                    "iconPath" : "network_solana.png",
+                    "selected" : true,
+                    "preRelease" : true
+                }
+            ]
         }
     ]
 }
