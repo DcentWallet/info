@@ -521,6 +521,26 @@
                     "iconPath" : "network_solana.png",
                     "selected" : true,
                     "preRelease" : true
+                },
+                {
+                    "networkId": "solana-testnet",
+                    "name": "testnet",
+                    "description": "Solana-testnet",
+                    "coinType": "SOLANA-TESTNET",
+                    "chainId": 2,
+                    "iconPath" : "network_solana.png",
+                    "selected" : true,
+                    "preRelease" : true
+                },
+                {
+                    "networkId": "solana-devnet",
+                    "name": "devnet",
+                    "description": "Solana-devnet",
+                    "coinType": "SOLANA-DEVNET",
+                    "chainId": 3,
+                    "iconPath" : "network_solana.png",
+                    "selected" : true,
+                    "preRelease" : true
                 }
             ]
         }
