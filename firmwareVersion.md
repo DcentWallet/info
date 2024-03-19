@@ -1,5 +1,6 @@
 |Kernel Version|Release Date|Notes|
 |----|----|------|
+|v2.30.4|2024-03-19|• Improved Solana Transaction stability |
 |v2.30.3|2024-02-29|• Added Hedera functions - SignMessage |
 |v2.30.2|2024-02-01|• Added Parachain functions - SignMessage |
 |v2.30.1|2023-12-18|• Improved Parachain Transaction stability |
