@@ -3,7 +3,7 @@
         {
             "name": "buysell",
             "title": "暗号資産の購入",
-            "description": "実に多くのパートナーで構成されたネットワークを介して、100種類以上の暗号資産(仮想通貨)を、簡単且つ安全に購入できるサービスです。",
+            "description": "様々なパートナーで構成されたネットワークを通して、100種類以上の暗号資産(仮想通貨)を簡単且つ安全に購入できるサービスです。",
             "iOS_description": "Apple Payを使って簡単に暗号資産を購入できるサービスです。",
             "link": "",
             "kind": [],
@@ -46,8 +46,8 @@
         },
         {
             "name": "qr_based_metamask",
-            "title": "MetaMaskと連携",
-            "description": "D'CENT ウォレット上のEVM系のアドレスとMetaMask間を連携して使用することができます。",
+            "title": "MetaMaskと連動",
+            "description": "D'CENT ウォレット上のEVM系のアドレスとMetaMask間を連動して使用することができます。",
             "link": "https://qrbase.dcentwallet.com",
             "kind": ["eth"],
             "network": [ 
@@ -136,7 +136,7 @@
         {
             "name": "swapscanner",
             "title": "Swapscanner",
-            "description": "Swapscannerは、KlaytnのNo.1のDEX系アグリゲーターサービスです。SwapscannerはKlaytnネットワーク内の全てのDEXと連携し、洗練された自社製エンジンである、「Navigator」を通じて最もお得な価格でのトークン購入を保証します。",
+            "description": "Swapscannerは、KlaytnのNo.1のDEX系アグリゲーターサービスです。SwapscannerはKlaytnネットワーク内の全てのDEXと連動し、洗練された自社製エンジンである、「Navigator」を通じて最もお得な価格でのトークン購入を保証します。",
             "link": "https://swapscanner.io/",
             "kind": ["klay"],
             "network": [ 
@@ -280,7 +280,7 @@
         {
             "name": "TokamakDAO",
             "title": "Tokamak DAO",
-            "description": "Tokamak DAOは、Tokamak Network(TOK)トークンの所持者が、Tokamak Netwokのエコシステムに関する重要な議題(Agenda)の意思決定に参加できるブロックチェーン上に構築されたスマートコントラクトシステムであり、自治機構を意味します。",
+            "description": "Tokamak DAOは、Tokamak Network(TOK)トークンの保有者が、Tokamak Networkのエコシステムに関する重要な議題(Agenda)の意思決定に参加できるブロックチェーン上に構築されたスマートコントラクトシステムであり、自治機構を意味します。",
             "link": "https://dao.tokamak.network/#/",
             "kind": ["eth"],
             "network": [
@@ -352,7 +352,7 @@
         {
             "name": "pooltogether",
             "title": "PoolTogether",
-            "description": "Pool Togetherは、貯蓄の楽しさを提供するEthereum向けのサービスです。暗号資産を預入し、貯蓄チケットを受け取ってプールに参加します。各貯蓄チケットには、抽選でプールで得た利息(全ユーザー分)を受け取れるチャンスが生まれます。尚、当選されなくても損失は発生しません。",
+            "description": "Pool Togetherは、貯金の楽しさが味わえるEthereum向けのサービスです。暗号資産を預入し、貯蓄チケットを受け取ってプールに参加します。各貯蓄チケットには、抽選でプールで得た利息(全ユーザー分)を受け取れるチャンスが生まれます。尚、当選されなくても損失は発生しません。",
             "link": "https://app.pooltogether.com/",
             "kind": ["eth"],
             "network": [

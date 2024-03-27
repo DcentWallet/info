@@ -3,57 +3,6 @@
     "img": {
       "en": {
         "desktop": {
-          "path": "../images/en/xrp-close-pc_1920x60_EN.png",
-          "height": "60px",
-          "background-color": "#262626"
-        },
-        "tablet": {
-          "path": "../images/en/xrp-close-mobile_768x120_EN.png",
-          "height": "65px",
-          "background-color": "#7583FA"
-        },
-        "mobile": {
-          "path": "../images/en/xrp-close-mobile_768x120_EN.png",
-          "height": "14.44vw",
-          "background-color": "#7583FA"
-        }
-      },
-      "ko": {
-        "desktop": {
-          "path": "../images/ko/xrp-close-pc_1920x60_KR.png",
-          "height": "60px",
-          "background-color": "#262626"
-        },
-        "tablet": {
-          "path": "../images/ko/xrp-close-mobile_768x120_KR.png",
-          "height": "65px",
-          "background-color": "#7583FA"
-        },
-        "mobile": {
-          "path": "../images/ko/xrp-close-mobile_768x120_KR.png",
-          "height": "14.44vw",
-          "background-color": "#7583FA"
-        }
-      }
-    },
-    "link": {
-      "en": {
-        "internal": false,
-        "external": "https://forms.gle/jbPxrjcdZ9LiX8w69"
-      },
-      "ko": {
-        "internal": false,
-        "external": "https://forms.gle/jFdT4xxpQny2F4Mf9"
-      }
-    },
-    "period": {
-      "end": "2024-03-07T00:00:00.000Z"
-    }
-  },
-  {
-    "img": {
-      "en": {
-        "desktop": {
           "path": "../images/en/Freeshipping_pc_1920x60_EN.png",
           "height": "60px",
           "background-color": "#262626"

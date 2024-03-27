@@ -1,32 +1,5 @@
 [
     {
-        "name": "XRP-Giveaway-Event-Close",
-        "title": "XRP Giveaway Event Closed",
-        "bgColor": "#7583FA",
-        "externalWindow": true,
-        "endTimestamp": 1709769600000,
-        "locale": {
-            "en": {
-                "description": "",
-                "link": "https://forms.gle/jbPxrjcdZ9LiX8w69",
-                "imagePath": "xrp-close-app_380x160_EN.png",
-                "imagePath_480": "xrp-close-app_480x160_EN.png"
-            },
-            "ko": {
-                "description": "",
-                "link": "https://forms.gle/jFdT4xxpQny2F4Mf9",
-                "imagePath": "xrp-close-app_380x160_KR.png",
-                "imagePath_480": "xrp-close-app_480x160_KR.png"
-            },
-            "ja": {
-                "description": "",
-                "link": "https://forms.gle/jbPxrjcdZ9LiX8w69",
-                "imagePath": "xrp-close-app_380x160_EN.png",
-                "imagePath_480": "xrp-close-app_480x160_EN.png"
-            }
-        }
-    },
-    {
         "name": "usa-free-shipping",
         "title": "USA Free Shipping",
         "bgColor": "#111111",
@@ -59,7 +32,7 @@
                 "button": "구매하기"
             },
             "ja": {
-                "description": "大切なあなたの暗号資産を安心できる最強なセキュリティで固められた</br><b>D'CENT 指紋認証型ウォレット</b>がお守りいたします！",
+                "description": "大切なあなたの暗号資産を<b>万全セキュリティソリューションでお守りする、</br><b>D'CENT 指紋認証型ウォレット</b>！",
                 "link": "https://store.dcentwallet.com?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=constant_purchase-hardware",
                 "imagePath": "discovery_banner-dcent_bg.png",
                 "button": "購入する"
@@ -86,7 +59,7 @@
                 "button": "팔로우"
             },
             "ja": {
-                "description": "D'CENTに関する新しい情報を逸早く確認できてしまう、<br/><b>最も楽な方法<b>",
+                "description": "D'CENTに関する新情報をいち早くチェックできる、<br/><b>最も簡単且つ楽な方法</b>",
                 "link": "https://medium.com/dcentwallet/tagged/japanese?utm_source=dcent_app_new&utm_medium=app&utm_campaign=app_banner_medium",
                 "imagePath": "discovery_banner-medium_bg.png",
                 "button": "フォロー"
@@ -113,7 +86,7 @@
                 "button": "구독"
             },
             "ja": {
-                "description": "初心者の方でもすぐに覚えられる、<br/><b>D'CENTの使い方</b>",
+                "description": "初心者でも大丈夫。すぐに覚えられる、<br/><b>D'CENTの使い方</b>",
                 "link": "https://www.youtube.com/c/DCENTWallet?utm_source=dcent_app&utm_medium=app&utm_campaign=app_banner_youtube",
                 "imagePath": "discovery_banner-youtube_bg.png",
                 "button": "購読する"
