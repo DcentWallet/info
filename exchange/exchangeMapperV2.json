@@ -419,7 +419,7 @@
     ],
     "iconUrl": "https://info-repo.dcentwallet.com/dapp/images/network_arbitrum.png",
     "legacyTicker": "etharb",
-    "changellyTicker": "arb"
+    "changellyTicker": "etharb"
   },
   {
     "network": "",
@@ -670,7 +670,7 @@
       "CHAN:10"
     ],
     "legacyTicker": "ethop",
-    "changellyTicker": "op",
+    "changellyTicker": "ethop",
     "iconUrl": "https://info-repo.dcentwallet.com/dapp/images/network_optimism.png"
   },
   {
