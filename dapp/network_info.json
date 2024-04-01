@@ -376,7 +376,7 @@
                 {
                     "networkId": "astar",
                     "name": "astar",
-                    "description": "Astar - EVM",
+                    "description": "Astar EVM",
                     "coinType": "CHAN:592",
                     "chainId": 592,
                     "iconPath": "network_astar.png",
@@ -384,6 +384,19 @@
                         "Android": "5.16.0",
                         "iOS": "5.16.1"
                     }
+                },
+                {
+                    "networkId": "astar-zkevm",
+                    "name": "astar_zkevm",
+                    "description": "Astar zkEVM",
+                    "coinType": "CHAN:3776",
+                    "chainId": 3776,
+                    "iconPath": "network_astar_zkEVM.png",
+                    "nativeVersion": {
+                        "Android": "5.16.0",
+                        "iOS": "5.16.1"
+                    },
+                    "preRelease": true
                 }
             ]
         },
