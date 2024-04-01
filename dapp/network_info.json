@@ -386,7 +386,7 @@
                     }
                 },
                 {
-                    "networkId": "astar-zkEVM",
+                    "networkId": "astar-zkevm",
                     "name": "astar_zkevm",
                     "description": "Astar zkEVM",
                     "coinType": "CHAN:3776",
