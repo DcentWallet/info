@@ -391,7 +391,7 @@
                     "description": "ASTAR zkEVM",
                     "coinType": "CHAN:3776",
                     "chainId": 3776,
-                    "iconPath": "network_astar.png",
+                    "iconPath": "network_astar_zkEVM.png",
                     "nativeVersion": {
                         "Android": "5.16.0",
                         "iOS": "5.16.1"
