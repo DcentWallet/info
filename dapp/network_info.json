@@ -376,7 +376,7 @@
                 {
                     "networkId": "astar",
                     "name": "astar",
-                    "description": "ASTAR EVM",
+                    "description": "Astar EVM",
                     "coinType": "CHAN:592",
                     "chainId": 592,
                     "iconPath": "network_astar.png",
@@ -388,7 +388,7 @@
                 {
                     "networkId": "astar-zkEVM",
                     "name": "astar_zkevm",
-                    "description": "ASTAR zkEVM",
+                    "description": "Astar zkEVM",
                     "coinType": "CHAN:3776",
                     "chainId": 3776,
                     "iconPath": "network_astar_zkEVM.png",
