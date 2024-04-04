@@ -518,29 +518,7 @@
                     "description": "Solana",
                     "coinType": "SOLANA",
                     "chainId": 1,
-                    "namespace": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
-                    "iconPath" : "network_solana.png",
-                    "selected" : true,
-                    "preRelease" : true
-                },
-                {
-                    "networkId": "solana-testnet",
-                    "name": "testnet",
-                    "description": "Solana-testnet",
-                    "coinType": "SOLANA-TESTNET",
-                    "chainId": 2,
-                    "namespace": "4uhcVJyU9pJkvQyS88uRDiswHXSCkY3z",
-                    "iconPath" : "network_solana.png",
-                    "selected" : true,
-                    "preRelease" : true
-                },
-                {
-                    "networkId": "solana-devnet",
-                    "name": "devnet",
-                    "description": "Solana-devnet",
-                    "coinType": "SOLANA-DEVNET",
-                    "chainId": 3,
-                    "namespace": "EtWTRABZaYq6iMfeYKouRu166VU2xqa1",
+                    "namespace": ["5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp","4sGjMW1sUnHzSxGspuhpqLDx6wiyjNtZ"],
                     "iconPath" : "network_solana.png",
                     "selected" : true,
                     "preRelease" : true
