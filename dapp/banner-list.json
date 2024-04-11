@@ -1,5 +1,19 @@
 [
     {
+        "name": "Halving",
+        "title": "Halving",
+        "bgColor": "#262626",
+        "externalWindow": true,
+        "locale": {
+            "en": {
+                "description": "",
+                "link": "https://store.dcentwallet.com/products/biometric-wallet?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202404_biometric_discount_v01",
+                "imagePath": "halving_app_380x160.png",
+                "imagePath_480": "halving_app_480x160.png"
+            }
+        }
+    },
+    {
         "name": "usa-free-shipping",
         "title": "USA Free Shipping",
         "bgColor": "#111111",
