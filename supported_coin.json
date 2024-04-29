@@ -28151,6 +28151,104 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/30466.png",
+    "symbol": "MEMAGX",
+    "name": "Meta Masters Guild Games",
+    "type": "ERC20",
+    "contract": "0x857de36f92330e1b9a21e8745c692f2ce13866cb",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/29646.png",
+    "symbol": "PALAI",
+    "name": "PaladinAI",
+    "type": "ERC20",
+    "contract": "0x3cb48aeb3d1abadc23d2d8a6894b3a68338381c2",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/12230.png",
+    "symbol": "RVST",
+    "name": "Revest",
+    "type": "ERC20",
+    "contract": "0x120a3879da835a5af037bb2d1456bebd6b54d4ba",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/29160.png",
+    "symbol": "HTX",
+    "name": "HTX",
+    "type": "ERC20",
+    "contract": "0x61ec85ab89377db65762e234c946b5c25a56e99e",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/27522.png",
+    "symbol": "PATEX",
+    "name": "Patex Token",
+    "type": "ERC20",
+    "contract": "0xfd4f2caf941b6d737382dce420b368de3fc7f2d4",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/29587.png",
+    "symbol": "W",
+    "name": "Wormhole Token",
+    "type": "ERC20",
+    "contract": "0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/27659.png",
+    "symbol": "Mog",
+    "name": "Mog Coin",
+    "type": "ERC20",
+    "contract": "0xaaee1a9723aadb7afa2810263653a34ba2c21c7a",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/logo_doc.svg",
     "symbol": "DOC",
     "name": "Dollar on Chain",
@@ -33168,6 +33266,20 @@
     "name": "ROCK DAO",
     "type": "TRC20",
     "contract": "TJyDayBzn6ZZJctvNYmyS15tB9FC4k92GR",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/29160.png",
+    "symbol": "HTX",
+    "name": "HTX",
+    "type": "TRC20",
+    "contract": "TUPM7K8REVzD2UdV4R5fe5M8XbnR2DdoJ6",
     "support": {
       "biometric": true,
       "card": false,
@@ -41336,20 +41448,6 @@
     }
   },
   {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/20188.png",
-    "symbol": "MBD",
-    "name": "MBD Financials",
-    "type": "BEP20",
-    "contract": "0xf899e83e6c6df1a0d4887cf0209193aa97236322",
-    "support": {
-      "biometric": true,
-      "card": true,
-      "ethCard": false,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/17464.png",
     "symbol": "STRM",
     "name": "StreamCoin",
@@ -44164,6 +44262,48 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/11419.png",
+    "symbol": "TONCOIN",
+    "name": "Toncoin",
+    "type": "BEP20",
+    "contract": "0x76a797a59ba2c17726896976b7b3747bfd1d220f",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/29160.png",
+    "symbol": "HTX",
+    "name": "HTX",
+    "type": "BEP20",
+    "contract": "0x61ec85ab89377db65762e234c946b5c25a56e99e",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/27522.png",
+    "symbol": "PATEX",
+    "name": "Patex Token",
+    "type": "BEP20",
+    "contract": "0xfd4f2caf941b6d737382dce420b368de3fc7f2d4",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8918.png",
     "symbol": "MAUSDC",
     "name": "Matic Aave Interest Bearing USDC",
@@ -46949,20 +47089,6 @@
     }
   },
   {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8977.png",
-    "symbol": "$CWIF",
-    "name": "catwifhat",
-    "type": "SPL-TOKEN",
-    "contract": "7atgF8KQo4wJrD5ATGX7t1V2zVvykPJbFfNeVf1icFv1",
-    "support": {
-      "biometric": true,
-      "card": false,
-      "ethCard": false,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/19131.png",
     "symbol": "ATR",
     "name": "Artrade",
@@ -47010,6 +47136,62 @@
     "name": "SLERF",
     "type": "SPL-TOKEN",
     "contract": "7BgBvyjrZX1YKz4oh9mjb8ZScatkkwb8DzFx7LoiVkM3",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/30449.png",
+    "symbol": "TNSR",
+    "name": "Tensor",
+    "type": "SPL-TOKEN",
+    "contract": "TNSRxcUxoT9xBG3de7PiJyTDYu7kskLqcpddxnEJAS6",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/29587.png",
+    "symbol": "W",
+    "name": "Wormhole Token",
+    "type": "SPL-TOKEN",
+    "contract": "85VBFQZC9TZkfaptBWjvUw7YbZjy52A6mjtPGjstQAmQ",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/29855.png",
+    "symbol": "PAJAMAS",
+    "name": "The First Youtube Cat",
+    "type": "SPL-TOKEN",
+    "contract": "FvER7SsvY5GqAMawf7Qfb5MnUUmDdbPNPg4nCa4zHoLw",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/30912.png",
+    "symbol": "MANEKI",
+    "name": "MANEKI",
+    "type": "SPL-TOKEN",
+    "contract": "25hAyBQfoDhfWx9ay6rarbgvWGwDdNqcHsXS3jQ3mTDJ",
     "support": {
       "biometric": true,
       "card": false,
@@ -47434,11 +47616,11 @@
     "type": "ALGO-APP",
     "contract": "350338509",
     "support": {
-      "biometric": true,
+      "biometric": false,
       "card": false,
       "ethCard": false,
       "klayCard": false,
-      "software": true
+      "software": false
     }
   },
   {
@@ -47447,11 +47629,11 @@
     "type": "ALGO-APP",
     "contract": "649588853",
     "support": {
-      "biometric": true,
+      "biometric": false,
       "card": false,
       "ethCard": false,
       "klayCard": false,
-      "software": true
+      "software": false
     }
   },
   {
@@ -48705,6 +48887,48 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/30873.png",
+    "name": "Bento",
+    "contract": "0x9de16c805a3227b9b92e39a446f9d56cf59fe640",
+    "symbol": "BENTO",
+    "type": "BASE-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/29587.png",
+    "name": "Wormhole Token",
+    "contract": "0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91",
+    "symbol": "W",
+    "type": "BASE-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/27659.png",
+    "name": "Mog Coin",
+    "contract": "0x2da56acb9ea78330f947bd57c54119debda7af71",
+    "symbol": "Mog",
+    "type": "BASE-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/825.png",
     "name": "Tether",
     "contract": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
@@ -49059,6 +49283,20 @@
     "name": "Bridge Oracle",
     "contract": "0xc9c4fd7579133701fa2769b6955e7e56bb386db1",
     "symbol": "BRG",
+    "type": "ARBITRUM-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/29587.png",
+    "name": "Wormhole Token",
+    "contract": "0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91",
+    "symbol": "W",
     "type": "ARBITRUM-ERC20",
     "support": {
       "biometric": true,
