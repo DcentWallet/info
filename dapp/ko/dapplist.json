@@ -492,6 +492,26 @@
             "type": "dapp",
             "device": "ble_dongle",
             "externalWindow": false
+        },
+        {
+            "name": "Astarportal",
+            "title": "아스타포탈",
+            "description": "아스타포탈은 Astar Network에서 제공하는 모든 것을 사용하기 위한 Astar Network의 공식 애플리케이션입니다.",
+            "link": "https://portal.astar.network/",
+            "kind": ["astar"],
+            "network": [ 
+                {
+                "id": "astar-mainnet",
+                "name": "아스타"
+                } 
+            ],
+            "category": [],
+            "iconPath": "network_astar.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false,
+            "preRelease:": true,
+            "notSupportCardWallet": true
         }
     ]
 }

@@ -474,6 +474,26 @@
             "type": "dapp",
             "device": "ble_dongle",
             "externalWindow": false
+        },
+        {
+            "name": "Astarportal",
+            "title": "Astar Portal",
+            "description": "Astar Portal is the official Astar Network application for using everything that Astar Network offers.",
+            "link": "https://portal.astar.network/",
+            "kind": ["astar"],
+            "network": [ 
+                {
+                "id": "astar-mainnet",
+                "name": "Astar"
+                } 
+            ],
+            "category": [],
+            "iconPath": "network_astar.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false,
+            "preRelease:": true,
+            "notSupportCardWallet": true
         }
     ]
 }
