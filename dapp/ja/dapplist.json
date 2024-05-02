@@ -478,7 +478,7 @@
         {
             "name": "Astarportal",
             "title": "Astar Portal",
-            "description": "Astar Portal is the official Astar Network application for using everything that Astar Network offers.",
+            "description": "Astar Portal は、Astar Network が提供するすべてを使用するための公式 Astar Network アプリケーションです。",
             "link": "https://portal.astar.network/",
             "kind": ["astar"],
             "network": [ 
