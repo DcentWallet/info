@@ -492,7 +492,7 @@
             "type": "dapp",
             "device": "ble_dongle",
             "externalWindow": false,
-            "preRelease:": true,
+            "preRelease": true,
             "notSupportCardWallet": true
         }
     ]
