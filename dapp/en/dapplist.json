@@ -80,6 +80,26 @@
             "platform": "iOS"
         },
         {
+            "name": "Astarportal",
+            "title": "Astar Portal",
+            "description": "Astar Portal is the official Astar Network application for using everything that Astar Network offers.",
+            "link": "https://portal.astar.network/",
+            "kind": ["astar"],
+            "network": [ 
+                {
+                "id": "astar-mainnet",
+                "name": "Astar"
+                } 
+            ],
+            "category": [],
+            "iconPath": "network_astar.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false,
+            "preRelease": true,
+            "notSupportCardWallet": true
+        },
+        {
             "name": "ftso",
             "title": "FTSO Portal",
             "description": "FTSO Portal is a service by D’CENT to provide fast and easy way to delegate Vote Power to the user’s favorite FTSO provider. By delegating Vote Power, users can earn passive income as reward.",
@@ -474,26 +494,6 @@
             "type": "dapp",
             "device": "ble_dongle",
             "externalWindow": false
-        },
-        {
-            "name": "Astarportal",
-            "title": "Astar Portal",
-            "description": "Astar Portal is the official Astar Network application for using everything that Astar Network offers.",
-            "link": "https://portal.astar.network/",
-            "kind": ["astar"],
-            "network": [ 
-                {
-                "id": "astar-mainnet",
-                "name": "Astar"
-                } 
-            ],
-            "category": [],
-            "iconPath": "network_astar.png",
-            "type": "dapp",
-            "device": "ble_dongle",
-            "externalWindow": false,
-            "preRelease": true,
-            "notSupportCardWallet": true
         }
     ]
 }
