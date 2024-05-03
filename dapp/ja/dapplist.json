@@ -82,7 +82,7 @@
         {
             "name": "Astarportal",
             "title": "Astar Portal",
-            "description": "Astar Portal は、Astar Network が提供するすべてを使用するための公式 Astar Network アプリケーションです。",
+            "description": "ASTAR ポータルは、ASTAR ネットワークから提供される「TOTAL ACTIVITY」を快適にご利用いただくため公式アプリケーションです。",
             "link": "https://portal.astar.network/",
             "kind": ["astar"],
             "network": [ 
