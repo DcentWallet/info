@@ -80,6 +80,26 @@
             "platform": "iOS"
         },
         {
+            "name": "Astarportal",
+            "title": "아스타포탈",
+            "description": "아스타포탈은 Astar Network에서 제공하는 모든 것을 사용하기 위한 Astar Network의 공식 애플리케이션입니다.",
+            "link": "https://portal.astar.network/",
+            "kind": ["astar"],
+            "network": [ 
+                {
+                "id": "astar-mainnet",
+                "name": "아스타"
+                } 
+            ],
+            "category": [],
+            "iconPath": "network_astar.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false,
+            "preRelease": true,
+            "notSupportCardWallet": true
+        },
+        {
             "name": "ftso",
             "title": "FTSO Portal",
             "description": "FTSO Portal은 사용자가 원하는 FTSO provider에 Vote Power 쉽고 빠르게 위임할 수 있는 기능을 제공하는 디센트의 서비스입니다. 사용자는 Vote Power 위임을 통해 패시브인컴(passive income)을 보상으로 받을 수 있습니다 .",
@@ -492,26 +512,6 @@
             "type": "dapp",
             "device": "ble_dongle",
             "externalWindow": false
-        },
-        {
-            "name": "Astarportal",
-            "title": "아스타포탈",
-            "description": "아스타포탈은 Astar Network에서 제공하는 모든 것을 사용하기 위한 Astar Network의 공식 애플리케이션입니다.",
-            "link": "https://portal.astar.network/",
-            "kind": ["astar"],
-            "network": [ 
-                {
-                "id": "astar-mainnet",
-                "name": "아스타"
-                } 
-            ],
-            "category": [],
-            "iconPath": "network_astar.png",
-            "type": "dapp",
-            "device": "ble_dongle",
-            "externalWindow": false,
-            "preRelease": true,
-            "notSupportCardWallet": true
         }
     ]
 }

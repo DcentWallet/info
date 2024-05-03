@@ -80,6 +80,26 @@
             "platform": "iOS"
         },
         {
+            "name": "Astarportal",
+            "title": "Astar Portal",
+            "description": "Astar Portal は、Astar Network が提供するすべてを使用するための公式 Astar Network アプリケーションです。",
+            "link": "https://portal.astar.network/",
+            "kind": ["astar"],
+            "network": [ 
+                {
+                "id": "astar-mainnet",
+                "name": "Astar"
+                } 
+            ],
+            "category": [],
+            "iconPath": "network_astar.png",
+            "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false,
+            "preRelease": true,
+            "notSupportCardWallet": true
+        },
+        {
             "name": "ftso",
             "title": "FTSO Portal",
             "description": "FTSO Portalは、ユーザーが選んだ任意のFTSOプロバイダに、手っ取り早く且つ簡単にVote Power(投票権)を委譲できる、D'CENTのオリジナルサービスです。ユーザーはVote Power(投票権)の委譲を行うことで、Passive Income(受動的所得)を報酬として受け取ることができます。",
@@ -474,26 +494,6 @@
             "type": "dapp",
             "device": "ble_dongle",
             "externalWindow": false
-        },
-        {
-            "name": "Astarportal",
-            "title": "Astar Portal",
-            "description": "Astar Portal は、Astar Network が提供するすべてを使用するための公式 Astar Network アプリケーションです。",
-            "link": "https://portal.astar.network/",
-            "kind": ["astar"],
-            "network": [ 
-                {
-                "id": "astar-mainnet",
-                "name": "Astar"
-                } 
-            ],
-            "category": [],
-            "iconPath": "network_astar.png",
-            "type": "dapp",
-            "device": "ble_dongle",
-            "externalWindow": false,
-            "preRelease": true,
-            "notSupportCardWallet": true
         }
     ]
 }
