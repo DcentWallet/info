@@ -116,7 +116,10 @@
             "type": "dapp",
             "device": "ble_dongle",
             "externalWindow": false,
-            "preRelease": true,
+            "appVersion": {
+                "android": "6.0.4",
+                "ios": "6.0.6"
+            },
             "notSupportCardWallet": true
         },
         {
