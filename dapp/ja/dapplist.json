@@ -68,6 +68,26 @@
             "notSupportCardWallet": true
         },
         {
+            "name": "qr_signer_polkadot_js",
+            "title": "Polkadot-JS Integration",
+            "description": "Polkadot ecosystem addresses in the D'CENT Wallet can be connected with the Polkadot Extension.",
+            "link": "https://qrsigner.dcentwallet.com",
+            "kind": ["parachain"],
+            "network": [ 
+                {
+                "id": "astar-mainnet",
+                "name": "Astar"
+                } 
+            ],
+            "category": [],
+            "iconPath": "icon_qr_signer_polkadot.png",
+            "type": "dapp_dcent",
+            "device": "ble_dongle",
+            "externalWindow": false,
+            "preRelease": true,
+            "notSupportCardWallet": true
+        },
+        {
             "name": "moonpay",
             "title": "MoonPay",
             "description": "MoonPayは、VISAやMastercardで暗号資産を簡単、且つ安全に購入できるサービスです。",

@@ -68,6 +68,26 @@
             "notSupportCardWallet": true
         },
         {
+            "name": "qr_signer_polkadot_js",
+            "title": "Polkadot-JS 연동",
+            "description": "디센트 지갑에 있는 Poladot 계열의 주소를 폴카닷 지갑과 연결하여 사용할 수 있습니다.",
+            "link": "https://qrsigner.dcentwallet.com",
+            "kind": ["parachain"],
+            "network": [ 
+                {
+                "id": "astar-mainnet",
+                "name": "Astar"
+                } 
+            ],
+            "category": [],
+            "iconPath": "icon_qr_signer_polkadot.png",
+            "type": "dapp_dcent",
+            "device": "ble_dongle",
+            "externalWindow": false,
+            "preRelease": true,
+            "notSupportCardWallet": true
+        },
+        {
             "name": "moonpay",
             "title": "MoonPay",
             "description": "MoonPay는 비자나 마스터카드로 암호화폐를 간단하고 안전하게 구매할 수 있는 서비스입니다",
