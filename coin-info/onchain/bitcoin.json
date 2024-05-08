@@ -1,0 +1,925 @@
+{
+  "bitcoin": {
+    "default": [
+      {
+        "url": "/blockchair/bitcoin",
+        "impl": "BlockChairAPI",
+        "info": {
+          "removePrefix": false,
+          "addPrefix": false
+        }
+      },
+      {
+        "url": "/bitcoin/mainnet",
+        "impl": "BlockchainInfoAPI"
+      }
+    ],
+    "broadcastTx": [
+      {
+        "url": "/blockcypher/post/btc/main",
+        "impl": "BlockCypherApi"
+      },
+      {
+        "url": "/blockchairp/bitcoin",
+        "impl": "BlockChairAPI",
+        "info": {
+          "coinGroup": "BITCOIN"
+        }
+      }
+    ],
+    "getUtxoList": [
+      {
+        "url": "/blockcypher/get/btc/main",
+        "impl": "BlockCypherApi"
+      },
+      {
+        "url": "/blockchair/bitcoin",
+        "impl": "BlockChairAPI"
+      },
+      {
+        "url": "/bitcoin/mainnet",
+        "impl": "BlockchainInfoAPI"
+      }
+    ],
+    "getTxRaw": [
+      {
+        "url": "/blockchair/bitcoin",
+        "impl": "BlockChairAPI"
+      },
+      {
+        "url": "/blockcypher/get/btc/main",
+        "impl": "BlockCypherApi"
+      },
+      {
+        "url": "/bitcoin/mainnet",
+        "impl": "BlockchainInfoAPI"
+      }
+    ],
+    "getFeeRate": [
+      {
+        "url": "/blockchair/bitcoin",
+        "impl": "BlockChairAPI",
+        "info": {
+          "feeDefault": {
+            "low": 10,
+            "medium": 10,
+            "high": 10
+          },
+          "feeMultiplier": {
+            "low": 1,
+            "medium": 2,
+            "high": 2
+          }
+        }
+      },
+      {
+        "url": "/bitcoin/fee",
+        "impl": "BlockchainInfoAPI",
+        "info": {
+          "feeDefault": {
+            "low": 1,
+            "medium": 10,
+            "high": 20
+          },
+          "feeMultiplier": {
+            "low": 0.1,
+            "medium": 0.1,
+            "high": 0.1
+          }
+        }
+      },
+      {
+        "url": "/blockcypher/get/btc/main",
+        "impl": "BlockCypherApi",
+        "info": {
+          "feeDefault": {
+            "low": 1,
+            "medium": 10,
+            "high": 20
+          },
+          "feeMultiplier": {
+            "low": 1,
+            "medium": 1,
+            "high": 1
+          }
+        }
+      }
+    ]
+  },
+  "btc-segwit": {
+    "default": [
+      {
+        "url": "/blockchair/bitcoin",
+        "impl": "BlockChairAPI",
+        "info": {
+          "removePrefix": false,
+          "addPrefix": false
+        }
+      },
+      {
+        "url": "/bitcoin/mainnet",
+        "impl": "BlockchainInfoAPI"
+      }
+    ],
+    "broadcastTx": [
+      {
+        "url": "/blockcypher/post/btc/main",
+        "impl": "BlockCypherApi"
+      },
+      {
+        "url": "/blockchairp/bitcoin",
+        "impl": "BlockChairAPI",
+        "info": {
+          "coinGroup": "BITCOIN"
+        }
+      }
+    ],
+    "getUtxoList": [
+      {
+        "url": "/blockcypher/get/btc/main",
+        "impl": "BlockCypherApi"
+      },
+      {
+        "url": "/blockchair/bitcoin",
+        "impl": "BlockChairAPI"
+      },
+      {
+        "url": "/bitcoin/mainnet",
+        "impl": "BlockchainInfoAPI"
+      }
+    ],
+    "getTxRaw": [
+      {
+        "url": "/blockchair/bitcoin",
+        "impl": "BlockChairAPI"
+      },
+      {
+        "url": "/blockcypher/get/btc/main",
+        "impl": "BlockCypherApi"
+      },
+      {
+        "url": "/bitcoin/mainnet",
+        "impl": "BlockchainInfoAPI"
+      }
+    ],
+    "getFeeRate": [
+      {
+        "url": "/blockchair/bitcoin",
+        "impl": "BlockChairAPI",
+        "info": {
+          "feeDefault": {
+            "low": 10,
+            "medium": 10,
+            "high": 10
+          },
+          "feeMultiplier": {
+            "low": 1,
+            "medium": 2,
+            "high": 2
+          }
+        }
+      },
+      {
+        "url": "/bitcoin/fee",
+        "impl": "BlockchainInfoAPI",
+        "info": {
+          "feeDefault": {
+            "low": 1,
+            "medium": 10,
+            "high": 20
+          },
+          "feeMultiplier": {
+            "low": 0.1,
+            "medium": 0.1,
+            "high": 0.1
+          }
+        }
+      },
+      {
+        "url": "/blockcypher/get/btc/main",
+        "impl": "BlockCypherApi",
+        "info": {
+          "feeDefault": {
+            "low": 1,
+            "medium": 10,
+            "high": 20
+          },
+          "feeMultiplier": {
+            "low": 1,
+            "medium": 1,
+            "high": 1
+          }
+        }
+      }
+    ]
+  },
+  "btc-testnet": {
+    "default": [
+      {
+        "url": "/blockchair/bitcoin/testnet",
+        "impl": "BlockChairAPI",
+        "info": {
+          "removePrefix": false,
+          "addPrefix": false
+        }
+      },
+      {
+        "url": "/bitcoin/testnet",
+        "impl": "BlockchainInfoAPI"
+      }
+    ],
+    "broadcastTx": [
+      {
+        "url": "/blockchairp/bitcoin/testnet",
+        "impl": "BlockChairAPI",
+        "info": {
+          "coinGroup": "BITCOIN"
+        }
+      },
+      {
+        "url": "/blockcypher/post/btc/test3",
+        "impl": "BlockCypherApi"
+      }
+    ],
+    "getTxRaw": [
+      {
+        "url": "/blockchair/bitcoin/testnet",
+        "impl": "BlockChairAPI"
+      },
+      {
+        "url": "/blockcypher/get/btc/test3",
+        "impl": "BlockCypherApi"
+      },
+      {
+        "url": "/bitcoin/testnet",
+        "impl": "BlockchainInfoAPI"
+      }
+    ],
+    "getFeeRate": [
+      {
+        "url": "/blockchair/bitcoin/testnet",
+        "impl": "BlockChairAPI",
+        "info": {
+          "feeDefault": {
+            "low": 10,
+            "medium": 10,
+            "high": 10
+          },
+          "feeMultiplier": {
+            "low": 1,
+            "medium": 2,
+            "high": 2
+          }
+        }
+      },
+      {
+        "url": "/bitcoin/fee",
+        "impl": "BlockchainInfoAPI",
+        "info": {
+          "feeDefault": {
+            "low": 1,
+            "medium": 10,
+            "high": 20
+          }
+        }
+      },
+      {
+        "url": "/blockcypher/get/btc/test3",
+        "impl": "BlockCypherApi",
+        "info": {
+          "feeDefault": {
+            "low": 1,
+            "medium": 10,
+            "high": 20
+          },
+          "feeMultiplier": {
+            "low": 1,
+            "medium": 1,
+            "high": 1
+          }
+        }
+      }
+    ]
+  },
+  "btc-segwit-testnet": {
+    "default": [
+      {
+        "url": "/blockchair/bitcoin/testnet",
+        "impl": "BlockChairAPI",
+        "info": {
+          "removePrefix": false,
+          "addPrefix": false
+        }
+      },
+      {
+        "url": "/bitcoin/testnet",
+        "impl": "BlockchainInfoAPI"
+      }
+    ],
+    "broadcastTx": [
+      {
+        "url": "/blockchairp/bitcoin/testnet",
+        "impl": "BlockChairAPI",
+        "info": {
+          "coinGroup": "BITCOIN"
+        }
+      },
+      {
+        "url": "/blockcypher/post/btc/test3",
+        "impl": "BlockCypherApi"
+      }
+    ],
+    "getTxRaw": [
+      {
+        "url": "/blockchair/bitcoin/testnet",
+        "impl": "BlockChairAPI"
+      },
+      {
+        "url": "/blockcypher/get/btc/test3",
+        "impl": "BlockCypherApi"
+      },
+      {
+        "url": "/bitcoin/testnet",
+        "impl": "BlockchainInfoAPI"
+      }
+    ],
+    "getFeeRate": [
+      {
+        "url": "/blockchair/bitcoin/testnet",
+        "impl": "BlockChairAPI",
+        "info": {
+          "feeDefault": {
+            "low": 10,
+            "medium": 10,
+            "high": 10
+          },
+          "feeMultiplier": {
+            "low": 1,
+            "medium": 2,
+            "high": 2
+          }
+        }
+      },
+      {
+        "url": "/bitcoin/fee",
+        "impl": "BlockchainInfoAPI",
+        "info": {
+          "feeDefault": {
+            "low": 1,
+            "medium": 10,
+            "high": 20
+          }
+        }
+      },
+      {
+        "url": "/blockcypher/get/btc/test3",
+        "impl": "BlockCypherApi",
+        "info": {
+          "feeDefault": {
+            "low": 1,
+            "medium": 10,
+            "high": 20
+          },
+          "feeMultiplier": {
+            "low": 1,
+            "medium": 1,
+            "high": 1
+          }
+        }
+      }
+    ]
+  },
+  "bitcoincash": {
+    "default": [
+      {
+        "url": "/blockchair/bitcoin-cash",
+        "impl": "BlockChairAPI",
+        "info": {
+          "removePrefix": true,
+          "addPrefix": false,
+          "feeDefault": {
+            "low": 0,
+            "medium": 2,
+            "high": 4
+          },
+          "feeMultiplier": {
+            "low": 1,
+            "medium": 2,
+            "high": 2
+          }
+        }
+      }
+    ],
+    "broadcastTx": [
+      {
+        "url": "/blockchairp/bitcoin-cash",
+        "impl": "BlockChairAPI",
+        "info": {
+          "coinGroup": "BITCOINCASH"
+        }
+      }
+    ]
+  },
+  "bch-abc": {
+    "default": [
+      {
+        "url": "/blockchair/ecash",
+        "impl": "BlockChairAPI",
+        "info": {
+          "removePrefix": true,
+          "addPrefix": true,
+          "feeDefault": {
+            "low": 0,
+            "medium": 2,
+            "high": 4
+          },
+          "feeMultiplier": {
+            "low": 1,
+            "medium": 2,
+            "high": 2
+          }
+        }
+      }
+    ],
+    "broadcastTx": [
+      {
+        "url": "/blockchairp/ecash",
+        "impl": "BlockChairAPI",
+        "info": {
+          "coinGroup": "BCH-ABC"
+        }
+      }
+    ]
+  },
+  "ecash": {
+    "default": [
+      {
+        "url": "/blockchair/ecash",
+        "impl": "BlockChairAPI",
+        "info": {
+          "removePrefix": false,
+          "addPrefix": false,
+          "feeDefault": {
+            "low": 0,
+            "medium": 2,
+            "high": 4
+          },
+          "feeMultiplier": {
+            "low": 1,
+            "medium": 2,
+            "high": 2
+          }
+        }
+      }
+    ],
+    "broadcastTx": [
+      {
+        "url": "/blockchairp/ecash",
+        "impl": "BlockChairAPI",
+        "info": {
+          "coinGroup": "ECASH"
+        }
+      }
+    ]
+  },
+  "zcash": {
+    "default": [
+      {
+        "url": "/blockchair/zcash",
+        "impl": "BlockChairAPI",
+        "info": {
+          "removePrefix": false,
+          "addPrefix": false,
+          "feeDefault": {
+            "low": 18,
+            "medium": 36,
+            "high": 45
+          },
+          "feeMultiplier": {
+            "low": 1,
+            "medium": 2,
+            "high": 2
+          }
+        }
+      }
+    ],
+    "broadcastTx": [
+      {
+        "url": "/blockchairp/zcash",
+        "impl": "BlockChairAPI",
+        "info": {
+          "coinGroup": "ZCASH"
+        }
+      }
+    ]
+  },
+  "litecoin": {
+    "default": [
+      {
+        "url": "/blockchair/litecoin",
+        "impl": "BlockChairAPI",
+        "info": {
+          "removePrefix": false,
+          "addPrefix": false,
+          "feeDefault": {
+            "low": 0,
+            "medium": 15,
+            "high": 30
+          },
+          "feeMultiplier": {
+            "low": 1,
+            "medium": 2,
+            "high": 4
+          }
+        }
+      }
+    ],
+    "broadcastTx": [
+      {
+        "url": "/blockchairp/litecoin",
+        "impl": "BlockChairAPI",
+        "info": {
+          "coinGroup": "LITECOIN"
+        }
+      }
+    ]
+  },
+  "ltc-segwit": {
+    "default": [
+      {
+        "url": "/blockchair/litecoin",
+        "impl": "BlockChairAPI",
+        "info": {
+          "removePrefix": false,
+          "addPrefix": false,
+          "feeDefault": {
+            "low": 0,
+            "medium": 15,
+            "high": 30
+          },
+          "feeMultiplier": {
+            "low": 1,
+            "medium": 2,
+            "high": 4
+          }
+        }
+      }
+    ],
+    "broadcastTx": [
+      {
+        "url": "/blockchairp/litecoin",
+        "impl": "BlockChairAPI",
+        "info": {
+          "coinGroup": "LITECOIN"
+        }
+      }
+    ]
+  },
+  "bitcoin-sv": {
+    "default": [
+      {
+        "url": "https://api.whatsonchain.com/v1/bsv/main",
+        "impl": "WhatsOnChain",
+        "info": {
+          "feeDefault": {
+            "low": 1,
+            "medium": 5,
+            "high": 20
+          },
+          "feeMultiplier": {
+            "low": 1,
+            "medium": 2,
+            "high": 2
+          }
+        }
+      }
+    ]
+  },
+  "dogecoin": {
+    "default": [
+      {
+        "url": "/blockchair/dogecoin",
+        "impl": "BlockChairAPI",
+        "info": {
+          "removePrefix": false,
+          "addPrefix": false,
+          "feeDefault": {
+            "low": 500000,
+            "medium": 530000,
+            "high": 1000000
+          },
+          "feeMultiplier": {
+            "low": 1,
+            "medium": 2,
+            "high": 3
+          }
+        }
+      }
+    ],
+    "broadcastTx": [
+      {
+        "url": "/blockchairp/dogecoin",
+        "impl": "BlockChairAPI",
+        "info": {
+          "coinGroup": "DOGECOIN"
+        }
+      }
+    ]
+  },
+  "dash": {
+    "default": [
+      {
+        "url": "/blockchair/dash",
+        "impl": "BlockChairAPI",
+        "info": {
+          "removePrefix": false,
+          "addPrefix": false
+        }
+      },
+      {
+        "url": "/dash/mainnet",
+        "impl": "InsightBitpay"
+      }
+    ],
+    "broadcastTx": [
+      {
+        "url": "/blockchairp/dash",
+        "impl": "BlockChairAPI",
+        "info": {
+          "coinGroup": "DASH"
+        }
+      },
+      {
+        "url": "/dash/mainnet",
+        "impl": "InsightBitpay"
+      }
+    ],
+    "getBlockHeight": [
+      {
+        "url": "/blockchairp/dash",
+        "impl": "BlockChairAPI"
+      },
+      {
+        "url": "/blockcypher/get/dash/main",
+        "impl": "BlockCypherApi"
+      }
+    ],
+    "getFeeRate": [
+      {
+        "url": "/blockchair/dash",
+        "impl": "BlockChairAPI",
+        "info": {
+          "removePrefix": false,
+          "addPrefix": false,
+          "feeDefault": {
+            "low": 0,
+            "medium": 15,
+            "high": 30
+          },
+          "feeMultiplier": {
+            "low": 1,
+            "medium": 2,
+            "high": 4
+          }
+        }
+      },
+      {
+        "url": "/blockcypher/get/dash/main",
+        "impl": "BlockCypherApi",
+        "info": {
+          "feeDefault": {
+            "low": 12,
+            "medium": 12,
+            "high": 12
+          },
+          "feeMultiplier": {
+            "low": 1,
+            "medium": 1,
+            "high": 1
+          }
+        }
+      }
+    ]
+  },
+  "dash-testnet": {
+    "default": [
+      {
+        "url": "/dash/testnet",
+        "impl": "InsightBitpay",
+        "info": {
+          "feeDefault": {
+            "low": 2,
+            "medium": 4,
+            "high": 8
+          },
+          "feeMultiplier": {
+            "low": 1,
+            "medium": 2,
+            "high": 2
+          }
+        }
+      }
+    ]
+  },
+  "monacoin": {
+    "default": [
+      {
+        "url": "/mona/mainnet",
+        "impl": "InsightBitpay",
+        "info": {
+          "feeDefault": {
+            "low": 10,
+            "medium": 20,
+            "high": 30
+          },
+          "feeMultiplier": {
+            "low": 2,
+            "medium": 2,
+            "high": 5
+          }
+        }
+      }
+    ]
+  },
+  "bitcoin-gold": {
+    "default": [
+      {
+        "url": "/btg/mainnet",
+        "impl": "InsightBitpay",
+        "info": {
+          "feeDefault": {
+            "low": 1,
+            "medium": 15,
+            "high": 30
+          },
+          "feeMultiplier": {
+            "low": 1,
+            "medium": 2,
+            "high": 4
+          }
+        }
+      }
+    ]
+  },
+  "btg-testnet": {
+    "default": [
+      {
+        "url": "/btg/testnet",
+        "impl": "InsightBitpay",
+        "info": {
+          "feeDefault": {
+            "low": 1,
+            "medium": 15,
+            "high": 30
+          },
+          "feeMultiplier": {
+            "low": 1,
+            "medium": 2,
+            "high": 4
+          }
+        }
+      }
+    ]
+  },
+  "ravencoin": {
+    "default": [
+      {
+        "url": "/ravencoin/mainnet",
+        "impl": "InsightBitpay",
+        "info": {
+          "feeDefault": {
+            "low": 1,
+            "medium": 10,
+            "high": 20
+          },
+          "feeMultiplier": {
+            "low": 2,
+            "medium": 2,
+            "high": 5
+          }
+        }
+      }
+    ]
+  },
+  "rvn-testnet": {
+    "default": [
+      {
+        "url": "/ravencoin/testnet",
+        "impl": "InsightBitpay",
+        "info": {
+          "feeDefault": {
+            "low": 1,
+            "medium": 10,
+            "high": 20
+          },
+          "feeMultiplier": {
+            "low": 2,
+            "medium": 2,
+            "high": 5
+          }
+        }
+      }
+    ]
+  },
+  "horizen": {
+    "default": [
+      {
+        "url": "https://explorer.horizen.io/api",
+        "impl": "InsightBitpay",
+        "info": {
+          "queryTimeStamp": false,
+          "feeDefault": {
+            "low": 2,
+            "medium": 4,
+            "high": 8
+          },
+          "feeMultiplier": {
+            "low": 2,
+            "medium": 2,
+            "high": 2
+          }
+        }
+      }
+    ]
+  },
+  "digibyte": {
+    "default": [
+      {
+        "url": "/digibyte/mainnet",
+        "impl": "DigiByteAPI",
+        "info": {
+          "feeDefault": {
+            "low": 2,
+            "medium": 6,
+            "high": 20
+          },
+          "feeMultiplier": {
+            "low": 1,
+            "medium": 2,
+            "high": 2
+          }
+        }
+      }
+    ]
+  },
+  "dgb-segwit": {
+    "default": [
+      {
+        "url": "/digibyte/mainnet",
+        "impl": "DigiByteAPI",
+        "info": {
+          "feeDefault": {
+            "low": 2,
+            "medium": 6,
+            "high": 20
+          },
+          "feeMultiplier": {
+            "low": 1,
+            "medium": 2,
+            "high": 2
+          }
+        }
+      }
+    ]
+  },
+  "digibyte-testnet": {
+    "default": [
+      {
+        "url": "/digibyte/testnet",
+        "impl": "DigiByteAPI",
+        "info": {
+          "feeDefault": {
+            "low": 2,
+            "medium": 6,
+            "high": 20
+          },
+          "feeMultiplier": {
+            "low": 1,
+            "medium": 2,
+            "high": 2
+          }
+        }
+      }
+    ]
+  },
+  "dgb-segwit-testnet": {
+    "default": [
+      {
+        "url": "/digibyte/testnet",
+        "impl": "DigiByteAPI",
+        "info": {
+          "feeDefault": {
+            "low": 2,
+            "medium": 6,
+            "high": 20
+          },
+          "feeMultiplier": {
+            "low": 1,
+            "medium": 2,
+            "high": 2
+          }
+        }
+      }
+    ]
+  }
+}
