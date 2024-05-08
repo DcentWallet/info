@@ -1,0 +1,10 @@
+{
+  "heavy_network_list": [
+    {
+      "name": "SOLANA"
+    },
+    {
+      "name": "SPL_TOKEN"
+    }
+  ]
+}
