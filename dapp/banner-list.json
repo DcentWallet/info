@@ -72,6 +72,26 @@
         }
     },
     {
+        "name": "dcent blog",
+        "title": "D'CENT Blog",
+        "bgColor": "#151718",
+        "externalWindow": true,
+        "locale": {
+            "en": {
+                "description": "Visit the new <b>D’CENT Blog</b><br />to explore the latest updates first!",
+                "link": "https://store.dcentwallet.com/blogs/post?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=constant_blog",
+                "imagePath": "discovery_banner-blog_bg.png",
+                "button": "Explore"
+            },
+            "ko": {
+                "description": "새로운 <b>디센트 블로그</b>를 방문하여<br />최신 업데이트를 먼저 확인해보세요!",
+                "link": "https://store-kr.dcentwallet.com/blogs/post?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=constant_blog",
+                "imagePath": "discovery_banner-blog_bg.png",
+                "button": "확인하기"
+            }
+        }
+    },
+    {
         "name": "dcent",
         "title": "D'CENT",
         "bgColor": "#27C4B8",
