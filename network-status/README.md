@@ -23,6 +23,6 @@
 
 ## 가이드라인
 
-1. 네트워크 이름은 `dcent-hybrid-common`의 `coin-group.js`을 참고하세요.
+1. 네트워크 이름은 코인의 `groupName`을 사용합니다.
 2. 상태값으로는 'light', 'moderate', 'heavy'만 사용하세요.
 3. 구문 오류를 방지하려면 JSON 형식의 유효성을 검사하세요.
