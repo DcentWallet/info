@@ -756,6 +756,18 @@
     }
   },
   {
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/networks/networks_very.png",
+    "name": "VERY Mainnet",
+    "symbol": "VERY",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://github.com/DcentWallet/info/raw/master/images/coins/original/asset-bptc.png",
     "symbol": "BPTC",
     "name": "Business Platform Tomato Coin",
@@ -929,6 +941,20 @@
     "name": "JEFFWorld Token",
     "type": "ERC20",
     "contract": "0x1a8B8e526D093476ac5C488a3eA057f8DE9C0dEe",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-petboom.png",
+    "symbol": "PETBOOM",
+    "name": "PETBOOM",
+    "type": "ERC20",
+    "contract": "0xf9073b50a09d86465403868939c52fdc1c884b94",
     "support": {
       "biometric": true,
       "card": true,
@@ -25141,20 +25167,6 @@
     }
   },
   {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/10102.png",
-    "symbol": "BSL",
-    "name": "BankSocial",
-    "type": "ERC20",
-    "contract": "0x0af55d5ff28a3269d69b98680fd034f115dd53ac",
-    "support": {
-      "biometric": true,
-      "card": true,
-      "ethCard": true,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/13967.png",
     "symbol": "GFI",
     "name": "Goldfinch",
@@ -28240,6 +28252,90 @@
     "name": "Mog Coin",
     "type": "ERC20",
     "contract": "0xaaee1a9723aadb7afa2810263653a34ba2c21c7a",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/10368.png",
+    "symbol": "CTX",
+    "name": "Cryptex Finance",
+    "type": "ERC20",
+    "contract": "0x321c2fe4446c7c963dc41dd58879af648838f98d",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/26081.png",
+    "symbol": "FDUSD",
+    "name": "First Digital USD",
+    "type": "ERC20",
+    "contract": "0xc5f0f7b66764f6ec8c8dff7ba683102295e16409",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/20009.png",
+    "symbol": "DCK",
+    "name": "DexCheck",
+    "type": "ERC20",
+    "contract": "0x672f4fa517894496b8a958b4b3fca068ce513a39",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/30171.png",
+    "symbol": "ENA",
+    "name": "Ethena",
+    "type": "ERC20",
+    "contract": "0x57e114b691db790c35207b2e685d4a43181e6061",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/10102.png",
+    "symbol": "BSL",
+    "name": "BankSocial",
+    "type": "ERC20",
+    "contract": "0x0af55d5ff28a3269d69b98680fd034f115dd53ac",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/30432.png",
+    "symbol": "GEMAI",
+    "name": "The Next Gem",
+    "type": "ERC20",
+    "contract": "0xfbe44cae91d7df8382208fcdc1fe80e40fbc7e9a",
     "support": {
       "biometric": true,
       "card": true,
@@ -33837,6 +33933,20 @@
     "name": "Binance-Peg Filecoin",
     "type": "BEP20",
     "contract": "0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-petboom.png",
+    "symbol": "PETBOOM",
+    "name": "PETBOOM",
+    "type": "BEP20",
+    "contract": "0xb2833d038942da2f3bde7544bc3727a214b00649",
     "support": {
       "biometric": true,
       "card": true,
@@ -44304,6 +44414,48 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/26081.png",
+    "symbol": "FDUSD",
+    "name": "First Digital USD",
+    "type": "BEP20",
+    "contract": "0xc5f0f7b66764f6ec8c8dff7ba683102295e16409",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/20009.png",
+    "symbol": "DCK",
+    "name": "DexCheck",
+    "type": "BEP20",
+    "contract": "0x16faf9daa401aa42506af503aa3d80b871c467a3",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/29037.png",
+    "symbol": "GMRX",
+    "name": "Gaimin Token",
+    "type": "BEP20",
+    "contract": "0x998305efdc264b9674178899fffbb44a47134a76",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8918.png",
     "symbol": "MAUSDC",
     "name": "Matic Aave Interest Bearing USDC",
@@ -46025,6 +46177,20 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/10102.png",
+    "symbol": "BSL",
+    "name": "BankSocial",
+    "type": "HEDERA-HTS",
+    "contract": "0.0.4431990",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/diko.svg",
     "symbol": "DIKO",
     "name": "Arkadiko Token",
@@ -46474,10 +46640,10 @@
   },
   {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/18860.png",
-    "symbol": "ZBC",
-    "name": "Zebec Protocol",
+    "symbol": "ZBCN",
+    "name": "Zebec Network",
     "type": "SPL-TOKEN",
-    "contract": "zebeczgi5fSEtbpfQKVZKCJ3WgYXxjkMUkNNx7fLKAF",
+    "contract": "ZBCNpuD7YMXzTHB2fhGkGi78MNsHGLRXUhRewNRm9RU",
     "support": {
       "biometric": true,
       "card": false,
@@ -48726,6 +48892,20 @@
     "contract": "0x1e4a5963abfd975d8c9021ce480b42188849d41d",
     "symbol": "USDT",
     "type": "ASTR zkEVM-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2165.png",
+    "name": "ERC20",
+    "contract": "0x4b24E627CbA33C48Ae5321170C28B20fF23Da8d5",
+    "symbol": "ERC20",
+    "type": "VERY-ERC20",
     "support": {
       "biometric": true,
       "card": true,
