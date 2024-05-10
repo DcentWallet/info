@@ -733,7 +733,7 @@
             "high": 30
           },
           "feeMultiplier": {
-            "low": 2,
+            "low": 1,
             "medium": 2,
             "high": 5
           }
@@ -793,7 +793,7 @@
             "high": 20
           },
           "feeMultiplier": {
-            "low": 2,
+            "low": 1,
             "medium": 2,
             "high": 5
           }
