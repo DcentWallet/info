@@ -21,43 +21,6 @@
         }
     },
     {
-        "name": "Halving",
-        "title": "Halving",
-        "bgColor": "#262626",
-        "externalWindow": true,
-        "startTimestamp": 1713484800000,
-        "endTimestamp": 1713657600000,
-        "locale": {
-            "en": {
-                "description": "",
-                "link": "https://store.dcentwallet.com/products/biometric-wallet?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202404_biometric_half_discount_v01",
-                "imagePath": "halving_1_app_380x160_en.png",
-                "imagePath_480": "halving_1_app_480x160_en.png"
-            },
-            "ko": {
-                "description": "",
-                "link": "https://store-kr.dcentwallet.com/products/%EC%A7%80%EB%AC%B8%EC%9D%B8%EC%A6%9D%ED%98%95-%EC%A7%80%EA%B0%91?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202404_biometric_half_discount_v01",
-                "imagePath": "halving_1_app_380x160_kr.png",
-                "imagePath_480": "halving_1_app_480x160_kr.png"
-            }
-        }
-    },
-    {
-        "name": "Halving",
-        "title": "Halving",
-        "bgColor": "#262626",
-        "externalWindow": true,
-        "endTimestamp": 1713484800000,
-        "locale": {
-            "en": {
-                "description": "",
-                "link": "https://store.dcentwallet.com/products/biometric-wallet?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202404_biometric_discount_v01",
-                "imagePath": "halving_app_380x160.png",
-                "imagePath_480": "halving_app_480x160.png"
-            }
-        }
-    },
-    {
         "name": "usa-free-shipping",
         "title": "USA Free Shipping",
         "bgColor": "#111111",
