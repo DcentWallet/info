@@ -28345,6 +28345,104 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/21711.png",
+    "symbol": "FON",
+    "name": "INOFi",
+    "type": "ERC20",
+    "contract": "0xa4be4cdc552891a6702e1ae9645ef445179a4463",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/17390.png",
+    "symbol": "PRNT",
+    "name": "Prime Numbers Labs",
+    "type": "ERC20",
+    "contract": "0x7cfea0dd176651e7b5a1ced9c4faf8ee295315fd",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/30365.png",
+    "symbol": "SHOOT",
+    "name": "Mars Battle",
+    "type": "ERC20",
+    "contract": "0xbc61e13ca6830fc7f035fd0e90a01cd08be6dcaa",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/14519.png",
+    "symbol": "VVS",
+    "name": "VVS Finance",
+    "type": "ERC20",
+    "contract": "0x839e71613f9aa06e5701cf6de63e303616b0dde3",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/28664.png",
+    "symbol": "BYTE",
+    "name": "Byte",
+    "type": "ERC20",
+    "contract": "0xde342a3e269056fc3305f9e315f4c40d917ba521",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/30318.png",
+    "symbol": "BYTE",
+    "name": "ByteAI",
+    "type": "ERC20",
+    "contract": "0x9c2b4b0da5ebd20c29ef20758064554a55a88b68",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/29999.png",
+    "symbol": "CHKN",
+    "name": "Chickencoin",
+    "type": "ERC20",
+    "contract": "0xd55210bb6898c021a19de1f58d27b71f095921ee",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/logo_doc.svg",
     "symbol": "DOC",
     "name": "Dollar on Chain",
@@ -33877,6 +33975,20 @@
     "name": "Crescite",
     "type": "XRC20",
     "contract": "xdcb5fa33923ec3ff7f4b9ab7b4c20b236d31243f77",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/17390.png",
+    "symbol": "PRNT",
+    "name": "Prime Numbers Labs",
+    "type": "XRC20",
+    "contract": "xdc0e11710aad67e7427cfbc12c353284c2e335f62c",
     "support": {
       "biometric": true,
       "card": true,
@@ -44456,6 +44568,48 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/28664.png",
+    "symbol": "BYTE",
+    "name": "Byte",
+    "type": "BEP20",
+    "contract": "0x840ef7e5f896be71d46df234c60898216fefcbe3",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/31269.png",
+    "symbol": "SXCH",
+    "name": "SolarX",
+    "type": "BEP20",
+    "contract": "0xe58c3a44b74362048e202cb7c8036d4b0b28af50",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/28111.png",
+    "symbol": "MEME",
+    "name": "MEMETOON",
+    "type": "BEP20",
+    "contract": "0x193397bb76868c6873e733ad60d5953843ebc84e",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8918.png",
     "symbol": "MAUSDC",
     "name": "Matic Aave Interest Bearing USDC",
@@ -46052,6 +46206,20 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/29396.png",
+    "symbol": "CTF",
+    "name": "Crypto Trading Fund",
+    "type": "POLYGON-ERC20",
+    "contract": "0x7b3bd12675c6b9d6993eb81283cb68e6eb9260b5",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "symbol": "ys",
     "name": "Dcent",
     "type": "HEDERA-HTS",
@@ -47358,6 +47526,34 @@
     "name": "MANEKI",
     "type": "SPL-TOKEN",
     "contract": "25hAyBQfoDhfWx9ay6rarbgvWGwDdNqcHsXS3jQ3mTDJ",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/30943.png",
+    "symbol": "$michi",
+    "name": "michi",
+    "type": "SPL-TOKEN",
+    "contract": "5mbK36SZ7J19An8jFochhQS4of8g6BwUjbeCSxBSoWdp",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/28664.png",
+    "symbol": "BYTE",
+    "name": "Byte",
+    "type": "SPL-TOKEN",
+    "contract": "ArGfk9JJ72QETcmckxVjCZ9ApuATgP1mf9ysVHnPU4ut",
     "support": {
       "biometric": true,
       "card": false,
@@ -49109,6 +49305,34 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/28664.png",
+    "name": "Byte",
+    "contract": "0xe095780ba2a64a4efa7a74830f0b71656f0b0ad4",
+    "symbol": "BYTE",
+    "type": "BASE-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/29932.png",
+    "name": "Based Shiba Inu",
+    "contract": "0xfea9dcdc9e23a9068bf557ad5b186675c61d33ea",
+    "symbol": "BSHIB",
+    "type": "BASE-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/825.png",
     "name": "Tether",
     "contract": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
@@ -49477,6 +49701,20 @@
     "name": "Wormhole Token",
     "contract": "0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91",
     "symbol": "W",
+    "type": "ARBITRUM-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/28664.png",
+    "name": "Byte",
+    "contract": "0x847503fbf003ce8b005546aa3c03b80b7c2f9771",
+    "symbol": "BYTE",
     "type": "ARBITRUM-ERC20",
     "support": {
       "biometric": true,
@@ -50009,6 +50247,20 @@
     "name": "Gamer Arena",
     "contract": "0xca8ebfb8e1460aaac7c272cb9053b3d42412aac2",
     "symbol": "GAU",
+    "type": "AVA-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/23344.png",
+    "name": "Deepwaters",
+    "contract": "0xd05b010eddb2dc65d5bd5a1389330d475049a4d5",
+    "symbol": "WTR",
     "type": "AVA-ERC20",
     "support": {
       "biometric": true,
