@@ -3,34 +3,34 @@
     "img": {
       "en": {
         "desktop": {
-          "path": "../images/en/halving_2_pc_1920x60.png",
+          "path": "../images/en/halving_pc_1920x60.png",
           "height": "60px",
           "background-color": "#262626"
         },
         "tablet": {
-          "path": "../images/en/halving_2_mobile_768x120.png",
+          "path": "../images/en/halving_mobile_768x120.png",
           "height": "60px",
           "background-color": "#262626"
         },
         "mobile": {
-          "path": "../images/en/halving_2_mobile_768x120.png",
+          "path": "../images/en/halving_mobile_768x120.png",
           "height": "14.44vw",
           "background-color": "#262626"
         }
       },
       "ko": {
         "desktop": {
-          "path": "../images/ko/halving_2_pc_1920x60_kr.png",
+          "path": "../images/ko/halving_pc_1920x60_kr.png",
           "height": "60px",
           "background-color": "#262626"
         },
         "tablet": {
-          "path": "../images/ko/halving_2_mobile_768x120_kr.png",
+          "path": "../images/ko/halving_mobile_768x120_kr.png",
           "height": "60px",
           "background-color": "#262626"
         },
         "mobile": {
-          "path": "../images/ko/halving_2_mobile_768x120_kr.png",
+          "path": "../images/ko/halving_mobile_768x120_kr.png",
           "height": "14.44vw",
           "background-color": "#262626"
         }
