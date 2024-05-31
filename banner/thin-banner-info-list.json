@@ -20,17 +20,17 @@
       },
       "ko": {
         "desktop": {
-          "path": "../images/ko/eth_etf_pc_1920x60_kr.png",
+          "path": "../images/ko/pc_1920x60_eth-etf_kr.png",
           "height": "60px",
           "background-color": "#0D1015"
         },
         "tablet": {
-          "path": "../images/ko/eth_etf_mobile_768x120_kr.png",
+          "path": "../images/ko/mobile_768x120_eth-etf_kr.png",
           "height": "60px",
           "background-color": "#0D1015"
         },
         "mobile": {
-          "path": "../images/ko/eth_etf_mobile_768x120_kr.png",
+          "path": "../images/ko/mobile_768x120_eth-etf_kr.png",
           "height": "14.44vw",
           "background-color": "#0D1015"
         }
