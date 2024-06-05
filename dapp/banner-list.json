@@ -74,37 +74,10 @@
                 "button": "구매하기"
             },
             "ja": {
-                "description": "あなたの大切な資産を万全セキュリティ</b>ソリューションでお守りする<b>「D'CENT」</b>",
+                "description": "大切な暗号資産を万全セキュリティ<br/>でお守りする、<b>「D'CENT」</b>",
                 "link": "https://store.dcentwallet.com?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=constant_purchase-hardware",
                 "imagePath": "discovery_banner-dcent_bg.png",
                 "button": "購入する"
-            }
-        }
-    },
-    {
-        "name": "medium",
-        "title": "D'CENT",
-        "bgColor": "#252525",
-        "externalWindow": true,
-        "preRelease": true,
-        "locale": {
-            "en": {
-                "description": "<b>Join us</b> and<br/> never miss an update!",
-                "link": "https://medium.com/dcentwallet/tagged/english?utm_source=dcent_app_new&utm_medium=app&utm_campaign=app_banner_medium",
-                "imagePath": "discovery_banner-medium_bg.png",
-                "button": "Follow"
-            },
-            "ko": {
-                "description": "디센트 소식을 알 수 있는<br/> <b>가장 쉽고 빠른 방법<b/>",
-                "link": "https://medium.com/dcentwallet/tagged/korean?utm_source=dcent_app_new&utm_medium=app&utm_campaign=app_banner_medium",
-                "imagePath": "discovery_banner-medium_bg.png",
-                "button": "팔로우"
-            },
-            "ja": {
-                "description": "D'CENTに関する新情報をいち早くチェックできる、<b>最も簡単でラクな方法<b>",
-                "link": "https://medium.com/dcentwallet/tagged/japanese?utm_source=dcent_app_new&utm_medium=app&utm_campaign=app_banner_medium",
-                "imagePath": "discovery_banner-medium_bg.png",
-                "button": "フォロー"
             }
         }
     },
@@ -128,7 +101,7 @@
                 "button": "구독"
             },
             "ja": {
-                "description": "初心者でも大丈夫。すぐに覚えられる、<br/><b>D'CENTの使い方</b>",
+                "description": "初心者でも安心。すぐに覚えられる、<br/></b>「D'CENT」</b>の使い方",
                 "link": "https://www.youtube.com/c/DCENTWallet?utm_source=dcent_app&utm_medium=app&utm_campaign=app_banner_youtube",
                 "imagePath": "discovery_banner-youtube_bg.png",
                 "button": "購読する"
