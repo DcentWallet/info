@@ -577,7 +577,7 @@
   },
   {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8267.png",
-    "name": "OEC Token",
+    "name": "OKT Chain",
     "symbol": "OKT",
     "support": {
       "biometric": true,
@@ -603,18 +603,6 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5326.png",
     "name": "Orbit Chain",
     "symbol": "OORC",
-    "support": {
-      "biometric": true,
-      "card": true,
-      "ethCard": false,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
-    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-OPC.png",
-    "name": "OpenCoin",
-    "symbol": "OPC",
     "support": {
       "biometric": true,
       "card": true,
@@ -28443,6 +28431,62 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/28965.png",
+    "symbol": "RETIK",
+    "name": "Retik Finance",
+    "type": "ERC20",
+    "contract": "0x26ebb8213fb8d66156f1af8908d43f7e3e367c1d",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/20789.png",
+    "symbol": "TSUKA",
+    "name": "Dejitaru Tsuka",
+    "type": "ERC20",
+    "contract": "0xc5fb36dd2fb59d3b98deff88425a3f425ee469ed",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7256.png",
+    "symbol": "MTLX",
+    "name": "Mettalex",
+    "type": "ERC20",
+    "contract": "0x2e1e15c44ffe4df6a0cb7371cd00d5028e571d14",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/29814.png",
+    "symbol": "ETHFI",
+    "name": "Ether.fi",
+    "type": "ERC20",
+    "contract": "0xfe0c30065b384f05761f15d0cc899d4f9f9cc0eb",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/logo_doc.svg",
     "symbol": "DOC",
     "name": "Dollar on Chain",
@@ -44610,6 +44654,48 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/28674.png",
+    "symbol": "ACE",
+    "name": "Fusionist(ACEToken)",
+    "type": "BEP20",
+    "contract": "0xc27a719105a987b4c34116223cae8bd8f4b5def4",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7256.png",
+    "symbol": "MTLX",
+    "name": "Mettalex",
+    "type": "BEP20",
+    "contract": "0x5921dee8556c4593eefcfad3ca5e2f618606483b",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/30776.png",
+    "symbol": "CFT",
+    "name": "CANNFINITY",
+    "type": "BEP20",
+    "contract": "0xa3d2ae2d6684178a8565231465c3feebb05880c1",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8918.png",
     "symbol": "MAUSDC",
     "name": "Matic Aave Interest Bearing USDC",
@@ -46359,6 +46445,20 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/23185.png",
+    "symbol": "HBARX",
+    "name": "HBARX",
+    "type": "HEDERA-HTS",
+    "contract": "0.0.834116",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/diko.svg",
     "symbol": "DIKO",
     "name": "Arkadiko Token",
@@ -47554,6 +47654,48 @@
     "name": "Byte",
     "type": "SPL-TOKEN",
     "contract": "ArGfk9JJ72QETcmckxVjCZ9ApuATgP1mf9ysVHnPU4ut",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/31124.png",
+    "symbol": "HANK",
+    "name": "Hank",
+    "type": "SPL-TOKEN",
+    "contract": "231Qq1ZzBRXeSmwa1HJCFrm7v5cNUhyYuz8va42vtdQY",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/31661.png",
+    "symbol": "DONKE",
+    "name": "Donke",
+    "type": "SPL-TOKEN",
+    "contract": "9t31CoUG4Xb77AW5exQhQtGy3Kz2MPrNifno6tbJzRTn",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/31337.png",
+    "symbol": "BEER",
+    "name": "Beercoin",
+    "type": "SPL-TOKEN",
+    "contract": "AujTJJ7aMS8LDo3bFzoyXDwT3jBALUbu4VZhzZdTZLmG",
     "support": {
       "biometric": true,
       "card": false,
@@ -49725,6 +49867,20 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/21314.png",
+    "name": "Aperture Finance",
+    "contract": "0x1c986661170c1834db49c3830130d4038eeeb866",
+    "symbol": "APTR",
+    "type": "ARBITRUM-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7236.png",
     "name": "Celo Dollar",
     "contract": "0x765de816845861e75a25fca122bb6898b8b1282a",
@@ -50262,62 +50418,6 @@
     "contract": "0xd05b010eddb2dc65d5bd5a1389330d475049a4d5",
     "symbol": "WTR",
     "type": "AVA-ERC20",
-    "support": {
-      "biometric": true,
-      "card": true,
-      "ethCard": false,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
-    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-IDT.png",
-    "name": "IDToken",
-    "contract": "0x4e8c0de271fc0d1ae01c95218d72d047aa77cd3f",
-    "symbol": "IDT",
-    "type": "OC-ERC20",
-    "support": {
-      "biometric": true,
-      "card": true,
-      "ethCard": false,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
-    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-KTO.png",
-    "name": "KToken",
-    "contract": "0xd247923d6b91ef5ef416b5c0d46fbb1fa2540cc5",
-    "symbol": "KTO",
-    "type": "OC-ERC20",
-    "support": {
-      "biometric": true,
-      "card": true,
-      "ethCard": false,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
-    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-OPT.png",
-    "name": "OpenToken",
-    "contract": "0xc045f77bd8f7418e3f5beeecfe6cbe1d21ae04b6",
-    "symbol": "OPT",
-    "type": "OC-ERC20",
-    "support": {
-      "biometric": true,
-      "card": true,
-      "ethCard": false,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
-    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-DUT.png",
-    "name": "DualToken",
-    "contract": "0xcf2bcc43b4050e2d11ee1c0c95c44c9a4233765a",
-    "symbol": "DUT",
-    "type": "OC-ERC20",
     "support": {
       "biometric": true,
       "card": true,
