@@ -28487,6 +28487,76 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/31666.png",
+    "symbol": "SHIN",
+    "name": "Shina Inu",
+    "type": "ERC20",
+    "contract": "0xa0bbbe391b0d0957f1d013381b643041d2ca4022",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/24594.png",
+    "symbol": "BOB",
+    "name": "BOB Token",
+    "type": "ERC20",
+    "contract": "0x7d8146cf21e8d7cbe46054e01588207b51198729",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/31584.png",
+    "symbol": "BOBBY",
+    "name": "Kennedy Memecoin",
+    "type": "ERC20",
+    "contract": "0xa462bde22d98335e18a21555b6752db93a937cff",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/29879.png",
+    "symbol": "ANDY",
+    "name": "ANDY ETH",
+    "type": "ERC20",
+    "contract": "0x68bbed6a47194eff1cf514b50ea91895597fc91e",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/31500.png",
+    "symbol": "HLG",
+    "name": "Holograph",
+    "type": "ERC20",
+    "contract": "0x740df024ce73f589acd5e8756b377ef8c6558bab",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/logo_doc.svg",
     "symbol": "DOC",
     "name": "Dollar on Chain",
@@ -47696,6 +47766,104 @@
     "name": "Beercoin",
     "type": "SPL-TOKEN",
     "contract": "AujTJJ7aMS8LDo3bFzoyXDwT3jBALUbu4VZhzZdTZLmG",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/31510.png",
+    "symbol": "MOTHER",
+    "name": "Mother Iggy",
+    "type": "SPL-TOKEN",
+    "contract": "3S8qX1MsMqRbiwKg2cQyx7nis1oHMgaCuc9c4VfvVdPN",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/31665.png",
+    "symbol": "SPIKE",
+    "name": "Spike",
+    "type": "SPL-TOKEN",
+    "contract": "BX9yEgW8WkoWV8SvqTMMCynkQWreRTJ9ZS81dRXYnnR9",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/31584.png",
+    "symbol": "BOBBY",
+    "name": "Kennedy Memecoin",
+    "type": "SPL-TOKEN",
+    "contract": "4geJykZY92d2mZk8zgWDrKoz4BDcSjp7DJdNvH8GoH5f",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/29150.png",
+    "symbol": "PONKE",
+    "name": "PONKE",
+    "type": "SPL-TOKEN",
+    "contract": "5z3EqYQo9HiCEs3R84RCDMu2n7anpDMxRhdK8PSWmrRC",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/31830.png",
+    "symbol": "DADDY",
+    "name": "Daddy Tate",
+    "type": "SPL-TOKEN",
+    "contract": "4Cnk9EPnW5ixfLZatCPJjDB1PUtcRpVVgTQukm9epump",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/30803.png",
+    "symbol": "GUMMY",
+    "name": "GUMMY",
+    "type": "SPL-TOKEN",
+    "contract": "H7bTHGb5Cvo5fGe5jBDNDPUv8KykQnzyZA3qZ8sH7yxw",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/29835.png",
+    "symbol": "IO",
+    "name": "io.net",
+    "type": "SPL-TOKEN",
+    "contract": "BZLbGTNCSFfoth2GYDtwr7e4imWzpR5jqcUuGEwr646K",
     "support": {
       "biometric": true,
       "card": false,
