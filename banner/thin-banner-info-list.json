@@ -3,36 +3,36 @@
     "img": {
       "en": {
         "desktop": {
-          "path": "../images/en/eth_etf_pc_1920x60_en.png",
+          "path": "../images/en/pc_1920x60_sale_EN.png",
           "height": "60px",
-          "background-color": "#0D1015"
+          "background-color": "#101010"
         },
         "tablet": {
-          "path": "../images/en/eth_etf_mobile_768x120_en.png",
+          "path": "../images/en/mobile_768x120_sale_EN.png",
           "height": "60px",
-          "background-color": "#0D1015"
+          "background-color": "#101010"
         },
         "mobile": {
-          "path": "../images/en/eth_etf_mobile_768x120_en.png",
+          "path": "../images/en/mobile_768x120_sale_EN.png",
           "height": "14.44vw",
-          "background-color": "#0D1015"
+          "background-color": "#101010"
         }
       },
       "ko": {
         "desktop": {
-          "path": "../images/ko/pc_1920x60_eth-etf_kr.png",
+          "path": "../images/ko/pc_1920x60_sale_KR.png",
           "height": "60px",
-          "background-color": "#0D1015"
+          "background-color": "#101010"
         },
         "tablet": {
-          "path": "../images/ko/mobile_768x120_eth-etf_kr.png",
+          "path": "../images/ko/mobile_768x120_sale_KR.png",
           "height": "60px",
-          "background-color": "#0D1015"
+          "background-color": "#101010"
         },
         "mobile": {
-          "path": "../images/ko/mobile_768x120_eth-etf_kr.png",
+          "path": "../images/ko/mobile_768x120_sale_KR.png",
           "height": "14.44vw",
-          "background-color": "#0D1015"
+          "background-color": "#101010"
         }
       }
     },
@@ -45,10 +45,6 @@
         "internal": false,
         "external": "https://store-kr.dcentwallet.com/"
       }
-    },
-    "period": { 
-      "start": "2024-05-29T00:15:00.000Z",
-      "end": "2024-06-03T00:00:00.000Z"
     }
   },
   {

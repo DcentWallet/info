@@ -1,23 +1,21 @@
 [
     {
-        "name": "ETH ETF",
-        "title": "ETH ETF",
-        "bgColor": "#0D1015",
+        "name": "DCENT-Event",
+        "title": "DCENT EVENT",
+        "bgColor": "#101010",
         "externalWindow": true,
-        "startTimestamp": 1716994800000,
-        "endTimestamp": 1717372800000,
         "locale": {
             "en": {
                 "description": "",
-                "link": "https://store.dcentwallet.com/?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202405_eth-etf-approval_v01",
-                "imagePath": "eth_etf_app_380x160_en.png",
-                "imagePath_480": "eth_etf_app_480x160_en.png"
+                "link": "https://store.dcentwallet.com/?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202406_sale_v01",
+                "imagePath": "app_380x160_sale_EN.png",
+                "imagePath_480": "app_480x160_sale_EN.png"
             },
             "ko": {
                 "description": "",
-                "link": "https://store-kr.dcentwallet.com/?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202405_eth-etf-approval_v01",
-                "imagePath": "eth_etf_app_380x160_kr.png",
-                "imagePath_480": "eth_etf_app_480x160_kr.png"
+                "link": "https://store-kr.dcentwallet.com/?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202406_sale_v01",
+                "imagePath": "app_380x160_sale_KR.png",
+                "imagePath_480": "app_480x160_sale_KR.png"
             }
         }
     },
