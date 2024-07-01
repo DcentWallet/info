@@ -46,7 +46,7 @@
         "external": "https://store-kr.dcentwallet.com/pages/dcent-referral-program?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202407_referral_v01"
       }
     },
-    "period": { // 배너가 표시될 기간 ISO 8601
+    "period": { 
       "start": "2024-07-02T00:00:00.000Z"
     }
   },
