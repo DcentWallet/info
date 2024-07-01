@@ -756,6 +756,18 @@
     }
   },
   {
+    "iconUrl": "https://assets.xpla.io/icon/svg/XPLA.svg",
+    "name": "XPLA",
+    "symbol": "XPLA",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://github.com/DcentWallet/info/raw/master/images/coins/original/asset-bptc.png",
     "symbol": "BPTC",
     "name": "Business Platform Tomato Coin",
@@ -34112,6 +34124,20 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/31688.png",
+    "symbol": "DOPU",
+    "name": "Dog With Purpose",
+    "type": "XRC20",
+    "contract": "xdc8b20c72f1b138a41d2193dd056e117dce915ba8b",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://assets.coingecko.com/coins/images/14718/small/BGOV_Logo.png",
     "symbol": "BGOV",
     "name": "BGOV",
@@ -48630,6 +48656,19 @@
     "contract": "0xa776f5b86cc520861f55a261515264e3bd86e72e",
     "symbol": "SPHYNX",
     "type": "CRO-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "name": "ZAD",
+    "contract": "0xc7617656958efafb4ea65fc295db8694c58ff3b1",
+    "symbol": "ZAD",
+    "type": "XPLA-ERC20",
     "support": {
       "biometric": true,
       "card": true,
