@@ -5,7 +5,7 @@
         "desktop": {
           "path": "../images/en/pc_1920x60_referral_EN.png",
           "height": "60px",
-          "background-color": "#F1FEFE"
+          "background-color": "#262626"
         },
         "tablet": {
           "path": "../images/en/mobile_768x120_referral_EN.png",
@@ -22,7 +22,7 @@
         "desktop": {
           "path": "../images/ko/pc_1920x60_referral_KR.png",
           "height": "60px",
-          "background-color": "#F1FEFE"
+          "background-color": "#262626"
         },
         "tablet": {
           "path": "../images/ko/mobile_768x120_referral_KR.png",
@@ -56,7 +56,7 @@
         "desktop": {
           "path": "../images/en/pc_1920x60_sale_EN.png",
           "height": "60px",
-          "background-color": "#101010"
+          "background-color": "#262626"
         },
         "tablet": {
           "path": "../images/en/mobile_768x120_sale_EN.png",
@@ -73,7 +73,7 @@
         "desktop": {
           "path": "../images/ko/pc_1920x60_sale_KR.png",
           "height": "60px",
-          "background-color": "#101010"
+          "background-color": "#262626"
         },
         "tablet": {
           "path": "../images/ko/mobile_768x120_sale_KR.png",
