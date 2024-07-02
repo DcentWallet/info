@@ -22,17 +22,17 @@
         "desktop": {
           "path": "../images/ko/pc_1920x60_referral_KR.png",
           "height": "60px",
-          "background-color": "#101010"
+          "background-color": "#F1FEFE"
         },
         "tablet": {
           "path": "../images/ko/mobile_768x120_referral_KR.png",
           "height": "60px",
-          "background-color": "#101010"
+          "background-color": "#F1FEFE"
         },
         "mobile": {
           "path": "../images/ko/mobile_768x120_referral_KR.png",
           "height": "14.44vw",
-          "background-color": "#101010"
+          "background-color": "#F1FEFE"
         }
       }
     },
