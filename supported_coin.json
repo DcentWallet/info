@@ -24719,20 +24719,6 @@
     }
   },
   {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7461.png",
-    "symbol": "PLA",
-    "name": "PlayDapp",
-    "type": "ERC20",
-    "contract": "0x3a4f40631a4f906c2bad353ed06de7a5d3fcb430",
-    "support": {
-      "biometric": true,
-      "card": true,
-      "ethCard": true,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/14682.png",
     "symbol": "1EARTH",
     "name": "EarthFund",
@@ -28560,6 +28546,118 @@
     "name": "Holograph",
     "type": "ERC20",
     "contract": "0x740df024ce73f589acd5e8756b377ef8c6558bab",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/31772.png",
+    "symbol": "LION",
+    "name": "King Of Meme",
+    "type": "ERC20",
+    "contract": "0xf3c3745894d979f8f85761bd060520bddbc464e9",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/14977.png",
+    "symbol": "ML",
+    "name": "Mintlayer",
+    "type": "ERC20",
+    "contract": "0x059956483753947536204e89bfad909e1a434cc6",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/30230.png",
+    "symbol": "PIKA",
+    "name": "Pikamoon",
+    "type": "ERC20",
+    "contract": "0xd1e64bcc904cfdc19d0faba155a9edc69b4bcdae",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/31632.png",
+    "symbol": "PEIPEI",
+    "name": "PeiPei",
+    "type": "ERC20",
+    "contract": "0x3ffeea07a27fab7ad1df5297fa75e77a43cb5790",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/9481.png",
+    "symbol": "PENDLE",
+    "name": "Pendle",
+    "type": "ERC20",
+    "contract": "0x808507121b80c02388fad14726482e061b8da827",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/21585.png",
+    "symbol": "SAFE",
+    "name": "Safe",
+    "type": "ERC20",
+    "contract": "0x5afe3855358e112b5647b952709e6165e1c1eeee",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/30843.png",
+    "symbol": "REZ",
+    "name": "Renzo",
+    "type": "ERC20",
+    "contract": "0x3b50805453023a91a8bf641e279401a0b23fa6f9",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/24261.png",
+    "symbol": "OCTA",
+    "name": "OctaSpace",
+    "type": "ERC20",
+    "contract": "0xfa704148d516b209d52c2d75f239274c8f8eaf1a",
     "support": {
       "biometric": true,
       "card": true,
@@ -42402,7 +42500,7 @@
     "symbol": "MARU",
     "name": "marumaruNFT",
     "type": "BEP20",
-    "contract": "0x08a84af1368cd333073ac5dfb2254208e06b3a70",
+    "contract": "0xae3bcdadf58ec10b0ca0566f35877de4467ad222",
     "support": {
       "biometric": true,
       "card": true,
@@ -44792,6 +44890,20 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/24261.png",
+    "symbol": "OCTA",
+    "name": "OctaSpace",
+    "type": "BEP20",
+    "contract": "0xfa704148d516b209d52c2d75f239274c8f8eaf1a",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8918.png",
     "symbol": "MAUSDC",
     "name": "Matic Aave Interest Bearing USDC",
@@ -45452,7 +45564,7 @@
   {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2143.png",
     "symbol": "DATA",
-    "name": "Streamr (DATA)",
+    "name": "Streamr",
     "type": "POLYGON-ERC20",
     "contract": "0x3a9a81d576d83ff21f26f325066054540720fc34",
     "support": {
