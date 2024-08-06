@@ -28667,6 +28667,62 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/26997.png",
+    "symbol": "ZRO",
+    "name": "LayerZero",
+    "type": "ERC20",
+    "contract": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/11079.png",
+    "symbol": "BRISE",
+    "name": "Bitgert",
+    "type": "ERC20",
+    "contract": "0xf2b2f7b47715256ce4ea43363a867fdce9353e3a",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/1214.png",
+    "symbol": "LSK",
+    "name": "Lisk",
+    "type": "ERC20",
+    "contract": "0x6033f7f88332b8db6ad452b7c6d5bb643990ae3f",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/29558.png",
+    "symbol": "STRUMP",
+    "name": "Super Trump",
+    "type": "ERC20",
+    "contract": "0x7039cd6d7966672f194e8139074c3d5c4e6dcf65",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/logo_doc.svg",
     "symbol": "DOC",
     "name": "Dollar on Chain",
@@ -44904,6 +44960,20 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/26997.png",
+    "symbol": "ZRO",
+    "name": "LayerZero",
+    "type": "BEP20",
+    "contract": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8918.png",
     "symbol": "MAUSDC",
     "name": "Matic Aave Interest Bearing USDC",
@@ -46514,6 +46584,20 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/26997.png",
+    "symbol": "ZRO",
+    "name": "LayerZero",
+    "type": "POLYGON-ERC20",
+    "contract": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "symbol": "ys",
     "name": "Dcent",
     "type": "HEDERA-HTS",
@@ -48011,6 +48095,20 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/31342.png",
+    "symbol": "NATIX",
+    "name": "NATIX Network",
+    "type": "SPL-TOKEN",
+    "contract": "FRySi8LPkuByB7VPSCCggxpewFUeeJiwEGRKKuhwpKcX",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/9078.png",
     "symbol": "FC",
     "name": "FansCoin",
@@ -48601,6 +48699,20 @@
     "name": "Axelar",
     "contract": "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f",
     "symbol": "AXL",
+    "type": "OPTIMISM-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/26997.png",
+    "name": "LayerZero",
+    "contract": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+    "symbol": "ZRO",
     "type": "OPTIMISM-ERC20",
     "support": {
       "biometric": true,
@@ -49794,6 +49906,34 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/26997.png",
+    "name": "LayerZero",
+    "contract": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+    "symbol": "ZRO",
+    "type": "BASE-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/27750.png",
+    "name": "Toshi",
+    "contract": "0xac1bd2486aaf3b5c0fc3fd868558b082a531b2b4",
+    "symbol": "TOSHI",
+    "type": "BASE-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/825.png",
     "name": "Tether",
     "contract": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
@@ -50190,6 +50330,34 @@
     "name": "Aperture Finance",
     "contract": "0x1c986661170c1834db49c3830130d4038eeeb866",
     "symbol": "APTR",
+    "type": "ARBITRUM-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/26997.png",
+    "name": "LayerZero",
+    "contract": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+    "symbol": "ZRO",
+    "type": "ARBITRUM-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/28933.png",
+    "name": "Xai",
+    "contract": "0x4cb9a7ae498cedcbb5eae9f25736ae7d428c9d66",
+    "symbol": "XAI",
     "type": "ARBITRUM-ERC20",
     "support": {
       "biometric": true,
@@ -50736,6 +50904,20 @@
     "name": "Deepwaters",
     "contract": "0xd05b010eddb2dc65d5bd5a1389330d475049a4d5",
     "symbol": "WTR",
+    "type": "AVA-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/26997.png",
+    "name": "LayerZero",
+    "contract": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+    "symbol": "ZRO",
     "type": "AVA-ERC20",
     "support": {
       "biometric": true,
