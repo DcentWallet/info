@@ -202,17 +202,19 @@
     "POLYGON",
     "XINFIN"
   ],
-  "servicePriority": {
+  "providerPriority": {
     "changenow": 1,
     "changelly": 2,
     "oneinch": 3,
-    "okx": 4
+    "okx": 4,
+    "okxcross": 5
   },
-  "servicesName": [
+  "providersName": [
     "changelly",
     "changenow",
     "okx",
-    "oneinch"
+    "oneinch",
+    "okxcross"
   ],
   "changelly": {
     "bitcoin": "BITCOIN",
@@ -315,6 +317,15 @@
     "137": "POLYGON",
     "250": "FANTOM",
     "8217" : "KLAYTN",
+    "8453": "BASE",
+    "42161": "ARBITRUM",
+    "43114": "AVALANCHE"
+  },
+  "okxcross": {
+    "1": "ETHEREUM",
+    "10": "OPTIMISM",
+    "56": "BSC",
+    "137": "POLYGON",
     "8453": "BASE",
     "42161": "ARBITRUM",
     "43114": "AVALANCHE"
