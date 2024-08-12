@@ -28723,6 +28723,62 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/24984.png",
+    "symbol": "GRP",
+    "name": "Grape",
+    "type": "ERC20",
+    "contract": "0xec70ff4a5b09110e4d20ada4f2db4a86ec61fac6",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7838.png",
+    "symbol": "BASE",
+    "name": "Base Protocol",
+    "type": "ERC20",
+    "contract": "0x07150e919b4de5fd6a63de1f9384828396f25fdc",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/11188.png",
+    "symbol": "DPX",
+    "name": "Dopex",
+    "type": "ERC20",
+    "contract": "0xeec2be5c91ae7f8a338e1e5f3b5de49d07afdc81",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/30083.png",
+    "symbol": "ATH",
+    "name": "Aethir",
+    "type": "ERC20",
+    "contract": "0xbe0ed4138121ecfc5c0e56b40517da27e6c5226b",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/logo_doc.svg",
     "symbol": "DOC",
     "name": "Dollar on Chain",
@@ -48109,6 +48165,20 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/29972.png",
+    "symbol": "BCOQ",
+    "name": "BCOQ INU",
+    "type": "SPL-TOKEN",
+    "contract": "coqRkaaKeUygDPhuS3mrmrj6DiHjeQJc2rFbT2YfxWn",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/9078.png",
     "symbol": "FC",
     "name": "FansCoin",
@@ -50358,6 +50428,34 @@
     "name": "Xai",
     "contract": "0x4cb9a7ae498cedcbb5eae9f25736ae7d428c9d66",
     "symbol": "XAI",
+    "type": "ARBITRUM-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/11188.png",
+    "name": "Dopex",
+    "contract": "0x6c2c06790b3e3e3c38e12ee22f8183b37a13ee55",
+    "symbol": "DPX",
+    "type": "ARBITRUM-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/30083.png",
+    "name": "Aethir",
+    "contract": "0xc87b37a581ec3257b734886d9d3a581f5a9d056c",
+    "symbol": "ATH",
     "type": "ARBITRUM-ERC20",
     "support": {
       "biometric": true,
