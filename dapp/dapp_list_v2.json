@@ -96,7 +96,11 @@
             "network": [
                 {
                     "id": "ethereum-mainnet",
-                    "name": "Ethereum"
+                    "name": {
+                        "en": "Ethereum",
+                        "ko": "이더리움",
+                        "ja": "Ethereum"
+                    }
                 }
             ],
             "category": [],
@@ -150,7 +154,11 @@
             "network": [
                 {
                     "id": "astar-mainnet",
-                    "name": "Astar"
+                    "name": {
+                        "en": "Astar",
+                        "ko": "아스타",
+                        "ja": "Astar"
+                    }
                 }
             ],
             "category": [],
@@ -181,7 +189,11 @@
             "network": [
                 {
                     "id": "songbird-mainnet",
-                    "name": "Songbird"
+                    "name": {
+                        "en": "Songbird",
+                        "ko": "송버드",
+                        "ja": "Songbird"   
+                    }
                 }
             ],
             "category": [],
@@ -209,7 +221,11 @@
             "network": [
                 {
                     "id": "songbird-mainnet",
-                    "name": "Songbird"
+                    "name":  {
+                        "en": "Songbird",
+                        "ko": "송버드",
+                        "ja": "Songbird"   
+                    }
                 }
             ],
             "category": [],
@@ -237,7 +253,11 @@
             "network": [
                 {
                     "id": "klaytn-mainnet",
-                    "name": "Klaytn"
+                    "name":{
+                        "en": "Klaytn",
+                        "ko": "클레이튼",
+                        "ja": "Klaytn"
+                    }
                 }
             ],
             "category": [],
@@ -265,7 +285,11 @@
             "network": [
                 {
                     "id": "klaytn-mainnet",
-                    "name": "Klaytn"
+                    "name":{
+                        "en": "Klaytn",
+                        "ko": "클레이튼",
+                        "ja": "Klaytn"
+                    }
                 }
             ],
             "category": [],
@@ -293,7 +317,11 @@
             "network": [
                 {
                     "id": "bsc-mainnet",
-                    "name": "Binance Smart Chain"
+                    "name": {
+                        "en": "Binance Smart Chain",
+                        "ko": "바이낸스 스마트체인",
+                        "ja": "Binance Smart Chain"
+                    }
                 }
             ],
             "category": [],
@@ -321,7 +349,11 @@
             "network": [
                 {
                     "id": "bsc-mainnet",
-                    "name": "Binance Smart Chain"
+                    "name": {
+                        "en": "Binance Smart Chain",
+                        "ko": "바이낸스 스마트체인",
+                        "ja": "Binance Smart Chain"
+                    }
                 }
             ],
             "category": [],
@@ -349,7 +381,11 @@
             "network": [
                 {
                     "id": "ethereum-mainnet",
-                    "name": "Ethereum"
+                    "name": {
+                        "en": "Ethereum",
+                        "ko": "이더리움",
+                        "ja": "Ethereum"
+                    }
                 }
             ],
             "category": [],
@@ -377,7 +413,11 @@
             "network": [
                 {
                     "id": "xdc-mainnet",
-                    "name": "XDC Network"
+                    "name": {
+                        "en": "XDC Network",
+                        "ko": "XDC 네트워크",
+                        "ja": "XDC Network"
+                    }
                 }
             ],
             "category": [],
@@ -405,7 +445,11 @@
             "network": [
                 {
                     "id": "ethereum-mainnet",
-                    "name": "Ethereum"
+                    "name": {
+                        "en": "Ethereum",
+                        "ko": "이더리움",
+                        "ja": "Ethereum"
+                    }
                 }
             ],
             "category": [],
@@ -433,7 +477,11 @@
             "network": [
                 {
                     "id": "klaytn-mainnet",
-                    "name": "Klaytn"
+                    "name":{
+                        "en": "Klaytn",
+                        "ko": "클레이튼",
+                        "ja": "Klaytn"
+                    }
                 }
             ],
             "category": [],
@@ -461,7 +509,11 @@
             "network": [
                 {
                     "id": "klaytn-mainnet",
-                    "name": "Klaytn"
+                    "name":{
+                        "en": "Klaytn",
+                        "ko": "클레이튼",
+                        "ja": "Klaytn"
+                    }
                 }
             ],
             "category": [],
@@ -489,7 +541,11 @@
             "network": [
                 {
                     "id": "ethereum-mainnet",
-                    "name": "Ethereum"
+                    "name": {
+                        "en": "Ethereum",
+                        "ko": "이더리움",
+                        "ja": "Ethereum"
+                    }
                 }
             ],
             "category": [],
@@ -517,7 +573,11 @@
             "network": [
                 {
                     "id": "ethereum-mainnet",
-                    "name": "Ethereum"
+                    "name": {
+                        "en": "Ethereum",
+                        "ko": "이더리움",
+                        "ja": "Ethereum"
+                    }
                 }
             ],
             "category": [],
@@ -545,7 +605,11 @@
             "network": [
                 {
                     "id": "ethereum-mainnet",
-                    "name": "Ethereum"
+                    "name": {
+                        "en": "Ethereum",
+                        "ko": "이더리움",
+                        "ja": "Ethereum"
+                    }
                 }
             ],
             "category": [],
@@ -573,7 +637,11 @@
             "network": [
                 {
                     "id": "ethereum-mainnet",
-                    "name": "Ethereum"
+                    "name": {
+                        "en": "Ethereum",
+                        "ko": "이더리움",
+                        "ja": "Ethereum"
+                    }
                 }
             ],
             "category": [],
@@ -601,7 +669,11 @@
             "network": [
                 {
                     "id": "ethereum-mainnet",
-                    "name": "Ethereum"
+                    "name": {
+                        "en": "Ethereum",
+                        "ko": "이더리움",
+                        "ja": "Ethereum"
+                    }
                 }
             ],
             "category": [],
@@ -629,7 +701,11 @@
             "network": [
                 {
                     "id": "ethereum-mainnet",
-                    "name": "Ethereum"
+                    "name": {
+                        "en": "Ethereum",
+                        "ko": "이더리움",
+                        "ja": "Ethereum"
+                    }
                 }
             ],
             "category": [],
@@ -657,7 +733,11 @@
             "network": [
                 {
                     "id": "ethereum-mainnet",
-                    "name": "Ethereum"
+                    "name": {
+                        "en": "Ethereum",
+                        "ko": "이더리움",
+                        "ja": "Ethereum"
+                    }
                 }
             ],
             "category": [],
@@ -685,7 +765,11 @@
             "network": [
                 {
                     "id": "ethereum-mainnet",
-                    "name": "Ethereum"
+                    "name": {
+                        "en": "Ethereum",
+                        "ko": "이더리움",
+                        "ja": "Ethereum"
+                    }
                 }
             ],
             "category": [],
@@ -713,7 +797,11 @@
             "network": [
                 {
                     "id": "ethereum-mainnet",
-                    "name": "Ethereum"
+                    "name": {
+                        "en": "Ethereum",
+                        "ko": "이더리움",
+                        "ja": "Ethereum"
+                    }
                 }
             ],
             "category": [],
@@ -741,7 +829,11 @@
             "network": [
                 {
                     "id": "ethereum-mainnet",
-                    "name": "Ethereum"
+                    "name": {
+                        "en": "Ethereum",
+                        "ko": "이더리움",
+                        "ja": "Ethereum"
+                    }
                 }
             ],
             "category": [],
@@ -769,7 +861,11 @@
             "network": [
                 {
                     "id": "klaytn-mainnet",
-                    "name": "Klaytn"
+                    "name": {
+                        "en": "Klaytn",
+                        "ko": "클레이튼",
+                        "ja": "Klaytn"
+                    }
                 }
             ],
             "category": [],
@@ -793,7 +889,11 @@
             "network": [
                 {
                     "id": "klaytn-mainnet",
-                    "name": "클레이튼"
+                    "name": {
+                        "en": "Klaytn",
+                        "ko": "클레이튼",
+                        "ja": "Klaytn"
+                    }
                 }
             ],
             "category": [],
