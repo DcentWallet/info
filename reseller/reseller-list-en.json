@@ -1,43 +1,13 @@
 [
     {
-    "name": "Bitviva",
-    "imageUrl": "../images_en/bitviva_logo.png",
-    "gotoLink": "https://bitviva.com"
-    },
-    {
     "name": "N-Crypt ID",
     "imageUrl": "../images_en/ncrypt.png",
-    "gotoLink": "https://ncrypt.co.id/en/home/"
+    "gotoLink": "https://ncrypt.co.id/product/dcent-biometricwallet-en/"
     },
     {
     "name": "Brickstreet",
     "imageUrl": "../images_en/brickstreet_reseller.png",
-    "gotoLink": "https://brickstreet.shop/"
-    },
-    {
-    "name": "cryptobilis",
-    "imageUrl": "../images_en/cryptobilis.png",
-    "gotoLink": "https://www.cryptobilis.com/"
-    },
-    {
-    "name": "masenllc",
-    "imageUrl": "../images_en/masenllc.jpg",
-    "gotoLink": "http://www.masenllc.com/"
-    },
-    {
-    "name": "samsretailers",
-    "imageUrl": "../images_en/samsretailers.jpg",
-    "gotoLink": "https://samsretailers.com/"
-    },
-    {
-    "name": "superiorhomessupplies",
-    "imageUrl": "../images_en/superiorhomessupplies.jpg",
-    "gotoLink": "https://www.superiorhomessupplies.com/"
-    },
-    {
-    "name": "aplustrend",
-    "imageUrl": "../images_en/aplustrend.jpg",
-    "gotoLink": "https://aplustrend.com/"
+    "gotoLink": "https://brickstreet.shop/products/dcent-biometric-hardware-wallet"
     },
     {
     "name": "futuretechs",
@@ -52,18 +22,13 @@
     {
     "name": "cryptherion",
     "imageUrl": "../images_en/cryptherion.png",
-    "gotoLink": "http://www.cryptherion.io"
+    "gotoLink": "https://cryptherion.io/categorie/dcent"
     },
     {
     "name": "peteorganics",
     "imageUrl": "../images_en/peteorganics.png",
     "gotoLink": "http://peteorganics.com"
     },
-    {
-    "name": "etherbit",
-    "imageUrl": "../images_en/etherbit.png",
-    "gotoLink": "https://www.etherbit.in/products/dcent-biometric-wallet"
-  },  
     {
     "name": "lwallet",
     "imageUrl": "../images_en/reseller_lwallet.png",
@@ -92,7 +57,7 @@
   {
     "name": "Bitcointech",
     "imageUrl": "../images_en/Bitcointech.png",
-    "gotoLink": "https://www.bitcointech.ro"
+    "gotoLink": "https://bitcointech.ro/?s=D%27CENT"
   },  
   {
     "name": "akua",
@@ -102,17 +67,17 @@
   {
     "name": "all-in-ape_philippines",
     "imageUrl": "../images_en/all-in-ape_philippines_edit.png",
-    "gotoLink": "https://ph.all-in-ape.com/"
+    "gotoLink": "https://ph.all-in-ape.com/shop/dcent/dcent-biometric-wallet/"
   },  
   {
     "name": "all-in-ape__taiwan",
     "imageUrl": "../images_en/all-in-ape_taiwan_edit.png",
-    "gotoLink": "https://all-in-ape.com/"
+    "gotoLink": "https://all-in-ape.com/shop/dcent/biometric-wallet/"
   },  
   {
     "name": "siamb",
     "imageUrl": "../images_en/siamb_eidt.png",
-    "gotoLink": "https://siambc.com/"
+    "gotoLink": "https://siambc.com/shop/all-products/dcent-hw-wallet-authorised-reseller-%e0%b8%95[…]e0%b9%88%e0%b8%b2%e0%b8%a2%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2/"
   },  
   {
     "name": "safeisrael",
@@ -127,12 +92,7 @@
   {
     "name": "cashfort",
     "imageUrl": "../images_en/cashfort_logo_edit.png",
-    "gotoLink": "http://www.cashfort.com.br/"
-  },
-  {
-    "name": "cryptonist",
-    "imageUrl": "../images_en/cryptonist_logo_edit.png",
-    "gotoLink": "https://cryptonist.ru/catalog/dcent/biometric-wallet/"
+    "gotoLink": "https://www.cashfort.com.br/cold-wallets/dcent-s9%22%22"
   },
   {
     "name": "techwhale",
