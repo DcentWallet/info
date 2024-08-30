@@ -28779,6 +28779,62 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/20641.png",
+    "symbol": "EURC",
+    "name": "EURC",
+    "type": "ERC20",
+    "contract": "0x1abaea1f7c830bd89acc67ec4af516284b1bc33c",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/32461.png",
+    "symbol": "NEIRO",
+    "name": "Neiro on ETH",
+    "type": "ERC20",
+    "contract": "0xee2a03aa6dacf51c18679c516ad5283d8e7c2637",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/30038.png",
+    "symbol": "PLX",
+    "name": "Pullix",
+    "type": "ERC20",
+    "contract": "0x1cc7047e15825f639e0752eb1b89e4225f5327f2",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/30941.png",
+    "symbol": "DOGE20",
+    "name": "Dogecoin20",
+    "type": "ERC20",
+    "contract": "0x2541a36be4cd39286ed61a3e6afc2307602489d6",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/logo_doc.svg",
     "symbol": "DOC",
     "name": "Dollar on Chain",
@@ -33170,6 +33226,20 @@
     "name": "PaybandCoin",
     "type": "STELLAR-TA",
     "contract": "22.GBVB43NLVIP2USHXSKI7QQCZKZU2Z6U6A5PAHMIW7LLNVMQJTOX2BZI5.PYBC.1498349353",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/20641.png",
+    "symbol": "EURC",
+    "name": "EURC",
+    "type": "STELLAR-TA",
+    "contract": "23.EURC-GDHU6WRG4IEQXM5NZ4BMPKOXHW76MZM4Y2IEMFDVXBSDP6SJY4ITNPP2.EURC.1308512",
     "support": {
       "biometric": true,
       "card": false,
@@ -48179,6 +48249,90 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/20641.png",
+    "symbol": "EURC",
+    "name": "EURC",
+    "type": "SPL-TOKEN",
+    "contract": "HzwqbKZw8HxMN6bF2yFZNrht3c2iXXzpKcFu7uBEDKtr",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/28304.png",
+    "symbol": "SPACEPI",
+    "name": "SpacePi Token",
+    "type": "SPL-TOKEN",
+    "contract": "D4985oNS95Ajjz4VvrSxXKpx9VrTQNA1XufhJA18pXPS",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/30661.png",
+    "symbol": "PRCL",
+    "name": "Parcl",
+    "type": "SPL-TOKEN",
+    "contract": "4LLbsb5ReP3yEtYzmXewyGjcir5uXtKFURtaEUVC2AHs",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/32464.png",
+    "symbol": "NEIRO",
+    "name": "Neiro",
+    "type": "SPL-TOKEN",
+    "contract": "CTJf74cTo3cw8acFP1YXF3QpsQUUBGBjh2k2e8xsZ6UL",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/31914.png",
+    "symbol": "BILLY",
+    "name": "Billy",
+    "type": "SPL-TOKEN",
+    "contract": "3B5wuUrMEi5yATD7on46hKfej3pfmd7t1RKgrsN3pump",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/31442.png",
+    "symbol": "WAFFLES",
+    "name": "Waffles",
+    "type": "SPL-TOKEN",
+    "contract": "8doS8nzmgVZEaACxALkbK5fZtw4UuoRp4Yt8NEaXfDMb",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/9078.png",
     "symbol": "FC",
     "name": "FansCoin",
@@ -48619,7 +48773,7 @@
     "symbol": "DOT",
     "name": "Polkadot",
     "type": "XC20",
-    "contract": "340282366920938463463374607431768211455",
+    "contract": "0.340282366920938463463374607431768211455",
     "support": {
       "biometric": true,
       "card": false,
@@ -48632,7 +48786,7 @@
     "symbol": "USDT",
     "name": "Tether USD",
     "type": "XC20",
-    "contract": "4294969280",
+    "contract": "1.4294969280",
     "support": {
       "biometric": true,
       "card": false,
@@ -48645,7 +48799,7 @@
     "symbol": "ACA",
     "name": "Acala",
     "type": "XC20",
-    "contract": "18446744073709551616",
+    "contract": "2.18446744073709551616",
     "support": {
       "biometric": true,
       "card": false,
@@ -48658,7 +48812,7 @@
     "symbol": "aSEED",
     "name": "aUSD SEED",
     "type": "XC20",
-    "contract": "18446744073709551617",
+    "contract": "3.18446744073709551617",
     "support": {
       "biometric": true,
       "card": false,
@@ -48671,7 +48825,7 @@
     "symbol": "GLMR",
     "name": "Glimmer",
     "type": "XC20",
-    "contract": "18446744073709551619",
+    "contract": "4.18446744073709551619",
     "support": {
       "biometric": true,
       "card": false,
@@ -50004,6 +50158,34 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/20641.png",
+    "name": "EURC",
+    "contract": "0x60a3e35cc302bfa44cb288bc5a4f316fdb1adb42",
+    "symbol": "EURC",
+    "type": "BASE-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/32289.png",
+    "name": "Mister Miggles",
+    "contract": "0xb1a03eda10342529bbf8eb700a06c60441fef25d",
+    "symbol": "MIGGLES",
+    "type": "BASE-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/825.png",
     "name": "Tether",
     "contract": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
@@ -51016,6 +51198,20 @@
     "name": "LayerZero",
     "contract": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
     "symbol": "ZRO",
+    "type": "AVA-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/20641.png",
+    "name": "EURC",
+    "contract": "0xc891eb4cbdeff6e073e859e987815ed1505c2acd",
+    "symbol": "EURC",
     "type": "AVA-ERC20",
     "support": {
       "biometric": true,

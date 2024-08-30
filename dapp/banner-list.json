@@ -17,6 +17,12 @@
                 "link": "https://store-kr.dcentwallet.com/pages/dcent-referral-program?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202407_referral_v01",
                 "imagePath": "app_380x160_referral_KR.png",
                 "imagePath_480": "app_480x160_referral_KR.png"
+            },
+            "ja": {
+                "description": "",
+                "link": "https://store.dcentwallet.com/ja/pages/dcent-referral-program?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202407_referral_v01",
+                "imagePath": "app_380x160_referral_JP.png",
+                "imagePath_480": "app_480x160_referral_JP.png"
             }
         }
     },
@@ -37,20 +43,32 @@
                 "link": "https://store-kr.dcentwallet.com/?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202406_sale_v01",
                 "imagePath": "app_380x160_sale_KR.png",
                 "imagePath_480": "app_480x160_sale_KR.png"
+            },
+            "ja": {
+                "description": "",
+                "link": "https://store.dcentwallet.com/ja/?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202406_sale_v01",
+                "imagePath": "app_380x160_sale_JP.png",
+                "imagePath_480": "app_480x160_sale_JP.png"
             }
         }
     },
     {
         "name": "usa-free-shipping",
         "title": "USA Free Shipping",
-        "bgColor": "#111111",
+        "bgColor": "#050B0F",
         "externalWindow": true,
         "locale": {
             "en": {
                 "description": "",
                 "link": "https://store.dcentwallet.com/collections/frontpage/products/biometric-wallet?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202305_free-shipping-us_v02",
-                "imagePath": "shipping_mobile_360.jpg",
-                "imagePath_480": "shipping_mobile_480.jpg"
+                "imagePath": "Freeshipping_mob_380x160_EN.png",
+                "imagePath_480": "Freeshipping_mob_480x160_EN.png"
+            },
+            "ja": {
+                "description": "",
+                "link": "https://store.dcentwallet.com/ja/collections/frontpage/products/biometric-wallet?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202305_free-shipping-us_v02",
+                "imagePath": "Freeshipping_mob_380x160_JP.png",
+                "imagePath_480": "Freeshipping_mob_480x160_JP.png"
             }
         }
     },
@@ -71,6 +89,12 @@
                 "link": "https://store-kr.dcentwallet.com/blogs/post?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=constant_blog",
                 "imagePath": "discovery_banner-blog_bg.png",
                 "button": "확인하기"
+            },
+            "ja": {
+                "description": "パワーアップした<b>D'CENTの公式ブログ</b>で<br />イチ早く先モノをチェック！",
+                "link": "https://store-kr.dcentwallet.com/blogs/post?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=constant_blog",
+                "imagePath": "discovery_banner-blog_bg.png",
+                "button": "フィシャルブログへ"
             }
         }
     },
