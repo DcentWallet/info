@@ -24,7 +24,7 @@
             "testnet": false,
             "externalWindow": false,
             "platform": "android",
-            "restriction_policy": true
+            "restrictionPolicy": true
         },
         {
             "name": "exchange",
@@ -47,7 +47,7 @@
             "externalWindow": false,
             "notSupportCardWallet": true,
             "platform": "android",
-            "restriction_policy": true
+            "restrictionPolicy": true
         },
         {
             "name": "swap",
@@ -75,7 +75,7 @@
                 "ios": "5.16.2"
             },
             "platform": "android",
-            "restriction_policy": true
+            "restrictionPolicy": true
         },
         {
             "name": "qr_based_metamask",
@@ -129,7 +129,7 @@
             "testnet": false,
             "externalWindow": false,
             "platform": "iOS",
-            "restriction_policy": true
+            "restrictionPolicy": true
         },
         {
             "name": "Astarportal",
