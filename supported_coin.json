@@ -28835,6 +28835,76 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6754.png",
+    "symbol": "PSWAP",
+    "name": "Polkaswap",
+    "type": "ERC20",
+    "contract": "0x519c1001d550c0a1dae7d1fc220f7d14c2a521bb",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/32705.png",
+    "symbol": "OMZ",
+    "name": "Open Meta City",
+    "type": "ERC20",
+    "contract": "0xd7d9babf56a66daff2ac5dc96f7e886c05124676",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/23146.png",
+    "symbol": "HAN",
+    "name": "HanChain",
+    "type": "ERC20",
+    "contract": "0x0c90c57aaf95a3a87eadda6ec3974c99d786511f",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8525.png",
+    "symbol": "RAI",
+    "name": "Rai Reflex Index",
+    "type": "ERC20",
+    "contract": "0x03ab458634910aad20ef5f1c8ee96f1d6ac54919",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/22142.png",
+    "symbol": "00",
+    "name": "00 Token",
+    "type": "ERC20",
+    "contract": "0x881ba05de1e78f549cc63a8f6cabb1d4ad32250d",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/logo_doc.svg",
     "symbol": "DOC",
     "name": "Dollar on Chain",
@@ -45100,6 +45170,20 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7533.png",
+    "symbol": "ORAI",
+    "name": "Oraichain",
+    "type": "BEP20",
+    "contract": "0xa325ad6d9c92b55a3fc5ad7e412b1518f96441c0",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8918.png",
     "symbol": "MAUSDC",
     "name": "Matic Aave Interest Bearing USDC",
@@ -46724,6 +46808,20 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/32705.png",
+    "symbol": "OMZ",
+    "name": "Open Meta City",
+    "type": "POLYGON-ERC20",
+    "contract": "0x7272a5a8bd39f204bf773e8b74bb01e31681ad1d",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "symbol": "ys",
     "name": "Dcent",
     "type": "HEDERA-HTS",
@@ -48333,6 +48431,34 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/32524.png",
+    "symbol": "GINNAN",
+    "name": "Ginnan The Cat",
+    "type": "SPL-TOKEN",
+    "contract": "GinNabffZL4fUj9Vactxha74GDAW8kDPGaHqMtMzps2f",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/29892.png",
+    "symbol": "$NAP",
+    "name": "SNAP",
+    "type": "SPL-TOKEN",
+    "contract": "4G86CMxGsMdLETrYnavMFKPhQzKTvDBYGMRAdVtr72nu",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/9078.png",
     "symbol": "FC",
     "name": "FansCoin",
@@ -48937,6 +49063,20 @@
     "name": "LayerZero",
     "contract": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
     "symbol": "ZRO",
+    "type": "OPTIMISM-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/23146.png",
+    "name": "HanChain",
+    "contract": "0x50bce64397c75488465253c0a034b8097fea6578",
+    "symbol": "HAN",
     "type": "OPTIMISM-ERC20",
     "support": {
       "biometric": true,
