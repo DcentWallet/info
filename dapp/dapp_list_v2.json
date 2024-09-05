@@ -27,6 +27,35 @@
             "restrictionPolicy": true
         },
         {
+            "name": "swap-x",
+            "title": {
+                "en": "SwapX",
+                "ko": "SwapX",
+                "ja": "SwapX"
+            },
+            "description": {
+                "en": "A service that allows you to quickly and easily trade 3,000+ cryptocurrencies through a network of various exchange service partners.",
+                "ko": "다양한 암호화폐 거래 플랫폼을 통해 3,000개 이상의 암호화폐를 빠르고 간편하게 교환할 수 있습니다.",
+                "ja": "様々な暗号資産向けの取引プラットフォーム上より、実に3,000種類にもおよぶ仮想通貨を、シンプル且つスピーディーに交換することが可能です。"
+            },
+            "link": "https://pre-swap-x.dcentwallet.com",
+            "kind": [
+                "eth"
+            ],
+            "category": [],
+            "iconPath": "icon_swap.png",
+            "type": "dapp_dcent",
+            "device": "ble_dongle",
+            "externalWindow": false,
+            "appVersion": {
+                "android": "5.16.0",
+                "ios": "5.16.2"
+            },
+            "platform": "android",
+            "preRelease": true,
+            "restrictionPolicy": true
+        },
+        {
             "name": "exchange",
             "title": {
                 "en": "Exchange",
