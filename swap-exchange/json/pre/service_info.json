@@ -1,0 +1,9 @@
+{
+    "restriction_policy": false,
+    "restricted_countries": [
+        "KR"
+    ],
+    "allowed_ips": [
+        "58.151.32.202"
+    ]
+}
