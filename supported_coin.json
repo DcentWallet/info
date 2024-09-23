@@ -28905,6 +28905,76 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/19856.png",
+    "symbol": "CAT",
+    "name": "Catcoin",
+    "type": "ERC20",
+    "contract": "0x59f4f336bf3d0c49dbfba4a74ebd2a6ace40539a",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6536.png",
+    "symbol": "OM",
+    "name": "MANTRA",
+    "type": "ERC20",
+    "contract": "0x3593d125a4f7849a1b059e64f4517a86dd60c95d",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/29709.png",
+    "symbol": "NGL",
+    "name": "Entangle",
+    "type": "ERC20",
+    "contract": "0x12652c6d93fdb6f4f37d48a8687783c782bb0d10",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/29509.png",
+    "symbol": "COMAI",
+    "name": "Commune AI",
+    "type": "ERC20",
+    "contract": "0xc78b628b060258300218740b1a7a5b3c82b3bd9f",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/32526.png",
+    "symbol": "CXT",
+    "name": "Covalent X Token",
+    "type": "ERC20",
+    "contract": "0x7abc8a5768e6be61a6c693a6e4eacb5b60602c4d",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/logo_doc.svg",
     "symbol": "DOC",
     "name": "Dollar on Chain",
@@ -39866,7 +39936,7 @@
   {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/10804.png",
     "symbol": "FLOKI",
-    "name": "Floki Inu",
+    "name": "Floki",
     "type": "BEP20",
     "contract": "0xfb5b838b6cfeedc2873ab27866079ac55363d37e",
     "support": {
@@ -45184,6 +45254,62 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/19856.png",
+    "symbol": "CAT",
+    "name": "Catcoin",
+    "type": "BEP20",
+    "contract": "0x59f4f336bf3d0c49dbfba4a74ebd2a6ace40539a",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6536.png",
+    "symbol": "OM",
+    "name": "MANTRA",
+    "type": "BEP20",
+    "contract": "0xf78d2e7936f5fe18308a3b2951a93b6c4a41f5e2",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/32724.png",
+    "symbol": "CAT",
+    "name": "Simon's Cat",
+    "type": "BEP20",
+    "contract": "0x6894cde390a3f51155ea41ed24a33a4827d3063d",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/30772.png",
+    "symbol": "EXVG",
+    "name": "Exverse",
+    "type": "BEP20",
+    "contract": "0xbb7d61d2511fd2e63f02178ca9b663458af9fc63",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8918.png",
     "symbol": "MAUSDC",
     "name": "Matic Aave Interest Bearing USDC",
@@ -46822,6 +46948,34 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6536.png",
+    "symbol": "OM",
+    "name": "MANTRA",
+    "type": "POLYGON-ERC20",
+    "contract": "0xc3ec80343d2bae2f8e680fdadde7c17e71e114ea",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8290.png",
+    "symbol": "SUPER",
+    "name": "SuperVerse",
+    "type": "POLYGON-ERC20",
+    "contract": "0xa1428174f516f527fafdd146b883bb4428682737",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "symbol": "ys",
     "name": "Dcent",
     "type": "HEDERA-HTS",
@@ -46966,6 +47120,20 @@
     "name": "HBARX",
     "type": "HEDERA-HTS",
     "contract": "0.0.834116",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/32529.png",
+    "symbol": "PACK",
+    "name": "HashPack",
+    "type": "HEDERA-HTS",
+    "contract": "0.0.4794920",
     "support": {
       "biometric": true,
       "card": false,
@@ -48450,6 +48618,34 @@
     "name": "SNAP",
     "type": "SPL-TOKEN",
     "contract": "4G86CMxGsMdLETrYnavMFKPhQzKTvDBYGMRAdVtr72nu",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/19856.png",
+    "symbol": "CAT",
+    "name": "Catcoin",
+    "type": "SPL-TOKEN",
+    "contract": "7hWcHohzwtLddDUG81H2PkWq6KEkMtSDNkYXsso18Fy3",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/20605.png",
+    "symbol": "TAI",
+    "name": "TARS Protocol",
+    "type": "SPL-TOKEN",
+    "contract": "Hax9LTgsQkze1YFychnBLtFH8gYbQKtKfWKKg2SP6gdD",
     "support": {
       "biometric": true,
       "card": false,
@@ -50326,6 +50522,34 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/20734.png",
+    "name": "Moonwell",
+    "contract": "0xa88594d404727625a9437c3f886c7643872296ae",
+    "symbol": "WELL",
+    "type": "BASE-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6536.png",
+    "name": "MANTRA",
+    "contract": "0x3992b27da26848c2b19cea6fd25ad5568b68ab98",
+    "symbol": "OM",
+    "type": "BASE-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/825.png",
     "name": "Tether",
     "contract": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
@@ -51370,6 +51594,42 @@
     "support": {
       "biometric": true,
       "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/12885.png",
+    "name": "Astar",
+    "symbol": "ASTR",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/16399.png",
+    "name": "Coreum",
+    "symbol": "CORE",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/16399.png",
+    "name": "CoreTest",
+    "symbol": "tCORE",
+    "support": {
+      "biometric": true,
+      "card": false,
       "ethCard": false,
       "klayCard": false,
       "software": true
