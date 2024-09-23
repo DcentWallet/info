@@ -51617,7 +51617,7 @@
     "symbol": "CORE",
     "support": {
       "biometric": true,
-      "card": true,
+      "card": false,
       "ethCard": false,
       "klayCard": false,
       "software": true
@@ -51629,7 +51629,7 @@
     "symbol": "tCORE",
     "support": {
       "biometric": true,
-      "card": true,
+      "card": false,
       "ethCard": false,
       "klayCard": false,
       "software": true
