@@ -51622,17 +51622,5 @@
       "klayCard": false,
       "software": true
     }
-  },
-  {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/16399.png",
-    "name": "CoreTest",
-    "symbol": "tCORE",
-    "support": {
-      "biometric": true,
-      "card": false,
-      "ethCard": false,
-      "klayCard": false,
-      "software": true
-    }
   }
 ]
