@@ -37,7 +37,6 @@
     "ECASH": ["ECASH"],
     "ETH-CLASSIC": ["ETH-CLASSIC"],
     "ETHEREUM": ["ETHEREUM"],
-    "HAVAH": ["HAVAH"],
     "HEDERA": ["HEDERA"],
     "HORIZEN": ["HORIZEN"],
     "KLAYTN": ["KLAYTN"],
@@ -55,10 +54,8 @@
     "STELLAR": ["STELLAR"],
     "TEZOS": ["TEZOS"],
     "TRON": ["TRON"],
-    "VECHAIN": ["VECHAIN"],
     "XINFIN": ["XINFIN"],
-    "ZCASH": ["ZCASH"],
-    "ALGORAND": ["ALGORAND"]
+    "ZCASH": ["ZCASH"]
   },
   "tokenTickerMap": {
     "BSC": "BEP20",
@@ -88,7 +85,6 @@
     "CONFLUX": "CFX-CRC20",
     "ETH-CLASSIC": "ETC-ERC20",
     "ETHEREUM": "ERC20",
-    "HAVAH": "HAVAH-HSP20",
     "HEDERA": "HEDERA-HTS",
     "KLAYTN": "KRC20",
     "LUNIVERSE": "LUNIVERSE-TKN",
@@ -101,9 +97,7 @@
     "STELLAR": "STELLAR-TA",
     "TEZOS": "XTZ-FA",
     "TRON": "TRC-TOKEN",
-    "VECHAIN": "VECHAIN-ERC20",
-    "XINFIN": "XRC20",
-    "ALGORAND": "ALGO-ASSET"
+    "XINFIN": "XRC20"
   },
   "supportedBlockchains": [
     "BITCOIN",
@@ -143,7 +137,6 @@
     "ECASH",
     "ETH-CLASSIC",
     "ETHEREUM",
-    "HAVAH",
     "HEDERA",
     "HORIZEN",
     "KLAYTN",
@@ -161,10 +154,8 @@
     "STELLAR",
     "TEZOS",
     "TRON",
-    "VECHAIN",
     "XINFIN",
-    "ZCASH",
-    "ALGORAND"
+    "ZCASH"
   ],
   "evmBlockchains": [
     "BSC",
@@ -240,10 +231,8 @@
     "stellar": "STELLAR",
     "tezos": "TEZOS",
     "tron": "TRON",
-    "vechainthor": "VECHAIN",
     "xinfin network": "XINFIN",
     "zcash": "ZCASH",
-    "algorand": "ALGORAND",
     "bitcoin_sv": "BITCOIN-SV",
     "bitcoin_cash": "BITCOINCASH",
     "BASE": "BASE",
@@ -270,7 +259,6 @@
     "stx": "STACKS",
     "xtz": "TEZOS",
     "trx": "TRON",
-    "vet": "VECHAIN",
     "xdc": "XINFIN",
     "zec": "ZCASH",
     "dgb": "DIGIBYTE",
@@ -282,7 +270,6 @@
     "one": "HARMONY",
     "celo": "CELO",
     "klay": "KLAYTN",
-    "algo": "ALGORAND",
     "dot": "POLKADOT",
     "hbar": "HEDERA",
     "zen": "HORIZEN",
