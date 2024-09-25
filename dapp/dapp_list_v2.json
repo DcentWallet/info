@@ -43,7 +43,7 @@
                 "eth"
             ],
             "category": [],
-            "iconPath": "icon_swap.png",
+            "iconPath": "icon_swap_x.png",
             "type": "dapp_dcent",
             "device": "ble_dongle",
             "externalWindow": false,
