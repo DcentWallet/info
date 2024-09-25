@@ -49091,72 +49091,6 @@
     }
   },
   {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6636.png",
-    "symbol": "DOT",
-    "name": "Polkadot",
-    "type": "XC20",
-    "contract": "0.340282366920938463463374607431768211455",
-    "support": {
-      "biometric": true,
-      "card": false,
-      "ethCard": false,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
-    "symbol": "USDT",
-    "name": "Tether USD",
-    "type": "XC20",
-    "contract": "1.4294969280",
-    "support": {
-      "biometric": true,
-      "card": false,
-      "ethCard": false,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
-    "symbol": "ACA",
-    "name": "Acala",
-    "type": "XC20",
-    "contract": "2.18446744073709551616",
-    "support": {
-      "biometric": true,
-      "card": false,
-      "ethCard": false,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
-    "symbol": "aSEED",
-    "name": "aUSD SEED",
-    "type": "XC20",
-    "contract": "3.18446744073709551617",
-    "support": {
-      "biometric": true,
-      "card": false,
-      "ethCard": false,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
-    "symbol": "GLMR",
-    "name": "Glimmer",
-    "type": "XC20",
-    "contract": "4.18446744073709551619",
-    "support": {
-      "biometric": true,
-      "card": false,
-      "ethCard": false,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/11840.png",
     "name": "Optimism",
     "contract": "0x4200000000000000000000000000000000000042",
@@ -51600,6 +51534,72 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6636.png",
+    "name": "Polkadot",
+    "contract": "0.340282366920938463463374607431768211455",
+    "symbol": "DOT",
+    "type": "ASTR-XC20",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "name": "Tether USD",
+    "contract": "1.4294969280",
+    "symbol": "USDT",
+    "type": "ASTR-XC20",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "name": "Acala",
+    "contract": "2.18446744073709551616",
+    "symbol": "ACA",
+    "type": "ASTR-XC20",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "name": "aUSD SEED",
+    "contract": "3.18446744073709551617",
+    "symbol": "aSEED",
+    "type": "ASTR-XC20",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "name": "Glimmer",
+    "contract": "4.18446744073709551619",
+    "symbol": "GLMR",
+    "type": "ASTR-XC20",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/12885.png",
     "name": "Astar",
     "symbol": "ASTR",
@@ -51615,18 +51615,6 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/16399.png",
     "name": "Coreum",
     "symbol": "CORE",
-    "support": {
-      "biometric": true,
-      "card": false,
-      "ethCard": false,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/16399.png",
-    "name": "CoreTest",
-    "symbol": "tCORE",
     "support": {
       "biometric": true,
       "card": false,
