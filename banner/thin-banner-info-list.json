@@ -34,6 +34,23 @@
           "height": "14.44vw",
           "background-color": "#F1FEFE"
         }
+      },
+      "ja": {
+        "desktop": {
+          "path": "../images/en/pc_1920x60_referral_EN.png",
+          "height": "60px",
+          "background-color": "#262626"
+        },
+        "tablet": {
+          "path": "../images/en/mobile_768x120_referral_EN.png",
+          "height": "60px",
+          "background-color": "#F1FEFE"
+        },
+        "mobile": {
+          "path": "../images/en/mobile_768x120_referral_EN.png",
+          "height": "14.44vw",
+          "background-color": "#F1FEFE"
+        }
       }
     },
     "link": {
@@ -44,6 +61,10 @@
       "ko": {
         "internal": false,
         "external": "https://store-kr.dcentwallet.com/pages/dcent-referral-program?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202407_referral_v01"
+      },
+      "ja": {
+        "internal": false,
+        "external": "https://store.dcentwallet.com/ja/pages/dcent-referral-program?utm_source=discovery_banner&utm_medium=dcent-web&utm_campaign=202407_referral_v01"
       }
     },
     "period": { 
@@ -85,6 +106,23 @@
           "height": "14.44vw",
           "background-color": "#101010"
         }
+      },
+      "ja": {
+        "desktop": {
+          "path": "../images/en/pc_1920x60_sale_EN.png",
+          "height": "60px",
+          "background-color": "#262626"
+        },
+        "tablet": {
+          "path": "../images/en/mobile_768x120_sale_EN.png",
+          "height": "60px",
+          "background-color": "#101010"
+        },
+        "mobile": {
+          "path": "../images/en/mobile_768x120_sale_EN.png",
+          "height": "14.44vw",
+          "background-color": "#101010"
+        }
       }
     },
     "link": {
@@ -95,6 +133,10 @@
       "ko": {
         "internal": false,
         "external": "https://store-kr.dcentwallet.com/"
+      },
+      "ja": {
+        "internal": false,
+        "external": "https://store.dcentwallet.com/ja"
       }
     }
   },
