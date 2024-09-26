@@ -38,7 +38,7 @@
                 "ko": "다양한 암호화폐 거래 플랫폼을 통해 3,000개 이상의 암호화폐를 빠르고 간편하게 교환할 수 있습니다.",
                 "ja": "様々な暗号資産向けの取引プラットフォーム上より、実に3,000種類にもおよぶ仮想通貨を、シンプル且つスピーディーに交換することが可能です。"
             },
-            "link": "https://pre-swap-x.dcentwallet.com/?utm_source=discovery&utm_medium=swap",
+            "link": "https://swap-x.dcentwallet.com/?utm_source=discovery&utm_medium=swap",
             "kind": [
                 "eth"
             ],
@@ -52,7 +52,7 @@
                 "ios": "5.16.2"
             },
             "platform": "android",
-            "preRelease": true,
+            "preRelease": false,
             "restrictionPolicy": true
         },
         {
@@ -67,7 +67,7 @@
                 "ko": "다양한 암호화폐 거래 플랫폼에서 200개 이상의 암호화폐를 빠르고 간편하게 교환할 수 있습니다.",
                 "ja": "様々な暗号資産の取引プラットフォーム上から、実に200種類以上の暗号資産をスピーディーに、そしてスマートな方法でスワップ(交換)することができます。"
             },
-            "link": "https://exchange.dcentwallet.com?utm_source=discovery",
+            "link": "https://swap-x.dcentwallet.com/?utm_source=discovery&utm_medium=exchange",
             "kind": [],
             "category": [],
             "iconPath": "icon_exchange.png",
@@ -104,6 +104,7 @@
                 "ios": "5.16.2"
             },
             "platform": "android",
+            "preRelease": true,
             "restrictionPolicy": true
         },
         {
@@ -221,7 +222,7 @@
                     "name": {
                         "en": "Songbird",
                         "ko": "송버드",
-                        "ja": "Songbird"   
+                        "ja": "Songbird"
                     }
                 }
             ],
@@ -253,7 +254,7 @@
                     "name":  {
                         "en": "Songbird",
                         "ko": "송버드",
-                        "ja": "Songbird"   
+                        "ja": "Songbird"
                     }
                 }
             ],
