@@ -1,5 +1,5 @@
 {
-    "restriction_policy": true,
+    "restriction_policy": false,
     "restricted_countries": [
         "KR"
     ],
