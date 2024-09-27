@@ -339,5 +339,14 @@
     "BASE",
     "ARBITRUM",
     "AVALANCHE"
+  ],
+  "crossSupportedChains": [
+    "ETHEREUM",
+    "OPTIMISM",
+    "BSC",
+    "POLYGON",
+    "BASE",
+    "ARBITRUM",
+    "AVALANCHE"
   ]
 }
