@@ -79,6 +79,16 @@
             },
             "link": "https://swap-x.dcentwallet.com/?utm_source=discovery&utm_medium=exchange",
             "kind": [],
+            "network": [
+                {
+                    "id": "ethereum-mainnet",
+                    "name": {
+                        "en": "Ethereum",
+                        "ko": "이더리움",
+                        "ja": "Ethereum"
+                    }
+                }
+            ],
             "category": [],
             "iconPath": "icon_exchange.png",
             "type": "dapp_dcent",
