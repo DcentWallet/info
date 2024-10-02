@@ -236,7 +236,10 @@
     "bitcoin_sv": "BITCOIN-SV",
     "bitcoin_cash": "BITCOINCASH",
     "BASE": "BASE",
-    "stacks": "STACKS"
+    "stacks": "STACKS",
+    "flr": "FLARE",
+    "harmony": "HARMONY",
+    "cronos": "CRONOS"
   },
   "changenow": {
     "btc": "BITCOIN",
@@ -276,9 +279,10 @@
     "rvn": "RAVENCOIN",
     "cfx": "CONFLUX",
     "base": "BASE",
-    "cronos": "CRONOS",
+    "cro": "CRONOS",
     "kcc": "KCC",
-    "boba": "BOBA"
+    "boba": "BOBA",
+    "flr": "FLARE"
   },
   "okx": {
     "1": "ETHEREUM",
