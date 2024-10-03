@@ -28975,6 +28975,34 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/29780.png",
+    "symbol": "CSWAP",
+    "name": "ChainSwap",
+    "type": "ERC20",
+    "contract": "0xae41b275aaaf484b541a5881a2dded9515184cca",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/32994.png",
+    "symbol": "CBBTC",
+    "name": "Coinbase Wrapped BTC",
+    "type": "ERC20",
+    "contract": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/logo_doc.svg",
     "symbol": "DOC",
     "name": "Dollar on Chain",
@@ -45310,6 +45338,48 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4092.png",
+    "symbol": "DUSK",
+    "name": "Dusk Network",
+    "type": "BEP20",
+    "contract": "0xb2bd0749dbe21f623d9baba856d3b0f0e1bfec9c",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/32503.png",
+    "symbol": "NOTAI",
+    "name": "NOTAI",
+    "type": "BEP20",
+    "contract": "0xcf10117b30c7a5fc7c77b611bfc2555610dd4b3a",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/15752.png",
+    "symbol": "BLOCK",
+    "name": "Blockasset",
+    "type": "BEP20",
+    "contract": "0xbc7a566b85ef73f935e640a06b5a8b031cd975df",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8918.png",
     "symbol": "MAUSDC",
     "name": "Matic Aave Interest Bearing USDC",
@@ -48655,6 +48725,34 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/31601.png",
+    "symbol": "SELFIE",
+    "name": "SelfieDogCoin",
+    "type": "SPL-TOKEN",
+    "contract": "9WPTUkh8fKuCnepRWoPYLH3aK9gSjPHFDenBq2X1Czdp",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/15752.png",
+    "symbol": "BLOCK",
+    "name": "Blockasset",
+    "type": "SPL-TOKEN",
+    "contract": "NFTUkR4u7wKxy9QLaX2TGvd9oZSWoMo4jqSJqdMb7Nk",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/9078.png",
     "symbol": "FC",
     "name": "FansCoin",
@@ -50474,6 +50572,34 @@
     "name": "MANTRA",
     "contract": "0x3992b27da26848c2b19cea6fd25ad5568b68ab98",
     "symbol": "OM",
+    "type": "BASE-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/1974.png",
+    "name": "Propy",
+    "contract": "0x18dd5b087bca9920562aff7a0199b96b9230438b",
+    "symbol": "PRO",
+    "type": "BASE-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/32994.png",
+    "name": "Coinbase Wrapped BTC",
+    "contract": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+    "symbol": "CBBTC",
     "type": "BASE-ERC20",
     "support": {
       "biometric": true,
