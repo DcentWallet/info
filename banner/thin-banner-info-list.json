@@ -1,170 +1,243 @@
 [
-  {
-    "img": {
-      "en": {
-        "desktop": {
-          "path": "../images/en/pc_1920x60_referral_EN.png",
-          "height": "60px",
-          "background-color": "#262626"
+    {
+        "img": {
+            "en": {
+                "desktop": {
+                    "path": "../images/en/prime-day_pc_1920x60_en.png",
+                    "height": "60px",
+                    "background-color": "#262626"
+                },
+                "tablet": {
+                    "path": "../images/en/prime-day_mobile_768x120_en.png",
+                    "height": "60px",
+                    "background-color": "#061F23"
+                },
+                "mobile": {
+                    "path": "../images/en/prime-day_mobile_768x120_en.png",
+                    "height": "14.44vw",
+                    "background-color": "#061F23"
+                }
+            },
+            "ko": {
+                "desktop": {
+                    "path": "../images/ko/prime-day_pc_1920x60_kr.png",
+                    "height": "60px",
+                    "background-color": "#262626"
+                },
+                "tablet": {
+                    "path": "../images/ko/prime-day_mobile_768x120_kr.png",
+                    "height": "60px",
+                    "background-color": "#061F23"
+                },
+                "mobile": {
+                    "path": "../images/ko/prime-day_mobile_768x120_kr.png",
+                    "height": "14.44vw",
+                    "background-color": "#061F23"
+                }
+            },
+            "ja": {
+                "desktop": {
+                    "path": "../images/ja/prime-day_pc_1920x60_JP.png",
+                    "height": "60px",
+                    "background-color": "#262626"
+                },
+                "tablet": {
+                    "path": "../images/ja/prime-day_mobile_768x120_JP.png",
+                    "height": "60px",
+                    "background-color": "#061F23"
+                },
+                "mobile": {
+                    "path": "../images/ja/prime-day_mobile_768x120_JP.png",
+                    "height": "14.44vw",
+                    "background-color": "#061F23"
+                }
+            }
         },
-        "tablet": {
-          "path": "../images/en/mobile_768x120_referral_EN.png",
-          "height": "60px",
-          "background-color": "#F1FEFE"
+        "link": {
+            "en": {
+                "internal": false,
+                "external": "https://store.dcentwallet.com/products/biometric-wallet"
+            },
+            "ko": {
+                "internal": false,
+                "external": "https://store-kr.dcentwallet.com/products/%EC%A7%80%EB%AC%B8%EC%9D%B8%EC%A6%9D%ED%98%95-%EC%A7%80%EA%B0%91"
+            },
+            "ja": {
+                "internal": false,
+                "external": "https://store.dcentwallet.com/ja/products/biometric-wallet"
+            }
         },
-        "mobile": {
-          "path": "../images/en/mobile_768x120_referral_EN.png",
-          "height": "14.44vw",
-          "background-color": "#F1FEFE"
+        "period": {
+            "start": "2024-10-08T00:00:00.000Z",
+            "end": "2024-10-13T23:59:59.000Z"
         }
-      },
-      "ko": {
-        "desktop": {
-          "path": "../images/ko/pc_1920x60_referral_KR.png",
-          "height": "60px",
-          "background-color": "#262626"
-        },
-        "tablet": {
-          "path": "../images/ko/mobile_768x120_referral_KR.png",
-          "height": "60px",
-          "background-color": "#F1FEFE"
-        },
-        "mobile": {
-          "path": "../images/ko/mobile_768x120_referral_KR.png",
-          "height": "14.44vw",
-          "background-color": "#F1FEFE"
-        }
-      },
-      "ja": {
-        "desktop": {
-          "path": "../images/en/pc_1920x60_referral_EN.png",
-          "height": "60px",
-          "background-color": "#262626"
-        },
-        "tablet": {
-          "path": "../images/en/mobile_768x120_referral_EN.png",
-          "height": "60px",
-          "background-color": "#F1FEFE"
-        },
-        "mobile": {
-          "path": "../images/en/mobile_768x120_referral_EN.png",
-          "height": "14.44vw",
-          "background-color": "#F1FEFE"
-        }
-      }
     },
-    "link": {
-      "en": {
-        "internal": false,
-        "external": "https://store.dcentwallet.com/pages/dcent-referral-program?utm_source=discovery_banner&utm_medium=dcent-web&utm_campaign=202407_referral_v01"
-      },
-      "ko": {
-        "internal": false,
-        "external": "https://store-kr.dcentwallet.com/pages/dcent-referral-program?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202407_referral_v01"
-      },
-      "ja": {
-        "internal": false,
-        "external": "https://store.dcentwallet.com/ja/pages/dcent-referral-program?utm_source=discovery_banner&utm_medium=dcent-web&utm_campaign=202407_referral_v01"
-      }
+    {
+        "img": {
+            "en": {
+                "desktop": {
+                    "path": "../images/en/pc_1920x60_referral_EN.png",
+                    "height": "60px",
+                    "background-color": "#262626"
+                },
+                "tablet": {
+                    "path": "../images/en/mobile_768x120_referral_EN.png",
+                    "height": "60px",
+                    "background-color": "#F1FEFE"
+                },
+                "mobile": {
+                    "path": "../images/en/mobile_768x120_referral_EN.png",
+                    "height": "14.44vw",
+                    "background-color": "#F1FEFE"
+                }
+            },
+            "ko": {
+                "desktop": {
+                    "path": "../images/ko/pc_1920x60_referral_KR.png",
+                    "height": "60px",
+                    "background-color": "#262626"
+                },
+                "tablet": {
+                    "path": "../images/ko/mobile_768x120_referral_KR.png",
+                    "height": "60px",
+                    "background-color": "#F1FEFE"
+                },
+                "mobile": {
+                    "path": "../images/ko/mobile_768x120_referral_KR.png",
+                    "height": "14.44vw",
+                    "background-color": "#F1FEFE"
+                }
+            },
+            "ja": {
+                "desktop": {
+                    "path": "../images/en/pc_1920x60_referral_EN.png",
+                    "height": "60px",
+                    "background-color": "#262626"
+                },
+                "tablet": {
+                    "path": "../images/en/mobile_768x120_referral_EN.png",
+                    "height": "60px",
+                    "background-color": "#F1FEFE"
+                },
+                "mobile": {
+                    "path": "../images/en/mobile_768x120_referral_EN.png",
+                    "height": "14.44vw",
+                    "background-color": "#F1FEFE"
+                }
+            }
+        },
+        "link": {
+            "en": {
+                "internal": false,
+                "external": "https://store.dcentwallet.com/pages/dcent-referral-program?utm_source=discovery_banner&utm_medium=dcent-web&utm_campaign=202407_referral_v01"
+            },
+            "ko": {
+                "internal": false,
+                "external": "https://store-kr.dcentwallet.com/pages/dcent-referral-program?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202407_referral_v01"
+            },
+            "ja": {
+                "internal": false,
+                "external": "https://store.dcentwallet.com/ja/pages/dcent-referral-program?utm_source=discovery_banner&utm_medium=dcent-web&utm_campaign=202407_referral_v01"
+            }
+        },
+        "period": {
+            "start": "2024-07-02T00:00:00.000Z"
+        }
     },
-    "period": { 
-      "start": "2024-07-02T00:00:00.000Z"
+    {
+        "img": {
+            "en": {
+                "desktop": {
+                    "path": "../images/en/pc_1920x60_sale_EN.png",
+                    "height": "60px",
+                    "background-color": "#262626"
+                },
+                "tablet": {
+                    "path": "../images/en/mobile_768x120_sale_EN.png",
+                    "height": "60px",
+                    "background-color": "#101010"
+                },
+                "mobile": {
+                    "path": "../images/en/mobile_768x120_sale_EN.png",
+                    "height": "14.44vw",
+                    "background-color": "#101010"
+                }
+            },
+            "ko": {
+                "desktop": {
+                    "path": "../images/ko/pc_1920x60_sale_KR.png",
+                    "height": "60px",
+                    "background-color": "#262626"
+                },
+                "tablet": {
+                    "path": "../images/ko/mobile_768x120_sale_KR.png",
+                    "height": "60px",
+                    "background-color": "#101010"
+                },
+                "mobile": {
+                    "path": "../images/ko/mobile_768x120_sale_KR.png",
+                    "height": "14.44vw",
+                    "background-color": "#101010"
+                }
+            },
+            "ja": {
+                "desktop": {
+                    "path": "../images/en/pc_1920x60_sale_EN.png",
+                    "height": "60px",
+                    "background-color": "#262626"
+                },
+                "tablet": {
+                    "path": "../images/en/mobile_768x120_sale_EN.png",
+                    "height": "60px",
+                    "background-color": "#101010"
+                },
+                "mobile": {
+                    "path": "../images/en/mobile_768x120_sale_EN.png",
+                    "height": "14.44vw",
+                    "background-color": "#101010"
+                }
+            }
+        },
+        "link": {
+            "en": {
+                "internal": false,
+                "external": "https://store.dcentwallet.com/"
+            },
+            "ko": {
+                "internal": false,
+                "external": "https://store-kr.dcentwallet.com/"
+            },
+            "ja": {
+                "internal": false,
+                "external": "https://store.dcentwallet.com/ja"
+            }
+        }
+    },
+    {
+        "img": {
+            "en": {
+                "desktop": {
+                    "path": "../images/en/Freeshipping_pc_1920x60_EN.png",
+                    "height": "60px",
+                    "background-color": "#262626"
+                },
+                "tablet": {
+                    "path": "../images/en/Freeshipping_tablet_1399x60_EN.png",
+                    "height": "60px",
+                    "background-color": "#262626"
+                },
+                "mobile": {
+                    "path": "../images/en/Freeshipping_mob_768x60_EN.png",
+                    "height": "14.44vw",
+                    "background-color": "#262626"
+                }
+            }
+        },
+        "link": {
+            "en": {
+                "internal": false,
+                "external": "https://store.dcentwallet.com/collections/frontpage/products/biometric-wallet"
+            }
+        }
     }
-  },
-  {
-    "img": {
-      "en": {
-        "desktop": {
-          "path": "../images/en/pc_1920x60_sale_EN.png",
-          "height": "60px",
-          "background-color": "#262626"
-        },
-        "tablet": {
-          "path": "../images/en/mobile_768x120_sale_EN.png",
-          "height": "60px",
-          "background-color": "#101010"
-        },
-        "mobile": {
-          "path": "../images/en/mobile_768x120_sale_EN.png",
-          "height": "14.44vw",
-          "background-color": "#101010"
-        }
-      },
-      "ko": {
-        "desktop": {
-          "path": "../images/ko/pc_1920x60_sale_KR.png",
-          "height": "60px",
-          "background-color": "#262626"
-        },
-        "tablet": {
-          "path": "../images/ko/mobile_768x120_sale_KR.png",
-          "height": "60px",
-          "background-color": "#101010"
-        },
-        "mobile": {
-          "path": "../images/ko/mobile_768x120_sale_KR.png",
-          "height": "14.44vw",
-          "background-color": "#101010"
-        }
-      },
-      "ja": {
-        "desktop": {
-          "path": "../images/en/pc_1920x60_sale_EN.png",
-          "height": "60px",
-          "background-color": "#262626"
-        },
-        "tablet": {
-          "path": "../images/en/mobile_768x120_sale_EN.png",
-          "height": "60px",
-          "background-color": "#101010"
-        },
-        "mobile": {
-          "path": "../images/en/mobile_768x120_sale_EN.png",
-          "height": "14.44vw",
-          "background-color": "#101010"
-        }
-      }
-    },
-    "link": {
-      "en": {
-        "internal": false,
-        "external": "https://store.dcentwallet.com/"
-      },
-      "ko": {
-        "internal": false,
-        "external": "https://store-kr.dcentwallet.com/"
-      },
-      "ja": {
-        "internal": false,
-        "external": "https://store.dcentwallet.com/ja"
-      }
-    }
-  },
-  {
-    "img": {
-      "en": {
-        "desktop": {
-          "path": "../images/en/Freeshipping_pc_1920x60_EN.png",
-          "height": "60px",
-          "background-color": "#262626"
-        },
-        "tablet": {
-          "path": "../images/en/Freeshipping_tablet_1399x60_EN.png",
-          "height": "60px",
-          "background-color": "#262626"
-        },
-        "mobile": {
-          "path": "../images/en/Freeshipping_mob_768x60_EN.png",
-          "height": "14.44vw",
-          "background-color": "#262626"
-        }
-      }
-    },
-    "link": {
-      "en": {
-        "internal": false,
-        "external": "https://store.dcentwallet.com/collections/frontpage/products/biometric-wallet"
-      }
-    }
-  }
 ]

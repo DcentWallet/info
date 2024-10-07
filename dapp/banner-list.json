@@ -1,5 +1,33 @@
 [
     {
+        "name": "D'CENT-prime-day",
+        "title": "D'CENT-prime-day",
+        "bgColor": "#061F23",
+        "externalWindow": true,
+        "locale": {
+            "en": {
+                "description": "",
+                "link": "https://store.dcentwallet.com/products/biometric-wallet?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202410_prime-day_v01",
+                "imagePath": "prime-day_app_380x160_en.png",
+                "imagePath_480": "prime-day_app_480x160_en.png"
+            },
+            "ko": {
+                "description": "",
+                "link": "https://store-kr.dcentwallet.com/products/%EC%A7%80%EB%AC%B8%EC%9D%B8%EC%A6%9D%ED%98%95-%EC%A7%80%EA%B0%91?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202410_prime-day_v01",
+                "imagePath": "prime-day_app_480x160_kr.png",
+                "imagePath_480": "prime-day_app_380x160_kr.png"
+            },
+            "ja": {
+                "description": "",
+                "link": "https://store.dcentwallet.com/ja/products/biometric-wallet?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202410_prime-day_v01",
+                "imagePath": "prime-day_app_380x160_JP.png",
+                "imagePath_480": "prime-day_app_480x160_JP.png"
+            }
+        },
+        "startTimestamp": 1728345600000,
+        "endTimestamp": 1728863999000
+    },
+    {
         "name": "DCENT-referral",
         "title": "DCENT referral",
         "bgColor": "#F1FEFE",
@@ -31,6 +59,34 @@
         "title": "DCENT EVENT",
         "bgColor": "#101010",
         "externalWindow": true,
+        "endTimestamp": 1728345600000,
+        "locale": {
+            "en": {
+                "description": "",
+                "link": "https://store.dcentwallet.com/?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202406_sale_v01",
+                "imagePath": "app_380x160_sale_EN.png",
+                "imagePath_480": "app_480x160_sale_EN.png"
+            },
+            "ko": {
+                "description": "",
+                "link": "https://store-kr.dcentwallet.com/?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202406_sale_v01",
+                "imagePath": "app_380x160_sale_KR.png",
+                "imagePath_480": "app_480x160_sale_KR.png"
+            },
+            "ja": {
+                "description": "",
+                "link": "https://store.dcentwallet.com/ja/?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202406_sale_v01",
+                "imagePath": "app_380x160_sale_JP.png",
+                "imagePath_480": "app_480x160_sale_JP.png"
+            }
+        }
+    },
+    {
+        "name": "DCENT-Event-2",
+        "title": "DCENT EVENT 2",
+        "bgColor": "#101010",
+        "externalWindow": true,
+        "startTimestamp": 1728863999000,
         "locale": {
             "en": {
                 "description": "",
