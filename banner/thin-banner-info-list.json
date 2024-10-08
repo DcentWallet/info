@@ -211,6 +211,9 @@
                 "internal": false,
                 "external": "https://store.dcentwallet.com/ja"
             }
+        },
+        "period": {
+            "start": "2024-10-13T23:59:59.000Z"
         }
     },
     {
