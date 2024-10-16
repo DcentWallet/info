@@ -29003,6 +29003,90 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/32376.png",
+    "symbol": "AVAIL",
+    "name": "Avail",
+    "type": "ERC20",
+    "contract": "0xeeb4d8400aeefafc1b2953e0094134a887c76bd8",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6520.png",
+    "symbol": "HOPR",
+    "name": "HOPR",
+    "type": "ERC20",
+    "contract": "0xf5581dfefd8fb0e4aec526be659cfab1f8c781da",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/28081.png",
+    "symbol": "SPX",
+    "name": "SPX6900",
+    "type": "ERC20",
+    "contract": "0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/28230.png",
+    "symbol": "BIGTIME",
+    "name": "Big Time",
+    "type": "ERC20",
+    "contract": "0x64bc2ca1be492be7185faa2c8835d9b824c8a194",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/30902.png",
+    "symbol": "WOLF",
+    "name": "LandWolf",
+    "type": "ERC20",
+    "contract": "0x67466be17df832165f8c80a5a120ccc652bd7e69",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/31569.png",
+    "symbol": "TROG",
+    "name": "Trog",
+    "type": "ERC20",
+    "contract": "0x2077d81d0c5258230d5a195233941547cb5f0989",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/logo_doc.svg",
     "symbol": "DOC",
     "name": "Dollar on Chain",
@@ -48753,6 +48837,34 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/28081.png",
+    "symbol": "SPX",
+    "name": "SPX6900",
+    "type": "SPL-TOKEN",
+    "contract": "J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/30063.png",
+    "symbol": "GIGA",
+    "name": "Gigachad",
+    "type": "SPL-TOKEN",
+    "contract": "63LfDmNb3MQ8mw9MtZ2To9bEA2M71kZUUGq5tiJxcqj9",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/9078.png",
     "symbol": "FC",
     "name": "FansCoin",
@@ -49049,6 +49161,20 @@
     "name": "Tether USD",
     "type": "NEAR-TOKEN",
     "contract": "usdt.tether-token.near",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/28785.png",
+    "symbol": "NEAT",
+    "name": "NEAT",
+    "type": "NEAR-TOKEN",
+    "contract": "neat.nrc-20.near",
     "support": {
       "biometric": true,
       "card": false,
@@ -49680,6 +49806,20 @@
     "name": "Shapeshift FOX Token",
     "contract": "0x21a42669643f45bc0e086b8fc2ed70c23d67509d",
     "symbol": "FOX",
+    "type": "xDai-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6520.png",
+    "name": "HOPR",
+    "contract": "0xd057604a14982fe8d88c5fc25aac3267ea142a08",
+    "symbol": "HOPR",
     "type": "xDai-ERC20",
     "support": {
       "biometric": true,
@@ -50600,6 +50740,34 @@
     "name": "Coinbase Wrapped BTC",
     "contract": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
     "symbol": "CBBTC",
+    "type": "BASE-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/28081.png",
+    "name": "SPX6900",
+    "contract": "0x50da645f148798f68ef2d7db7c1cb22a6819bb2c",
+    "symbol": "SPX",
+    "type": "BASE-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/17799.png",
+    "name": "Axelar",
+    "contract": "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f",
+    "symbol": "AXL",
     "type": "BASE-ERC20",
     "support": {
       "biometric": true,
