@@ -238,8 +238,7 @@
     "BASE": "BASE",
     "stacks": "STACKS",
     "flr": "FLARE",
-    "harmony": "HARMONY",
-    "cronos": "CRONOS"
+    "harmony": "HARMONY"
   },
   "changenow": {
     "btc": "BITCOIN",
