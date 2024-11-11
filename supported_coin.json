@@ -29087,6 +29087,90 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/30494.png",
+    "symbol": "EIGEN",
+    "name": "Eigenlayer",
+    "type": "ERC20",
+    "contract": "0xec53bf9167f50cdeb3ae105f56099aaab9061f83",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/23794.png",
+    "symbol": "OPTI",
+    "name": "Optimus AI",
+    "type": "ERC20",
+    "contract": "0x562e362876c8aee4744fc2c6aac8394c312d215d",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/30859.png",
+    "symbol": "HOPPY",
+    "name": "Hoppy",
+    "type": "ERC20",
+    "contract": "0x6e79b51959cf968d87826592f46f819f92466615",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/29252.png",
+    "symbol": "HOLD",
+    "name": "Everybody",
+    "type": "ERC20",
+    "contract": "0x68b36248477277865c64dfc78884ef80577078f3",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/23037.png",
+    "symbol": "HIFI",
+    "name": "Hifi Finance",
+    "type": "ERC20",
+    "contract": "0x4b9278b94a1112cad404048903b8d343a810b07e",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/30008.png",
+    "symbol": "APU",
+    "name": "Apu Apustaja",
+    "type": "ERC20",
+    "contract": "0x594daad7d77592a2b97b725a7ad59d7e188b5bfa",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/logo_doc.svg",
     "symbol": "DOC",
     "name": "Dollar on Chain",
@@ -48865,6 +48949,34 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/23015.png",
+    "symbol": "NEON",
+    "name": "Neon",
+    "type": "SPL-TOKEN",
+    "contract": "NeonTjSjsuo3rexg9o6vHuMXw62f9V7zvmu8M8Zut44",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/33440.png",
+    "symbol": "GOAT",
+    "name": "Goatseus Maximus",
+    "type": "SPL-TOKEN",
+    "contract": "CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/9078.png",
     "symbol": "FC",
     "name": "FansCoin",
@@ -50768,6 +50880,20 @@
     "name": "Axelar",
     "contract": "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f",
     "symbol": "AXL",
+    "type": "BASE-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/30738.png",
+    "name": "Fungi",
+    "contract": "0x7d9ce55d54ff3feddb611fc63ff63ec01f26d15f",
+    "symbol": "FUNGI",
     "type": "BASE-ERC20",
     "support": {
       "biometric": true,
