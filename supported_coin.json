@@ -29129,7 +29129,7 @@
     }
   },
   {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/29252.png",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/29253.png",
     "symbol": "HOLD",
     "name": "Everybody",
     "type": "ERC20",
@@ -29162,6 +29162,76 @@
     "name": "Apu Apustaja",
     "type": "ERC20",
     "contract": "0x594daad7d77592a2b97b725a7ad59d7e188b5bfa",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5176.png",
+    "symbol": "XAUT",
+    "name": "Tether Gold",
+    "type": "ERC20",
+    "contract": "0x68749665ff8d2d112fa859aa293f07a622782f38",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/29220.png",
+    "symbol": "PORK",
+    "name": "PepeFork",
+    "type": "ERC20",
+    "contract": "0xb9f599ce614feb2e1bbe58f180f370d05b39344e",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/27712.png",
+    "symbol": "PNDC",
+    "name": "PondCoin",
+    "type": "ERC20",
+    "contract": "0x423f4e6138e475d85cf7ea071ac92097ed631eea",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/26403.png",
+    "symbol": "STRDY",
+    "name": "Sturdy",
+    "type": "ERC20",
+    "contract": "0xaeb3607ec434454ceb308f5cd540875efb54309a",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/22858.png",
+    "symbol": "DNX",
+    "name": "Dynex",
+    "type": "ERC20",
+    "contract": "0x9928a8600d14ac22c0be1e8d58909834d7ceaf13",
     "support": {
       "biometric": true,
       "card": true,
@@ -45548,6 +45618,34 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/18679.png",
+    "symbol": "XCN",
+    "name": "Onyxcoin",
+    "type": "BEP20",
+    "contract": "0x7324c7c0d95cebc73eea7e85cbaac0dbdf88a05b",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/19650.png",
+    "symbol": "VOLT",
+    "name": "Volt Inu",
+    "type": "BEP20",
+    "contract": "0x7f792db54b0e580cdc755178443f0430cf799aca",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8918.png",
     "symbol": "MAUSDC",
     "name": "Matic Aave Interest Bearing USDC",
@@ -47205,6 +47303,20 @@
     "name": "SuperVerse",
     "type": "POLYGON-ERC20",
     "contract": "0xa1428174f516f527fafdd146b883bb4428682737",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/19650.png",
+    "symbol": "VOLT",
+    "name": "Volt Inu",
+    "type": "POLYGON-ERC20",
+    "contract": "0x7f792db54b0e580cdc755178443f0430cf799aca",
     "support": {
       "biometric": true,
       "card": true,
@@ -48968,6 +49080,48 @@
     "name": "Goatseus Maximus",
     "type": "SPL-TOKEN",
     "contract": "CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/33093.png",
+    "symbol": "MOODENG",
+    "name": "Moo Deng",
+    "type": "SPL-TOKEN",
+    "contract": "ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/17231.png",
+    "symbol": "SNS",
+    "name": "Synesis One",
+    "type": "SPL-TOKEN",
+    "contract": "SNSNkV9zfG5ZKWQs6x4hxvBRV6s8SqMfSGCtECDvdMd",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/17231.png",
+    "symbol": "PNUT",
+    "name": "Peanut the Squirrel",
+    "type": "SPL-TOKEN",
+    "contract": "2qEHjDLDLbuBgRYvsxhc5D6uDWAivNFZGan56P1tpump",
     "support": {
       "biometric": true,
       "card": false,
@@ -50894,6 +51048,34 @@
     "name": "Fungi",
     "contract": "0x7d9ce55d54ff3feddb611fc63ff63ec01f26d15f",
     "symbol": "FUNGI",
+    "type": "BASE-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/18679.png",
+    "name": "Onyxcoin",
+    "contract": "0x9c632e6aaa3ea73f91554f8a3cb2ed2f29605e0c",
+    "symbol": "XCN",
+    "type": "BASE-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/32889.png",
+    "name": "AUKI",
+    "contract": "0xf9569cfb8fd265e91aa478d86ae8c78b8af55df4",
+    "symbol": "AUKI",
     "type": "BASE-ERC20",
     "support": {
       "biometric": true,
