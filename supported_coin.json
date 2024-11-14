@@ -34824,6 +34824,20 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/31987.png",
+    "symbol": "BBB",
+    "name": "Beny Bad Boy",
+    "type": "XRC20",
+    "contract": "0xfa4ddcfa8e3d0475f544d0de469277cf6e0a6fd1",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://assets.coingecko.com/coins/images/14718/small/BGOV_Logo.png",
     "symbol": "BGOV",
     "name": "BGOV",
@@ -49122,6 +49136,20 @@
     "name": "Peanut the Squirrel",
     "type": "SPL-TOKEN",
     "contract": "2qEHjDLDLbuBgRYvsxhc5D6uDWAivNFZGan56P1tpump",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/33887.png",
+    "symbol": "RAPTOR",
+    "name": "Philosoraptor",
+    "type": "SPL-TOKEN",
+    "contract": "Fss7oX43YpNNWVnRZugZ1NcngR1j8Ar33Z2dLqYfpump",
     "support": {
       "biometric": true,
       "card": false,
