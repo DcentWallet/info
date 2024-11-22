@@ -1,5 +1,33 @@
 [
     {
+        "name": "2024-mega-airdrop",
+        "title": "2024-mega-airdrop",
+        "bgColor": "#000000",
+        "externalWindow": true,
+        "locale": {
+            "en": {
+                "description": "",
+                "link": "https://store.dcentwallet.com/pages/2024-mega-airdrop?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202411_mega_v01",
+                "imagePath": "app_380x160_en.png",
+                "imagePath_480": "app_480x160_en.png"
+            },
+            "ko": {
+                "description": "",
+                "link": "https://store-kr.dcentwallet.com/pages/2024-mega-airdrop?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202411_mega_v01",
+                "imagePath": "app_380x160_kr.png",
+                "imagePath_480": "app_480x160_kr.png"
+            },
+            "ja": {
+                "description": "",
+                "link": "https://store.dcentwallet.com/pages/2024-mega-airdrop?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202411_mega_v01",
+                "imagePath": "app_380x160_ja.png",
+                "imagePath_480": "app_480x160_ja.png"
+            }
+        },
+        "startTimestamp": 1732492800000,
+        "endTimestamp": 1704499200000
+    },
+    {
         "name": "DCENT-Event-2",
         "title": "DCENT EVENT 2",
         "bgColor": "#101010",
