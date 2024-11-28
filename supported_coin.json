@@ -29241,6 +29241,160 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/33824.png",
+    "symbol": "SYRUP",
+    "name": "Syrup",
+    "type": "ERC20",
+    "contract": "0x643c4e15d7d62ad0abec4a9bd4b001aa3ef52d66",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8131.png",
+    "symbol": "CGT",
+    "name": "Curio Gas Token",
+    "type": "ERC20",
+    "contract": "0x0e186357c323c806c1efdad36d217f7a54b63d18",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/27772.png",
+    "symbol": "PYUSD",
+    "name": "PayPal USD",
+    "type": "ERC20",
+    "contract": "0x6c3ea9036406852006290770bedfcaba0e23a0e8",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4166.png",
+    "symbol": "RIO",
+    "name": "Realio Network Token",
+    "type": "ERC20",
+    "contract": "0x94a8b4ee5cd64c79d0ee816f467ea73009f51aa0",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/29420.png",
+    "symbol": "VIRTUAL",
+    "name": "Virtuals Protocol",
+    "type": "ERC20",
+    "contract": "0x44ff8620b8ca30902395a7bd3f2407e1a091bf73",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/20561.png",
+    "symbol": "M87",
+    "name": "MESSIER",
+    "type": "ERC20",
+    "contract": "0x80122c6a83c8202ea365233363d3f4837d13e888",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/28147.png",
+    "symbol": "OMIKAMI",
+    "name": "AMATERASU OMIKAMI",
+    "type": "ERC20",
+    "contract": "0x9e18d5bab2fa94a6a95f509ecb38f8f68322abd3",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/31606.png",
+    "symbol": "RYU",
+    "name": "RyuJin",
+    "type": "ERC20",
+    "contract": "0xca530408c3e552b020a2300debc7bd18820fb42f",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/30142.png",
+    "symbol": "GAGA",
+    "name": "Gaga (Pepe)",
+    "type": "ERC20",
+    "contract": "0xb29dc1703facd2967bb8ade2e392385644c6dca9",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/32778.png",
+    "symbol": "DOGE",
+    "name": "Department Of Government Efficiency",
+    "type": "ERC20",
+    "contract": "0x1121acc14c63f3c872bfca497d10926a6098aac5",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/32778.png",
+    "symbol": "XX",
+    "name": "XX Network",
+    "type": "ERC20",
+    "contract": "0x171120219d3223e008558654ec3254a0f206edb2",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/logo_doc.svg",
     "symbol": "DOC",
     "name": "Dollar on Chain",
@@ -33646,6 +33800,20 @@
     "name": "EURC",
     "type": "STELLAR-TA",
     "contract": "23.EURC-GDHU6WRG4IEQXM5NZ4BMPKOXHW76MZM4Y2IEMFDVXBSDP6SJY4ITNPP2.EURC.1308512",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4166.png",
+    "symbol": "RIO",
+    "name": "Realio Network Token",
+    "type": "STELLAR-TA",
+    "contract": "24.RIO-GBNLJIYH34UWO5YZFA3A3HD3N76R6DOI33N4JONUOHEEYZYCAYTEJ5AK.RIO.75000000",
     "support": {
       "biometric": true,
       "card": false,
@@ -45660,6 +45828,48 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8131.png",
+    "symbol": "CGT",
+    "name": "Curio Gas Token",
+    "type": "BEP20",
+    "contract": "0x61632b49df5ca20846b3220bfc42bda5e32c81ad",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4166.png",
+    "symbol": "RIO",
+    "name": "Realio Network Token",
+    "type": "BEP20",
+    "contract": "0x94a8b4ee5cd64c79d0ee816f467ea73009f51aa0",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7226.png",
+    "symbol": "INJ",
+    "name": "Injective Protocol",
+    "type": "BEP20",
+    "contract": "0xa2b726b1145a4773f68593cf171187d8ebe4d495",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8918.png",
     "symbol": "MAUSDC",
     "name": "Matic Aave Interest Bearing USDC",
@@ -49159,6 +49369,90 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/33291.png",
+    "symbol": "FWOG",
+    "name": "Fwog",
+    "type": "SPL-TOKEN",
+    "contract": "A8C3xuqscfmyLrte3VmTqrAq8kgMASius9AFNANwpump",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/27772.png",
+    "symbol": "PYUSD",
+    "name": "PayPal USD",
+    "type": "SPL-TOKEN",
+    "contract": "2b1kV6DkPAnxd5ixfnxCpjxmKwqjjaYmCZfHsFu24GXo",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/34083.png",
+    "symbol": "ZEREBRO",
+    "name": "Zerebro",
+    "type": "SPL-TOKEN",
+    "contract": "8x5VqbHA8D7NkD52uNuS5nnt3PwA8pLD34ymskeSo2Wn",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/31847.png",
+    "symbol": "WOLF",
+    "name": "LandWolf",
+    "type": "SPL-TOKEN",
+    "contract": "Faf89929Ni9fbg4gmVZTca7eW6NFg877Jqn6MizT3Gvw",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/33686.png",
+    "symbol": "TITS",
+    "name": "We Love Tits",
+    "type": "SPL-TOKEN",
+    "contract": "23CTZMjEYNNZUE4itfn3iv6kgM4xn7X7dx1kVX1Gr8Xi",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/32778.png",
+    "symbol": "DOGE",
+    "name": "Department Of Government Efficiency",
+    "type": "SPL-TOKEN",
+    "contract": "KQijDbNJ6rPCqhtXrfH6gKa5cH3a39At8vHq34nnPbF",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/9078.png",
     "symbol": "FC",
     "name": "FansCoin",
@@ -51104,6 +51398,48 @@
     "name": "AUKI",
     "contract": "0xf9569cfb8fd265e91aa478d86ae8c78b8af55df4",
     "symbol": "AUKI",
+    "type": "BASE-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/30453.png",
+    "name": "Andy",
+    "contract": "0x18a8bd1fe17a1bb9ffb39ecd83e9489cfd17a022",
+    "symbol": "ANDY",
+    "type": "BASE-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/29420.png",
+    "name": "Virtuals Protocol",
+    "contract": "0x0b3e328455c4059eeb9e3f84b5543f74e24e7e1b",
+    "symbol": "VIRTUAL",
+    "type": "BASE-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/30226.png",
+    "name": "mfercoin",
+    "contract": "0xe3086852a4b125803c815a158249ae468a3254ca",
+    "symbol": "MFER",
     "type": "BASE-ERC20",
     "support": {
       "biometric": true,
