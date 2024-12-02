@@ -340,7 +340,9 @@
     "KLAYTN",
     "BASE",
     "ARBITRUM",
-    "AVALANCHE"
+    "AVALANCHE",
+    "TRON",
+    "SOLANA"
   ],
   "crossSupportedChains": [
     "ETHEREUM",
