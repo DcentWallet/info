@@ -8,20 +8,20 @@
             "en": {
                 "description": "",
                 "link": "https://store.dcentwallet.com/pages/2024-mega-airdrop?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202411_mega_v01",
-                "imagePath": "app_380x160_en.png",
-                "imagePath_480": "app_480x160_en.png"
+                "imagePath": "app_380x160__en.png",
+                "imagePath_480": "app_480x160__en.png"
             },
             "ko": {
                 "description": "",
                 "link": "https://store-kr.dcentwallet.com/pages/2024-mega-airdrop?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202411_mega_v01",
-                "imagePath": "app_380x160_kr.png",
-                "imagePath_480": "app_480x160_kr.png"
+                "imagePath": "app_380x160__kr.png",
+                "imagePath_480": "app_480x160__kr.png"
             },
             "ja": {
                 "description": "",
                 "link": "https://store.dcentwallet.com/pages/2024-mega-airdrop?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202411_mega_v01",
-                "imagePath": "app_380x160_ja.png",
-                "imagePath_480": "app_480x160_ja.png"
+                "imagePath": "app_380x160__ja.png",
+                "imagePath_480": "app_480x160__ja.png"
             }
         },
         "startTimestamp": 1732492800000,
