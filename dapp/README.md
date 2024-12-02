@@ -7,7 +7,7 @@
 **실제 json 작성시에는 // 뒤에 있는 주석은 전부 제거하셔야 합니다.**  
 
 ```json
-[
+[  
     {
         "name": "2022_EndOfYear",
         "title": "2022 End OF Year",
