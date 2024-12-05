@@ -300,7 +300,9 @@
     "56": "BSC",
     "66": "OKC",
     "137": "POLYGON",
+    "195": "TRON",
     "250": "FANTOM",
+    "501": "SOLANA",
     "8453": "BASE",
     "42161": "ARBITRUM",
     "43114": "AVALANCHE"
@@ -338,7 +340,9 @@
     "KLAYTN",
     "BASE",
     "ARBITRUM",
-    "AVALANCHE"
+    "AVALANCHE",
+    "TRON",
+    "SOLANA"
   ],
   "crossSupportedChains": [
     "ETHEREUM",
