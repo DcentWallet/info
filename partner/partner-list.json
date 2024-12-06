@@ -1,5 +1,20 @@
 [
   {
+    "name": "Gravity",
+    "imageUrl": "../images/gravity.png",
+    "gotoLink": "https://gravity.xyz/"
+  },
+  {
+    "name": "JapanOpenChain",
+    "imageUrl": "../images/japan_open_chain.png",
+    "gotoLink": "https://www.japanopenchain.org/en/"
+  },
+  {
+    "name": "nerochain",
+    "imageUrl": "../images/nerochain.png",
+    "gotoLink": "https://nerochain.io/"
+  },
+  {
     "name": "Pomerium",
     "imageUrl": "../images/Pomerium.png",
     "gotoLink": "https://pomerium.space/"
