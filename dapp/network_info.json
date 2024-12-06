@@ -14,15 +14,6 @@
                     "priority" : 1
                 },
                 {
-                    "networkId": "ethereum-goerli",
-                    "name": "goerli",
-                    "description": "Ethereum-Goerli",
-                    "coinType": "ETH-GOERLI",
-                    "chainId": 5,
-                    "iconPath" : "network_ethereum.png",
-                    "testnet": true
-                },
-                {
                     "networkId": "bsc-mainnet",
                     "name": "bsc",
                     "description": "Binance Smart Chain",
@@ -34,7 +25,7 @@
                 {
                     "networkId": "bsc-testnet",
                     "name": "bsc_testnet",
-                    "description": "Smart Chain-Testnet",
+                    "description": "BSC Testnet",
                     "coinType": "BSC-TESTNET",
                     "chainId": 97,
                     "iconPath" : "network_bsc.png",
@@ -48,15 +39,6 @@
                     "chainId": 137,
                     "iconPath": "network_polygon2.png",
                     "priority" : 8
-                },
-                {
-                    "networkId": "polygon-mumbai",
-                    "name": "polygon_mumbai",
-                    "description": "Polygon-Mumbai",
-                    "coinType": "POLYGON-TESTNET",
-                    "chainId": 80001,
-                    "iconPath" : "network_polygon.png",
-                    "testnet": true
                 },
                 {
                     "networkId": "songbird-mainnet",
@@ -87,7 +69,7 @@
                 {
                     "networkId": "rsk-testnet",
                     "name": "rsk_testnet",
-                    "description": "RSK-Testnet",
+                    "description": "RSK Testnet",
                     "coinType": "RSK-TESTNET",
                     "chainId": 31,
                     "iconPath" : "network_rsk.png",
@@ -105,7 +87,7 @@
                 {
                     "networkId": "flare-coston",
                     "name": "flr_coston",
-                    "description": "Flare-Coston",
+                    "description": "Flare Coston",
                     "coinType": "FLR-COSTON",
                     "chainId": 1,
                     "iconPath" : "network_flare.png",
@@ -200,15 +182,6 @@
                     "priority" : 14
                 },
                 {
-                    "networkId": "arbitrum-testnet",
-                    "name": "arbitrum_rinkeby",
-                    "description": "Arb-rinkeby",
-                    "coinType": "EVMT:421611",
-                    "chainId": 421611,
-                    "iconPath": "network_arbitrum.png",
-                    "testnet": true
-                },
-                {
                     "networkId": "boba-mainnet",
                     "name": "boba",
                     "description": "BOBA L2",
@@ -255,7 +228,7 @@
                 {
                     "networkId": "Orbit-testnet",
                     "name": "orbit_testnet",
-                    "description": "Orbit Chain",
+                    "description": "Orbit Chain Testnet",
                     "coinType": "EVMT:2017",
                     "chainId": 2017,
                     "iconPath": "network_orbit.png",
@@ -264,10 +237,10 @@
                 {
                     "networkId": "klaytn-evm-mainnet",
                     "name": "klaytn_evm",
-                    "description": "Klaytn - EVM",
+                    "description": "Kaia EVM",
                     "coinType": "KLAYTN",
                     "chainId": 8217,
-                    "iconPath": "network_klaytn2.png",
+                    "iconPath": "network_kaia.png",
                     "testnet": false,
                     "nativeVersion": {
                         "Android": "5.21.1",
@@ -323,22 +296,9 @@
                     }
                 },
                 {
-                    "networkId": "BASE-Goerli",
-                    "name": "base_goerli",
-                    "description": "BASE Goerli",
-                    "coinType": "EVMT:84531",
-                    "chainId": 84531,
-                    "iconPath": "network_base_goerli.png",
-                    "testnet": true,
-                    "nativeVersion": {
-                        "Android": "5.16.0",
-                        "iOS": "5.16.1"
-                    }
-                },
-                {
                     "networkId": "ethereum-sepolia",
                     "name": "sepolia",
-                    "description": "Ethereum-Sepolia",
+                    "description": "Ethereum Sepolia",
                     "coinType": "EVMT:11155111",
                     "chainId": 11155111,
                     "iconPath": "network_ethereum.png",
@@ -396,6 +356,56 @@
                         "Android": "5.16.0",
                         "iOS": "5.16.1"
                     }
+                },
+                {
+                    "networkId": "joc",
+                    "name": "joc",
+                    "description": "JOC",
+                    "coinType": "CHAN:81",
+                    "chainId": 81,
+                    "iconPath": "network_joc.png",
+                    "nativeVersion": {
+                        "Android": "5.16.0",
+                        "iOS": "5.16.1"
+                    }
+                },
+                {
+                    "networkId": "joc-testnet",
+                    "name": "joc_testnet",
+                    "description": "JOC Testnet",
+                    "coinType": "EVMT:10081",
+                    "chainId": 10081,
+                    "iconPath": "network_joc.png",
+                    "testnet": true,
+                    "nativeVersion": {
+                        "Android": "5.16.0",
+                        "iOS": "5.16.1"
+                    }
+                },
+                {
+                    "networkId": "gravity",
+                    "name": "gravity",
+                    "description": "Gravity Alpha",
+                    "coinType": "CHAN:1625",
+                    "chainId": 1625,
+                    "iconPath": "network_gravity.png",
+                    "nativeVersion": {
+                        "Android": "5.16.0",
+                        "iOS": "5.16.1"
+                    }
+                },
+                {
+                    "networkId": "gravity-testnet",
+                    "name": "gravity_testnet",
+                    "description": "Gravity Testnet",
+                    "coinType": "EVMT:13505",
+                    "chainId": 13505,
+                    "iconPath": "network_gravity.png",
+                    "testnet": true,
+                    "nativeVersion": {
+                        "Android": "5.16.0",
+                        "iOS": "5.16.1"
+                    }
                 }
             ]
         },
@@ -405,20 +415,20 @@
                 {
                     "networkId": "klaytn-mainnet",
                     "name": "cypress",
-                    "description": "Klaytn",
+                    "description": "Kaia",
                     "coinType": "KLAYTN",
                     "chainId": 8217,
-                    "iconPath" : "network_klaytn2.png",
+                    "iconPath" : "network_kaia.png",
                     "selected" : true,
                     "priority" : 3
                 },
                 {
                     "networkId": "klaytn-baobab",
                     "name": "baobab",
-                    "description": "Klaytn-Baobab",
+                    "description": "Kaia Kairos",
                     "coinType": "KLAYTN-TESTNET",
                     "chainId": 1001,
-                    "iconPath" : "network_klaytn2.png",
+                    "iconPath" : "network_kaia.png",
                     "testnet": true
                 }
             ]
@@ -439,7 +449,7 @@
                 {
                     "networkId": "tron-shasta",
                     "name": "shasta",
-                    "description": "Tron-Shasta",
+                    "description": "Tron Shasta",
                     "coinType": "TRX-TESTNET",
                     "chainId": 2,
                     "iconPath" : "network_tron.png",
@@ -463,7 +473,7 @@
                 {
                     "networkId": "stacks-testnet",
                     "name": "testnet",
-                    "description": "Stacks-Testnet",
+                    "description": "Stacks Testnet",
                     "coinType": "STACKS-TESTNET",
                     "chainId": 2,
                     "iconPath" : "network_stacks.png",
@@ -491,7 +501,7 @@
                 {
                     "networkId": "tezos-tesetnet",
                     "name": "testnet",
-                    "description": "Tezos-Testnet",
+                    "description": "Tezos Testnet",
                     "coinType": "TEZOS-TESTNET",
                     "chainId": 2,
                     "iconPath" : "network_tezos.png",
