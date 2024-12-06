@@ -1,5 +1,6 @@
 |Kernel Version|Release Date|Notes|
 |----|----|------|
+|v2.31.0|2024-12-07|• Added SOLANA functions - SignMessage<br>• Synchronization Efficiency Improvement<br>• Rebranding Klaytn to Kaia<br>• Changing Polygon Symbol to POL |
 |v2.30.5|2024-07-31|• Improved Parachain Transaction stability |
 |v2.30.4|2024-03-19|• Improved Solana Transaction stability |
 |v2.30.3|2024-02-29|• Added Hedera functions - SignMessage |
