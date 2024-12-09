@@ -28,33 +28,6 @@
         "endTimestamp": 1736121600000
     },
     {
-        "name": "DCENT-Event-2",
-        "title": "DCENT EVENT 2",
-        "bgColor": "#101010",
-        "externalWindow": true,
-        "startTimestamp": 1728863999000,
-        "locale": {
-            "en": {
-                "description": "",
-                "link": "https://store.dcentwallet.com/?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202406_sale_v01",
-                "imagePath": "app_380x160_sale_EN.png",
-                "imagePath_480": "app_480x160_sale_EN.png"
-            },
-            "ko": {
-                "description": "",
-                "link": "https://store-kr.dcentwallet.com/?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202406_sale_v01",
-                "imagePath": "app_380x160_sale_KR.png",
-                "imagePath_480": "app_480x160_sale_KR.png"
-            },
-            "ja": {
-                "description": "",
-                "link": "https://store.dcentwallet.com/ja/?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202406_sale_v01",
-                "imagePath": "app_380x160_sale_JP.png",
-                "imagePath_480": "app_480x160_sale_JP.png"
-            }
-        }
-    },
-    {
         "name": "usa-free-shipping",
         "title": "USA Free Shipping",
         "bgColor": "#050B0F",
