@@ -290,6 +290,7 @@
     "66": "OKC",
     "137": "POLYGON",
     "250": "FANTOM",
+    "501": "SOLANA",
     "8453": "BASE",
     "42161": "ARBITRUM",
     "43114": "AVALANCHE"
@@ -327,7 +328,8 @@
     "KLAYTN",
     "BASE",
     "ARBITRUM",
-    "AVALANCHE"
+    "AVALANCHE",
+    "SOLANA"
   ],
   "crossSupportedChains": [
     "ETHEREUM",
