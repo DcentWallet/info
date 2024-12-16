@@ -22,7 +22,7 @@ window.addEventListener('load', ()=>{
         onboarding_oldbie_card.addEventListener('click', function() {
             console.log('onboarding_oldbie_card clicked');
             window._var_g_user = 'old';
-            window._var_g_user = 'card';
+            window._var_g_device = 'card';
             sendEventMessage();
         });
     }
