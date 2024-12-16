@@ -6,81 +6,86 @@ window._var_g_device = undefined;
 window.addEventListener('load', ()=>{
     console.log('window loaded');
     // TODO : 최종 코드에서는 console.log() 를 제거해야 합니다.
-    const onboarding_start_newbie = document.getElementById('onboarding_start_newbie');
-    if (onboarding_start_newbie) {
-        console.log('onboarding_start_newbie found');
-        onboarding_start_newbie.addEventListener('click', function() {
-            console.log('onboarding_start_newbie clicked');
-            window._var_g_user = 'new';
-
-            console.log('onboarding_complete - user: ' + window._var_g_user );
-            // Sent to Native Event 
-            const eventMessage = {
-                name: 'onboarding_complete',
-                user: window._var_g_user,
-                device: window._var_g_device
-            }
-            if (window.webkit) { // iOS
-                window.webkit.messageHandlers.post.postMessage(JSON.stringify(eventMessage))
-            } else { // android 
-                if (root) {
-                    root.post(JSON.stringify(eventMessage)); 
-                }
-            }
-
-        });
-    }
-    const onboarding_start_oldbie = document.getElementById('onboarding_start_oldbie');
-    if (onboarding_start_oldbie) {
-        console.log('onboarding_start_oldbie found');
-        onboarding_start_oldbie.addEventListener('click', function() {
-            console.log('onboarding_start_oldbie clicked');
+    const onboarding_oldbie_device = document.getElementById('onboarding_oldbie_device');
+    if (onboarding_oldbie_device) {
+        console.log('onboarding_oldbie_device found');
+        onboarding_oldbie_device.addEventListener('click', function() {
+            console.log('onboarding_oldbie_device clicked');
             window._var_g_user = 'old';
-        });
-    }
-    const onboarding_wallet_device = document.getElementById('onboarding_wallet_device');
-    if (onboarding_wallet_device) {
-        console.log('onboarding_wallet_device found');
-        onboarding_wallet_device.addEventListener('click', function() {
-            console.log('onboarding_wallet_device clicked');
             window._var_g_device = 'device';
+            sendEventMessage();
         });
     }
-    const onboarding_wallet_card = document.getElementById('onboarding_wallet_card');
-    if (onboarding_wallet_card) {
-        console.log('onboarding_wallet_card found');
-        onboarding_wallet_card.addEventListener('click', function() {
-            console.log('onboarding_wallet_card clicked');
-            window._var_g_device = 'card';
+    const onboarding_oldbie_card = document.getElementById('onboarding_oldbie_card');
+    if (onboarding_oldbie_card) {
+        console.log('onboarding_oldbie_card found');
+        onboarding_oldbie_card.addEventListener('click', function() {
+            console.log('onboarding_oldbie_card clicked');
+            window._var_g_user = 'old';
+            window._var_g_user = 'card';
+            sendEventMessage();
         });
     }
-    const onboarding_wallet_soft = document.getElementById('onboarding_wallet_soft');
-    if (onboarding_wallet_soft) {
-        console.log('onboarding_wallet_soft found');
-        onboarding_wallet_soft.addEventListener('click', function() {
-            console.log('onboarding_wallet_soft clicked');
+    const onboarding_oldbie_app = document.getElementById('onboarding_oldbie_app');
+    if (onboarding_oldbie_app) {
+        console.log('onboarding_oldbie_app found');
+        onboarding_oldbie_app.addEventListener('click', function() {
+            console.log('onboarding_oldbie_app clicked');
+            window._var_g_user = 'old';
+            window._var_g_device = 'soft';  
+            sendEventMessage();          
+        });
+    }
+    const onboarding_newbie_app = document.getElementById('onboarding_newbie_app');
+    if (onboarding_newbie_app) {
+        console.log('onboarding_newbie_app found');
+        onboarding_newbie_app.addEventListener('click', function() {
+            console.log('onboarding_newbie_app clicked');
+            window._var_g_user = 'new';
             window._var_g_device = 'soft';
+            sendEventMessage();
         });
     }
 
-    const onboarding_complete = document.getElementById('onboarding_complete');
-    if (onboarding_complete) {
-        console.log('onboarding_complete found');
-        onboarding_complete.addEventListener('click', function() {
-            console.log('onboarding_complete - user: ' + window._var_g_user + ', device: ' + window._var_g_device);
-            // Sent to Native Event 
-            const eventMessage = {
-                name: 'onboarding_complete',
-                user: window._var_g_user,
-                device: window._var_g_device
-            }
-            if (window.webkit) { // iOS
-                window.webkit.messageHandlers.post.postMessage(JSON.stringify(eventMessage))
-            } else { // android 
-                if (root) {
-                    root.post(JSON.stringify(eventMessage)); 
-                }
-            }
+    const onboarding_newbie_device_complete = document.getElementById('onboarding_newbie_device_complete');
+    if (onboarding_newbie_device_complete) {
+        console.log('onboarding_newbie_device_complete found');
+        onboarding_newbie_device_complete.addEventListener('click', function() {
+            console.log('onboarding_newbie_device_complete clicked');
+            window._var_g_user = 'new';
+            window._var_g_device = 'device';
+            sendEventMessage();
         });
+    }
+
+    const onboarding_newbie_card_complete = document.getElementById('onboarding_newbie_card_complete');
+    if (onboarding_newbie_card_complete) {
+        console.log('onboarding_newbie_card_complete found');
+        onboarding_newbie_card_complete.addEventListener('click', function() {
+            console.log('onboarding_newbie_card_complete clicked');
+            window._var_g_user = 'new';
+            window._var_g_device = 'card';
+            sendEventMessage();
+        });
+    }
+
+    function sendEventMessage() {
+        if (window._var_g_user === undefined || window._var_g_device === undefined) {
+            console.log('user or device not selected');
+            return;
+        }
+        // Sent to Native Event 
+        const eventMessage = {
+            name: 'onboarding_complete',
+            user: window._var_g_user,
+            device: window._var_g_device
+        }
+        if (window.webkit) { // iOS
+            window.webkit.messageHandlers.post.postMessage(JSON.stringify(eventMessage))
+        } else { // android 
+            if (root) {
+                root.post(JSON.stringify(eventMessage)); 
+            }
+        }
     }
 })
