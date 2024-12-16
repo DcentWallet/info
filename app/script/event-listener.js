@@ -12,7 +12,7 @@ window.addEventListener('load', ()=>{
         onboarding_oldbie_device.addEventListener('click', function() {
             console.log('onboarding_oldbie_device clicked');
             window._var_g_user = 'old';
-            window._var_g_device = 'device';
+            window._var_g_device = 'ble_dongle';
             sendEventMessage();
         });
     }
@@ -53,7 +53,7 @@ window.addEventListener('load', ()=>{
         onboarding_newbie_device_complete.addEventListener('click', function() {
             console.log('onboarding_newbie_device_complete clicked');
             window._var_g_user = 'new';
-            window._var_g_device = 'device';
+            window._var_g_device = 'ble_dongle';
             sendEventMessage();
         });
     }
