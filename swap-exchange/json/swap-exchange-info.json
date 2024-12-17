@@ -237,8 +237,7 @@
     "bitcoin_cash": "BITCOINCASH",
     "BASE": "BASE",
     "stacks": "STACKS",
-    "flr": "FLARE",
-    "harmony": "HARMONY"
+    "flr": "FLARE"
   },
   "changenow": {
     "btc": "BITCOIN",
