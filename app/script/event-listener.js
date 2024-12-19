@@ -89,3 +89,18 @@ window.addEventListener('load', ()=>{
         }
     }
 })
+
+window.onReceiveInstanceId = function(instanceId) {
+    try {
+        console.log('onReceiveInstanceId', instanceId);
+        // TODO : 최종 코드에서는 console.log() 를 제거해야 합니다.
+        window.dataLayer = window.dataLayer || []
+        window.dataLayer?.push({
+            device_type: resParam.last_connected_device?.device_type?.name,
+            fw_version: resParam.last_connected_device?.fw_version,
+            app_instance_id: instanceId
+        })
+    } catch (e) {
+        console.error(e)
+    }
+}
