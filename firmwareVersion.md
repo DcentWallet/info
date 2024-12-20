@@ -1,5 +1,6 @@
 |Kernel Version|Release Date|Notes|
 |----|----|------|
+|v2.32.0|2024-12-20|• Added supporting coin : XAHAU (XAH) |
 |v2.31.1|2024-12-19|• Improved Solana Token Transfer stability |
 |v2.31.0|2024-12-07|• Added SOLANA functions - SignMessage<br>• Synchronization Efficiency Improvement<br>• Rebranding Klaytn to Kaia<br>• Changing Polygon Symbol to POL |
 |v2.30.5|2024-07-31|• Improved Parachain Transaction stability |
