@@ -53242,5 +53242,17 @@
       "klayCard": false,
       "software": true
     }
+  },
+  {
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/networks/network_xahau.png",
+    "name": "Xahau",
+    "symbol": "XAH",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
   }
 ]
