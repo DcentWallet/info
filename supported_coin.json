@@ -30135,7 +30135,7 @@
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-box.png",
     "symbol": "BOX",
     "name": "BOX",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x656f86dd0f3bc25af2d15855f2a2f142f9eaed87",
     "support": {
       "biometric": true,
@@ -30149,7 +30149,7 @@
     "iconUrl": "https://www.percommunity.com/assets/images/sub_01_point_logo.png",
     "symbol": "PER",
     "name": "PER Project",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x7eee60a000986e9efe7f5c90340738558c24317b",
     "support": {
       "biometric": true,
@@ -30163,7 +30163,7 @@
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-kfi.png",
     "symbol": "KFI",
     "name": "KlayFi",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0xdb116e2dc96b4e69e3544f41b50550436579979a",
     "support": {
       "biometric": true,
@@ -30177,7 +30177,7 @@
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-sbwpm.png",
     "symbol": "sBWPM",
     "name": "BWPM Vault",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0xf4546e1d3ad590a3c6d178d671b3bc0e8a81e27d",
     "support": {
       "biometric": true,
@@ -30191,7 +30191,7 @@
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-ksta.svg",
     "symbol": "KSTA",
     "name": "KlayStarter",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0xe7d3b78f032e70fabfdb8c0741ea74f775deb32d",
     "support": {
       "biometric": true,
@@ -30205,7 +30205,7 @@
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-ufo.svg",
     "symbol": "UFO",
     "name": "UFO Token",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x7f1712f846a69bf2a9dbc4d48f45f1d52ca32e28",
     "support": {
       "biometric": true,
@@ -30219,7 +30219,7 @@
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-jun.svg",
     "symbol": "JUN",
     "name": "Jun Token",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x5a55a1cd5cc5e89019300213f9faf20f57361d43",
     "support": {
       "biometric": true,
@@ -30233,7 +30233,7 @@
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-juns.svg",
     "symbol": "JUNS",
     "name": "Jun Share",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x69df45d36341f6bad3c4beffb9e77f2b74709c40",
     "support": {
       "biometric": true,
@@ -30247,7 +30247,7 @@
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-hhp.png",
     "symbol": "HHP",
     "name": "Hippie Hippo",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0xcbcf74790718aeaa0c2f8fba5914dd0e9d96da53",
     "support": {
       "biometric": true,
@@ -30261,7 +30261,7 @@
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-favor.png",
     "symbol": "Favor",
     "name": "Favor",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0xe79efff8a61567d932be2a8c33057f7b2a8bc43b",
     "support": {
       "biometric": true,
@@ -30275,7 +30275,7 @@
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-swapscanner.svg",
     "symbol": "SCNR",
     "name": "Swapscanner",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x8888888888885b073f3c81258c27e83db228d5f3",
     "support": {
       "biometric": true,
@@ -30288,7 +30288,7 @@
   {
     "symbol": "BNS",
     "name": "Beans",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x67B79DF99416aD638267Ec8D89eB61EaE330A005",
     "support": {
       "biometric": true,
@@ -30302,7 +30302,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3466.png",
     "symbol": "ISR",
     "name": "Insureum",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0xb6b6fd8e645084ec45ebdcb452e8dab7c1e6f4c8",
     "support": {
       "biometric": true,
@@ -30316,7 +30316,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3722.png",
     "symbol": "TEMCO",
     "name": "TEMCO",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x3B3b30A76d169F72A0A38AE01b0D6e0FbeE3cc2e",
     "support": {
       "biometric": true,
@@ -30330,7 +30330,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3768.png",
     "symbol": "PIB",
     "name": "PIBBLE",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0xAfdE910130C335fA5bD5fe991053E3E0a49dcE7b",
     "support": {
       "biometric": true,
@@ -30344,7 +30344,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4091.png",
     "symbol": "PXL",
     "name": "PIXEL",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x5425B810432Bc7E7DBC74859eD3c37bB39d9dF00",
     "support": {
       "biometric": true,
@@ -30358,7 +30358,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4254.png",
     "symbol": "HINT",
     "name": "Hintchain",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x4dd402a7d54eaa8147cb6ff252afe5be742bdf40",
     "support": {
       "biometric": true,
@@ -30371,7 +30371,7 @@
   {
     "symbol": "ATT",
     "name": "Antube Token",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0xbe7377db700664331beb28023cfbd46de079efac",
     "support": {
       "biometric": true,
@@ -30385,7 +30385,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3712.png",
     "symbol": "CLBK",
     "name": "Cloudbric",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0xc4407f7dc4b37275c9ce0f839652b393e13ff3d1",
     "support": {
       "biometric": true,
@@ -30399,7 +30399,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3789.png",
     "symbol": "BOLTT",
     "name": "Boltt",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0xa9CB7345Db22034F607c12Dd8E10ee703F6bAd61",
     "support": {
       "biometric": true,
@@ -30413,7 +30413,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3327.png",
     "symbol": "SIX",
     "name": "SIX",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0xEf82b1C6A550e730D8283E1eDD4977cd01FAF435",
     "support": {
       "biometric": true,
@@ -30427,7 +30427,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2955.png",
     "symbol": "COSM",
     "name": "Cosmo Coin",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x52CFDA3E278837d852C4315586C9464BE762647E",
     "support": {
       "biometric": true,
@@ -30441,7 +30441,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4073.png",
     "symbol": "SPIN",
     "name": "SPIN Protocol",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x472fac08cf4836bee54343edfb49023746b27933",
     "support": {
       "biometric": true,
@@ -30455,7 +30455,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2446.png",
     "symbol": "DTA",
     "name": "DATA Token",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x8177ac20455f31d8cb777923f0c632436568c719",
     "support": {
       "biometric": true,
@@ -30468,7 +30468,7 @@
   {
     "symbol": "PLT",
     "name": "PaletteToken",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x28052f558a2BbC04bdE9BBE2e7DCDd31eDb90B56",
     "support": {
       "biometric": true,
@@ -30482,7 +30482,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4809.png",
     "symbol": "WIKEN",
     "name": "Project WITH",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x275f942985503d8ce9558f8377cc526a3aba3566",
     "support": {
       "biometric": true,
@@ -30495,7 +30495,7 @@
   {
     "symbol": "SBP",
     "name": "Sound Blockchain Protocol",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0xa01efa8e7d3014a920f21487d7662db2800d0312",
     "support": {
       "biometric": true,
@@ -30509,7 +30509,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7881.png",
     "symbol": "SKLAY",
     "name": "sKlay",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0xa323d7386b671e8799dca3582d6658fdcdcd940a",
     "support": {
       "biometric": true,
@@ -30522,7 +30522,7 @@
   {
     "symbol": "ETT",
     "name": "egg coin",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x991743d5e7c47242d4740bd68584afb7b6f67deb",
     "support": {
       "biometric": true,
@@ -30536,7 +30536,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5612.png",
     "symbol": "SSG",
     "name": "SOMESING",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x63dec0c0cf911d8967446ce422dd31f13e1e0556",
     "support": {
       "biometric": true,
@@ -30550,7 +30550,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4943.png",
     "symbol": "oDAI",
     "name": "Klaytn Dai",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x5c74070fdea071359b86082bd9f9b3deaafbe32b",
     "support": {
       "biometric": true,
@@ -30564,7 +30564,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/1027.png",
     "symbol": "oETH",
     "name": "Orbit Bridge Klaytn Ethereum",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x34d21b1e550d73cee41151c77f3c73359527a396",
     "support": {
       "biometric": true,
@@ -30578,7 +30578,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/1.png",
     "symbol": "oWBTC",
     "name": "Orbit Bridge Klaytn Wrapped BTC",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x16d0e1fbd024c600ca0380a4c5d57ee7a2ecbf9c",
     "support": {
       "biometric": true,
@@ -30592,7 +30592,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5326.png",
     "symbol": "oORC",
     "name": "Orbit Bridge Klaytn Orbit Chain",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0xfe41102f325deaa9f303fdd9484eb5911a7ba557",
     "support": {
       "biometric": true,
@@ -30606,7 +30606,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/825.png",
     "symbol": "oUSDT",
     "name": "Orbit Bridge Klaytn USD Tether",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0xcee8faf64bb97a73bb51e115aa89c17ffa8dd167",
     "support": {
       "biometric": true,
@@ -30620,7 +30620,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3156.png",
     "symbol": "ABL",
     "name": "Airbloc",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x46f307b58bf05ff089ba23799fae0e518557f87c",
     "support": {
       "biometric": true,
@@ -30634,7 +30634,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8296.png",
     "symbol": "KSP",
     "name": "KlaySwap Protocol",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0xc6a2ad8cc6e4a7e08fc37cc5954be07d499e7654",
     "support": {
       "biometric": true,
@@ -30648,7 +30648,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7548.png",
     "symbol": "WEMIX",
     "name": "WEMIX",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x5096db80b21ef45230c9e423c373f1fc9c0198dd",
     "support": {
       "biometric": true,
@@ -30662,7 +30662,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8388.png",
     "symbol": "REDi",
     "name": "REDiToken",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x1cd3828a2b62648dbe98d6f5748a6b1df08ac7bb",
     "support": {
       "biometric": true,
@@ -30676,7 +30676,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7673.png",
     "symbol": "AGOV",
     "name": "Answer Governance",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x588c62ed9aa7367d7cd9c2a9aaac77e44fe8221b",
     "support": {
       "biometric": true,
@@ -30690,7 +30690,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6053.png",
     "symbol": "MNR",
     "name": "Mineral",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x27dcd181459bcddc63c37bab1e404a313c0dfd79",
     "support": {
       "biometric": true,
@@ -30704,7 +30704,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5644.png",
     "symbol": "BBC",
     "name": "Blue Baikal",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x321bc0b63efb1e4af08ec6d20c85d5e94ddaaa18",
     "support": {
       "biometric": true,
@@ -30718,7 +30718,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/12450.png",
     "symbol": "IMI",
     "name": "Influencer",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0xdde2154f47e80c8721c2efbe02834ae056284368",
     "support": {
       "biometric": true,
@@ -30731,7 +30731,7 @@
   {
     "symbol": "vKSP",
     "name": "Voting KlaySwap Protocol",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x2f3713f388bc4b8b364a7a2d8d57c5ff4e054830",
     "support": {
       "biometric": true,
@@ -30745,7 +30745,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6470.png",
     "symbol": "HIBS",
     "name": "Hiblocks",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0xe06b40df899b9717b4e6b50711e1dc72d08184cf",
     "support": {
       "biometric": true,
@@ -30759,7 +30759,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/6801.png",
     "symbol": "oTRIX",
     "name": "Orbit Bridge Klaytn TriumphX",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x0c1d7ce4982fd63b1bc77044be1da05c995e4463",
     "support": {
       "biometric": true,
@@ -30773,7 +30773,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/52.png",
     "symbol": "oXRP",
     "name": "Orbit Bridge Klaytn Ripple",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x9eaefb09fe4aabfbe6b1ca316a3c36afc83a393f",
     "support": {
       "biometric": true,
@@ -30787,7 +30787,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5800.png",
     "symbol": "TRCL",
     "name": "Treecle",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x4b91c67a89d4c4b2a4ed9fcde6130d7495330972",
     "support": {
       "biometric": true,
@@ -30801,7 +30801,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7755.png",
     "symbol": "oHANDY",
     "name": "Orbit Bridge Klaytn Handy Token",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x3f34671fba493ab39fbf4ecac2943ee62b654a88",
     "support": {
       "biometric": true,
@@ -30815,7 +30815,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7133.png",
     "symbol": "oDUCATO",
     "name": "Orbit Bridge Klaytn DUCATO Protocol Token",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x91e0d7b228a33072d9b3209cf507f78a4bd835f2",
     "support": {
       "biometric": true,
@@ -30829,7 +30829,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/7192.png",
     "symbol": "oBNB",
     "name": "Orbit Bridge Klaytn Binance Coin",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x574e9c26bda8b95d7329505b4657103710eb32ea",
     "support": {
       "biometric": true,
@@ -30843,7 +30843,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8730.png",
     "symbol": "oBELT",
     "name": "Orbit Bridge Klaytn BELT Token",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0xdfe180e288158231ffa5faf183eca3301344a51f",
     "support": {
       "biometric": true,
@@ -30857,7 +30857,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/10661.png",
     "symbol": "FINIX",
     "name": "Definix",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0xd51c337147c8033a43f3b5ce0023382320c113aa",
     "support": {
       "biometric": true,
@@ -30871,7 +30871,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/9920.png",
     "symbol": "oRUSH",
     "name": "Orbit Bridge Klaytn Rush coin",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x2fade69ba4dcb112c530c48fdf41fc071685cede",
     "support": {
       "biometric": true,
@@ -30885,7 +30885,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3698.png",
     "symbol": "OBSR",
     "name": "Observer",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x3cb6be2fc6677a63cb52b07aed523f93f5a06cb4",
     "support": {
       "biometric": true,
@@ -30899,7 +30899,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/3801.png",
     "symbol": "BORA",
     "name": "BORA",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x02cbe46fb8a1f579254a9b485788f2d86cad51aa",
     "support": {
       "biometric": true,
@@ -30913,7 +30913,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/13309.png",
     "symbol": "CT",
     "name": "Cojam",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x7f223b1607171b81ebd68d22f1ca79157fd4a44b",
     "support": {
       "biometric": true,
@@ -30927,7 +30927,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/15546.png",
     "symbol": "KRNO",
     "name": "Kronos DAO",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0xd676e57ca65b827feb112ad81ff738e7b6c1048d",
     "support": {
       "biometric": true,
@@ -30941,7 +30941,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/18839.png",
     "symbol": "ORB",
     "name": "KlayCity",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x01ad62e0ff6dcaa72889fca155c7036c78ca1783",
     "support": {
       "biometric": true,
@@ -30955,7 +30955,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/10053.png",
     "symbol": "GOLF",
     "name": "Golfrochain",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x83c3b5a9a9d1f1438f2505ba972366eecfc4488e",
     "support": {
       "biometric": true,
@@ -30969,7 +30969,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/19119.png",
     "symbol": "MKC",
     "name": "Meta Kongz",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x119883ee408aa5b9625c5d09a79fa8be9f9f6017",
     "support": {
       "biometric": true,
@@ -30983,7 +30983,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/15918.png",
     "symbol": "ATT",
     "name": "Artube",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x07aa7ae19b17579f7237ad72c616fecf4ccc787b",
     "support": {
       "biometric": true,
@@ -30997,7 +30997,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/11304.png",
     "symbol": "CFXT",
     "name": "Chainflix",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0xdc229b451798774b2f2de279cbf13370bb802fb5",
     "support": {
       "biometric": true,
@@ -31011,7 +31011,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/18966.png",
     "symbol": "NPT",
     "name": "Neopin",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0xe06597d02a2c3aa7a9708de2cfa587b128bd3815",
     "support": {
       "biometric": true,
@@ -31025,7 +31025,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/20082.png",
     "symbol": "MON",
     "name": "Monstock",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x648fd38efefb4f97cf2df3ff93eff70e94da0691",
     "support": {
       "biometric": true,
@@ -31039,7 +31039,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/18895.png",
     "symbol": "MBX",
     "name": "MARBLEX",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0xd068c52d81f4409b9502da926ace3301cc41f623",
     "support": {
       "biometric": true,
@@ -31053,7 +31053,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/20814.png",
     "symbol": "IPV",
     "name": "IPVERSE",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x02e973155b1f5f60a1ff1c4e8e7f371c89526cbc",
     "support": {
       "biometric": true,
@@ -31067,7 +31067,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/21060.png",
     "symbol": "GXA",
     "name": "GALAXIA",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0xa80e96cceb1419f9bd9f1c67f7978f51b534a11b",
     "support": {
       "biometric": true,
@@ -31081,7 +31081,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/21122.png",
     "symbol": "KLEVA",
     "name": "KLEVA Protocol",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x5fff3a6c16c2208103f318f4713d4d90601a7313",
     "support": {
       "biometric": true,
@@ -31095,7 +31095,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/21485.png",
     "symbol": "TOKKI",
     "name": "CRYPTOKKI",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x6a6184283af9f62da739f8b309c5fca61e2f1400",
     "support": {
       "biometric": true,
@@ -31109,7 +31109,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/21495.png",
     "symbol": "OUSDC",
     "name": "Orbit Bridge Klaytn USDC",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x754288077d0ff82af7a5317c7cb8c444d421d103",
     "support": {
       "biometric": true,
@@ -31123,7 +31123,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/22180.png",
     "symbol": "DLP",
     "name": "Decentralized Liquidity Program",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x4d87baa66061a3bb391456576cc49b77540b9aa9",
     "support": {
       "biometric": true,
@@ -31137,7 +31137,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/19632.png",
     "symbol": "LEMC",
     "name": "LEMONCHAIN",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0xe15b6cc249af44f2057f85a609285519a318f2ff",
     "support": {
       "biometric": true,
@@ -31151,7 +31151,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/21706.png",
     "symbol": "GRND",
     "name": "SuperWalk",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x84f8c3c8d6ee30a559d73ec570d574f671e82647",
     "support": {
       "biometric": true,
@@ -31165,7 +31165,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/19132.png",
     "symbol": "LEMN",
     "name": "LEMON",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0xc8a5c66d63408406c12f1a94608d28a5319f2399",
     "support": {
       "biometric": true,
@@ -31179,7 +31179,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/18624.png",
     "symbol": "AZIT",
     "name": "azit",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x6cef6dd9a3c4ad226b8b66effeea2c125df194f1",
     "support": {
       "biometric": true,
@@ -31193,7 +31193,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/21916.png",
     "symbol": "ISK",
     "name": "ISKRA Token",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x17d2628d30f8e9e966c9ba831c9b9b01ea8ea75c",
     "support": {
       "biometric": true,
@@ -31207,7 +31207,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/20301.png",
     "symbol": "FAVR",
     "name": "Favor",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x37e35406c8d87ae243932bf4c9a2138c2b93c8fa",
     "support": {
       "biometric": true,
@@ -31221,7 +31221,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/19709.png",
     "symbol": "GHUB",
     "name": "GemHUB",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x4836cc1f355bb2a61c210eaa0cd3f729160cd95e",
     "support": {
       "biometric": true,
@@ -31235,7 +31235,7 @@
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/28481.png",
     "symbol": "SELO",
     "name": "Selo",
-    "type": "KCT",
+    "type": "KAIA-KCT",
     "contract": "0x342633c4a7f91094096e15b513f039af52e960d9",
     "support": {
       "biometric": true,
