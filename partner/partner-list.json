@@ -1,5 +1,20 @@
 [
   {
+    "name": "Kaia",
+    "imageUrl": "../images/kaia.png",
+    "gotoLink": "https://www.kaia.io"
+  },
+  {
+    "name": "Creditcoin",
+    "imageUrl": "../images/creditcoin.png",
+    "gotoLink": "https://creditcoin.org/"
+  },
+  {
+    "name": "Xahau",
+    "imageUrl": "../images/xahau.png",
+    "gotoLink": "https://xahau.network/"
+  },
+  {
     "name": "Gravity",
     "imageUrl": "../images/gravity.png",
     "gotoLink": "https://gravity.xyz/"
