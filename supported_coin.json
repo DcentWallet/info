@@ -792,6 +792,78 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/12885.png",
+    "name": "Astar",
+    "symbol": "ASTR",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/16399.png",
+    "name": "Coreum",
+    "symbol": "CORE",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/networks/network_xahau.png",
+    "name": "Xahau",
+    "symbol": "XAH",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/5198.png",
+    "name": "Creditcoin",
+    "symbol": "CTC",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5198.png",
+    "name": "Creditcoin EVM",
+    "symbol": "CTC",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2280.png",
+    "name": "Filecoin EVM",
+    "symbol": "FIL",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://github.com/DcentWallet/info/raw/master/images/coins/original/asset-bptc.png",
     "symbol": "BPTC",
     "name": "Business Platform Tomato Coin",
@@ -53214,78 +53286,6 @@
     "support": {
       "biometric": true,
       "card": false,
-      "ethCard": false,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/12885.png",
-    "name": "Astar",
-    "symbol": "ASTR",
-    "support": {
-      "biometric": true,
-      "card": false,
-      "ethCard": false,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/16399.png",
-    "name": "Coreum",
-    "symbol": "CORE",
-    "support": {
-      "biometric": true,
-      "card": false,
-      "ethCard": false,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
-    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/networks/network_xahau.png",
-    "name": "Xahau",
-    "symbol": "XAH",
-    "support": {
-      "biometric": true,
-      "card": false,
-      "ethCard": false,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/5198.png",
-    "name": "Creditcoin",
-    "symbol": "CTC",
-    "support": {
-      "biometric": true,
-      "card": false,
-      "ethCard": false,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/5198.png",
-    "name": "Creditcoin EVM",
-    "symbol": "CTC",
-    "support": {
-      "biometric": true,
-      "card": true,
-      "ethCard": false,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/2280.png",
-    "name": "Filecoin EVM",
-    "symbol": "FIL",
-    "support": {
-      "biometric": true,
-      "card": true,
       "ethCard": false,
       "klayCard": false,
       "software": true
