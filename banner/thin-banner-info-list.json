@@ -3,6 +3,79 @@
         "img": {
             "en": {
                 "desktop": {
+                    "path": "../images/en/event_pc_1920x60_Mega_EN.png",
+                    "height": "60px",
+                    "background-color": "#262626"
+                },
+                "tablet": {
+                    "path": "../images/en/event_mobile_768x120_en.png",
+                    "height": "60px",
+                    "background-color": "#5C1520"
+                },
+                "mobile": {
+                    "path": "../images/en/event_mobile_768x120_en.png",
+                    "height": "14.44vw",
+                    "background-color": "#5C1520"
+                }
+            },
+            "ko": {
+                "desktop": {
+                    "path": "../images/ko/event_pc_1920x60__Mega_KR.png",
+                    "height": "60px",
+                    "background-color": "#262626"
+                },
+                "tablet": {
+                    "path": "../images/ko/event_mobile_768x120_kr.png",
+                    "height": "60px",
+                    "background-color": "#5C1520"
+                },
+                "mobile": {
+                    "path": "../images/ko/event_mobile_768x120_kr.png",
+                    "height": "14.44vw",
+                    "background-color": "#5C1520"
+                }
+            },
+            "ja": {
+                "desktop": {
+                    "path": "../images/ja/event_pc_1920x60__Mega_JP.png",
+                    "height": "60px",
+                    "background-color": "#262626"
+                },
+                "tablet": {
+                    "path": "../images/ja/event_mobile_768x120_ja.png",
+                    "height": "60px",
+                    "background-color": "#5C1520"
+                },
+                "mobile": {
+                    "path": "../images/ja/event_mobile_768x120_ja.png",
+                    "height": "14.44vw",
+                    "background-color": "#5C1520"
+                }
+            }
+        },
+        "link": {
+            "en": {
+                "internal": false,
+                "external": "https://forms.gle/S3n1P1RFrX2ZZKhT7"
+            },
+            "ko": {
+                "internal": false,
+                "external": "https://forms.gle/SsbfNugLJkCHUoJS9"
+            },
+            "ja": {
+                "internal": false,
+                "external": "https://forms.gle/S3n1P1RFrX2ZZKhT7"
+            }
+        },
+        "period": {
+            "start": "2025-01-06T00:00:00.000Z",
+            "end": "2025-01-13T00:00:00.000Z"
+        }
+    },
+    {
+        "img": {
+            "en": {
+                "desktop": {
                     "path": "../images/en/pc_1920x60_mega_en.png",
                     "height": "60px",
                     "background-color": "#262626"

@@ -1,5 +1,33 @@
 [
     {
+        "name": "MEGA-EVENT-APPLICATION",
+        "title": "MEGA-EVENT-APPLICATION",
+        "bgColor": "#5C1520",
+        "externalWindow": true,
+        "locale": {
+            "en": {
+                "description": "",
+                "link": "https://forms.gle/S3n1P1RFrX2ZZKhT7",
+                "imagePath": "event_app_380x160_en.png",
+                "imagePath_480": "event_app_480x160_en.png"
+            },
+            "ko": {
+                "description": "",
+                "link": "https://forms.gle/SsbfNugLJkCHUoJS9",
+                "imagePath": "event_app_380x160_kr.png",
+                "imagePath_480": "event_app_480x160_kr.png"
+            },
+            "ja": {
+                "description": "",
+                "link": "https://forms.gle/S3n1P1RFrX2ZZKhT7",
+                "imagePath": "event_app_380x160_en.png",
+                "imagePath_480": "event_app_480x160_en.png"
+            }
+        },
+        "startTimestamp": 1736121600000,
+        "endTimestamp": 1736726400000
+    },
+    {
         "name": "2024-mega-airdrop",
         "title": "2024-mega-airdrop",
         "bgColor": "#000000",
@@ -88,7 +116,7 @@
             "ko": {
                 "description": "<b>디센트 지문인증형 지갑</b>으로<br/> 한층 더 강화된 보안을 경험하세요!",
                 "link": "https://store-kr.dcentwallet.com?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=constant_purchase-hardware",
-                "imagePath": "discovery_banner-dcent_bg.png",        
+                "imagePath": "discovery_banner-dcent_bg.png",
                 "button": "구매하기"
             },
             "ja": {
@@ -103,15 +131,15 @@
         "name": "youtube",
         "title": "D'CENT",
         "bgColor": "#FF0000",
-        "externalWindow": true,  
-        "preRelease": true,      
+        "externalWindow": true,
+        "preRelease": true,
         "locale": {
             "en": {
                 "description": "Welcome Newbies!<br/> Here’s <b>D’CENT tutorial</b>",
                 "link": "https://www.youtube.com/c/DCENTWallet?utm_source=dcent_app&utm_medium=app&utm_campaign=app_banner_youtube",
                 "imagePath": "discovery_banner-youtube_bg.png",
                 "button": "Subscribe"
-            }, 
+            },
             "ko": {
                 "description": "누구나 쉽게 따라하는<br/> <b>디센트 사용법</b>",
                 "link": "https://www.youtube.com/c/DCENTWallet?utm_source=dcent_app&utm_medium=app&utm_campaign=app_banner_youtube",
