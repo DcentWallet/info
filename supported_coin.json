@@ -20910,10 +20910,10 @@
   },
   {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/10744.png",
-    "symbol": "DERC",
-    "name": "DeRace",
+    "symbol": "ZERC",
+    "name": "zkRace",
     "type": "ERC20",
-    "contract": "0x9fa69536d1cda4a04cfb50688294de75b505a9ae",
+    "contract": "0xf8428a5a99cb452ea50b6ea70b052daa3df4934f",
     "support": {
       "biometric": true,
       "card": true,
@@ -29673,6 +29673,62 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/28437.png",
+    "symbol": "SEXY",
+    "name": "Settled EthXY Token",
+    "type": "ERC20",
+    "contract": "0xc52fafdc900cb92ae01e6e4f8979af7f436e2eb2",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/33979.png",
+    "symbol": "USUAL",
+    "name": "Usual",
+    "type": "ERC20",
+    "contract": "0xc4441c2be5d8fa8126822b9929ca0b81ea0de38e",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/32325.png",
+    "symbol": "PUFFER",
+    "name": "Puffer",
+    "type": "ERC20",
+    "contract": "0x4d1c297d39c5c1277964d0e3f8aa901493664530",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/31676.png",
+    "symbol": "DOGEVERSE",
+    "name": "DogeVerse",
+    "type": "ERC20",
+    "contract": "0x62f03b52c377fea3eb71d451a95ad86c818755d1",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/logo_doc.svg",
     "symbol": "DOC",
     "name": "Dollar on Chain",
@@ -30195,6 +30251,20 @@
     "name": "Ripple USD",
     "type": "TrustLine",
     "contract": "29.rMxCKbEDwqr76QuheSUMdEGf4B9xJ8m5De.524C555344000000000000000000000000000000.1000000000",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/34191.png",
+    "symbol": "RPLS",
+    "name": "Ripples",
+    "type": "TrustLine",
+    "contract": "30.r93hE5FNShDdUqazHzNvwsCxL9mSqwyiru.52504C5300000000000000000000000000000000.99983078",
     "support": {
       "biometric": true,
       "card": false,
@@ -34101,11 +34171,11 @@
     }
   },
   {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/4166.png",
-    "symbol": "RIO",
-    "name": "Realio Network Token",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/21471.png",
+    "symbol": "SSLX",
+    "name": "StarSlax",
     "type": "STELLAR-TA",
-    "contract": "24.RIO-GBNLJIYH34UWO5YZFA3A3HD3N76R6DOI33N4JONUOHEEYZYCAYTEJ5AK.RIO.75000000",
+    "contract": "45.SSLX-GBHFGY3ZNEJWLNO4LBUKLYOCEK4V7ENEBJGPRHHX7JU47GWHBREH37UR.SSLX.8881378586",
     "support": {
       "biometric": true,
       "card": false,
@@ -35303,6 +35373,20 @@
     "name": "Beny Bad Boy",
     "type": "XRC20",
     "contract": "0xfa4ddcfa8e3d0475f544d0de469277cf6e0a6fd1",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/33626.png",
+    "symbol": "GAMA",
+    "name": "GAMA Coin",
+    "type": "XRC20",
+    "contract": "0x678adf7955d8f6dcaa9e2fcc1c5ba70bccc464e6",
     "support": {
       "biometric": true,
       "card": true,
@@ -46246,6 +46330,20 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/10744.png",
+    "symbol": "ZERC",
+    "name": "zkRace",
+    "type": "BEP20",
+    "contract": "0x9c47e503b2f497e9ad9f1c0dfa6bd9fd5456aa4e",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/8918.png",
     "symbol": "MAUSDC",
     "name": "Matic Aave Interest Bearing USDC",
@@ -47945,6 +48043,20 @@
     "name": "tBTC",
     "type": "POLYGON-ERC20",
     "contract": "0x236aa50979d5f3de3bd1eeb40e81137f22ab794b",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/10744.png",
+    "symbol": "ZERC",
+    "name": "zkRace",
+    "type": "POLYGON-ERC20",
+    "contract": "0xe1b3eb06806601828976e491914e3de18b5d6b28",
     "support": {
       "biometric": true,
       "card": true,
@@ -49974,6 +50086,34 @@
     "name": "CHEX Token",
     "type": "SPL-TOKEN",
     "contract": "6dKCoWjpj5MFU5gWDEFdpUUeBasBLK3wLEwhUzQPAa1e",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/34466.png",
+    "symbol": "PENGU",
+    "name": "Pudgy Penguins",
+    "type": "SPL-TOKEN",
+    "contract": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/32753.png",
+    "symbol": "XNET",
+    "name": "XNET Mobile",
+    "type": "SPL-TOKEN",
+    "contract": "xNETbUB7cRb3AAu2pNG2pUwQcJ2BHcktfvSB8x1Pq6L",
     "support": {
       "biometric": true,
       "card": false,
@@ -52110,6 +52250,34 @@
     "name": "AgentLayer",
     "contract": "0xf5bc3439f53a45607ccad667abc7daf5a583633f",
     "symbol": "AGENT",
+    "type": "BASE-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/28437.png",
+    "name": "Settled EthXY Token",
+    "contract": "0xd1917629b3e6a72e6772aab5dbe58eb7fa3c2f33",
+    "symbol": "SEXY",
+    "type": "BASE-ERC20",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/32x32/10744.png",
+    "name": "AgentLayer",
+    "contract": "0xa3a2cdd230f9b3ff6e01a01534a3ed3cbf049815",
+    "symbol": "ZERC",
     "type": "BASE-ERC20",
     "support": {
       "biometric": true,
