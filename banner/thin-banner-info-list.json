@@ -3,51 +3,51 @@
         "img": {
             "en": {
                 "desktop": {
-                    "path": "../images/en/pc_1920x60_Mega_EN.png",
+                    "path": "../images/en/pc_1920x60_Mega_EN_3.png",
                     "height": "60px",
                     "background-color": "#262626"
                 },
                 "tablet": {
-                    "path": "../images/en/mobile_768x120_EN.png",
+                    "path": "../images/en/mobile_768x120_EN_3.png",
                     "height": "60px",
                     "background-color": "#5C1520"
                 },
                 "mobile": {
-                    "path": "../images/en/mobile_768x120_EN.png",
+                    "path": "../images/en/mobile_768x120_EN_3.png",
                     "height": "14.44vw",
                     "background-color": "#5C1520"
                 }
             },
             "ko": {
                 "desktop": {
-                    "path": "../images/ko/pc_1920x60__Mega_KR.png",
+                    "path": "../images/ko/pc_1920x60__Mega_KR_3.png",
                     "height": "60px",
                     "background-color": "#262626"
                 },
                 "tablet": {
-                    "path": "../images/ko/mobile_768x120_KR.png",
+                    "path": "../images/ko/mobile_768x120_KR_3.png",
                     "height": "60px",
                     "background-color": "#5C1520"
                 },
                 "mobile": {
-                    "path": "../images/ko/mobile_768x120_KR.png",
+                    "path": "../images/ko/mobile_768x120_KR_3.png",
                     "height": "14.44vw",
                     "background-color": "#5C1520"
                 }
             },
             "ja": {
                 "desktop": {
-                    "path": "../images/ja/pc_1920x60__Mega_JP.png",
+                    "path": "../images/ja/pc_1920x60__Mega_JP_3.png",
                     "height": "60px",
                     "background-color": "#262626"
                 },
                 "tablet": {
-                    "path": "../images/ja/mobile_768x120_ja.png",
+                    "path": "../images/ja/mobile_768x120_ja_3.png",
                     "height": "60px",
                     "background-color": "#5C1520"
                 },
                 "mobile": {
-                    "path": "../images/ja/mobile_768x120_ja.png",
+                    "path": "../images/ja/mobile_768x120_ja_3.png",
                     "height": "14.44vw",
                     "background-color": "#5C1520"
                 }
@@ -143,79 +143,6 @@
         "period": {
             "start": "2025-01-06T00:00:00.000Z",
             "end": "2025-01-10T07:59:59.000Z"
-        }
-    },
-    {
-        "img": {
-            "en": {
-                "desktop": {
-                    "path": "../images/en/pc_1920x60_mega_en.png",
-                    "height": "60px",
-                    "background-color": "#262626"
-                },
-                "tablet": {
-                    "path": "../images/en/mobile_768x120_en.png",
-                    "height": "60px",
-                    "background-color": "#000000"
-                },
-                "mobile": {
-                    "path": "../images/en/mobile_768x120_en.png",
-                    "height": "14.44vw",
-                    "background-color": "#000000"
-                }
-            },
-            "ko": {
-                "desktop": {
-                    "path": "../images/ko/pc_1920x60__mega_kr.png",
-                    "height": "60px",
-                    "background-color": "#262626"
-                },
-                "tablet": {
-                    "path": "../images/ko/mobile_768x120_kr.png",
-                    "height": "60px",
-                    "background-color": "#000000"
-                },
-                "mobile": {
-                    "path": "../images/ko/mobile_768x120_kr.png",
-                    "height": "14.44vw",
-                    "background-color": "#000000"
-                }
-            },
-            "ja": {
-                "desktop": {
-                    "path": "../images/ja/pc_1920x60__mega_ja.png",
-                    "height": "60px",
-                    "background-color": "#262626"
-                },
-                "tablet": {
-                    "path": "../images/ja/mobile_768x120_ja.png",
-                    "height": "60px",
-                    "background-color": "#000000"
-                },
-                "mobile": {
-                    "path": "../images/ja/mobile_768x120_ja.png",
-                    "height": "14.44vw",
-                    "background-color": "#000000"
-                }
-            }
-        },
-        "link": {
-            "en": {
-                "internal": false,
-                "external": "https://store.dcentwallet.com/pages/2024-mega-airdrop"
-            },
-            "ko": {
-                "internal": false,
-                "external": "https://store-kr.dcentwallet.com/pages/2024-mega-airdrop"
-            },
-            "ja": {
-                "internal": false,
-                "external": "https://store.dcentwallet.com/ja/pages/2024-mega-airdrop"
-            }
-        },
-        "period": {
-            "start": "2024-11-25T00:00:00.000Z",
-            "end": "2025-01-06T00:00:00.000Z"
         }
     },
     {
