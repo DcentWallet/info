@@ -1,5 +1,33 @@
 [
     {
+        "name": "MEGA-AIRDROP-WAITLIST",
+        "title": "MEGA-AIRDROP-WAITLIST",
+        "bgColor": "#5C1520",
+        "externalWindow": true,
+        "locale": {
+            "en": {
+                "description": "",
+                "link": "https://forms.gle/G66dydPyiHS8vcGJ8",
+                "imagePath": "app_380x160_EN.png",
+                "imagePath_480": "app_480x160_EN.png"
+            },
+            "ko": {
+                "description": "",
+                "link": "https://forms.gle/43x1xPXY2j95QumC9",
+                "imagePath": "app_380x160_KR.png",
+                "imagePath_480": "app_480x160_KR.png"
+            },
+            "ja": {
+                "description": "",
+                "link": "https://forms.gle/G66dydPyiHS8vcGJ8",
+                "imagePath": "app_380x160_EN.png",
+                "imagePath_480": "app_480x160_EN.png"
+            }
+        },
+        "startTimestamp": 1736496000000,
+        "endTimestamp": 1737298799000
+    },
+    {
         "name": "MEGA-EVENT-APPLICATION",
         "title": "MEGA-EVENT-APPLICATION",
         "bgColor": "#5C1520",
@@ -25,7 +53,7 @@
             }
         },
         "startTimestamp": 1736121600000,
-        "endTimestamp": 1736726400000
+        "endTimestamp": 1737298799000
     },
     {
         "name": "2024-mega-airdrop",
