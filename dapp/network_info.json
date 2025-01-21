@@ -9,9 +9,9 @@
                     "description": "Ethereum",
                     "coinType": "ETHEREUM",
                     "chainId": 1,
-                    "iconPath" : "network_ethereum.png",
-                    "selected" : true,
-                    "priority" : 1
+                    "iconPath": "network_ethereum.png",
+                    "selected": true,
+                    "priority": 1
                 },
                 {
                     "networkId": "bsc-mainnet",
@@ -20,7 +20,7 @@
                     "coinType": "BSC",
                     "chainId": 56,
                     "iconPath": "network_bsc.png",
-                    "priority" : 5
+                    "priority": 5
                 },
                 {
                     "networkId": "bsc-testnet",
@@ -28,7 +28,7 @@
                     "description": "BSC Testnet",
                     "coinType": "BSC-TESTNET",
                     "chainId": 97,
-                    "iconPath" : "network_bsc.png",
+                    "iconPath": "network_bsc.png",
                     "testnet": true
                 },
                 {
@@ -38,7 +38,7 @@
                     "coinType": "POLYGON",
                     "chainId": 137,
                     "iconPath": "network_polygon2.png",
-                    "priority" : 8
+                    "priority": 8
                 },
                 {
                     "networkId": "songbird-mainnet",
@@ -47,7 +47,7 @@
                     "coinType": "CHAN:19",
                     "chainId": 19,
                     "iconPath": "network_sgb.png",
-                    "priority" : 2
+                    "priority": 2
                 },
                 {
                     "networkId": "heco-mainnet",
@@ -64,7 +64,7 @@
                     "coinType": "RSK",
                     "chainId": 30,
                     "iconPath": "network_rsk.png",
-                    "priority" : 16
+                    "priority": 16
                 },
                 {
                     "networkId": "rsk-testnet",
@@ -72,7 +72,7 @@
                     "description": "RSK Testnet",
                     "coinType": "RSK-TESTNET",
                     "chainId": 31,
-                    "iconPath" : "network_rsk.png",
+                    "iconPath": "network_rsk.png",
                     "testnet": true
                 },
                 {
@@ -81,7 +81,7 @@
                     "description": "Flare",
                     "coinType": "CHAN:14",
                     "chainId": 14,
-                    "iconPath" : "network_flare.png",
+                    "iconPath": "network_flare.png",
                     "priority": 3
                 },
                 {
@@ -90,7 +90,7 @@
                     "description": "Flare Coston",
                     "coinType": "FLR-COSTON",
                     "chainId": 1,
-                    "iconPath" : "network_flare.png",
+                    "iconPath": "network_flare.png",
                     "testnet": true
                 },
                 {
@@ -100,7 +100,7 @@
                     "coinType": "CHAN:100",
                     "chainId": 100,
                     "iconPath": "network_gnosis.png",
-                    "priority" : 17
+                    "priority": 17
                 },
                 {
                     "networkId": "ftm-mainnet",
@@ -109,7 +109,7 @@
                     "coinType": "CHAN:250",
                     "chainId": 250,
                     "iconPath": "network_ftm.png",
-                    "priority" : 9
+                    "priority": 9
                 },
                 {
                     "networkId": "xdc-mainnet",
@@ -118,7 +118,7 @@
                     "coinType": "XINFIN",
                     "chainId": 50,
                     "iconPath": "network_xdc.png",
-                    "priority" : 6
+                    "priority": 6
                 },
                 {
                     "networkId": "xdc-apothem",
@@ -144,7 +144,7 @@
                     "coinType": "CHAN:321",
                     "chainId": 321,
                     "iconPath": "network_kcc.png",
-                    "priority" : 11
+                    "priority": 11
                 },
                 {
                     "networkId": "avalanche-mainnet",
@@ -153,7 +153,7 @@
                     "coinType": "CHAN:43114",
                     "chainId": 43114,
                     "iconPath": "network_ava.png",
-                    "priority" : 7
+                    "priority": 7
                 },
                 {
                     "networkId": "Cronos",
@@ -179,7 +179,7 @@
                     "coinType": "CHAN:42161",
                     "chainId": 42161,
                     "iconPath": "network_arbitrum.png",
-                    "priority" : 14
+                    "priority": 14
                 },
                 {
                     "networkId": "boba-mainnet",
@@ -188,7 +188,7 @@
                     "coinType": "CHAN:288",
                     "chainId": 288,
                     "iconPath": "network_boba.png",
-                    "priority" : 15
+                    "priority": 15
                 },
                 {
                     "networkId": "oec-mainnet",
@@ -205,7 +205,7 @@
                     "coinType": "CHAN:1666600000",
                     "chainId": 1666600000,
                     "iconPath": "network_harmony.png",
-                    "priority" : 12
+                    "priority": 12
                 },
                 {
                     "networkId": "HARMONY-testnet",
@@ -223,7 +223,7 @@
                     "coinType": "CHAN:2017",
                     "chainId": 2017,
                     "iconPath": "network_orbit.png",
-                    "priority" : 13
+                    "priority": 13
                 },
                 {
                     "networkId": "Orbit-testnet",
@@ -406,6 +406,90 @@
                         "Android": "5.16.0",
                         "iOS": "5.16.1"
                     }
+                },
+                {
+                    "networkId": "creditcoin-evm",
+                    "name": "creditcoin_evm",
+                    "description": "Creditcoin EVM",
+                    "coinType": "CHAN:102030",
+                    "chainId": 102030,
+                    "iconPath": "network_ctc.png",
+                    "testnet": false,
+                    "nativeVersion": {
+                        "Android": "5.16.0",
+                        "iOS": "5.16.1"
+                    },
+                    "preRelease": true
+                },
+                {
+                    "networkId": "creditcoin-evm-testnet",
+                    "name": "creditcoin_evm_testnet",
+                    "description": "Creditcoin EVM Testnet",
+                    "coinType": "EVMT:102031",
+                    "chainId": 102031,
+                    "iconPath": "network_ctc.png",
+                    "testnet": true,
+                    "nativeVersion": {
+                        "Android": "5.16.0",
+                        "iOS": "5.16.1"
+                    },
+                    "preRelease": true
+                },
+                {
+                    "networkId": "filecoin-evm",
+                    "name": "filecoin_evm",
+                    "description": "Filecoin EVM",
+                    "coinType": "CHAN:314",
+                    "chainId": 314,
+                    "iconPath": "network_fil.png",
+                    "testnet": false,
+                    "nativeVersion": {
+                        "Android": "5.16.0",
+                        "iOS": "5.16.1"
+                    },
+                    "preRelease": true
+                },
+                {
+                    "networkId": "filecoin-evm-testnet",
+                    "name": "filecoin_evm_testnet",
+                    "description": "filecoin EVM Testnet",
+                    "coinType": "EVMT:314159",
+                    "chainId": 314159,
+                    "iconPath": "network_fil.png",
+                    "testnet": true,
+                    "nativeVersion": {
+                        "Android": "5.16.0",
+                        "iOS": "5.16.1"
+                    },
+                    "preRelease": true
+                },
+                {
+                    "networkId": "nero",
+                    "name": "nero",
+                    "description": "NERO",
+                    "coinType": "CHAN:1689",
+                    "chainId": 1689,
+                    "iconPath": "networks_nero.png",
+                    "testnet": false,
+                    "nativeVersion": {
+                        "Android": "5.16.0",
+                        "iOS": "5.16.1"
+                    },
+                    "preRelease": true
+                },
+                {
+                    "networkId": "sonic",
+                    "name": "sonic",
+                    "description": "Sonic",
+                    "coinType": "CHAN:146",
+                    "chainId": 146,
+                    "iconPath": "networks_sonic.png",
+                    "testnet": false,
+                    "nativeVersion": {
+                        "Android": "5.16.0",
+                        "iOS": "5.16.1"
+                    },
+                    "preRelease": true
                 }
             ]
         },
@@ -418,9 +502,9 @@
                     "description": "Kaia",
                     "coinType": "KLAYTN",
                     "chainId": 8217,
-                    "iconPath" : "network_kaia.png",
-                    "selected" : true,
-                    "priority" : 3
+                    "iconPath": "network_kaia.png",
+                    "selected": true,
+                    "priority": 3
                 },
                 {
                     "networkId": "klaytn-baobab",
@@ -428,7 +512,7 @@
                     "description": "Kaia Kairos",
                     "coinType": "KLAYTN-TESTNET",
                     "chainId": 1001,
-                    "iconPath" : "network_kaia.png",
+                    "iconPath": "network_kaia.png",
                     "testnet": true
                 }
             ]
@@ -442,9 +526,9 @@
                     "description": "Tron",
                     "coinType": "TRON",
                     "chainId": 1,
-                    "iconPath" : "network_tron.png",
-                    "selected" : true,
-                    "priority" : 9
+                    "iconPath": "network_tron.png",
+                    "selected": true,
+                    "priority": 9
                 },
                 {
                     "networkId": "tron-shasta",
@@ -452,7 +536,7 @@
                     "description": "Tron Shasta",
                     "coinType": "TRX-TESTNET",
                     "chainId": 2,
-                    "iconPath" : "network_tron.png",
+                    "iconPath": "network_tron.png",
                     "testnet": true
                 }
             ]
@@ -466,8 +550,8 @@
                     "description": "Stacks",
                     "coinType": "STACKS",
                     "chainId": 1,
-                    "iconPath" : "network_stacks.png",
-                    "selected" : true,
+                    "iconPath": "network_stacks.png",
+                    "selected": true,
                     "preRelease": true
                 },
                 {
@@ -476,7 +560,7 @@
                     "description": "Stacks Testnet",
                     "coinType": "STACKS-TESTNET",
                     "chainId": 2,
-                    "iconPath" : "network_stacks.png",
+                    "iconPath": "network_stacks.png",
                     "testnet": true,
                     "preRelease": true
                 }
@@ -491,8 +575,8 @@
                     "description": "Tezos",
                     "coinType": "TEZOS",
                     "chainId": 1,
-                    "iconPath" : "network_tezos.png",
-                    "selected" : true,
+                    "iconPath": "network_tezos.png",
+                    "selected": true,
                     "nativeVersion": {
                         "Android": "5.23.2",
                         "iOS": "5.23.2"
@@ -504,8 +588,8 @@
                     "description": "Tezos Testnet",
                     "coinType": "TEZOS-TESTNET",
                     "chainId": 2,
-                    "iconPath" : "network_tezos.png",
-                    "testnet" : true,
+                    "iconPath": "network_tezos.png",
+                    "testnet": true,
                     "nativeVersion": {
                         "Android": "5.23.2",
                         "iOS": "5.23.2"
@@ -522,8 +606,8 @@
                     "description": "Astar",
                     "coinType": "PARA:000105",
                     "chainId": 261,
-                    "iconPath" : "network_astar.png",
-                    "selected" : true,
+                    "iconPath": "network_astar.png",
+                    "selected": true,
                     "nativeVersion": {
                         "Android": "6.0.4",
                         "iOS": "6.0.6"
