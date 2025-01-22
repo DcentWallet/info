@@ -418,8 +418,7 @@
                     "nativeVersion": {
                         "Android": "5.16.0",
                         "iOS": "5.16.1"
-                    },
-                    "preRelease": true
+                    }
                 },
                 {
                     "networkId": "creditcoin-evm-testnet",
@@ -432,8 +431,7 @@
                     "nativeVersion": {
                         "Android": "5.16.0",
                         "iOS": "5.16.1"
-                    },
-                    "preRelease": true
+                    }
                 },
                 {
                     "networkId": "filecoin-evm",
@@ -446,8 +444,7 @@
                     "nativeVersion": {
                         "Android": "5.16.0",
                         "iOS": "5.16.1"
-                    },
-                    "preRelease": true
+                    }
                 },
                 {
                     "networkId": "filecoin-evm-testnet",
@@ -460,8 +457,7 @@
                     "nativeVersion": {
                         "Android": "5.16.0",
                         "iOS": "5.16.1"
-                    },
-                    "preRelease": true
+                    }
                 },
                 {
                     "networkId": "nero",
@@ -474,8 +470,7 @@
                     "nativeVersion": {
                         "Android": "5.16.0",
                         "iOS": "5.16.1"
-                    },
-                    "preRelease": true
+                    }
                 },
                 {
                     "networkId": "sonic",
@@ -483,13 +478,12 @@
                     "description": "Sonic",
                     "coinType": "CHAN:146",
                     "chainId": 146,
-                    "iconPath": "networks_sonic.png",
+                    "iconPath": "network_sonic.png",
                     "testnet": false,
                     "nativeVersion": {
                         "Android": "5.16.0",
                         "iOS": "5.16.1"
-                    },
-                    "preRelease": true
+                    }
                 }
             ]
         },
