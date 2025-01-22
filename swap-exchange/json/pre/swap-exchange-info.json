@@ -1,61 +1,176 @@
 {
   "cryptoCurrencyMap": {
-    "BITCOIN": ["BITCOIN","BTC-SEGWIT"],
-    "BITCOIN-GOLD": ["BITCOIN-GOLD"],
-    "BITCOIN-SV": ["BITCOIN-SV"],
-    "BITCOINCASH": ["BITCOINCASH"],
-    "BSC": ["BSC"],
-    "CARDANO": ["CARDANO"],
-    "OPTIMISM": ["CHAN:10"],
-    "GNOSIS": ["CHAN:100"],
-    "METADIUM": ["CHAN:11"],
-    "HECO": ["CHAN:128"],
-    "FLARE": ["CHAN:14"],
-    "HARMONY": ["CHAN:1666600000"],
-    "SONGBIRD": ["CHAN:19"],
-    "ORBIT": ["CHAN:2017"],
-    "EWC": ["CHAN:246"],
-    "OASYS": ["CHAN:248"],
-    "CRONOS": ["CHAN:25"],
-    "FANTOM": ["CHAN:250"],
-    "BOBA": ["CHAN:288"],
-    "KCC": ["CHAN:321"],
-    "ARBITRUM": ["CHAN:42161"],
-    "CELO": ["CHAN:42220"],
-    "AVALANCHE": ["CHAN:43114"],
-    "OKC": ["CHAN:66"],
-    "MEVERSE": ["CHAN:7518"],
-    "X-PALM": ["CHAN:X-PALM"],
-    "BASE": ["CHAN:8453"],
-    "KROMA": ["CHAN:255"],
-    "ASTAR-EVM": ["CHAN:592"],
-    "CONFLUX": ["CONFLUX"],
-    "COSMOS": ["COSMOS"],
-    "DASH": ["DASH"],
-    "DIGIBYTE": ["DIGIBYTE", "DGB-SEGWIT"],
-    "DOGECOIN": ["DOGECOIN"],
-    "ECASH": ["ECASH"],
-    "ETH-CLASSIC": ["ETH-CLASSIC"],
-    "ETHEREUM": ["ETHEREUM"],
-    "HEDERA": ["HEDERA"],
-    "HORIZEN": ["HORIZEN"],
-    "KLAYTN": ["KLAYTN"],
-    "LITECOIN": ["LITECOIN","LTC-SEGWIT"],
-    "LUNIVERSE": ["LUNIVERSE"],
-    "MONACOIN": ["MONACOIN"],
-    "NEAR": ["NEAR"],
-    "POLKADOT": ["POLKADOT"],
-    "POLYGON": ["POLYGON"],
-    "RAVENCOIN": ["RAVENCOIN"],
-    "XRPL": ["RIPPLE"],
-    "RSK": ["RSK"],
-    "SOLANA": ["SOLANA"],
-    "STACKS": ["STACKS"],
-    "STELLAR": ["STELLAR"],
-    "TEZOS": ["TEZOS"],
-    "TRON": ["TRON"],
-    "XINFIN": ["XINFIN"],
-    "ZCASH": ["ZCASH"]
+    "BITCOIN": [
+      "BITCOIN",
+      "BTC-SEGWIT"
+    ],
+    "BITCOIN-GOLD": [
+      "BITCOIN-GOLD"
+    ],
+    "BITCOIN-SV": [
+      "BITCOIN-SV"
+    ],
+    "BITCOINCASH": [
+      "BITCOINCASH"
+    ],
+    "BSC": [
+      "BSC"
+    ],
+    "CARDANO": [
+      "CARDANO"
+    ],
+    "OPTIMISM": [
+      "CHAN:10"
+    ],
+    "GNOSIS": [
+      "CHAN:100"
+    ],
+    "METADIUM": [
+      "CHAN:11"
+    ],
+    "HECO": [
+      "CHAN:128"
+    ],
+    "FLARE": [
+      "CHAN:14"
+    ],
+    "HARMONY": [
+      "CHAN:1666600000"
+    ],
+    "SONGBIRD": [
+      "CHAN:19"
+    ],
+    "ORBIT": [
+      "CHAN:2017"
+    ],
+    "EWC": [
+      "CHAN:246"
+    ],
+    "OASYS": [
+      "CHAN:248"
+    ],
+    "CRONOS": [
+      "CHAN:25"
+    ],
+    "FANTOM": [
+      "CHAN:250"
+    ],
+    "BOBA": [
+      "CHAN:288"
+    ],
+    "KCC": [
+      "CHAN:321"
+    ],
+    "ARBITRUM": [
+      "CHAN:42161"
+    ],
+    "CELO": [
+      "CHAN:42220"
+    ],
+    "AVALANCHE": [
+      "CHAN:43114"
+    ],
+    "OKC": [
+      "CHAN:66"
+    ],
+    "MEVERSE": [
+      "CHAN:7518"
+    ],
+    "X-PALM": [
+      "CHAN:X-PALM"
+    ],
+    "BASE": [
+      "CHAN:8453"
+    ],
+    "KROMA": [
+      "CHAN:255"
+    ],
+    "ASTAR-EVM": [
+      "CHAN:592"
+    ],
+    "CONFLUX": [
+      "CONFLUX"
+    ],
+    "COSMOS": [
+      "COSMOS"
+    ],
+    "DASH": [
+      "DASH"
+    ],
+    "DIGIBYTE": [
+      "DIGIBYTE",
+      "DGB-SEGWIT"
+    ],
+    "DOGECOIN": [
+      "DOGECOIN"
+    ],
+    "ECASH": [
+      "ECASH"
+    ],
+    "ETH-CLASSIC": [
+      "ETH-CLASSIC"
+    ],
+    "ETHEREUM": [
+      "ETHEREUM"
+    ],
+    "HEDERA": [
+      "HEDERA"
+    ],
+    "HORIZEN": [
+      "HORIZEN"
+    ],
+    "KLAYTN": [
+      "KLAYTN"
+    ],
+    "LITECOIN": [
+      "LITECOIN",
+      "LTC-SEGWIT"
+    ],
+    "LUNIVERSE": [
+      "LUNIVERSE"
+    ],
+    "MONACOIN": [
+      "MONACOIN"
+    ],
+    "NEAR": [
+      "NEAR"
+    ],
+    "POLKADOT": [
+      "POLKADOT"
+    ],
+    "POLYGON": [
+      "POLYGON"
+    ],
+    "RAVENCOIN": [
+      "RAVENCOIN"
+    ],
+    "XRPL": [
+      "RIPPLE"
+    ],
+    "RSK": [
+      "RSK"
+    ],
+    "SOLANA": [
+      "SOLANA"
+    ],
+    "STACKS": [
+      "STACKS"
+    ],
+    "STELLAR": [
+      "STELLAR"
+    ],
+    "TEZOS": [
+      "TEZOS"
+    ],
+    "TRON": [
+      "TRON"
+    ],
+    "XINFIN": [
+      "XINFIN"
+    ],
+    "ZCASH": [
+      "ZCASH"
+    ]
   },
   "tokenTickerMap": {
     "BSC": "BEP20",
@@ -86,7 +201,7 @@
     "ETH-CLASSIC": "ETC-ERC20",
     "ETHEREUM": "ERC20",
     "HEDERA": "HEDERA-HTS",
-    "KLAYTN": "KRC20",
+    "KLAYTN": "KLAYTN-ERC20",
     "LUNIVERSE": "LUNIVERSE-TKN",
     "NEAR": "NEAR-TOKEN",
     "POLYGON": "POLYGON-ERC20",
@@ -303,7 +418,7 @@
     "100": "GNOSIS",
     "137": "POLYGON",
     "250": "FANTOM",
-    "8217" : "KLAYTN",
+    "8217": "KLAYTN",
     "8453": "BASE",
     "42161": "ARBITRUM",
     "43114": "AVALANCHE"
