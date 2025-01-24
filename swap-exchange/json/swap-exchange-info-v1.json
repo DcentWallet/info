@@ -347,7 +347,7 @@
     "xinfin network": "XINFIN",
     "zcash": "ZCASH",
     "BASE": "CHAN:8453",
-	"bitcoin_cash": "BITCOINCASH",
+    "bitcoin_cash": "BITCOINCASH",
     "stacks": "STACKS",
     "flr": "CHAN:14"
   },
@@ -378,7 +378,6 @@
     "etc": "ETH-CLASSIC",
     "xec": "ECASH",
     "btg": "BITCOIN-GOLD",
-    "bsv": "BITCOIN-SV",
     "bch": "BITCOINCASH",
     "celo": "CHAN:42220",
     "klay": "KLAYTN",
