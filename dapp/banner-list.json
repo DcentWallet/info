@@ -76,25 +76,25 @@
     {
         "name": "dcent",
         "title": "D'CENT",
-        "bgColor": "#27C4B8",
+        "bgColor": "#111111",
         "externalWindow": true,
         "locale": {
             "en": {
                 "description": "Enhance your security with <br/><b>D'CENT biometric wallet</b>",
                 "link": "https://store.dcentwallet.com?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=constant_purchase-hardware",
-                "imagePath": "discovery_banner-dcent_bg.png",
+                "imagePath": "discovery_banner_dcent_new.png",
                 "button": "Buy Now"
             },
             "ko": {
                 "description": "<b>디센트 지문인증형 지갑</b>으로<br/> 한층 더 강화된 보안을 경험하세요!",
                 "link": "https://store-kr.dcentwallet.com?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=constant_purchase-hardware",
-                "imagePath": "discovery_banner-dcent_bg.png",
+                "imagePath": "discovery_banner_dcent_new.png",
                 "button": "구매하기"
             },
             "ja": {
                 "description": "大切な暗号資産を万全セキュリティで<br/>お守りする、</b>「D'CENT」</b>",
                 "link": "https://store.dcentwallet.com?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=constant_purchase-hardware",
-                "imagePath": "discovery_banner-dcent_bg.png",
+                "imagePath": "discovery_banner_dcent_new.png",
                 "button": "購入する"
             }
         }

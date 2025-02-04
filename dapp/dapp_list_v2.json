@@ -20,7 +20,7 @@
             "link": "",
             "kind": [],
             "category": [],
-            "iconPath": "icon_buy.png",
+            "iconPath": "icon_dcent_buy.png",
             "testnet": false,
             "externalWindow": false,
             "platform": "android",
@@ -53,7 +53,7 @@
                 }
             ],
             "category": [],
-            "iconPath": "icon_swap_x.png",
+            "iconPath": "icon_dcent_swap_x.png",
             "type": "dapp_dcent",
             "device": "ble_dongle",
             "externalWindow": false,
@@ -96,35 +96,6 @@
             "externalWindow": false,
             "notSupportCardWallet": true,
             "platform": "android",
-            "restrictionPolicy": true
-        },
-        {
-            "name": "swap",
-            "title": {
-                "en": "Swap",
-                "ko": "스왑",
-                "ja": "スワップ"
-            },
-            "description": {
-                "en": "A service that allows you to quickly and easily swap 3000+ cryptocurrencies through various swap service partners.",
-                "ko": "다양한 스왑 서비스 파트너를 통해 3000개 이상의 암호화폐를 쉽고 빠르게 스왑할 수 있는 서비스입니다.",
-                "ja": "様々なスワップサービスを介して、実に3000種類以上の暗号資産をスピーディーに、そして非常にシンプルな方法でスワップすることが可能なサービスです。"
-            },
-            "link": "https://swap.dcentwallet.com",
-            "kind": [
-                "eth"
-            ],
-            "category": [],
-            "iconPath": "icon_swap.png",
-            "type": "dapp_dcent",
-            "device": "ble_dongle",
-            "externalWindow": false,
-            "appVersion": {
-                "android": "5.16.0",
-                "ios": "5.16.2"
-            },
-            "platform": "android",
-            "preRelease": true,
             "restrictionPolicy": true
         },
         {
