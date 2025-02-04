@@ -29717,6 +29717,90 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/25269.png",
+    "symbol": "BOBO",
+    "name": "BOBO Coin",
+    "type": "ERC20",
+    "contract": "0xb90b2a35c65dbc466b04240097ca756ad2005295",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/4862.png",
+    "symbol": "DAD",
+    "name": "DAD",
+    "type": "ERC20",
+    "contract": "0x5b322514ff727253292637d9054301600c2c81e8",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/32260.png",
+    "symbol": "DEGA",
+    "name": "DEGA",
+    "type": "ERC20",
+    "contract": "0x97aee01ed2aabad9f54692f94461ae761d225f17",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/28829.png",
+    "symbol": "MAVIA",
+    "name": "Heroes of Mavia",
+    "type": "ERC20",
+    "contract": "0x24fcfc492c1393274b6bcd568ac9e225bec93584",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/8049.png",
+    "symbol": "TORN",
+    "name": "Tornado Cash",
+    "type": "ERC20",
+    "contract": "0x77777feddddffc19ff86db637967013e6c6a116c",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/35287.png",
+    "symbol": "TREAT",
+    "name": "Shiba Inu Treat",
+    "type": "ERC20",
+    "contract": "0xa02c49da76a085e4e1ee60a6b920ddbc8db599f4",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/3701.png",
     "symbol": "RIF",
     "name": "RSK Infrastructure Framework",
@@ -35278,20 +35362,6 @@
     "name": "Circularity Finance",
     "type": "XRC20",
     "contract": "xdce5F9AE9D32D93d3934007568B30B7A7cA489C486",
-    "support": {
-      "biometric": true,
-      "card": true,
-      "ethCard": false,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/17390.png",
-    "symbol": "PRNT",
-    "name": "Prime Numbers Labs",
-    "type": "XRC20",
-    "contract": "xdc0e11710aad67e7427cfbc12c353284c2e335f62c",
     "support": {
       "biometric": true,
       "card": true,
@@ -46319,20 +46389,6 @@
     }
   },
   {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/23397.png",
-    "symbol": "GFAL",
-    "name": "Games for a Living",
-    "type": "BEP20",
-    "contract": "0x47c454ca6be2f6def6f32b638c80f91c9c3c5949",
-    "support": {
-      "biometric": true,
-      "card": true,
-      "ethCard": false,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/9481.png",
     "symbol": "PENDLE",
     "name": "Pendle",
@@ -46352,6 +46408,34 @@
     "name": "BugsCoin",
     "type": "BEP20",
     "contract": "0xa4b68d48d7bc6f04420e8077e6f74bdef809dea3",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/3933.png",
+    "symbol": "SWIFT",
+    "name": "SwiftCash",
+    "type": "BEP20",
+    "contract": "0x99945f484ebc48f5307cc00cf8dcf8d6d3d4b017",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/8049.png",
+    "symbol": "TORN",
+    "name": "Tornado Cash",
+    "type": "BEP20",
+    "contract": "0x1ba8d3c4c219b124d351f603060663bd1bcd9bbf",
     "support": {
       "biometric": true,
       "card": true,
@@ -48077,20 +48161,6 @@
     }
   },
   {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/32889.png",
-    "symbol": "AUKI",
-    "name": "AUKI",
-    "type": "BASE-ERC20",
-    "contract": "0xf9569cfb8fd265e91aa478d86ae8c78b8af55df4",
-    "support": {
-      "biometric": true,
-      "card": true,
-      "ethCard": false,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/2110.png",
     "symbol": "DOVU",
     "name": "Dovu",
@@ -48124,6 +48194,62 @@
     "name": "Peapods Finance",
     "type": "BASE-ERC20",
     "contract": "0x02f92800f57bcd74066f5709f1daa1a4302df875",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+    "symbol": "USDT",
+    "name": "L2 Standard Bridged USDT",
+    "type": "BASE-ERC20",
+    "contract": "0xfde4c96c8593536e31f229ea8f37b2ada2699bb2",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/25269.png",
+    "symbol": "BOBO",
+    "name": "BOBO Coin",
+    "type": "BASE-ERC20",
+    "contract": "0x570b1533f6daa82814b25b62b5c7c4c55eb83947",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/28478.png",
+    "symbol": "MOCHI",
+    "name": "Mochi",
+    "type": "BASE-ERC20",
+    "contract": "0xf6e932ca12afa26665dc4dde7e27be02a7c02e50",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/28829.png",
+    "symbol": "MAVIA",
+    "name": "Heroes of Mavia",
+    "type": "BASE-ERC20",
+    "contract": "0x24fcfc492c1393274b6bcd568ac9e225bec93584",
     "support": {
       "biometric": true,
       "card": true,
@@ -53217,6 +53343,34 @@
     "name": "Butthole Coin",
     "type": "SPL-TOKEN",
     "contract": "CboMcTUYUcy9E6B3yGdFn6aEsGUnYV6yWeoeukw6pump",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/32419.png",
+    "symbol": "KAMA",
+    "name": "Kamala Horris",
+    "type": "SPL-TOKEN",
+    "contract": "HnKkzR1YtFbUUxM6g3iVRS2RY68KHhGV7bNdfF1GCsJB",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/35410.png",
+    "symbol": "MAX",
+    "name": "MAX",
+    "type": "SPL-TOKEN",
+    "contract": "oraim8c9d1nkfuQk9EzGYEUGxqL3MHQYndRw1huVo5h",
     "support": {
       "biometric": true,
       "card": false,
