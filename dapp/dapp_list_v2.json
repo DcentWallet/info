@@ -20,7 +20,7 @@
             "link": "",
             "kind": [],
             "category": [],
-            "iconPath": "icon_dcent_buy.png",
+            "iconPath": "icon_dcent_buy_new.png",
             "testnet": false,
             "externalWindow": false,
             "platform": "android",
@@ -53,7 +53,7 @@
                 }
             ],
             "category": [],
-            "iconPath": "icon_dcent_swap_x.png",
+            "iconPath": "icon_dcent_swap_x_new.png",
             "type": "dapp_dcent",
             "device": "ble_dongle",
             "externalWindow": false,
