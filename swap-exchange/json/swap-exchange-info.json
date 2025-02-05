@@ -471,7 +471,7 @@
   },
   "coingecko": {
     "ethereum": "ETHEREUM",
-    "optimism": "OPTIMISM",
+    "optimistic-ethereum": "OPTIMISM",
     "cronos": "CRONOS",
     "binance-smart-chain": "BSC",
     "xdai": "GNOSIS",
