@@ -470,7 +470,7 @@
   },
   "coingecko": {
     "ethereum": "ETHEREUM",
-    "optimism": "CHAN:10",
+    "optimistic-ethereum": "CHAN:10",
     "cronos": "CHAN:25",
     "binance-smart-chain": "BSC",
     "xdai": "CHAN:100",
