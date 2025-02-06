@@ -1,0 +1,596 @@
+{
+  "cryptoCurrencyMap": {
+    "BITCOIN": [
+      "BITCOIN",
+      "BTC-SEGWIT"
+    ],
+    "BITCOIN-GOLD": [
+      "BITCOIN-GOLD"
+    ],
+    "BITCOINCASH": [
+      "BITCOINCASH"
+    ],
+    "BSC": [
+      "BSC"
+    ],
+    "CARDANO": [
+      "CARDANO"
+    ],
+    "CHAN:10": [
+      "CHAN:10"
+    ],
+    "CHAN:100": [
+      "CHAN:100"
+    ],
+    "CHAN:11": [
+      "CHAN:11"
+    ],
+    "CHAN:128": [
+      "CHAN:128"
+    ],
+    "CHAN:14": [
+      "CHAN:14"
+    ],
+    "CHAN:1666600000": [
+      "CHAN:1666600000"
+    ],
+    "CHAN:19": [
+      "CHAN:19"
+    ],
+    "CHAN:2017": [
+      "CHAN:2017"
+    ],
+    "CHAN:246": [
+      "CHAN:246"
+    ],
+    "CHAN:248": [
+      "CHAN:248"
+    ],
+    "CHAN:25": [
+      "CHAN:25"
+    ],
+    "CHAN:250": [
+      "CHAN:250"
+    ],
+    "CHAN:288": [
+      "CHAN:288"
+    ],
+    "CHAN:321": [
+      "CHAN:321"
+    ],
+    "CHAN:42161": [
+      "CHAN:42161"
+    ],
+    "CHAN:42220": [
+      "CHAN:42220"
+    ],
+    "CHAN:43114": [
+      "CHAN:43114"
+    ],
+    "CHAN:66": [
+      "CHAN:66"
+    ],
+    "CHAN:7518": [
+      "CHAN:7518"
+    ],
+    "CHAN:X-PALM": [
+      "CHAN:X-PALM"
+    ],
+    "CHAN:8453": [
+      "CHAN:8453"
+    ],
+    "CHAN:255": [
+      "CHAN:255"
+    ],
+    "CHAN:592": [
+      "CHAN:592"
+    ],
+    "CONFLUX": [
+      "CONFLUX"
+    ],
+    "COSMOS": [
+      "COSMOS"
+    ],
+    "DASH": [
+      "DASH"
+    ],
+    "DIGIBYTE": [
+      "DIGIBYTE",
+      "DGB-SEGWIT"
+    ],
+    "DOGECOIN": [
+      "DOGECOIN"
+    ],
+    "ECASH": [
+      "ECASH"
+    ],
+    "ETH-CLASSIC": [
+      "ETH-CLASSIC"
+    ],
+    "ETHEREUM": [
+      "ETHEREUM"
+    ],
+    "HEDERA": [
+      "HEDERA"
+    ],
+    "HORIZEN": [
+      "HORIZEN"
+    ],
+    "KLAYTN": [
+      "KLAYTN"
+    ],
+    "LITECOIN": [
+      "LITECOIN",
+      "LTC-SEGWIT"
+    ],
+    "LUNIVERSE": [
+      "LUNIVERSE"
+    ],
+    "MONACOIN": [
+      "MONACOIN"
+    ],
+    "NEAR": [
+      "NEAR"
+    ],
+    "POLKADOT": [
+      "POLKADOT"
+    ],
+    "POLYGON": [
+      "POLYGON"
+    ],
+    "RAVENCOIN": [
+      "RAVENCOIN"
+    ],
+    "RIPPLE": [
+      "RIPPLE"
+    ],
+    "RSK": [
+      "RSK"
+    ],
+    "SOLANA": [
+      "SOLANA"
+    ],
+    "STACKS": [
+      "STACKS"
+    ],
+    "STELLAR": [
+      "STELLAR"
+    ],
+    "TEZOS": [
+      "TEZOS"
+    ],
+    "TRON": [
+      "TRON"
+    ],
+    "XINFIN": [
+      "XINFIN"
+    ],
+    "ZCASH": [
+      "ZCASH"
+    ]
+  },
+  "networkNameMap": {
+    "BITCOIN": "BITCOIN",
+    "BTC-SEGWIT": "BITCOIN",
+    "BITCOIN-GOLD": "BITCOIN-GOLD",
+    "BITCOIN-SV": "BITCOIN-SV",
+    "BITCOINCASH": "BITCOINCASH",
+    "BSC": "BSC",
+    "CARDANO": "CARDANO",
+    "CHAN:10": "OPTIMISM",
+    "CHAN:100": "GNOSIS",
+    "CHAN:11": "METADIUM",
+    "CHAN:128": "HECO",
+    "CHAN:14": "FLARE",
+    "CHAN:1666600000": "HARMONY",
+    "CHAN:19": "SONGBIRD",
+    "CHAN:2017": "ORBIT",
+    "CHAN:246": "EWC",
+    "CHAN:248": "OASYS",
+    "CHAN:25": "CRONOS",
+    "CHAN:250": "FANTOM",
+    "CHAN:288": "BOBA",
+    "CHAN:321": "KCC",
+    "CHAN:42161": "ARBITRUM",
+    "CHAN:42220": "CELO",
+    "CHAN:43114": "AVALANCHE",
+    "CHAN:66": "OKC",
+    "CHAN:7518": "MEVERSE",
+    "CHAN:X-PALM": "X-PALM",
+    "CHAN:8453": "BASE",
+    "CHAN:255": "KROMA",
+    "CHAN:592": "ASTAR-EVM",
+    "CONFLUX": "CONFLUX",
+    "COSMOS": "COSMOS",
+    "DASH": "DASH",
+    "DIGIBYTE": "DIGIBYTE",
+    "DGB-SEGWIT": "DIGIBYTE",
+    "DOGECOIN": "DOGECOIN",
+    "ECASH": "ECASH",
+    "ETH-CLASSIC": "ETH-CLASSIC",
+    "ETHEREUM": "ETHEREUM",
+    "HEDERA": "HEDERA",
+    "HORIZEN": "HORIZEN",
+    "KLAYTN": "KLAYTN",
+    "LITECOIN": "LITECOIN",
+    "LTC-SEGWIT": "LITECOIN",
+    "LUNIVERSE": "LUNIVERSE",
+    "MONACOIN": "MONACOIN",
+    "NEAR": "NEAR",
+    "POLKADOT": "POLKADOT",
+    "POLYGON": "POLYGON",
+    "RAVENCOIN": "RAVENCOIN",
+    "RIPPLE": "XRPL",
+    "RSK": "RSK",
+    "SOLANA": "SOLANA",
+    "STACKS": "STACKS",
+    "STELLAR": "STELLAR",
+    "TEZOS": "TEZOS",
+    "TRON": "TRON",
+    "XINFIN": "XINFIN",
+    "ZCASH": "ZCASH"
+  },
+  "tokenTickerMap": {
+    "BSC": "BEP20",
+    "CHAN:10": "CH20:10",
+    "CHAN:100": "CH20:100",
+    "CHAN:11": "CH20:11",
+    "CHAN:128": "CH20:128",
+    "CHAN:14": "CH20:14",
+    "CHAN:1666600000": "CH20:1666600000",
+    "CHAN:19": "CH20:19",
+    "CHAN:2017": "CH20:2017",
+    "CHAN:246": "CH20:246",
+    "CHAN:248": "CH20:248",
+    "CHAN:25": "CH20:25",
+    "CHAN:250": "CH20:250",
+    "CHAN:288": "CH20:288",
+    "CHAN:321": "CH20:321",
+    "CHAN:42161": "CH20:42161",
+    "CHAN:42220": "CH20:42220",
+    "CHAN:43114": "CH20:43114",
+    "CHAN:66": "CH20:66",
+    "CHAN:7518": "CH20:7518",
+    "CHAN:X-PALM": "CH20:X-PALM",
+    "CHAN:8453": "CH20:8453",
+    "CHAN:255": "CH20:255",
+    "CHAN:592": "CH20:592",
+    "CONFLUX": "CFX-CRC20",
+    "ETH-CLASSIC": "ETC-ERC20",
+    "ETHEREUM": "ERC20",
+    "HEDERA": "HEDERA-HTS",
+    "KLAYTN": "KLAYTN-ERC20",
+    "LUNIVERSE": "LUNIVERSE-TKN",
+    "NEAR": "NEAR-TOKEN",
+    "POLYGON": "POLYGON-ERC20",
+    "RIPPLE": "RIPPLE-TA",
+    "RSK": "RRC20",
+    "SOLANA": "SPL-TOKEN",
+    "STACKS": "SIP010",
+    "STELLAR": "STELLAR-TA",
+    "TEZOS": "XTZ-FA",
+    "TRON": "TRC-TOKEN",
+    "XINFIN": "XRC20"
+  },
+  "supportedBlockchains": [
+    "BITCOIN",
+    "BITCOIN-GOLD",
+    "BITCOINCASH",
+    "BSC",
+    "CARDANO",
+    "CHAN:10",
+    "CHAN:100",
+    "CHAN:11",
+    "CHAN:128",
+    "CHAN:14",
+    "CHAN:1666600000",
+    "CHAN:19",
+    "CHAN:2017",
+    "CHAN:246",
+    "CHAN:248",
+    "CHAN:25",
+    "CHAN:250",
+    "CHAN:288",
+    "CHAN:321",
+    "CHAN:42161",
+    "CHAN:42220",
+    "CHAN:43114",
+    "CHAN:66",
+    "CHAN:7518",
+    "CHAN:X-PALM",
+    "CHAN:8453",
+    "CHAN:255",
+    "CHAN:592",
+    "CONFLUX",
+    "COSMOS",
+    "DASH",
+    "DIGIBYTE",
+    "DOGECOIN",
+    "ECASH",
+    "ETH-CLASSIC",
+    "ETHEREUM",
+    "HEDERA",
+    "HORIZEN",
+    "KLAYTN",
+    "LITECOIN",
+    "LUNIVERSE",
+    "MONACOIN",
+    "NEAR",
+    "POLKADOT",
+    "POLYGON",
+    "RAVENCOIN",
+    "RIPPLE",
+    "RSK",
+    "SOLANA",
+    "STACKS",
+    "STELLAR",
+    "TEZOS",
+    "TRON",
+    "XINFIN",
+    "ZCASH"
+  ],
+  "evmBlockchains": [
+    "BSC",
+    "CHAN:10",
+    "CHAN:100",
+    "CHAN:11",
+    "CHAN:128",
+    "CHAN:14",
+    "CHAN:1666600000",
+    "CHAN:19",
+    "CHAN:2017",
+    "CHAN:246",
+    "CHAN:248",
+    "CHAN:25",
+    "CHAN:250",
+    "CHAN:288",
+    "CHAN:321",
+    "CHAN:42161",
+    "CHAN:42220",
+    "CHAN:43114",
+    "CHAN:66",
+    "CHAN:7518",
+    "CHAN:X-PALM",
+    "CHAN:8453",
+    "CHAN:255",
+    "CHAN:592",
+    "ETH-CLASSIC",
+    "ETHEREUM",
+    "KLAYTN",
+    "LUNIVERSE",
+    "POLYGON",
+    "XINFIN"
+  ],
+  "providerPriority": {
+    "changenow": 1,
+    "changelly": 2,
+    "oneinch": 3,
+    "okx": 4,
+    "okxcross": 5
+  },
+  "providersName": [
+    "changelly",
+    "changenow",
+    "okx",
+    "oneinch",
+    "okxcross",
+    "coinmarketcap",
+    "coingecko"
+  ],
+  "changelly": {
+    "bitcoin": "BITCOIN",
+    "ethereum": "ETHEREUM",
+    "optimism": "CHAN:10",
+    "solana": "SOLANA",
+    "polygon": "POLYGON",
+    "binance_smart_chain": "BSC",
+    "cardano": "CARDANO",
+    "arbitrum": "CHAN:42161",
+    "avaxc": "CHAN:43114",
+    "celo": "CHAN:42220",
+    "cosmos": "COSMOS",
+    "dash": "DASH",
+    "digibyte": "DIGIBYTE",
+    "dogecoin": "DOGECOIN",
+    "ethereum_classic": "ETH-CLASSIC",
+    "fantom": "CHAN:250",
+    "hedera": "HEDERA",
+    "horizen": "HORIZEN",
+    "klaytn": "KLAYTN",
+    "litecoin": "LITECOIN",
+    "near": "NEAR",
+    "polkadot": "POLKADOT",
+    "ripple": "RIPPLE",
+    "rootstock": "RSK",
+    "stellar": "STELLAR",
+    "tezos": "TEZOS",
+    "tron": "TRON",
+    "xinfin network": "XINFIN",
+    "zcash": "ZCASH",
+    "BASE": "CHAN:8453",
+    "bitcoin_cash": "BITCOINCASH",
+    "stacks": "STACKS",
+    "flr": "CHAN:14"
+  },
+  "changenow": {
+    "btc": "BITCOIN",
+    "eth": "ETHEREUM",
+    "op": "CHAN:10",
+    "sol": "SOLANA",
+    "matic": "POLYGON",
+    "bsc": "BSC",
+    "arbitrum": "CHAN:42161",
+    "avaxc": "CHAN:43114",
+    "xrp": "RIPPLE",
+    "ada": "CARDANO",
+    "atom": "COSMOS",
+    "near": "NEAR",
+    "ftm": "CHAN:250",
+    "dash": "DASH",
+    "doge": "DOGECOIN",
+    "ltc": "LITECOIN",
+    "xlm": "STELLAR",
+    "stx": "STACKS",
+    "xtz": "TEZOS",
+    "trx": "TRON",
+    "xdc": "XINFIN",
+    "zec": "ZCASH",
+    "dgb": "DIGIBYTE",
+    "etc": "ETH-CLASSIC",
+    "xec": "ECASH",
+    "btg": "BITCOIN-GOLD",
+    "bch": "BITCOINCASH",
+    "celo": "CHAN:42220",
+    "klay": "KLAYTN",
+    "dot": "POLKADOT",
+    "hbar": "HEDERA",
+    "zen": "HORIZEN",
+    "rvn": "RAVENCOIN",
+    "cfx": "CONFLUX",
+    "base": "CHAN:8453",
+    "cro": "CHAN:25",
+    "kcc": "CHAN:321",
+    "boba": "CHAN:288",
+    "flr": "CHAN:14"
+  },
+  "okx": {
+    "1": "ETHEREUM",
+    "10": "CHAN:10",
+    "25": "CHAN:25",
+    "56": "BSC",
+    "66": "CHAN:66",
+    "137": "POLYGON",
+    "195": "TRON",
+    "250": "CHAN:250",
+    "501": "SOLANA",
+    "8453": "CHAN:8453",
+    "42161": "CHAN:42161",
+    "43114": "CHAN:43114"
+  },
+  "oneinch": {
+    "1": "ETHEREUM",
+    "10": "CHAN:10",
+    "56": "BSC",
+    "100": "CHAN:100",
+    "137": "POLYGON",
+    "250": "CHAN:250",
+    "8217": "KLAYTN",
+    "8453": "CHAN:8453",
+    "42161": "CHAN:42161",
+    "43114": "CHAN:43114"
+  },
+  "okxcross": {
+    "1": "ETHEREUM",
+    "10": "CHAN:10",
+    "56": "BSC",
+    "137": "POLYGON",
+    "8453": "CHAN:8453",
+    "42161": "CHAN:42161",
+    "43114": "CHAN:43114"
+  },
+  "swapSupportedChains": [
+    "ETHEREUM",
+    "CHAN:10",
+    "CHAN:25",
+    "BSC",
+    "CHAN:66",
+    "CHAN:100",
+    "POLYGON",
+    "CHAN:250",
+    "KLAYTN",
+    "CHAN:8453",
+    "CHAN:42161",
+    "CHAN:43114",
+    "TRON",
+    "SOLANA"
+  ],
+  "crossSupportedChains": [
+    "ETHEREUM",
+    "CHAN:10",
+    "BSC",
+    "POLYGON",
+    "CHAN:8453",
+    "CHAN:42161",
+    "CHAN:43114"
+  ],
+  "coinmarketcap": {
+    "Ethereum": "ETHEREUM",
+    "Optimism": "CHAN:10",
+    "Cronos": "CHAN:25",
+    "BNB Smart Chain (BEP20)": "BSC",
+    "OKExChain": "CHAN:66",
+    "Gnosis Chain": "CHAN:100",
+    "Polygon": "POLYGON",
+    "Fantom": "CHAN:250",
+    "KAIA": "KLAYTN",
+    "Base": "CHAN:8453",
+    "Arbitrum": "CHAN:42161",
+    "Avalanche C-Chain": "CHAN:43114",
+    "Tron20": "TRON",
+    "Solana": "SOLANA"
+  },
+  "coingecko": {
+    "ethereum": "ETHEREUM",
+    "optimistic-ethereum": "CHAN:10",
+    "cronos": "CHAN:25",
+    "binance-smart-chain": "BSC",
+    "xdai": "CHAN:100",
+    "polygon-pos": "POLYGON",
+    "fantom": "CHAN:250",
+    "klay-token": "KLAYTN",
+    "base": "CHAN:8453",
+    "arbitrum-one": "CHAN:42161",
+    "avalanche": "CHAN:43114",
+    "tron": "TRON",
+    "solana": "SOLANA"
+  },
+  "cgkNativeCoinId": {
+    "bitcoin": "BITCOIN",
+    "bitcoin-gold": "BITCOIN-GOLD",
+    "bitcoin-cash": "BITCOINCASH",
+    "binancecoin": "BSC",
+    "cardano": "CARDANO",
+    "xdai": "CHAN:100",
+    "metadium": "CHAN:11",
+    "huobi-token": "CHAN:128",
+    "flare-networks": "CHAN:14",
+    "harmony": "CHAN:1666600000",
+    "songbird": "CHAN:19",
+    "orbit-chain": "CHAN:2017",
+    "energy-web-token": "CHAN:246",
+    "oasys": "CHAN:248",
+    "crypto-com-chain": "CHAN:25",
+    "fantom": "CHAN:250",
+    "kucoin-shares": "CHAN:321",
+    "celo": "CHAN:42220",
+    "avalanche-2": "CHAN:43114",
+    "oec-token": "CHAN:66",
+    "meverse": "CHAN:7518",
+    "conflux-token": "CONFLUX",
+    "cosmos": "COSMOS",
+    "dash": "DASH",
+    "digibyte": "DIGIBYTE",
+    "dogecoin": "DOGECOIN",
+    "ecash": "ECASH",
+    "ethereum-classic": "ETH-CLASSIC",
+    "ethereum": "ETHEREUM",
+    "hedera-hashgraph": "HEDERA",
+    "zencash": "HORIZEN",
+    "kaia": "KLAYTN",
+    "litecoin": "LITECOIN",
+    "monacoin": "MONACOIN",
+    "near": "NEAR",
+    "polkadot": "POLKADOT",
+    "matic-network": "POLYGON",
+    "ravencoin": "RAVENCOIN",
+    "ripple": "RIPPLE",
+    "rootstock": "RSK",
+    "solana": "SOLANA",
+    "blockstack": "STACKS",
+    "stellar": "STELLAR",
+    "tezos": "TEZOS",
+    "tron": "TRON",
+    "xdce-crowd-sale": "XINFIN",
+    "zcash": "ZCASH"
+  }
+}
