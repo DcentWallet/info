@@ -29773,20 +29773,6 @@
     }
   },
   {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/8049.png",
-    "symbol": "TORN",
-    "name": "Tornado Cash",
-    "type": "ERC20",
-    "contract": "0x77777feddddffc19ff86db637967013e6c6a116c",
-    "support": {
-      "biometric": true,
-      "card": true,
-      "ethCard": true,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/35287.png",
     "symbol": "TREAT",
     "name": "Shiba Inu Treat",
