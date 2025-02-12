@@ -1,8 +1,8 @@
 {
   "swapComplete": {
     "name": "event_swap_complete",
-    "start": "2025-02-12T09:00:00.000Z",
-    "end": "2025-02-24T09:00:00.000Z",
+    "start": "2025-02-14T00:00:00.000Z",
+    "end": "2025-02-20T23:59:59.999Z",
     "external": "true",
     "bgColor": "#171719",
     "strokeColor": "#DBDCDF",
