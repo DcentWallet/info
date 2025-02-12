@@ -1,7 +1,7 @@
 {
   "cryptoCurrencyMap": {
     "BITCOIN": [
-      "BITCOIN"
+      "BTC-SEGWIT"
     ],
     "DIGIBYTE": [
       "DGB-SEGWIT"
