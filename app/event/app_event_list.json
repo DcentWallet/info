@@ -9,16 +9,19 @@
     "en": {
       "image": "event_swap_complete_en.png",
       "wideImage": "event_swap_complete_en_wide.png",
+      "wideImage2": "event_swap_complete_en_wide2.png",
       "link": "https://store.dcentwallet.com/products/biometric-wallet_swap-lucky-event?utm_source=swap_complete&utm_medium=dcent-app&utm_campaign=202502_swap_lucky_event&utm_content=app_banner"
     },
     "ko": {
       "image": "event_swap_complete_ko.png",
       "wideImage": "event_swap_complete_ko_wide.png",
+      "wideImage2": "event_swap_complete_ko_wide2.png",
       "link": "https://store-kr.dcentwallet.com/products/biometric-wallet-swap-event?utm_source=swap_complete&utm_medium=dcent-app&utm_campaign=202502_swap_lucky_event&utm_content=app_banner"
     },
     "ja": {
       "image": "event_swap_complete_ja.png",
       "wideImage": "event_swap_complete_ja_wide.png",
+      "wideImage2": "event_swap_complete_ja_wide2.png",
       "link": "https://store.dcentwallet.com/ja/products/biometric-wallet_swap-lucky-event?utm_source=swap_complete&utm_medium=dcent-app&utm_campaign=202502_swap_lucky_event&utm_content=app_banner"
     }
   }
