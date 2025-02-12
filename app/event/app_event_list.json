@@ -5,6 +5,7 @@
         "end": "2025-02-24T09:00:00.000Z",
         "external": "true",
         "bgColor": "#171719",
+        "strokeColor": "#DBDCDF",
         "en": {
             "image": "event_swap_complete_en.svg",
             "wideImage": "event_swap_complete_wide.svg",
