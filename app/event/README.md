@@ -14,8 +14,14 @@ D'CENT App에서 Event를 진행하기 위해 필요한 정보를 정의 합니�
         "start": "2025-02-12T09:00:00.000Z", // 시작 시간
         "end": "2025-02-24T09:00:00.000Z", // 종료 시간
         "external": "true", // 링크를 외부 브라우저 연결, false 인 경우에는 discovery tab 으로 이동하여 열기(바로 필요 없음)
-        bgColor: "#171719", // 이미지 양 옆 배경 색상
-        strokeColor: "#DBDCDF", // 다크테마의 경우 경계가 안 보일 수 있어 stroke 구분선 필요
+        "light": { // 라이트 테마의 경우
+          "bgColor": "#171719", // 이미지 양 옆 배경 색상
+          "strokeColor": "#DBDCDF" // 경계가 안 보일 수 있어 stroke 구분선 필요
+        },
+        "dark": { // 다크 테마의 경우
+          "bgColor": "#171719",
+          "strokeColor": "#46474C"
+        },
         "en": { // 영어 정보
             "image": "event_swap_complete_en.png",
             "wideImage": "event_swap_complete_en_wide.png",
