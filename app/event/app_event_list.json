@@ -4,8 +4,14 @@
     "start": "2025-02-14T00:00:00.000Z",
     "end": "2025-02-20T23:59:59.999Z",
     "external": "true",
-    "bgColor": "#171719",
-    "strokeColor": "#DBDCDF",
+    "light": {
+      "bgColor": "#171719",
+      "strokeColor": "#DBDCDF"
+    },
+    "dark": {
+      "bgColor": "#171719",
+      "strokeColor": "#46474C"
+    },
     "en": {
       "image": "event_swap_complete_en.png",
       "wideImage": "event_swap_complete_en_wide.png",
