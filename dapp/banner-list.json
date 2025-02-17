@@ -3,29 +3,24 @@
         "name": "MEGA-AIRDROP-WAITLIST",
         "title": "MEGA-AIRDROP-WAITLIST",
         "bgColor": "#5C1520",
-        "externalWindow": true,
+        "externalWindow": false,
         "locale": {
             "en": {
                 "description": "",
-                "link": "https://forms.gle/G66dydPyiHS8vcGJ8",
+                "link": "https://discovery.dcentwallet.com/simplex",
                 "imagePath": "app_380x160_en_3.png",
                 "imagePath_480": "app_480x160_en_3.png"
             },
-            "ko": {
-                "description": "",
-                "link": "https://forms.gle/43x1xPXY2j95QumC9",
-                "imagePath": "app_380x160_kr_3.png",
-                "imagePath_480": "app_480x160_kr_3.png"
-            },
             "ja": {
                 "description": "",
-                "link": "https://forms.gle/G66dydPyiHS8vcGJ8",
+                "link": "https://discovery.dcentwallet.com/simplex",
                 "imagePath": "app_380x160_en_3.png",
                 "imagePath_480": "app_480x160_en_3.png"
             }
         },
         "startTimestamp": 1736496000000,
-        "endTimestamp": 1737298799000
+        "endTimestamp": 1739919675000,
+        "preRelease": true
     },
     {
         "name": "usa-free-shipping",
