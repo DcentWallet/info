@@ -146,7 +146,7 @@
   {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/512.png",
     "symbol": "XLM",
-    "name": "Stellar Lumen",
+    "name": "Stellar",
     "support": {
       "biometric": true,
       "card": false,
@@ -302,7 +302,7 @@
   {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/2634.png",
     "symbol": "XDC",
-    "name": "XDC",
+    "name": "XDC (XinFin)",
     "support": {
       "biometric": true,
       "card": true,
@@ -494,7 +494,7 @@
   {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/8267.png",
     "symbol": "OKT",
-    "name": "OEC Token",
+    "name": "OKX Chain",
     "support": {
       "biometric": true,
       "card": true,
@@ -590,7 +590,7 @@
   {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/2087.png",
     "symbol": "KCS",
-    "name": "KuCoin Token",
+    "name": "KCC",
     "support": {
       "biometric": true,
       "card": true,
@@ -650,7 +650,7 @@
   {
     "iconUrl": "https://info-repo.dcentwallet.com/dapp/images/network_arbitrum.png",
     "symbol": "ETH",
-    "name": "Arbitrum",
+    "name": "Arbitrum One",
     "support": {
       "biometric": true,
       "card": true,
@@ -846,6 +846,18 @@
     "support": {
       "biometric": true,
       "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/2280.png",
+    "symbol": "FIL",
+    "name": "Filecoin",
+    "support": {
+      "biometric": true,
+      "card": false,
       "ethCard": false,
       "klayCard": false,
       "software": true
@@ -29787,6 +29799,48 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/28786.png",
+    "symbol": "HEMULE",
+    "name": "Hemule",
+    "type": "ERC20",
+    "contract": "0xeaa63125dd63f10874f99cdbbb18410e7fc79dd3",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/32578.png",
+    "symbol": "WAI",
+    "name": "WienerAI",
+    "type": "ERC20",
+    "contract": "0xfe8526a77a2c3590e5973ba81308b90bea21fbff",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/34711.png",
+    "symbol": "LCAI",
+    "name": "Lightchain AI",
+    "type": "ERC20",
+    "contract": "0x9ca8530ca349c966fe9ef903df17a75b8a778927",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/3701.png",
     "symbol": "RIF",
     "name": "RSK Infrastructure Framework",
@@ -46431,6 +46485,20 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/2341.png",
+    "symbol": "SWFTC",
+    "name": "SWFTCOIN",
+    "type": "BEP20",
+    "contract": "0xe64e30276c2f826febd3784958d6da7b55dfbad3",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/11840.png",
     "symbol": "OP",
     "name": "Optimism",
@@ -48236,6 +48304,34 @@
     "name": "Heroes of Mavia",
     "type": "BASE-ERC20",
     "contract": "0x24fcfc492c1393274b6bcd568ac9e225bec93584",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/34105.png",
+    "symbol": "SEKOIA",
+    "name": "sekoia by Virtuals",
+    "type": "BASE-ERC20",
+    "contract": "0x1185cb5122edad199bdbc0cbd7a0457e448f23c7",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/34105.png",
+    "symbol": "GPS",
+    "name": "GoPlus Security",
+    "type": "BASE-ERC20",
+    "contract": "0x0c1dc73159e30c4b06170f2593d3118968a0dca5",
     "support": {
       "biometric": true,
       "card": true,
@@ -53357,6 +53453,34 @@
     "name": "MAX",
     "type": "SPL-TOKEN",
     "contract": "oraim8c9d1nkfuQk9EzGYEUGxqL3MHQYndRw1huVo5h",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/34792.png",
+    "symbol": "GRIFFAIN",
+    "name": "GRIFFAIN",
+    "type": "SPL-TOKEN",
+    "contract": "KENJSUYLASHUMfHyy5o4Hp2FdNqZg1AsUPhfH2kYvEP",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/34661.png",
+    "symbol": "TAURUS",
+    "name": "Taurus",
+    "type": "SPL-TOKEN",
+    "contract": "EjkkxYpfSwS6TAtKKuiJuNMMngYvumc1t1v9ZX1WJKMp",
     "support": {
       "biometric": true,
       "card": false,
