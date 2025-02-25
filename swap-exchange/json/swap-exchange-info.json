@@ -306,8 +306,8 @@
   "providerPriority": {
     "changenow": 1,
     "changelly": 2,
-    "oneinch": 3,
-    "okx": 4,
+    "okx": 3,
+    "oneinch": 4,
     "okxcross": 5
   },
   "providersName": [
