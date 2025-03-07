@@ -72,7 +72,8 @@
     "ZCASH": "ZCASH",
     "ALGORAND": "ALGORAND",
     "PARA:000105": "ASTAR",
-    "CZONE:core": "COREUM"
+    "CZONE:core": "COREUM",
+    "filecoin": "FILECOIN"
   },
   "tokenTickerMap": {
     "BSC": "BEP20",
@@ -175,7 +176,8 @@
     "ZCASH",
     "ALGORAND",
     "PARA:000105",
-    "CZONE:core"
+    "CZONE:core",
+    "filecoin"
   ],
   "evmBlockchains": [
     "BSC",
@@ -261,7 +263,8 @@
     "flr": "CHAN:14",
     "algorand": "ALGORAND",
     "ASTR": "PARA:000105",
-    "coreum": "CZONE:core"
+    "coreum": "CZONE:core",
+    "filecoin": "filecoin"
   },
   "changellySpecialTokens": {
     "solo": "534F4C4F00000000000000000000000000000000-rsoLo2S1kiGeCcn6hCUXVrCpGMWLrRrLZz",
@@ -311,7 +314,8 @@
     "flr": "CHAN:14",
     "algo": "ALGORAND",
     "astr": "PARA:000105",
-    "coreum": "CZONE:core"
+    "coreum": "CZONE:core",
+    "fil": "filecoin"
   },
   "okx": {
     "1": "ETHEREUM",
