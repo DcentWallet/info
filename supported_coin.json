@@ -29841,6 +29841,48 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/30792.png",
+    "symbol": "COLLE",
+    "name": "Colle AI",
+    "type": "ERC20",
+    "contract": "0xc36983d3d9d379ddfb306dfb919099cb6730e355",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/35804.png",
+    "symbol": "WEPE",
+    "name": "Wall Street Pepe",
+    "type": "ERC20",
+    "contract": "0xccb365d2e11ae4d6d74715c680f56cf58bf4bf10",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/35364.png",
+    "symbol": "PLUME",
+    "name": "Plume",
+    "type": "ERC20",
+    "contract": "0x4c1746a800d224393fe2470c70a35717ed4ea5f1",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/3701.png",
     "symbol": "RIF",
     "name": "RSK Infrastructure Framework",
@@ -46499,6 +46541,20 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/30792.png",
+    "symbol": "COLLE",
+    "name": "Colle AI",
+    "type": "BEP20",
+    "contract": "0xaeb63742f2c7dd1538bbe2285b6789017a06b58b",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/11840.png",
     "symbol": "OP",
     "name": "Optimism",
@@ -46658,6 +46714,20 @@
     "name": "Pendle",
     "type": "OPTIMISM-ERC20",
     "contract": "0xbc7b1ff1c6989f006a1185318ed4e7b5796e66e1",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/7281.png",
+    "symbol": "XPRT",
+    "name": "Persistence One",
+    "type": "OPTIMISM-ERC20",
+    "contract": "0xc7edf7b7b3667a06992508e7b156eff794a9e1c8",
     "support": {
       "biometric": true,
       "card": true,
@@ -48341,6 +48411,62 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/35690.png",
+    "symbol": "B3",
+    "name": "B3 (Base)",
+    "type": "BASE-ERC20",
+    "contract": "0xb3b32f9f8827d4634fe7d973fa1034ec9fddb3b3",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/7281.png",
+    "symbol": "XPRT",
+    "name": "Persistence One",
+    "type": "BASE-ERC20",
+    "contract": "0xc7edf7b7b3667a06992508e7b156eff794a9e1c8",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/32595.png",
+    "symbol": "WAGC",
+    "name": "Wrapped AGC",
+    "type": "BASE-ERC20",
+    "contract": "0x47e316d1951568b4fbc7a1bcd641c5624a756a05",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/2777.png",
+    "symbol": "IOTX",
+    "name": "IoTeX",
+    "type": "BASE-ERC20",
+    "contract": "0xbcbaf311cec8a4eac0430193a528d9ff27ae38c1",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
     "symbol": "USDT",
     "name": "Tether",
@@ -48920,6 +49046,20 @@
     "name": "Ubeswap",
     "type": "Celo-ERC20",
     "contract": "0x00be915b9dcf56a3cbe739d9b9c202ca692409ec",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+    "symbol": "USDT",
+    "name": "Tether",
+    "type": "Celo-ERC20",
+    "contract": "0x48065fbbe25f71c9282ddf5e1cd6d6a887483d5e",
     "support": {
       "biometric": true,
       "card": true,
@@ -53481,6 +53621,48 @@
     "name": "Taurus",
     "type": "SPL-TOKEN",
     "contract": "EjkkxYpfSwS6TAtKKuiJuNMMngYvumc1t1v9ZX1WJKMp",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/30792.png",
+    "symbol": "COLLE",
+    "name": "Colle AI",
+    "type": "SPL-TOKEN",
+    "contract": "AFDzaLz3cQZNWjnWbyq2q81TLVTPbHTbfkj8qKqTk74e",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/35163.png",
+    "symbol": "BOTIFY",
+    "name": "BOTIFY",
+    "type": "SPL-TOKEN",
+    "contract": "BYZ9CcZGKAXmN2uDsKcQMM9UnZacija4vWcns9Th69xb",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/34350.png",
+    "symbol": "LESTER",
+    "name": "Litecoin Mascot",
+    "type": "SPL-TOKEN",
+    "contract": "5z3iCe53hUANTiG8Js8RjHNE2Arjik7L2CXLyr2rpump",
     "support": {
       "biometric": true,
       "card": false,
