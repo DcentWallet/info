@@ -73,7 +73,8 @@
     "ALGORAND": "ALGORAND",
     "PARA:000105": "ASTAR",
     "CZONE:core": "COREUM",
-    "filecoin": "FILECOIN"
+    "filecoin": "FILECOIN",
+    "CHAN:314": "FILECOIN-EVM"
   },
   "tokenTickerMap": {
     "BSC": "BEP20",
@@ -116,7 +117,8 @@
     "TEZOS": "XTZ-FA",
     "TRON": "TRC-TOKEN",
     "XINFIN": "XRC20",
-    "ALGORAND": "ALGO-ASSET"
+    "ALGORAND": "ALGO-ASSET",
+    "CHAN:314": "CH20:314"
   },
   "supportedBlockchains": [
     "BITCOIN",
@@ -177,7 +179,8 @@
     "ALGORAND",
     "PARA:000105",
     "CZONE:core",
-    "filecoin"
+    "filecoin",
+    "CHAN:314"
   ],
   "evmBlockchains": [
     "BSC",
