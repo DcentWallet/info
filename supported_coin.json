@@ -35495,6 +35495,20 @@
     }
   },
   {
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-usdc.svg",
+    "symbol": "USDC.e",
+    "name": "Bridged USDC(XDC)",
+    "type": "XRC20",
+    "contract": "0x2A8E898b6242355c290E1f4Fc966b8788729A4D4",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/74.png",
     "symbol": "DOGE",
     "name": "Dogecoin",
