@@ -3,7 +3,7 @@
         "name": "DCENT-NODEOPS",
         "title": "DCENT-NODEOPS",
         "bgColor": "#000000",
-        "externalWindow": true,
+        "externalWindow": false,
         "locale": {
             "en": {
                 "description": "",
@@ -24,8 +24,6 @@
                 "imagePath_480": "NODEOPS_app_480x160_EN.png"
             }
         },
-        "startTimestamp": 1741863600000,
-        "endTimestamp": 1742468400000,
         "preRelease": true
     },
     {
