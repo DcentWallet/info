@@ -1,31 +1,32 @@
 [
     {
-        "name": "MEGA-AIRDROP-WAITLIST",
-        "title": "MEGA-AIRDROP-WAITLIST",
-        "bgColor": "#5C1520",
+        "name": "DCENT-NODEOPS",
+        "title": "DCENT-NODEOPS",
+        "bgColor": "#000000",
         "externalWindow": true,
         "locale": {
             "en": {
                 "description": "",
-                "link": "https://forms.gle/G66dydPyiHS8vcGJ8",
-                "imagePath": "app_380x160_en_3.png",
-                "imagePath_480": "app_480x160_en_3.png"
+                "link": "https://link.dcentwallet.com/DAppBrowser/?url=https://uno.nodeops.network/?code=DCENT&network=ethereum-mainnet",
+                "imagePath": "NODEOPS_app_380x160_EN.png",
+                "imagePath_480": "NODEOPS_app_480x160_EN.png"
             },
             "ko": {
                 "description": "",
-                "link": "https://forms.gle/43x1xPXY2j95QumC9",
-                "imagePath": "app_380x160_kr_3.png",
-                "imagePath_480": "app_480x160_kr_3.png"
+                "link": "https://link.dcentwallet.com/DAppBrowser/?url=https://uno.nodeops.network/?code=DCENT&network=ethereum-mainnet",
+                "imagePath": "NODEOPS_app_380x160_EN.png",
+                "imagePath_480": "NODEOPS_app_480x160_EN.png"
             },
             "ja": {
                 "description": "",
-                "link": "https://forms.gle/G66dydPyiHS8vcGJ8",
-                "imagePath": "app_380x160_en_3.png",
-                "imagePath_480": "app_480x160_en_3.png"
+                "link": "https://link.dcentwallet.com/DAppBrowser/?url=https://uno.nodeops.network/?code=DCENT&network=ethereum-mainnet",
+                "imagePath": "NODEOPS_app_380x160_EN.png",
+                "imagePath_480": "NODEOPS_app_480x160_EN.png"
             }
         },
-        "startTimestamp": 1736496000000,
-        "endTimestamp": 1737298799000
+        "startTimestamp": 1741863600000,
+        "endTimestamp": 1742468400000,
+        "preRelease": true
     },
     {
         "name": "usa-free-shipping",
