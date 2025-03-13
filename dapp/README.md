@@ -13,6 +13,7 @@
         "title": "2022 End OF Year",
         "bgColor": "#9D242B",  // image 사이즈가 화면과 맞지 않은 경우 보는 바탕색
         "externalWindow": true, // 외부 브라우져 연결시 true, discovery 에서 연결시 false 
+        "networkId": "ethereum-mainnet", // externalWindow 가 false인 경우 (discovery연결), 네트워크를 변경하면서 이동할 수 있다. 
         "startTimestamp": 0, // 배너가 보여지기 시작하는 시간 0이면 바로 지금 시작
         "endTimestamp": 0, // 배너가 더이상 보여지지 않는 시간 0이만 기한 없음. 
         "en": {  // 영문앱에 보이는 배너 내용 

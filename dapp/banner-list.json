@@ -4,22 +4,23 @@
         "title": "DCENT-NODEOPS",
         "bgColor": "#000000",
         "externalWindow": false,
+        "networkId": "ethereum-mainnet",
         "locale": {
             "en": {
                 "description": "",
-                "link": "https://link.dcentwallet.com/DAppBrowser/?url=https://uno.nodeops.network/?code=DCENT&network=ethereum-mainnet",
+                "link": "https://uno.nodeops.network/?code=DCENT",
                 "imagePath": "NODEOPS_app_380x160_EN.png",
                 "imagePath_480": "NODEOPS_app_480x160_EN.png"
             },
             "ko": {
                 "description": "",
-                "link": "https://link.dcentwallet.com/DAppBrowser/?url=https://uno.nodeops.network/?code=DCENT&network=ethereum-mainnet",
+                "link": "https://uno.nodeops.network/?code=DCENT",
                 "imagePath": "NODEOPS_app_380x160_EN.png",
                 "imagePath_480": "NODEOPS_app_480x160_EN.png"
             },
             "ja": {
                 "description": "",
-                "link": "https://link.dcentwallet.com/DAppBrowser/?url=https://uno.nodeops.network/?code=DCENT&network=ethereum-mainnet",
+                "link": "https://uno.nodeops.network/?code=DCENT",
                 "imagePath": "NODEOPS_app_380x160_EN.png",
                 "imagePath_480": "NODEOPS_app_480x160_EN.png"
             }
