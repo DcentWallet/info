@@ -2,29 +2,31 @@
     {
         "name": "DCENT-NODEOPS",
         "title": "DCENT-NODEOPS",
-        "bgColor": "#000000",
+        "bgColor": "#121117",
         "externalWindow": false,
         "networkId": "ethereum-mainnet",
         "locale": {
             "en": {
                 "description": "",
                 "link": "https://uno.nodeops.network/?code=DCENT",
-                "imagePath": "NODEOPS_app_380x160_EN.png",
-                "imagePath_480": "NODEOPS_app_480x160_EN.png"
+                "imagePath": "NODEOPS_app_380x160_EN_1.png",
+                "imagePath_480": "NODEOPS_app_480x160_EN_1.png"
             },
             "ko": {
                 "description": "",
                 "link": "https://uno.nodeops.network/?code=DCENT",
-                "imagePath": "NODEOPS_app_380x160_EN.png",
-                "imagePath_480": "NODEOPS_app_480x160_EN.png"
+                "imagePath": "NODEOPS_app_380x160_EN_1.png",
+                "imagePath_480": "NODEOPS_app_480x160_EN_1.png"
             },
             "ja": {
                 "description": "",
                 "link": "https://uno.nodeops.network/?code=DCENT",
-                "imagePath": "NODEOPS_app_380x160_EN.png",
-                "imagePath_480": "NODEOPS_app_480x160_EN.png"
+                "imagePath": "NODEOPS_app_380x160_EN_1.png",
+                "imagePath_480": "NODEOPS_app_480x160_EN_1.png"
             }
         },
+        "startTimestamp": 1742385600000,
+        "endTimestamp": 1742990400000,
         "preRelease": true
     },
     {
