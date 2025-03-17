@@ -26,8 +26,7 @@
             }
         },
         "startTimestamp": 1742385600000,
-        "endTimestamp": 1742990400000,
-        "preRelease": true
+        "endTimestamp": 1742990400000
     },
     {
         "name": "usa-free-shipping",
