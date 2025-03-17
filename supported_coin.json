@@ -29883,6 +29883,20 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/7281.png",
+    "symbol": "XPRT",
+    "name": "Persistence One",
+    "type": "ERC20",
+    "contract": "0xd454b59f16d42667be2fa55292d16647e27f40c4",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/3701.png",
     "symbol": "RIF",
     "name": "RSK Infrastructure Framework",
@@ -30432,6 +30446,20 @@
     "name": "PHNIX",
     "type": "TrustLine",
     "contract": "31.rDFXbW2ZZCG5WgPtqwNiA2xZokLMm9ivmN.50484E4958000000000000000000000000000000.588994484262",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/29396.png",
+    "symbol": "CTF",
+    "name": "Crypto Trading Fund",
+    "type": "TrustLine",
+    "contract": "32.r9Xzi4KsSF1Xtr8WHyBmUcvfP9FzTyG5wp.CTF.98249041736",
     "support": {
       "biometric": true,
       "card": false,
@@ -46569,6 +46597,48 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/35753.png",
+    "symbol": "BROCCOLI",
+    "name": "Broccoli",
+    "type": "BEP20",
+    "contract": "0x12b4356c65340fb02cdff01293f95febb1512f3b",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/13769.png",
+    "symbol": "WMTX",
+    "name": "World Mobile Token",
+    "type": "BEP20",
+    "contract": "0xdbb5cf12408a3ac17d668037ce289f9ea75439d7",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/31838.png",
+    "symbol": "COOKIE",
+    "name": "Cookie DAO",
+    "type": "BEP20",
+    "contract": "0xc0041ef357b183448b235a8ea73ce4e4ec8c265f",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/11840.png",
     "symbol": "OP",
     "name": "Optimism",
@@ -48481,6 +48551,62 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/2394.png",
+    "symbol": "TEL",
+    "name": "Telcoin",
+    "type": "BASE-ERC20",
+    "contract": "0x09be1692ca16e06f536f0038ff11d1da8524adb1",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/13769.png",
+    "symbol": "WMTX",
+    "name": "World Mobile Token",
+    "type": "BASE-ERC20",
+    "contract": "0x3e31966d4f81c72d2a55310a6365a56a4393e98d",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/10977.png",
+    "symbol": "MT",
+    "name": "Mint Token",
+    "type": "BASE-ERC20",
+    "contract": "0xff45161474c39cb00699070dd49582e417b57a7e",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/31838.png",
+    "symbol": "COOKIE",
+    "name": "Cookie DAO",
+    "type": "BASE-ERC20",
+    "contract": "0xc0041ef357b183448b235a8ea73ce4e4ec8c265f",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
     "symbol": "USDT",
     "name": "Tether",
@@ -49018,6 +49144,20 @@
     "name": "Peapods Finance",
     "type": "ARBITRUM-ERC20",
     "contract": "0x02f92800f57bcd74066f5709f1daa1a4302df875",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/13769.png",
+    "symbol": "WMTX",
+    "name": "World Mobile Token",
+    "type": "ARBITRUM-ERC20",
+    "contract": "0xdbb5cf12408a3ac17d668037ce289f9ea75439d7",
     "support": {
       "biometric": true,
       "card": true,
@@ -51244,20 +51384,6 @@
     "name": "Etherland",
     "type": "POLYGON-ERC20",
     "contract": "0xb0f61c597bbcc29f3f38396b01f9c0f0c2e8bff0",
-    "support": {
-      "biometric": true,
-      "card": true,
-      "ethCard": false,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/29396.png",
-    "symbol": "CTF",
-    "name": "Crypto Trading Fund",
-    "type": "POLYGON-ERC20",
-    "contract": "0x7b3bd12675c6b9d6993eb81283cb68e6eb9260b5",
     "support": {
       "biometric": true,
       "card": true,
@@ -53677,6 +53803,20 @@
     "name": "Litecoin Mascot",
     "type": "SPL-TOKEN",
     "contract": "5z3iCe53hUANTiG8Js8RjHNE2Arjik7L2CXLyr2rpump",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/35669.png",
+    "symbol": "CAR",
+    "name": "Central African Republic Meme",
+    "type": "SPL-TOKEN",
+    "contract": "7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump",
     "support": {
       "biometric": true,
       "card": false,
