@@ -9,20 +9,20 @@
             "en": {
                 "description": "",
                 "link": "https://uno.nodeops.network/?code=DCENT",
-                "imagePath": "NODEOPS_app_380x160_EN_1.png",
-                "imagePath_480": "NODEOPS_app_480x160_EN_1.png"
+                "imagePath": "DCENT-NODEOPS_app_380x160_EN.png",
+                "imagePath_480": "DCENT-NODEOPS_app_480x160_EN.png"
             },
             "ko": {
                 "description": "",
                 "link": "https://uno.nodeops.network/?code=DCENT",
-                "imagePath": "NODEOPS_app_380x160_EN_1.png",
-                "imagePath_480": "NODEOPS_app_480x160_EN_1.png"
+                "imagePath": "DCENT-NODEOPS_app_380x160_EN.png",
+                "imagePath_480": "DCENT-NODEOPS_app_480x160_EN.png"
             },
             "ja": {
                 "description": "",
                 "link": "https://uno.nodeops.network/?code=DCENT",
-                "imagePath": "NODEOPS_app_380x160_EN_1.png",
-                "imagePath_480": "NODEOPS_app_480x160_EN_1.png"
+                "imagePath": "DCENT-NODEOPS_app_380x160_EN.png",
+                "imagePath_480": "DCENT-NODEOPS_app_480x160_EN.png"
             }
         },
         "startTimestamp": 1742226125000,
