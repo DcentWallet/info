@@ -37,14 +37,14 @@
             "en": {
                 "description": "",
                 "link": "https://store.dcentwallet.com/collections/frontpage/products/biometric-wallet?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202305_free-shipping-us_v02",
-                "imagePath": "Freeshipping_mob_380x160_EN.png",
-                "imagePath_480": "Freeshipping_mob_480x160_EN.png"
+                "imagePath": "Freeshipping_mob_380x160_EN_1.png",
+                "imagePath_480": "Freeshipping_mob_480x160_EN_1.png"
             },
             "ja": {
                 "description": "",
                 "link": "https://store.dcentwallet.com/ja/collections/frontpage/products/biometric-wallet?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202305_free-shipping-us_v02",
-                "imagePath": "Freeshipping_mob_380x160_JP.png",
-                "imagePath_480": "Freeshipping_mob_480x160_JP.png"
+                "imagePath": "Freeshipping_mob_380x160_JP_1.png",
+                "imagePath_480": "Freeshipping_mob_480x160_JP_1.png"
             }
         },
         "startTimestamp": 1742990400000
