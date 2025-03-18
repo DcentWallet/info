@@ -25,7 +25,7 @@
                 "imagePath_480": "NODEOPS_app_480x160_EN_1.png"
             }
         },
-        "startTimestamp": 1742385600000,
+        "startTimestamp": 1742226125000,
         "endTimestamp": 1742990400000
     },
     {
@@ -46,7 +46,8 @@
                 "imagePath": "Freeshipping_mob_380x160_JP.png",
                 "imagePath_480": "Freeshipping_mob_480x160_JP.png"
             }
-        }
+        },
+        "startTimestamp": 1742990400000
     },
     {
         "name": "dcent blog",
@@ -72,7 +73,8 @@
                 "imagePath": "discovery_banner-blog_bg.png",
                 "button": "フィシャルブログへ"
             }
-        }
+        },
+        "startTimestamp": 1742990400000
     },
     {
         "name": "dcent",
@@ -98,7 +100,8 @@
                 "imagePath": "discovery_banner_dcent_new.png",
                 "button": "購入する"
             }
-        }
+        },
+        "startTimestamp": 1742990400000
     },
     {
         "name": "youtube",
