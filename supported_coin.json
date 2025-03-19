@@ -888,6 +888,18 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/2868.png",
+    "symbol": "DAG",
+    "name": "Constellation",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
     "symbol": "USDT",
     "name": "Tether",
@@ -30469,6 +30481,20 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/35715.png",
+    "symbol": "SLT",
+    "name": "Salute",
+    "type": "TrustLine",
+    "contract": "33.rfGCeDUdtbzKbXfgvrpG745qdC1hcZBz8S.SLT.98249041734",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-box.png",
     "symbol": "BOX",
     "name": "BOX",
@@ -51505,6 +51531,20 @@
     }
   },
   {
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/29396.png",
+    "symbol": "CTF",
+    "name": "Crypto Trading Fund",
+    "type": "POLYGON-ERC20",
+    "contract": "0x7b3bd12675c6b9d6993eb81283cb68e6eb9260b5",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "symbol": "ys",
     "name": "Dcent",
     "type": "HTS",
@@ -54363,6 +54403,34 @@
     "support": {
       "biometric": true,
       "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/networks/network_dor.png",
+    "symbol": "DOR",
+    "name": "DOR",
+    "type": "Metagraph",
+    "contract": "DAG0CyySf35ftDQDQBnd1bdQ9aPyUdacMghpnCuM",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/networks/network_elpaca.png",
+    "symbol": "PACA",
+    "name": "El Paca",
+    "type": "Metagraph",
+    "contract": "DAG7ChnhUF7uKgn8tXy45aj4zn9AFuhaZr8VXY43",
+    "support": {
+      "biometric": true,
+      "card": false,
       "ethCard": false,
       "klayCard": false,
       "software": true
