@@ -1,9 +1,9 @@
 {
   "swapComplete": {
-    "name": "event_swap_complete",
-    "start": "2025-02-14T00:00:00.000Z",
-    "end": "2025-02-20T23:59:59.999Z",
-    "external": "true",
+    "name": "event_xrp_swap_complete",
+    "start": "2025-03-24T21:00:00.000Z",
+    "end": "2025-03-25T00:00:00.000Z",
+    "external": "true",    
     "light": {
       "bgColor": "#171719",
       "strokeColor": "#DBDCDF"
@@ -12,10 +12,15 @@
       "bgColor": "#171719",
       "strokeColor": "#46474C"
     },
-    "ko": {
-      "image": "event_swap_complete_ko.png",
-      "wideImage": "event_swap_complete_ko_wide.png",
-      "link": "https://store-kr.dcentwallet.com/products/biometric-wallet-swap-event?utm_source=swap_complete&utm_medium=dcent-app&utm_campaign=202502_swap_lucky_event&utm_content=app_banner"
+    "en": {
+      "image": "event_xrp_swap_complete_en.png",
+      "wideImage": "event_xrp_swap_complete_en_wide.png",
+      "link": "https://store.dcentwallet.com/products/biometric-wallet-2x-package"
+    },
+    "ja": {
+      "image": "event_xrp_swap_complete_ja.png",
+      "wideImage": "event_xrp_swap_complete_ja_wide.png",
+      "link": "https://store.dcentwallet.com/ja/products/biometric-wallet-2x-package"
     }
   }
 }
