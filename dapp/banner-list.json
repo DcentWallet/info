@@ -52,7 +52,7 @@
                 "imagePath": "Freeshipping_mob_380x160_EN_1.png",
                 "imagePath_480": "Freeshipping_mob_480x160_EN_1.png"
             },
-            "pt": {
+            "pt-BR": {
                 "description": "",
                 "link": "https://store.dcentwallet.com/collections/frontpage/products/biometric-wallet?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202305_free-shipping-us_v02",
                 "imagePath": "Freeshipping_mob_380x160_EN_1.png",
@@ -91,7 +91,7 @@
                 "imagePath": "discovery_banner-blog_bg.png",
                 "button": "Explore"
             },
-            "pt": {
+            "pt-BR": {
                 "description": "Visite o novo <b>blog de D'CENT</b><br />para explorar as últimas atualizações primeiro!",
                 "link": "https://store.dcentwallet.com/blogs/post?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=constant_blog",
                 "imagePath": "discovery_banner-blog_bg.png",
@@ -130,7 +130,7 @@
                 "imagePath": "discovery_banner_dcent_new.png",
                 "button": "Comprar ahora"
             },
-            "pt": {
+            "pt-BR": {
                 "description": "Aumente sua segurança com <br/><b>a carteira biométrica D'CENT</b>",
                 "link": "https://store.dcentwallet.com?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=constant_purchase-hardware",
                 "imagePath": "discovery_banner_dcent_new.png",
@@ -170,7 +170,7 @@
                 "imagePath": "discovery_banner-youtube_bg.png",
                 "button": "Suscribirse"
             },
-            "pt": {
+            "pt-BR": {
                 "description": "Bem-vindo aos novatos!<br/> Aqui está o <b>tutorial D'CENT</b>",
                 "link": "https://www.youtube.com/c/DCENTWallet?utm_source=dcent_app&utm_medium=app&utm_campaign=app_banner_youtube",
                 "imagePath": "discovery_banner-youtube_bg.png",

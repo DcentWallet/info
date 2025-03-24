@@ -7,21 +7,21 @@
                 "ko": "암호화폐 구매",
                 "ja": "暗号資産の購入",
                 "es": "Compra de criptomonedas",
-                "pt": "Compra de criptomoedas"
+                "pt-BR": "Compra de criptomoedas"
             },
             "description": {
                 "en": "A service that allows you to easily and safely purchase 100+ cryptocurrencies through a network of various partners.",
                 "ko": "다양한 파트너로 구성된 네트워크를 통해 100개 이상의 암호화폐를 간편하고 안전하게 구매 할 수 있는 서비스입니다.",
                 "ja": "様々なパートナーで構成されたネットワークを通して、100種類以上の暗号資産(仮想通貨)を簡単且つ安全に購入できるサービスです。",
                 "es": "Un servicio que te permite comprar fácil y seguro más de 100 criptomonedas a través de una red de diversos socios.",
-                "pt": "Um serviço que permite comprar facilmente e com segurança mais de 100 criptomoedas através de uma rede de diversos parceiros."
+                "pt-BR": "Um serviço que permite comprar facilmente e com segurança mais de 100 criptomoedas através de uma rede de diversos parceiros."
             },
             "iOS_description": {
                 "en": "A service that allows you to easily and safely purchase cryptocurrency through Apple Pay",
                 "ko": "Apple Pay를 통해 쉽고 간편하게 암호화폐를 구매할 수 있는 서비스 입니다.",
                 "ja": "Apple Payを使って簡単に暗号資産を購入できるサービスです。",
                 "es": "Un servicio que te permite comprar criptomonedas fácil y seguro usando Apple Pay",
-                "pt": "Um serviço que permite comprar criptomoedas de forma fácil e segura usando Apple Pay"
+                "pt-BR": "Um serviço que permite comprar criptomoedas de forma fácil e segura usando Apple Pay"
             },
             "link": "",
             "kind": [],
@@ -39,14 +39,14 @@
                 "ko": "Swap",
                 "ja": "Swap",
                 "es": "Swap",
-                "pt": "Swap"
+                "pt-BR": "Swap"
             },
             "description": {
                 "en": "A service that allows you to quickly and easily trade 3,000+ cryptocurrencies through a network of various exchange service partners.",
                 "ko": "다양한 암호화폐 거래 플랫폼을 통해 3,000개 이상의 암호화폐를 빠르고 간편하게 교환할 수 있습니다.",
                 "ja": "様々な暗号資産向けの取引プラットフォーム上より、実に3,000種類にもおよぶ仮想通貨を、シンプル且つスピーディーに交換することが可能です。",
                 "es": "Un servicio que te permite intercambiar fácil y rápidamente más de 3,000 criptomonedas a través de una red de diversos socios de servicios de intercambio.",
-                "pt": "Um serviço que permite trocar facilmente e rapidamente mais de 3,000 criptomoedas através de uma rede de diversos parceiros de serviços de troca."
+                "pt-BR": "Um serviço que permite trocar facilmente e rapidamente mais de 3,000 criptomoedas através de uma rede de diversos parceiros de serviços de troca."
             },
             "link": "https://swap-x.dcentwallet.com/?utm_source=discovery&utm_medium=swap",
             "kind": [
@@ -60,7 +60,7 @@
                         "ko": "이더리움",
                         "ja": "Ethereum",
                         "es": "Ethereum",
-                        "pt": "Ethereum"
+                        "pt-BR": "Ethereum"
                     }
                 }
             ],
@@ -84,14 +84,14 @@
                 "ko": "암호화폐 교환",
                 "ja": "暗号資産の交換",
                 "es": "Intercambio de criptomonedas",
-                "pt": "Troca de criptomoedas"
+                "pt-BR": "Troca de criptomoedas"
             },
             "description": {
                 "en": "A service that allows you to quickly and easily exchange 200+ cryptocurrencies through a network of various exchange service partners.",
                 "ko": "다양한 암호화폐 거래 플랫폼에서 200개 이상의 암호화폐를 빠르고 간편하게 교환할 수 있습니다.",
                 "ja": "様々な暗号資産の取引プラットフォーム上から、実に200種類以上の暗号資産をスピーディーに、そしてスマートな方法でスワップ(交換)することができます。",
                 "es": "Un servicio que te permite intercambiar fácil y rápidamente más de 200 criptomonedas a través de una red de diversos socios de servicios de intercambio.",
-                "pt": "Um serviço que permite trocar facilmente e rapidamente mais de 200 criptomoedas através de uma rede de diversos parceiros de serviços de troca."
+                "pt-BR": "Um serviço que permite trocar facilmente e rapidamente mais de 200 criptomoedas através de uma rede de diversos parceiros de serviços de troca."
             },
             "link": "https://swap-x.dcentwallet.com/?utm_source=discovery&utm_medium=exchange",
             "kind": [],
@@ -103,7 +103,7 @@
                         "ko": "이더리움",
                         "ja": "Ethereum",
                         "es": "Ethereum",
-                        "pt": "Ethereum"
+                        "pt-BR": "Ethereum"
                     }
                 }
             ],
@@ -123,14 +123,14 @@
                 "ko": "메타마스크 연동",
                 "ja": "MetaMaskと連動",
                 "es": "Integración de MetaMask",
-                "pt": "Integração do MetaMask"
+                "pt-BR": "Integração do MetaMask"
             },
             "description": {
                 "en": "EVM compatible addresses in the D'CENT Wallet can be connected with the Metamask.",
                 "ko": "디센트 지갑에 있는 EVM 계열의 주소를 메타마스크와 연결하여 사용할 수 있습니다.",
                 "ja": "D'CENT ウォレット上のEVM系のアドレスとMetaMask間を連動して使用することができます。",
                 "es": "Los direcciones EVM compatibles en el D'CENT Wallet se pueden conectar con MetaMask.",
-                "pt": "Os endereços EVM compatíveis no D'CENT Wallet podem ser conectados ao MetaMask."
+                "pt-BR": "Os endereços EVM compatíveis no D'CENT Wallet podem ser conectados ao MetaMask."
             },
             "link": "https://qrbase.dcentwallet.com",
             "kind": [
@@ -144,7 +144,7 @@
                         "ko": "이더리움",
                         "ja": "Ethereum",
                         "es": "Ethereum",
-                        "pt": "Ethereum"
+                        "pt-BR": "Ethereum"
                     }
                 }
             ],
@@ -166,14 +166,14 @@
                 "ko": "MoonPay",
                 "ja": "MoonPay",
                 "es": "MoonPay",
-                "pt": "MoonPay"
+                "pt-BR": "MoonPay"
             },
             "description": {
                 "en": "MoonPay offers simple and safer way to buy crypto instantly using VISA/Mastercard payment",
                 "ko": "MoonPay는 비자나 마스터카드로 암호화폐를 간단하고 안전하게 구매할 수 있는 서비스입니다",
                 "ja": "MoonPayは、VISAやMastercardで暗号資産を簡単、且つ安全に購入できるサービスです。",
                 "es": "MoonPay ofrece una forma simple y segura de comprar criptomonedas instantáneamente usando el pago con VISA/Mastercard",
-                "pt": "MoonPay oferece uma forma simples e segura de comprar criptomoedas instantaneamente usando o pagamento com VISA/Mastercard"
+                "pt-BR": "MoonPay oferece uma forma simples e segura de comprar criptomoedas instantaneamente usando o pagamento com VISA/Mastercard"
             },
             "link": "https://buy.moonpay.com?language=en",
             "kind": [],
@@ -191,14 +191,14 @@
                 "ko": "아스타포탈",
                 "ja": "Astar Portal",
                 "es": "Portal de Astar",
-                "pt": "Portal de Astar"
+                "pt-BR": "Portal de Astar"
             },
             "description": {
                 "en": "Astar Portal is the official Astar Network application for using everything that Astar Network offers.",
                 "ko": "아스타포탈은 Astar Network에서 제공하는 모든 것을 사용하기 위한 Astar Network의 공식 애플리케이션입니다.",
                 "ja": "ASTAR ポータルは、ASTAR ネットワークから提供される「TOTAL ACTIVITY」をより快適にご利用いただくため公式アプリケーションです。",
                 "es": "El Portal de Astar es la aplicación oficial de Astar Network para utilizar todo lo que Astar Network ofrece.",
-                "pt": "O Portal de Astar é o aplicativo oficial do Astar Network para usar tudo o que o Astar Network oferece."
+                "pt-BR": "O Portal de Astar é o aplicativo oficial do Astar Network para usar tudo o que o Astar Network oferece."
             },
             "link": "https://portal.astar.network/",
             "kind": [
@@ -212,7 +212,7 @@
                         "ko": "아스타",
                         "ja": "Astar",
                         "es": "Astar",
-                        "pt": "Astar"
+                        "pt-BR": "Astar"
                     }
                 }
             ],
@@ -234,14 +234,14 @@
                 "ko": "FTSO Portal",
                 "ja": "FTSO Portal",
                 "es": "Portal de FTSO",
-                "pt": "Portal de FTSO"
+                "pt-BR": "Portal de FTSO"
             },
             "description": {
                 "en": "FTSO Portal is a service by D’CENT to provide fast and easy way to delegate Vote Power to the user’s favorite FTSO provider. By delegating Vote Power, users can earn passive income as reward.",
                 "ko": "FTSO Portal은 사용자가 원하는 FTSO provider에 Vote Power 쉽고 빠르게 위임할 수 있는 기능을 제공하는 디센트의 서비스입니다. 사용자는 Vote Power 위임을 통해 패시브인컴(passive income)을 보상으로 받을 수 있습니다 .",
                 "ja": "FTSO Portalは、ユーザーが選んだ任意のFTSOプロバイダに、手っ取り早く且つ簡単にVote Power(投票権)を委譲できる、D'CENTのオリジナルサービスです。ユーザーはVote Power(投票権)の委譲を行うことで、Passive Income(受動的所得)を報酬として受け取ることができます。",
                 "es": "El Portal de FTSO es un servicio de D'CENT que permite a los usuarios delegar Vote Power de manera rápida y fácil a su proveedor de FTSO favorito. Al delegar Vote Power, los usuarios pueden obtener ingresos pasivos como recompensa.",
-                "pt": "O Portal de FTSO é um serviço da D'CENT que permite aos usuários delegar Vote Power de forma rápida e fácil para seu provedor de FTSO favorito. Ao delegar Vote Power, os usuários podem ganhar renda passiva como recompensa."
+                "pt-BR": "O Portal de FTSO é um serviço da D'CENT que permite aos usuários delegar Vote Power de forma rápida e fácil para seu provedor de FTSO favorito. Ao delegar Vote Power, os usuários podem ganhar renda passiva como recompensa."
             },
             "link": "https://ftsoportal.com/",
             "kind": [],
@@ -253,7 +253,7 @@
                         "ko": "송버드",
                         "ja": "Songbird",
                         "es": "Songbird",
-                        "pt": "Songbird"
+                        "pt-BR": "Songbird"
                     }
                 }
             ],
@@ -270,14 +270,14 @@
                 "ko": "Sparkles NFT",
                 "ja": "Sparkles NFT",
                 "es": "Sparkles NFT",
-                "pt": "Sparkles NFT"
+                "pt-BR": "Sparkles NFT"
             },
             "description": {
                 "en": "Sparkles is the leading NFT marketplace on Flare & Songbird. Community driven marketplace empowering the big things in web3. Discover the top new NFT Artists and collections today.",
                 "ko": "Sparkles는 Flare 및 Songbird의 선도적인 NFT 마켓플레이스이며 커뮤니티와 함께 web3의 큰 변화를 주도하고 있습니다. 오늘 최고의 NFT 아티스트와 컬렉션을 만나보세요.",
                 "ja": "Sparklesは、FlareおよびSongbirdの先駆的存在と云えるNFT系のマーケットプレイスであり、コミュニティと共にWeb3の大きな変化をリードしています。最高のNFTアーティストとコレクションとの出会いがある素晴らしい世界がここにあります。",
                 "es": "Sparkles es el líder en el mercado de NFT en Flare y Songbird. Mercado comunitario impulsado por la web3. Descubre los mejores artistas NFT y colecciones hoy.",
-                "pt": "Sparkles é o líder no mercado de NFTs em Flare e Songbird. Mercado comunitário impulsionado pela web3. Descubra os melhores artistas NFT e coleções hoje."
+                "pt-BR": "Sparkles é o líder no mercado de NFTs em Flare e Songbird. Mercado comunitário impulsionado pela web3. Descubra os melhores artistas NFT e coleções hoje."
             },
             "link": "https://sparklesnft.com/",
             "kind": [
@@ -291,7 +291,7 @@
                         "ko": "송버드",
                         "ja": "Songbird",
                         "es": "Songbird",
-                        "pt": "Songbird"
+                        "pt-BR": "Songbird"
                     }
                 }
             ],
@@ -308,14 +308,14 @@
                 "ko": "KLAYswap",
                 "ja": "KLAYswap",
                 "es": "KLAYswap",
-                "pt": "KLAYswap"
+                "pt-BR": "KLAYswap"
             },
             "description": {
                 "en": "KLAYswap extends the Klaytn DeFi ecosystem through liquidity pool-based KLAY, ETH, WBTC, USDT, ORC instant token swapping and liquidity mining.",
                 "ko": "클레이스왑은 유동성 풀 기반의 KLAY, ETH, WBTC, USDT, ORC 토큰 교환과 유동성 마이닝을 통해 클레이튼 DeFi 생태계를 확장합니다.",
                 "ja": "KLAYswapは、流動性プール向けのKLAY、ETH、WBTC、USDT、ORCのトークンスワップと流動性マイニングを通して、Klaytn DeFiの生態系のエコシステムを拡張させます。",
                 "es": "KLAYswap amplía el ecosistema DeFi de Klaytn a través de intercambios de tokens instantáneos basados en pools de liquidez de KLAY, ETH, WBTC, USDT y ORC.",
-                "pt": "KLAYswap estende o ecossistema DeFi do Klaytn através de trocas instantâneas de tokens baseadas em pools de liquidez de KLAY, ETH, WBTC, USDT e ORC."
+                "pt-BR": "KLAYswap estende o ecossistema DeFi do Klaytn através de trocas instantâneas de tokens baseadas em pools de liquidez de KLAY, ETH, WBTC, USDT e ORC."
             },
             "link": "https://klayswap.com/",
             "kind": [
@@ -329,7 +329,7 @@
                         "ko": "클레이튼",
                         "ja": "Klaytn",
                         "es": "Klaytn",
-                        "pt": "Klaytn"
+                        "pt-BR": "Klaytn"
                     }
                 }
             ],
@@ -346,14 +346,14 @@
                 "ko": "스왑스캐너",
                 "ja": "Swapscanner",
                 "es": "Swapscanner",
-                "pt": "Swapscanner"
+                "pt-BR": "Swapscanner"
             },
             "description": {
                 "en": "Swapscanner is the No.1 DEX Aggregator on Klaytn. Swapscanner aggregates every single DEX on Klaytn network. Optimal price is guaranteed by our next generation Navigator™ engine.",
                 "ko": "스왑스캐너는 클레이튼의 No.1 DEX 애그리게이터 서비스 입니다. 스왑스캐너는 클레이튼 네트워크 내 모든 DEX를 연동하고 고도화된 자체 엔진 Navigator를 통해 최저가 토큰 구매를 보장합니다.",
                 "ja": "Swapscannerは、KlaytnのNo.1のDEX系アグリゲーターサービスです。SwapscannerはKlaytnネットワーク内の全てのDEXと連動し、洗練された自社製エンジンである、「Navigator」を通じて最もお得な価格でのトークン購入を保証します。",
                 "es": "Swapscanner es el No.1 DEX Aggregator en Klaytn. Swapscanner agrega cada DEX individual en la red de Klaytn. El precio óptimo está garantizado por nuestro motor Navigator™ de próxima generación.",
-                "pt": "Swapscanner é o No.1 DEX Aggregator em Klaytn. Swapscanner agrega cada DEX individual na rede de Klaytn. O preço ideal é garantido pelo nosso motor Navigator™ de próxima geração."
+                "pt-BR": "Swapscanner é o No.1 DEX Aggregator em Klaytn. Swapscanner agrega cada DEX individual na rede de Klaytn. O preço ideal é garantido pelo nosso motor Navigator™ de próxima geração."
             },
             "link": "https://swapscanner.io/",
             "kind": [
@@ -367,7 +367,7 @@
                         "ko": "클레이튼",
                         "ja": "Klaytn",
                         "es": "Klaytn",
-                        "pt": "Klaytn"
+                        "pt-BR": "Klaytn"
                     }
                 }
             ],
@@ -384,14 +384,14 @@
                 "ko": "Belt.fi",
                 "ja": "Belt.fi",
                 "es": "Belt.fi",
-                "pt": "Belt.fi"
+                "pt-BR": "Belt.fi"
             },
             "description": {
                 "en": "Belt.fi is an AMM protocol with multi-strategy yield optimization on BSC that also provides aggregation through auto-compounding and yield generation for maximum returns.",
                 "ko": "Belt.fi는 바이낸스 스마트 체인에서 동작하는 AMM 기반 다중 전략 수익 최적화 프로토콜로써, 자동화 복리 및 수익 창출 집계를 통해 최대의 수익을 제공합니다.",
                 "ja": "Belt.fiは、Binance Smart Chainで動作する、AMMを使用したマルチ戦略による利益の最適化をプロトコルとしいます。複利および利益創出の自動集計を通じて最大の利益をもたらします。",
                 "es": "Belt.fi es un protocolo de optimización de rendimientos con estrategias multi-strategy en BSC que también proporciona agregación a través de la composición automática y la generación de rendimientos para maximizar los rendimientos.",
-                "pt": "Belt.fi é um protocolo de otimização de rendimentos com estratégias multi-strategy no BSC que também oferece agregação através de composição automática e geração de rendimentos para maximizar os rendimentos."
+                "pt-BR": "Belt.fi é um protocolo de otimização de rendimentos com estratégias multi-strategy no BSC que também oferece agregação através de composição automática e geração de rendimentos para maximizar os rendimentos."
             },
             "link": "https://belt.fi/",
             "kind": [
@@ -405,7 +405,7 @@
                         "ko": "바이낸스 스마트체인",
                         "ja": "Binance Smart Chain",
                         "es": "Binance Smart Chain",
-                        "pt": "Binance Smart Chain"
+                        "pt-BR": "Binance Smart Chain"
                     }
                 }
             ],
@@ -422,14 +422,14 @@
                 "ko": "Definix",
                 "ja": "Definix",
                 "es": "Definix",
-                "pt": "Definix"
+                "pt-BR": "Definix"
             },
             "description": {
                 "en": "The Decentralized Multi-chain Fund Management Protocol. Definix is the transparent crypto investment platform on DeFi that helps crypto investors to invest confidently and allows professional traders to earn more from their investing skill by creating and managing their own funds.",
                 "ko": "멀티체인 기반 탈중앙 자산 관리 프로토콜. 디피닉스는 암호화폐 투자자가 디파이에 투자할 수 있도록 투명성를 제공하는 암호화폐 투자 플랫폼입니다. 투자자들은 자신만의 펀드를 구성하고 투자 기술을 이용하여 더 많은 수익을 올릴 수 있습니다.",
                 "ja": "マルチチェーン向けの暗号資産管理用プロトコルです。Definixは、暗号資産を投資する者がDeFiに投資できるよう透明性を提供する暗号資産投資プラットフォームです。投資者は自分だけのファンドを構成し、投資技術を使って更に多くの利益を生み出すことができます。",
                 "es": "Protocolo de gestión de fondos de criptomonedas multi-cadena. Definix es la plataforma de inversión en criptomonedas transparente en DeFi que permite a los inversores de criptomonedas invertir con confianza y permite a los profesionales del trading obtener más beneficios de su habilidad de inversión creando y gestionando sus propios fondos.",
-                "pt": "Protocolo de gerenciamento de fundos de criptomoedas multi-cadeira. Definix é a plataforma de investimento em criptomoedas transparente no DeFi que permite que os investidores em criptomoedas invistam com confiança e permita que os traders profissionais obtenham mais benefícios de suas habilidades de investimento criando e gerenciando seus próprios fundos."
+                "pt-BR": "Protocolo de gerenciamento de fundos de criptomoedas multi-cadeira. Definix é a plataforma de investimento em criptomoedas transparente no DeFi que permite que os investidores em criptomoedas invistam com confiança e permita que os traders profissionais obtenham mais benefícios de suas habilidades de investimento criando e gerenciando seus próprios fundos."
             },
             "link": "https://definix.com/",
             "kind": [
@@ -443,7 +443,7 @@
                         "ko": "바이낸스 스마트체인",
                         "ja": "Binance Smart Chain",
                         "es": "Binance Smart Chain",
-                        "pt": "Binance Smart Chain"
+                        "pt-BR": "Binance Smart Chain"
                     }
                 }
             ],
@@ -460,14 +460,14 @@
                 "ko": "오르빗 브릿지",
                 "ja": "Orbit Bridge",
                 "es": "Orbit Bridge",
-                "pt": "Orbit Bridge"
+                "pt-BR": "Orbit Bridge"
             },
             "description": {
                 "en": "Orbit Bridge is a bridge service that supports token conversion among each mainnet and supports various blockchains such as Ethereum, Klaytn, Ripple, BNB, HECO, etc.",
                 "ko": "오르빗 브릿지는 각 메인넷 간의 토큰 전환을 지원하는 브릿지 서비스로, 이더리움, 클레이튼, 리플, BNB, HECO 등 다양한 블록체인을 지원합니다.",
                 "ja": "Orbit Bridgeは、メインネット間のトークンスワップをサポートするブリッジサービスで、Ethereum、Klaytn、Ripple、BNB、HECOなど、様々なブロックチェーンに対応しています。",
                 "es": "Orbit Bridge es un servicio de puente que soporta la conversión de tokens entre cada mainnet y admite varias cadenas de bloques como Ethereum, Klaytn, Ripple, BNB, HECO, etc.",
-                "pt": "Orbit Bridge é um serviço de ponte que suporta a conversão de tokens entre cada mainnet e suporta várias cadeias de blocos como Ethereum, Klaytn, Ripple, BNB, HECO, etc."
+                "pt-BR": "Orbit Bridge é um serviço de ponte que suporta a conversão de tokens entre cada mainnet e suporta várias cadeias de blocos como Ethereum, Klaytn, Ripple, BNB, HECO, etc."
             },
             "link": "https://bridge.orbitchain.io/",
             "kind": [
@@ -481,7 +481,7 @@
                         "ko": "이더리움",
                         "ja": "Ethereum",
                         "es": "Ethereum",
-                        "pt": "Ethereum"
+                        "pt-BR": "Ethereum"
                     }
                 }
             ],
@@ -498,14 +498,14 @@
                 "ko": "XDSea",
                 "ja": "XDSea",
                 "es": "XDSea",
-                "pt": "XDSea"
+                "pt-BR": "XDSea"
             },
             "description": {
                 "en": "XDSea is the world's first and largest peer-to-peer decentralized marketplace for buying and selling NFTs built on the XDC Network.",
                 "ko": "XDSea는 XDC 네트워크에 구축된 NFT를 사고 파는 세계 최초이자 최대 규모의 P2P 분산형 시장입니다.",
                 "ja": "XDSeaは、XDC Networkで構築されたNFTを売買する世界初、最大規模のP2P分散型市場です。",
                 "es": "XDSea es el primer y mayor mercado P2P descentralizado para comprar y vender NFTs construido en la red XDC.",
-                "pt": "XDSea é o primeiro e maior mercado P2P descentralizado para comprar e vender NFTs construído na rede XDC."
+                "pt-BR": "XDSea é o primeiro e maior mercado P2P descentralizado para comprar e vender NFTs construído na rede XDC."
             },
             "link": "https://xdsea.com/",
             "kind": [
@@ -519,7 +519,7 @@
                         "ko": "XDC 네트워크",
                         "ja": "XDC Network",
                         "es": "XDC Network",
-                        "pt": "XDC Network"
+                        "pt-BR": "XDC Network"
                     }
                 }
             ],
@@ -536,14 +536,14 @@
                 "ko": "Celer cBridge",
                 "ja": "Celer cBridge",
                 "es": "Celer cBridge",
-                "pt": "Celer cBridge"
+                "pt-BR": "Celer cBridge"
             },
             "description": {
                 "en": "Celer cBridge is a multi-chain, cross-layer asset bridge offering instant transfer with the most number of chains, lowest fee and zero trust needed.",
                 "ko": "Celer cBridge는 다중 블록체인 네트워크와 연동된 브릿지 서비스로 블록체인 간에 자산을 저렴한 수수료로 전송할 수 있습니다.",
                 "ja": "Celer cBridgeは、マルチネットワークに対応したブリッジサービスで、ブロックチェーン間の暗号資産を低価格な手数料で送金できます。",
                 "es": "Celer cBridge es un servicio de puente multi-cadena, intercapa que ofrece transferencia instantánea con el mayor número de cadenas, bajos costos y cero confianza necesarios.",
-                "pt": "Celer cBridge é um serviço de ponte multi-cadeira, intercamada que oferece transferência instantânea com o maior número de cadeiras, baixo custo e zero confiança necessários."
+                "pt-BR": "Celer cBridge é um serviço de ponte multi-cadeira, intercamada que oferece transferência instantânea com o maior número de cadeiras, baixo custo e zero confiança necessários."
             },
             "link": "https://cbridge.celer.network/",
             "kind": [
@@ -557,7 +557,7 @@
                         "ko": "이더리움",
                         "ja": "Ethereum",
                         "es": "Ethereum",
-                        "pt": "Ethereum"
+                        "pt-BR": "Ethereum"
                     }
                 }
             ],
@@ -574,14 +574,14 @@
                 "ko": "KlayFi",
                 "ja": "KlayFi",
                 "es": "KlayFi",
-                "pt": "KlayFi"
+                "pt-BR": "KlayFi"
             },
             "description": {
                 "en": "KlayFi is the most advanced Yield Optimizer protocol in the Klaytn network. It provides an optimal auto-compounding feature and maximizes assets for KLAYswap users.",
                 "ko": "KlayFi는 클레이튼 기반의 이자 수확 최적화(Yield Optimizer) 프로토콜입니다. KLAYswap 이용자에게 최적화된 자동 재예치 기능을 제공하여 투자 편의성을 높이고, 동시에 투자 자산 수익 극대화를 제공합니다.",
                 "ja": "KlayFiは、Klaytn向けの利回り最適化(Yield Optimizer)をプロトコルとしています。KLAYswapのユーザーに最適な自動再預入機能を提供し、投資の便宜性を高めて投資暗号資産の利益を最大化させるためのサービスを提供しています。",
                 "es": "KlayFi es el protocolo de optimización de rendimientos (Yield Optimizer) más avanzado en la red de Klaytn. Ofrece una función de auto-compounding optimizada y maximiza los activos para los usuarios de KLAYswap.",
-                "pt": "KlayFi é o protocolo de otimização de rendimentos (Yield Optimizer) mais avançado na rede de Klaytn. Oferece uma função de auto-compounding otimizada e maximiza os ativos para os usuários do KLAYswap."
+                "pt-BR": "KlayFi é o protocolo de otimização de rendimentos (Yield Optimizer) mais avançado na rede de Klaytn. Oferece uma função de auto-compounding otimizada e maximiza os ativos para os usuários do KLAYswap."
             },
             "link": "https://klayfi.finance/",
             "kind": [
@@ -595,7 +595,7 @@
                         "ko": "클레이튼",
                         "ja": "Klaytn",
                         "es": "Klaytn",
-                        "pt": "Klaytn"
+                        "pt-BR": "Klaytn"
                     }
                 }
             ],
@@ -612,14 +612,14 @@
                 "ko": "KLAYSTATION",
                 "ja": "KLAYSTATION",
                 "es": "KLAYSTATION",
-                "pt": "KLAYSTATION"
+                "pt-BR": "KLAYSTATION"
             },
             "description": {
                 "en": "The Official Staking Tool based on Klaytn Network.",
                 "ko": "클레이스테이션은 클레이튼 네트워크 기반 공식 스테이킹 툴입니다.",
                 "ja": "KLAYSTATIONは、Klaytnネットワーク向けの公式ステーキングツールです。",
                 "es": "KLAYSTATION es la herramienta destaking oficial basada en la red de Klaytn.",
-                "pt": "KLAYSTATION é a ferramenta de staking oficial baseada na rede de Klaytn."
+                "pt-BR": "KLAYSTATION é a ferramenta de staking oficial baseada na rede de Klaytn."
             },
             "link": "https://klaystation.io/dashboard",
             "kind": [
@@ -633,7 +633,7 @@
                         "ko": "클레이튼",
                         "ja": "Klaytn",
                         "es": "Klaytn",
-                        "pt": "Klaytn"
+                        "pt-BR": "Klaytn"
                     }
                 }
             ],
@@ -650,14 +650,14 @@
                 "ko": "Tokamak DAO",
                 "ja": "Tokamak DAO",
                 "es": "Tokamak DAO",
-                "pt": "Tokamak DAO"
+                "pt-BR": "Tokamak DAO"
             },
             "description": {
                 "en": "Tokamak DAO refers to a smart contract system and autonomous organization built on a blockchain that allows Tokamak Network token(TON) holders to directly participate in decisions on major agendas that affect the ecosystem of Tokamak Network.",
                 "ko": "Tokamak DAO는 토카막 네트워크 토큰(TON)의 보유자들이 토카막 네트워크의 생태계에 영향을 주는 주요한 의제(Agenda)에 관한 의사결정에 직접 참여할 수 있는 블록체인 상의 구축된 스마트 콘트랙트 시스템이자 자치기구를 뜻합니다.",
                 "ja": "Tokamak DAOは、Tokamak Network(TOK)トークンの保有者が、Tokamak Networkのエコシステムに関する重要な議題(Agenda)の意思決定に参加できるブロックチェーン上に構築されたスマートコントラクトシステムであり、自治機構を意味します。",
                 "es": "Tokamak DAO se refiere a un sistema de contratos inteligentes y una organización autónoma construida en una blockchain que permite a los titulares de tokens de Tokamak Network (TON) participar directamente en decisiones sobre agendas importantes que afectan al ecosistema de Tokamak Network.",
-                "pt": "Tokamak DAO refere-se a um sistema de contratos inteligentes e uma organização autônoma construída em uma blockchain que permite que os titulares de tokens de Tokamak Network (TON) participem diretamente em decisões sobre agendas importantes que afetam o ecossistema de Tokamak Network."
+                "pt-BR": "Tokamak DAO refere-se a um sistema de contratos inteligentes e uma organização autônoma construída em uma blockchain que permite que os titulares de tokens de Tokamak Network (TON) participem diretamente em decisões sobre agendas importantes que afetam o ecossistema de Tokamak Network."
             },
             "link": "https://dao.tokamak.network/#/",
             "kind": [
@@ -671,7 +671,7 @@
                         "ko": "이더리움",
                         "ja": "Ethereum",
                         "es": "Ethereum",
-                        "pt": "Ethereum"
+                        "pt-BR": "Ethereum"
                     }
                 }
             ],
@@ -688,14 +688,14 @@
                 "ko": "Zapper",
                 "ja": "Zapper",
                 "es": "Zapper",
-                "pt": "Zapper"
+                "pt-BR": "Zapper"
             },
             "description": {
                 "en": "Zapper is a Ethereum based DeFi dashboard for monitoring and managing your DeFi assets and liabilities in one simple interface.",
                 "ko": "Zapper는 간단한 인터페이스로 디파이 포트폴리오를 모니터링하고 관리할 수 있는 이더리움 기반의 디파이 대시보드 서비스입니다.",
                 "ja": "Zapperは、シンプルなインターフェースで、DeFiポートフォリオをモニタリング・管理できるEthereum向けのDeFiダッシュボードサービスです。",
                 "es": "Zapper es un dashboard de DeFi basado en Ethereum para monitorear y gestionar tus activos y pasivos DeFi en una interfaz simple.",
-                "pt": "Zapper é um dashboard de DeFi baseado em Ethereum para monitorar e gerenciar seus ativos e passivos DeFi em uma interface simples."
+                "pt-BR": "Zapper é um dashboard de DeFi baseado em Ethereum para monitorar e gerenciar seus ativos e passivos DeFi em uma interface simples."
             },
             "link": "https://zapper.fi/",
             "kind": [
@@ -709,7 +709,7 @@
                         "ko": "이더리움",
                         "ja": "Ethereum",
                         "es": "Ethereum",
-                        "pt": "Ethereum"
+                        "pt-BR": "Ethereum"
                     }
                 }
             ],
@@ -726,14 +726,14 @@
                 "ko": "Neverlose.money",
                 "ja": "Neverlose.money",
                 "es": "Neverlose.money",
-                "pt": "Neverlose.money"
+                "pt-BR": "Neverlose.money"
             },
             "description": {
                 "en": "Neverlose.money is the first-ever gamified DeFi protocol that pays a bonus to long-term investors, known as HODLers, using the penalty charge paid by users who fail to HODL.",
                 "ko": "네버루즈머니는 이더리움 기반의 게미피케이션을 적용한 암호화폐 장기 투자 촉진 프로토콜 입니다. 사용자가 스스로 목표 기간을 설정해서 코인을 락업 (Lock-up)하고, 기간을 못 지키고 출금하면 10%의 패널티가 부과되고 이를 풀에 참여하고 있는 다른 사용자들에게 보너스로 지급함으로써 장기 투자를 유도합니다.",
                 "ja": "Neverlose.moneyは、ゲーミフィケーションを導入し、Ethereum向けの暗号資産の長期投資促進をプロトコルとしています。ユーザーが自ら目標期間を設定してコインをロックアップ(Lock-up)し、期間満了せずに出金すると10%のペナルティが課せられ、これをプールに参加している他のユーザーにボーナスとして支給することで長期投資へと誘導します。",
                 "es": "Neverlose.money es el primer protocolo DeFi gamificado que paga un bono a los inversores a largo plazo, conocidos como HODLers, utilizando la carga por impago pagada por los usuarios que no logran HODL.",
-                "pt": "Neverlose.money é o primeiro protocolo DeFi gamificado que paga um bônus aos investidores de longo prazo, conhecidos como HODLers, usando a carga por impago paga pelos usuários que não conseguem HODL."
+                "pt-BR": "Neverlose.money é o primeiro protocolo DeFi gamificado que paga um bônus aos investidores de longo prazo, conhecidos como HODLers, usando a carga por impago paga pelos usuários que não conseguem HODL."
             },
             "link": "https://neverlose.money/",
             "kind": [
@@ -747,7 +747,7 @@
                         "ko": "이더리움",
                         "ja": "Ethereum",
                         "es": "Ethereum",
-                        "pt": "Ethereum"
+                        "pt-BR": "Ethereum"
                     }
                 }
             ],
@@ -764,14 +764,14 @@
                 "ko": "Compound",
                 "ja": "Compound",
                 "es": "Compound",
-                "pt": "Compound"
+                "pt-BR": "Compound"
             },
             "description": {
                 "en": "Compound is Ethereum's algorithmic money market protocol that allows users to earn interest or borrow assets through collateral. Anyone can supply assets to Compound's liquidity pool and earn continuous compound interest immediately.",
                 "ko": "Compound는 담보를 통해 이자를 얻거나 자산을 빌릴 수 있는 이더리움 기반의 머니 마켓 프로토콜입니다. 컴파운드의 유동성 풀에 자산을 공급하면 복리이자를 얻을 수 있습니다.",
                 "ja": "Compoundは、暗号資産を担保に入れ利息を得たり、暗号資産を増やせるEthereum向けのマネーマーケットをプロトコルとしています。Compoundの流動性プールに暗号資産を預入すると複利を得ることができます。",
                 "es": "Compound es el protocolo de mercado monetario algorítmico de Ethereum que permite a los usuarios ganar intereses o pedir préstamos a través de garantía. Cualquier persona puede suministrar activos al pool de liquidez de Compound y obtener intereses continuos de interés compuesto inmediatamente.",
-                "pt": "Compound é o protocolo de mercado monetário algorítmico de Ethereum que permite aos usuários ganhar juros ou pedir empréstimos através de garantia. Qualquer pessoa pode fornecer ativos ao pool de liquidez do Compound e ganhar juros contínuos de juros compostos imediatamente."
+                "pt-BR": "Compound é o protocolo de mercado monetário algorítmico de Ethereum que permite aos usuários ganhar juros ou pedir empréstimos através de garantia. Qualquer pessoa pode fornecer ativos ao pool de liquidez do Compound e ganhar juros contínuos de juros compostos imediatamente."
             },
             "link": "https://app.compound.finance/",
             "kind": [
@@ -785,7 +785,7 @@
                         "ko": "이더리움",
                         "ja": "Ethereum",
                         "es": "Ethereum",
-                        "pt": "Ethereum"
+                        "pt-BR": "Ethereum"
                     }
                 }
             ],
@@ -802,14 +802,14 @@
                 "ko": "PoolTogether",
                 "ja": "PoolTogether",
                 "es": "PoolTogether",
-                "pt": "PoolTogether"
+                "pt-BR": "PoolTogether"
             },
             "description": {
                 "en": "PoolTogether is an Ethereum based application that makes saving money as fun as a game. You join a pool by getting a “savings ticket”. Each Savings Ticket gives you a chance to win a prize, but even if you don’t win, you keep all your money!",
                 "ko": "PoolTogether는 저축을 재미있게 하는 이더리움 기반의 서비스입니다. 자산을 예치하면 “저축 티켓“을 받아 '풀'에 참여합니다. 각 저축 티켓은 풀에서 발생한 이자를 받을 수있는 기회를 제공하지만, 당첨되지 않더라도 손실이 없습니다.",
                 "ja": "Pool Togetherは、貯金の楽しさが味わえるEthereum向けのサービスです。暗号資産を預入し、貯蓄チケットを受け取ってプールに参加します。各貯蓄チケットには、抽選でプールで得た利息(全ユーザー分)を受け取れるチャンスが生まれます。尚、当選されなくても損失は発生しません。",
                 "es": "PoolTogether es una aplicación Ethereum que hace que ahorrar dinero sea tan emocionante como un juego. Te unes a un pool al obtener un “ticket de ahorro”. Cada ticket de ahorro te da una oportunidad de ganar un premio, pero incluso si no ganas, mantienes todo tu dinero!",
-                "pt": "PoolTogether é uma aplicação Ethereum que torna poupar dinheiro tão emocionante quanto um jogo. Você se junta a um pool ao obter um “bilhete de poupança”. Cada bilhete de poupança oferece uma chance de ganhar um prêmio, mas mesmo que não ganhe, você mantém todo o seu dinheiro!"
+                "pt-BR": "PoolTogether é uma aplicação Ethereum que torna poupar dinheiro tão emocionante quanto um jogo. Você se junta a um pool ao obter um “bilhete de poupança”. Cada bilhete de poupança oferece uma chance de ganhar um prêmio, mas mesmo que não ganhe, você mantém todo o seu dinheiro!"
             },
             "link": "https://app.pooltogether.com/",
             "kind": [
@@ -823,7 +823,7 @@
                         "ko": "이더리움",
                         "ja": "Ethereum",
                         "es": "Ethereum",
-                        "pt": "Ethereum"
+                        "pt-BR": "Ethereum"
                     }
                 }
             ],
@@ -840,14 +840,14 @@
                 "ko": "Uniswap",
                 "ja": "Uniswap",
                 "es": "Uniswap",
-                "pt": "Uniswap"
+                "pt-BR": "Uniswap"
             },
             "description": {
                 "en": "Uniswap is a fully decentralized protocol for automated liquidity provision on Ethereum.",
                 "ko": "Uniswap은 유동성을 공급하고 토큰을 교환할 수 있는 이더리움 기반의 자동화된 탈중앙 프로토콜입니다.",
                 "ja": "Uniswapは、流動性を供給し、トークンをスワップできるEthereum向けの自動化された分散型プロトコルを適用しています。",
                 "es": "Uniswap es un protocolo completamente descentralizado para la provisión de liquidez automatizada en Ethereum.",
-                "pt": "Uniswap é um protocolo totalmente descentralizado para a provisão de liquidez automatizada na Ethereum."
+                "pt-BR": "Uniswap é um protocolo totalmente descentralizado para a provisão de liquidez automatizada na Ethereum."
             },
             "link": "https://app.uniswap.org/",
             "kind": [
@@ -861,7 +861,7 @@
                         "ko": "이더리움",
                         "ja": "Ethereum",
                         "es": "Ethereum",
-                        "pt": "Ethereum"
+                        "pt-BR": "Ethereum"
                     }
                 }
             ],
@@ -878,14 +878,14 @@
                 "ko": "yearn.finance",
                 "ja": "yearn.finance",
                 "es": "yearn.finance",
-                "pt": "yearn.finance"
+                "pt-BR": "yearn.finance"
             },
             "description": {
                 "en": "yearn.finance is an DeFi aggregator service that uses automation to maximize profits from yield farming for investors.",
                 "ko": "yearn.finance는 DeFi 서비스를 모아놓은 플랫폼으로 자동화된 프로토콜을 통해 최대의 수익을 얻기 위한 방법을 제공하는 서비스입니다.",
                 "ja": "yearn.financeは、DeFiサービスを集めたプラットフォームで、自動化されたプロトコルを通じて、最大の収益を得るための方法を提供しているサービスです。",
                 "es": "yearn.finance es un servicio de agregador DeFi que utiliza automatización para maximizar las ganancias de la agricultura de rendimiento para los inversores.",
-                "pt": "yearn.finance é um serviço de agregador DeFi que utiliza automação para maximizar os lucros da agricultura de rendimento para os investidores."
+                "pt-BR": "yearn.finance é um serviço de agregador DeFi que utiliza automação para maximizar os lucros da agricultura de rendimento para os investidores."
             },
             "link": "https://yearn.finance/",
             "kind": [
@@ -899,7 +899,7 @@
                         "ko": "이더리움",
                         "ja": "Ethereum",
                         "es": "Ethereum",
-                        "pt": "Ethereum"
+                        "pt-BR": "Ethereum"
                     }
                 }
             ],
@@ -916,14 +916,14 @@
                 "ko": "1inch.exchange",
                 "ja": "1inch.exchange",
                 "es": "1inch.exchange",
-                "pt": "1inch.exchange"
+                "pt-BR": "1inch.exchange"
             },
             "description": {
                 "en": "1inch Exchange is a decentralized exchange (DEX) aggregator. It's designed to roll liquidity and pricing from all major DEXes into one platform, making it easy to get the best price for the desired trade.",
                 "ko": "1inch Exchange는 모든 주요 DEX 거래소의 유동성과 가격 정보를 하나의 플랫폼에서 제공합니다. 원하는 거래의 가격을 쉽게 조회하여 토큰을 교환할 수 있습니다.",
                 "ja": "1inch Exchangeは、主要DEX(分散型取引所)の流動性と価格情報をひとつのプラットフォームで提供しています。ご希望の取引価格を簡単に照会でき、トークンをスワップも行なえます。",
                 "es": "1inch Exchange es un agregador de intercambios descentralizados (DEX) que reúne liquidez y precios de todos los principales DEXes en una sola plataforma, facilitando obtener el mejor precio para la operación deseada.",
-                "pt": "1inch Exchange é um agregador de exchanges descentralizados (DEX) que reúne liquidez e preços de todos os principais DEXes em uma única plataforma, facilitando obter o melhor preço para a operação desejada."
+                "pt-BR": "1inch Exchange é um agregador de exchanges descentralizados (DEX) que reúne liquidez e preços de todos os principais DEXes em uma única plataforma, facilitando obter o melhor preço para a operação desejada."
             },
             "link": "https://1inch.exchange/",
             "kind": [
@@ -937,7 +937,7 @@
                         "ko": "이더리움",
                         "ja": "Ethereum",
                         "es": "Ethereum",
-                        "pt": "Ethereum"
+                        "pt-BR": "Ethereum"
                     }
                 }
             ],
@@ -954,14 +954,14 @@
                 "ko": "OpenSea",
                 "ja": "OpenSea",
                 "es": "OpenSea",
-                "pt": "OpenSea"
+                "pt-BR": "OpenSea"
             },
             "description": {
                 "en": "OpenSea is a marketplace for digital goods, including collectibles, game items, digital art, and other digital assets backed by blockchain such as Ethereum.",
                 "ko": "OpenSea는 수집품, 게임 아이템, 디지털 아트와 같은 이더리움 기반의 디지털 상품 및 디지털 자산을 거래할 수 있는 마켓 플레이스입니다.",
                 "ja": "OpenSeaは、コレクション、ゲームアイテム、デジタルアートなど、Ethereum向けのデジタル商品およびデジタル暗号資産を取引できるマーケットプレイスです。",
                 "es": "OpenSea es un mercado para bienes digitales, incluyendo colecciones, artículos de juego, arte digital y otros activos digitales respaldados por blockchain como Ethereum.",
-                "pt": "OpenSea é um mercado para bens digitais, incluindo coleções, itens de jogo, arte digital e outros ativos digitais apoiados por blockchain como Ethereum."
+                "pt-BR": "OpenSea é um mercado para bens digitais, incluindo coleções, itens de jogo, arte digital e outros ativos digitais apoiados por blockchain como Ethereum."
             },
             "link": "https://opensea.io/",
             "kind": [
@@ -975,7 +975,7 @@
                         "ko": "이더리움",
                         "ja": "Ethereum",
                         "es": "Ethereum",
-                        "pt": "Ethereum"
+                        "pt-BR": "Ethereum"
                     }
                 }
             ],
@@ -992,14 +992,14 @@
                 "ko": "Rarible",
                 "ja": "Rarible",
                 "es": "Rarible",
-                "pt": "Rarible"
+                "pt-BR": "Rarible"
             },
             "description": {
                 "en": "Rarible is a creator-centric NFT marketplace and issuance platform where users can easily create non-fungible tokens (NFTs) for unique digital items like artworks, game items and more.",
                 "ko": "Rarible은 크리에이터 중심의 NFT 마켓 플레이스 서비스입니다. 예술 작품, 게임 아이템 등과 같은 고유한 디지털 아이템을 대체 불가능한 토큰 (NFT)으로 쉽게 만들 수 있습니다.",
                 "ja": "Raribleは、クリエイター中心のNFTマーケットプレイスサービスです。芸術作品、ゲームアイテムなど、固有のデジタルアイテムを代替不可能なトークン(NFT)で簡単に作ることができます。",
                 "es": "Rarible es un servicio de marketplace NFT centrado en creadores donde los usuarios pueden crear fácilmente tokens no fungibles (NFT) para artículos digitales únicos como obras de arte, artículos de juego y más.",
-                "pt": "Rarible é um serviço de marketplace NFT focado em criadores onde os usuários podem criar facilmente tokens não fungíveis (NFT) para itens digitais únicos como obras de arte, itens de jogo e mais."
+                "pt-BR": "Rarible é um serviço de marketplace NFT focado em criadores onde os usuários podem criar facilmente tokens não fungíveis (NFT) para itens digitais únicos como obras de arte, itens de jogo e mais."
             },
             "link": "https://rarible.com/",
             "kind": [
@@ -1013,7 +1013,7 @@
                         "ko": "이더리움",
                         "ja": "Ethereum",
                         "es": "Ethereum",
-                        "pt": "Ethereum"
+                        "pt-BR": "Ethereum"
                     }
                 }
             ],
@@ -1030,14 +1030,14 @@
                 "ko": "KLAYportal",
                 "ja": "KLAYportal",
                 "es": "KLAYportal",
-                "pt": "KLAYportal"
+                "pt-BR": "KLAYportal"
             },
             "description": {
                 "en": "KLAYportal was designed and developed by HashQuark as a lightweight tool to help KLAY holders participate in Klaytn staking in a simple, secure way.",
                 "ko": "클레이포탈은 해시쿼크에서 개발한 간단하고 안전한 방식으로 클레이(KLAY)를 스테이킹할 수 있는 클레이튼 스테이킹 툴입니다.",
                 "ja": "Klayportalは、HashQuarkで開発した簡単かつ安全な方法でクレイ(KLAY)をステーキングできるKlaytnステーキングツールです。",
                 "es": "KLAYportal es una herramienta de staking de Klaytn desarrollada por HashQuark para ayudar a los titulares de KLAY a participar en el staking de Klaytn de manera simple y segura.",
-                "pt": "KLAYportal é uma ferramenta de staking de Klaytn desenvolvida pela HashQuark para ajudar os titulares de KLAY a participar do staking de Klaytn de forma simples e segura."
+                "pt-BR": "KLAYportal é uma ferramenta de staking de Klaytn desenvolvida pela HashQuark para ajudar os titulares de KLAY a participar do staking de Klaytn de forma simples e segura."
             },
             "link": "https://klayportal.hashquark.io/#/?inApp=true",
             "kind": [
@@ -1051,7 +1051,7 @@
                         "ko": "클레이튼",
                         "ja": "Klaytn",
                         "es": "Klaytn",
-                        "pt": "Klaytn"
+                        "pt-BR": "Klaytn"
                     }
                 }
             ],
@@ -1077,9 +1077,7 @@
                 {
                     "id": "klaytn-mainnet",
                     "name": {
-                        "en": "Klaytn",
-                        "ko": "클레이튼",
-                        "ja": "Klaytn"
+                        "ko": "클레이튼"
                     }
                 }
             ],
