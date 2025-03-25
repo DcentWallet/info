@@ -23,6 +23,18 @@
                 "link": "https://uno.nodeops.network/?code=DCENT",
                 "imagePath": "DCENT-NODEOPS_app_380x160_EN.png",
                 "imagePath_480": "DCENT-NODEOPS_app_480x160_EN.png"
+            },
+            "es": {
+                "description": "",
+                "link": "https://uno.nodeops.network/?code=DCENT",
+                "imagePath": "DCENT-NODEOPS_app_380x160_EN.png",
+                "imagePath_480": "DCENT-NODEOPS_app_480x160_EN.png"
+            },
+            "pt-BR": {
+                "description": "",
+                "link": "https://uno.nodeops.network/?code=DCENT",
+                "imagePath": "DCENT-NODEOPS_app_380x160_EN.png",
+                "imagePath_480": "DCENT-NODEOPS_app_480x160_EN.png"
             }
         },
         "startTimestamp": 1742226125000,
