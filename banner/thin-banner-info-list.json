@@ -3,73 +3,52 @@
         "img": {
             "en": {
                 "desktop": {
-                    "path": "../images/en/pc_1920x60_Mega_EN_3.png",
+                    "path": "../images/en/DAG_pc_1920x60_dag_en.png",
                     "height": "60px",
-                    "background-color": "#262626"
+                    "background-color": "#000000"
                 },
                 "tablet": {
-                    "path": "../images/en/mobile_768x120_EN_3.png",
+                    "path": "../images/en/DAG_mobile_768x120_en.png",
                     "height": "60px",
-                    "background-color": "#5C1520"
+                    "background-color": "#000000"
                 },
                 "mobile": {
-                    "path": "../images/en/mobile_768x120_EN_3.png",
+                    "path": "../images/en/DAG_mobile_768x120_en.png",
                     "height": "14.44vw",
-                    "background-color": "#5C1520"
-                }
-            },
-            "ko": {
-                "desktop": {
-                    "path": "../images/ko/pc_1920x60__Mega_KR_3.png",
-                    "height": "60px",
-                    "background-color": "#262626"
-                },
-                "tablet": {
-                    "path": "../images/ko/mobile_768x120_KR_3.png",
-                    "height": "60px",
-                    "background-color": "#5C1520"
-                },
-                "mobile": {
-                    "path": "../images/ko/mobile_768x120_KR_3.png",
-                    "height": "14.44vw",
-                    "background-color": "#5C1520"
+                    "background-color": "#000000"
                 }
             },
             "ja": {
                 "desktop": {
-                    "path": "../images/ja/pc_1920x60__Mega_JP_3.png",
+                    "path": "../images/en/DAG_pc_1920x60_dag_en.png",
                     "height": "60px",
-                    "background-color": "#262626"
+                    "background-color": "#000000"
                 },
                 "tablet": {
-                    "path": "../images/ja/mobile_768x120_ja_3.png",
+                    "path": "../images/en/DAG_mobile_768x120_en.png",
                     "height": "60px",
-                    "background-color": "#5C1520"
+                    "background-color": "#000000"
                 },
                 "mobile": {
-                    "path": "../images/ja/mobile_768x120_ja_3.png",
+                    "path": "../images/en/DAG_mobile_768x120_en.png",
                     "height": "14.44vw",
-                    "background-color": "#5C1520"
+                    "background-color": "#000000"
                 }
             }
         },
         "link": {
             "en": {
                 "internal": false,
-                "external": "https://forms.gle/G66dydPyiHS8vcGJ8"
-            },
-            "ko": {
-                "internal": false,
-                "external": "https://forms.gle/43x1xPXY2j95QumC9"
+                "external": "https://store.dcentwallet.com/pages/dag-airdrop-event"
             },
             "ja": {
                 "internal": false,
-                "external": "https://forms.gle/G66dydPyiHS8vcGJ8"
+                "external": "https://store.dcentwallet.com/pages/dag-airdrop-event"
             }
         },
         "period": {
-            "start": "2025-01-10T08:00:00.000Z",
-            "end": "2025-01-19T14:59:59.000Z"
+            "start": "2025-04-03T00:00:00.000Z",
+            "end": "2025-04-15T23:59:59.000Z"
         }
     },
     {

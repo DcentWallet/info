@@ -1,77 +1,38 @@
 [
+    
     {
-        "name": "DCENT-NODEOPS",
-        "title": "DCENT-NODEOPS",
-        "bgColor": "#121117",
-        "externalWindow": false,
-        "networkId": "ethereum-mainnet",
-        "locale": {
-            "en": {
-                "description": "",
-                "link": "https://uno.nodeops.network/?code=DCENT",
-                "imagePath": "DCENT-NODEOPS_app_380x160_EN.png",
-                "imagePath_480": "DCENT-NODEOPS_app_480x160_EN.png"
-            },
-            "ko": {
-                "description": "",
-                "link": "https://uno.nodeops.network/?code=DCENT",
-                "imagePath": "DCENT-NODEOPS_app_380x160_EN.png",
-                "imagePath_480": "DCENT-NODEOPS_app_480x160_EN.png"
-            },
-            "ja": {
-                "description": "",
-                "link": "https://uno.nodeops.network/?code=DCENT",
-                "imagePath": "DCENT-NODEOPS_app_380x160_EN.png",
-                "imagePath_480": "DCENT-NODEOPS_app_480x160_EN.png"
-            },
-            "es": {
-                "description": "",
-                "link": "https://uno.nodeops.network/?code=DCENT",
-                "imagePath": "DCENT-NODEOPS_app_380x160_EN.png",
-                "imagePath_480": "DCENT-NODEOPS_app_480x160_EN.png"
-            },
-            "pt-BR": {
-                "description": "",
-                "link": "https://uno.nodeops.network/?code=DCENT",
-                "imagePath": "DCENT-NODEOPS_app_380x160_EN.png",
-                "imagePath_480": "DCENT-NODEOPS_app_480x160_EN.png"
-            }
-        },
-        "startTimestamp": 1742226125000,
-        "endTimestamp": 1742990400000
-    },
-    {
-        "name": "usa-free-shipping",
-        "title": "USA Free Shipping",
-        "bgColor": "#050B0F",
+        "name": "dag-airdrop-event",
+        "title": "dag-airdrop-event",
+        "bgColor": "#000000",
         "externalWindow": true,
         "locale": {
             "en": {
                 "description": "",
-                "link": "https://store.dcentwallet.com/collections/frontpage/products/biometric-wallet?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202305_free-shipping-us_v02",
-                "imagePath": "Freeshipping_mob_380x160_EN_1.png",
-                "imagePath_480": "Freeshipping_mob_480x160_EN_1.png"
+                "link": "https://store.dcentwallet.com/pages/dag-airdrop-event?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202504_dag_v01",
+                "imagePath": "DAG_app_380x160_en.png",
+                "imagePath_480": "DAG_app_480x160_en.png"
             },
             "ja": {
                 "description": "",
-                "link": "https://store.dcentwallet.com/ja/collections/frontpage/products/biometric-wallet?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202305_free-shipping-us_v02",
-                "imagePath": "Freeshipping_mob_380x160_JP_1.png",
-                "imagePath_480": "Freeshipping_mob_480x160_JP_1.png"
+                "link": "https://store.dcentwallet.com/ja/pages/dag-airdrop-event?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202504_dag_v01",
+                "imagePath": "DAG_app_380x160_jp.png",
+                "imagePath_480": "DAG_app_480x160_jp.png"
             },
             "es": {
                 "description": "",
-                "link": "https://store.dcentwallet.com/collections/frontpage/products/biometric-wallet?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202305_free-shipping-us_v02",
-                "imagePath": "Freeshipping_mob_380x160_EN_1.png",
-                "imagePath_480": "Freeshipping_mob_480x160_EN_1.png"
+                "link": "https://store.dcentwallet.com/pages/dag-airdrop-event?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202504_dag_v01",
+                "imagePath": "DAG_app_380x160_es.png",
+                "imagePath_480": "DAG_app_480x160_es.png"
             },
             "pt-BR": {
                 "description": "",
-                "link": "https://store.dcentwallet.com/collections/frontpage/products/biometric-wallet?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202305_free-shipping-us_v02",
-                "imagePath": "Freeshipping_mob_380x160_EN_1.png",
-                "imagePath_480": "Freeshipping_mob_480x160_EN_1.png"
+                "link": "https://store.dcentwallet.com/pages/dag-airdrop-event?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202504_dag_v01",
+                "imagePath": "DAG_app_380x160_br.png",
+                "imagePath_480": "DAG_app_480x160_br.png"
             }
         },
-        "startTimestamp": 1742990400000
+        "startTimestamp": 1743638400000,
+        "endTimestamp": 1744761540000
     },
     {
         "name": "dcent blog",
@@ -109,8 +70,7 @@
                 "imagePath": "discovery_banner-blog_bg.png",
                 "button": "Explore"
             }
-        },
-        "startTimestamp": 1742990400000
+        }
     },
     {
         "name": "dcent",
@@ -148,8 +108,7 @@
                 "imagePath": "discovery_banner_dcent_new.png",
                 "button": "Comprar agora"
             }
-        },
-        "startTimestamp": 1742990400000
+        }
     },
     {
         "name": "youtube",
