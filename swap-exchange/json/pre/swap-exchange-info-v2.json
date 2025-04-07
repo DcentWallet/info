@@ -239,7 +239,7 @@
     "cosmos": "COSMOS",
     "dash": "DASH",
     "digibyte": "DIGIBYTE",
-    "dogecoin": "DOGECOIN",
+    "doge": "DOGECOIN",
     "ethereum_classic": "ETH-CLASSIC",
     "fantom": "CHAN:250",
     "hedera": "HEDERA",
@@ -316,12 +316,9 @@
   "okx": {
     "1": "ETHEREUM",
     "10": "CHAN:10",
-    "25": "CHAN:25",
     "56": "BSC",
-    "66": "CHAN:66",
     "137": "POLYGON",
     "250": "CHAN:250",
-    "501": "SOLANA",
     "8453": "CHAN:8453",
     "42161": "CHAN:42161",
     "43114": "CHAN:43114"
