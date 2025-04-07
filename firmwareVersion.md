@@ -1,5 +1,7 @@
 |Kernel Version|Release Date|Notes|
 |----|----|------|
+|v2.34.2|2025-04-04|• Improved stability for HORIZEN (ZEN) |
+|v2.34.1|2025-04-04|• Improved stability for account management |
 |v2.34.0|2025-03-19|• Added supporting coin : Constellation (DAG) |
 |v2.33.0|2025-02-19|• Added supporting coin : Filecoin (FIL) |
 |v2.32.0|2024-12-20|• Added supporting coin : XAHAU (XAH) |
