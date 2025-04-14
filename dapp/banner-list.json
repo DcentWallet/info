@@ -32,7 +32,41 @@
             }
         },
         "startTimestamp": 1743638400000,
-        "endTimestamp": 1744761540000
+        "endTimestamp": 1744642740000
+    },
+    {
+        "name": "dag-airdrop-event-2",
+        "title": "dag-airdrop-event-2",
+        "bgColor": "#000000",
+        "externalWindow": true,
+        "locale": {
+            "en": {
+                "description": "",
+                "link": "https://store.dcentwallet.com/pages/dcent-dag-airdrop-event_v2?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202504_dag_v02",
+                "imagePath": "dag_2_app_380x160_en.png",
+                "imagePath_480": "dag_2_app_480x160_en.png"
+            },
+            "ja": {
+                "description": "",
+                "link": "https://store.dcentwallet.com/ja/pages/dcent-dag-airdrop-event_v2?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202504_dag_v02",
+                "imagePath": "dag_2_app_380x160_JP.png",
+                "imagePath_480": "dag_2_app_480x160_JP.png"
+            },
+            "es": {
+                "description": "",
+                "link": "https://store.dcentwallet.com/pages/dcent-dag-airdrop-event_v2?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202504_dag_v02",
+                "imagePath": "dag_2_app_380x160_es.png",
+                "imagePath_480": "dag_2_app_480x160_es.png"
+            },
+            "pt-BR": {
+                "description": "",
+                "link": "https://store.dcentwallet.com/pages/dcent-dag-airdrop-event_v2?utm_source=discovery_banner&utm_medium=dcent-app&utm_campaign=202504_dag_v02",
+                "imagePath": "dag_2_app_380x160_br.png",
+                "imagePath_480": "dag_2_app_480x160_br.png"
+            }
+        },
+        "startTimestamp": 1744675200000,
+        "endTimestamp": 1745884740000
     },
     {
         "name": "dcent blog",

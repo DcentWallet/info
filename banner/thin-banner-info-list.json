@@ -48,7 +48,59 @@
         },
         "period": {
             "start": "2025-04-03T00:00:00.000Z",
-            "end": "2025-04-15T23:59:59.000Z"
+            "end": "2025-04-14T23:59:00.000Z"
+        }
+    },
+    {
+        "img": {
+            "en": {
+                "desktop": {
+                    "path": "../images/en/dag_2_pc_1920x60_DAG_EN.png",
+                    "height": "60px",
+                    "background-color": "#000000"
+                },
+                "tablet": {
+                    "path": "../images/en/dag_2_mobile_768x120_en.png",
+                    "height": "60px",
+                    "background-color": "#000000"
+                },
+                "mobile": {
+                    "path": "../images/en/dag_2_mobile_768x120_en.png",
+                    "height": "14.44vw",
+                    "background-color": "#000000"
+                }
+            },
+            "ja": {
+                "desktop": {
+                    "path": "../images/en/dag_2_pc_1920x60_DAG_EN.png",
+                    "height": "60px",
+                    "background-color": "#000000"
+                },
+                "tablet": {
+                    "path": "../images/en/dag_2_mobile_768x120_en.png",
+                    "height": "60px",
+                    "background-color": "#000000"
+                },
+                "mobile": {
+                    "path": "../images/en/dag_2_mobile_768x120_en.png",
+                    "height": "14.44vw",
+                    "background-color": "#000000"
+                }
+            }
+        },
+        "link": {
+            "en": {
+                "internal": false,
+                "external": "https://store.dcentwallet.com/pages/dcent-dag-airdrop-event_v2"
+            },
+            "ja": {
+                "internal": false,
+                "external": "https://store.dcentwallet.com/pages/dcent-dag-airdrop-event_v2"
+            }
+        },
+        "period": {
+            "start": "2025-04-15T00:00:00.000Z",
+            "end": "2025-04-28T23:59:00.000Z"
         }
     },
     {
