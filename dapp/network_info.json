@@ -484,6 +484,20 @@
                         "Android": "5.16.0",
                         "iOS": "5.16.1"
                     }
+                },
+                {
+                    "networkId": "map-protocol",
+                    "name": "map_protocol",
+                    "description": "Map Protocol",
+                    "coinType": "CHAN:22776",
+                    "chainId": 146,
+                    "iconPath": "network_map.png",
+                    "testnet": false,
+                    "nativeVersion": {
+                        "Android": "5.16.0",
+                        "iOS": "5.16.1"
+                    },
+                    "preRelease": true
                 }
             ]
         },
