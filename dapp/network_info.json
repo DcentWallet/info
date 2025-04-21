@@ -497,6 +497,20 @@
                         "Android": "5.16.0",
                         "iOS": "5.16.1"
                     }
+                },
+                {
+                    "networkId": "monad-testnet",
+                    "name": "monad_testnet",
+                    "description": "Monad Testnet",
+                    "coinType": "EVMT:10143",
+                    "chainId": 10143,
+                    "iconPath": "network_monad_testnet.png",
+                    "testnet": true,
+                    "nativeVersion": {
+                        "Android": "5.16.0",
+                        "iOS": "5.16.1"
+                    },
+                    "preRelease": true
                 }
             ]
         },
