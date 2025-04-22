@@ -509,8 +509,7 @@
                     "nativeVersion": {
                         "Android": "5.16.0",
                         "iOS": "5.16.1"
-                    },
-                    "preRelease": true
+                    }
                 }
             ]
         },
