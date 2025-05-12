@@ -510,6 +510,34 @@
                         "Android": "5.16.0",
                         "iOS": "5.16.1"
                     }
+                },
+                {
+                    "networkId": "soneium",
+                    "name": "soneium",
+                    "description": "Soneium",
+                    "coinType": "CHAN:1868",
+                    "chainId": 1868,
+                    "iconPath": "network_soneium.png",
+                    "testnet": false,
+                    "nativeVersion": {
+                        "Android": "5.16.0",
+                        "iOS": "5.16.1"
+                    },
+                    "preRelease": true
+                },
+                {
+                    "networkId": "scroll",
+                    "name": "scroll",
+                    "description": "Scroll",
+                    "coinType": "CHAN:534352",
+                    "chainId": 534352,
+                    "iconPath": "network_scroll.png",
+                    "testnet": false,
+                    "nativeVersion": {
+                        "Android": "5.16.0",
+                        "iOS": "5.16.1"
+                    },
+                    "preRelease": true
                 }
             ]
         },
