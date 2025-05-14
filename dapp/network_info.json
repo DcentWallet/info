@@ -536,8 +536,7 @@
                     "nativeVersion": {
                         "Android": "5.16.0",
                         "iOS": "5.16.1"
-                    },
-                    "preRelease": true
+                    }
                 },
                 {
                     "networkId": "edu-chain",
@@ -545,27 +544,25 @@
                     "description": "Edu Chain",
                     "coinType": "CHAN:41923",
                     "chainId": 41923,
-                    "iconPath": "network_edu.png",
+                    "iconPath": "network_edu_chain.png",
                     "testnet": false,
                     "nativeVersion": {
                         "Android": "5.16.0",
                         "iOS": "5.16.1"
-                    },
-                    "preRelease": true
+                    }
                 },
                 {
-                    "networkId": "open-campus-testnet",
-                    "name": "open_campus_testnet",
-                    "description": "Open Campus Testnet",
+                    "networkId": "edu-chain-testnet",
+                    "name": "edu_chain_testnet",
+                    "description": "Edu Chain Testnet",
                     "coinType": "EVMT:656476",
                     "chainId": 656476,
-                    "iconPath": "network_edu.png",
+                    "iconPath": "network_edu_chain.png",
                     "testnet": true,
                     "nativeVersion": {
                         "Android": "5.16.0",
                         "iOS": "5.16.1"
-                    },
-                    "preRelease": true
+                    }
                 }
             ]
         },

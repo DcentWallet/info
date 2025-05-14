@@ -988,6 +988,45 @@
     }
   },
   {
+    "id": "CHAN:1868",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/networks/network_soneium.png",
+    "symbol": "ETH",
+    "name": "Soneium",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CHAN:534352",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/networks/network_scroll.png",
+    "symbol": "SCR",
+    "name": "Scroll",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CHAN:41923",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/networks/network_edu_chain.png",
+    "symbol": "EDU",
+    "name": "Edu Chain",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "id": "ERC20/0xdac17f958d2ee523a2206206994597c13d831ec7",
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
     "symbol": "USDT",
@@ -37580,6 +37619,21 @@
     }
   },
   {
+    "id": "KLAYTN-ERC20/0xd077a400968890eacc75cdc901f0356c943e4fdb",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+    "symbol": "USDT",
+    "name": "Tether",
+    "type": "KAIA-KCT",
+    "contract": "0xd077a400968890eacc75cdc901f0356c943e4fdb",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": true,
+      "software": true
+    }
+  },
+  {
     "id": "BEP2/ABCD-5D8ujvzeuft0ezf9fu4u0mk52t8mc7t8geyfkevms",
     "symbol": "ABCD-5D8",
     "name": "Africa Stable-Coin",
@@ -66791,6 +66845,185 @@
     "name": "Mapped Wrapped Ether",
     "type": "MRC20",
     "contract": "0x05ab928d446d8ce6761e368c8e7be03c3168a9ec",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:1868/0xba9986d2381edf1da03b0b9c1f8b00dc4aacc369",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+    "symbol": "USDCE",
+    "name": "Soneium Bridged USDC",
+    "type": "SONEIUM-ERC20",
+    "contract": "0xba9986d2381edf1da03b0b9c1f8b00dc4aacc369",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:1868/0x3a337a6ada9d885b6ad95ec48f9b75f197b5ae35",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+    "symbol": "USDT",
+    "name": "Soneium Bridged USDT",
+    "type": "SONEIUM-ERC20",
+    "contract": "0x3a337a6ada9d885b6ad95ec48f9b75f197b5ae35",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:1868/0x4200000000000000000000000000000000000006",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/2396.png",
+    "symbol": "WETH",
+    "name": "Superbridge Bridged WETH",
+    "type": "SONEIUM-ERC20",
+    "contract": "0x4200000000000000000000000000000000000006",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:1868/0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png",
+    "symbol": "WBTC",
+    "name": "LayerZero Bridged WBTC",
+    "type": "SONEIUM-ERC20",
+    "contract": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:1868/0x2cae934a1e84f693fbb78ca5ed3b0a6893259441",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/12885.png",
+    "symbol": "ASTR",
+    "name": "Soneium Bridged ASTR",
+    "type": "SONEIUM-ERC20",
+    "contract": "0x2cae934a1e84f693fbb78ca5ed3b0a6893259441",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:534352/0xf55bec9cafdbe8730f096aa55dad6d22d44099df",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+    "symbol": "USDT",
+    "name": "Bridged Tether",
+    "type": "SCROLL-ERC20",
+    "contract": "0xf55bec9cafdbe8730f096aa55dad6d22d44099df",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:534352/0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+    "symbol": "USDC",
+    "name": "Bridged USD Coin",
+    "type": "SCROLL-ERC20",
+    "contract": "0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:534352/0x3c1bca5a656e69edcd0d4e36bebb3fcdaca60cf1",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png",
+    "symbol": "WBTC",
+    "name": "Bridged Wrapped Bitcoin",
+    "type": "SCROLL-ERC20",
+    "contract": "0x3c1bca5a656e69edcd0d4e36bebb3fcdaca60cf1",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:534352/0xf610a9dfb7c89644979b4a0f27063e9e7d7cda32",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/8085.png",
+    "symbol": "WSTETH",
+    "name": "Bridged Wrapped Lido Staked Ether",
+    "type": "SCROLL-ERC20",
+    "contract": "0xf610a9dfb7c89644979b4a0f27063e9e7d7cda32",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:534352/0x5300000000000000000000000000000000000004",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/2396.png",
+    "symbol": "WETH",
+    "name": "Bridged Wrapped Ether",
+    "type": "SCROLL-ERC20",
+    "contract": "0x5300000000000000000000000000000000000004",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:534352/0x01f0a31698c4d065659b9bdc21b3610292a1c506",
+    "symbol": "WEETH",
+    "name": "Wrapped eETH",
+    "type": "SCROLL-ERC20",
+    "contract": "0x01f0a31698c4d065659b9bdc21b3610292a1c506",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:41923/0x65cf11f3b60673fca6c4be72ddee1a5fd4ac6e04",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-conut_coin.png",
+    "symbol": "CONUT",
+    "name": "ConutCoin",
+    "type": "EDU-ERC20",
+    "contract": "0x65cf11f3b60673fca6c4be72ddee1a5fd4ac6e04",
     "support": {
       "biometric": true,
       "card": true,
