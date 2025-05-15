@@ -562,6 +562,20 @@
                         "Android": "5.16.0",
                         "iOS": "5.16.1"
                     }
+                },
+                {
+                    "networkId": "skate",
+                    "name": "skate",
+                    "description": "Skate",
+                    "coinType": "CHAN:5050",
+                    "chainId": 5050,
+                    "iconPath": "network_skate.png",
+                    "testnet": false,
+                    "nativeVersion": {
+                        "Android": "5.16.0",
+                        "iOS": "5.16.1"
+                    },
+                    "preRelease": true
                 }
             ]
         },
