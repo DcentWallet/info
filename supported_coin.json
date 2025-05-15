@@ -1003,7 +1003,7 @@
   {
     "id": "CHAN:534352",
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/networks/network_scroll.png",
-    "symbol": "SCR",
+    "symbol": "ETH",
     "name": "Scroll",
     "support": {
       "biometric": true,
@@ -66920,6 +66920,21 @@
     "name": "Soneium Bridged ASTR",
     "type": "SONEIUM-ERC20",
     "contract": "0x2cae934a1e84f693fbb78ca5ed3b0a6893259441",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:534352/0xd29687c813d741e2f938f4ac377128810e217b1b",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/26998.png",
+    "symbol": "SCR",
+    "name": "Scroll",
+    "type": "SCROLL-ERC20",
+    "contract": "0xd29687c813d741e2f938f4ac377128810e217b1b",
     "support": {
       "biometric": true,
       "card": true,
