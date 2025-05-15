@@ -4,7 +4,7 @@
         "name": "dag-swap-event",
         "title": "dag-swap-event",
         "bgColor": "#000000",
-        "externalWindow": false,
+        "externalWindow": true,
         "locale": {
             "en": {
                 "description": "",

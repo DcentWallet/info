@@ -3,34 +3,17 @@
         "img": {
             "en": {
                 "desktop": {
-                    "path": "../images/en/DAG_pc_1920x60_dag_en.png",
+                    "path": "../images/en/dag_swap_event_pc_1920x60_DAG_EN.png",
                     "height": "60px",
                     "background-color": "#000000"
                 },
                 "tablet": {
-                    "path": "../images/en/DAG_mobile_768x120_en.png",
+                    "path": "../images/en/dag_swap_event_mobile_768x120_en.png",
                     "height": "60px",
                     "background-color": "#000000"
                 },
                 "mobile": {
-                    "path": "../images/en/DAG_mobile_768x120_en.png",
-                    "height": "14.44vw",
-                    "background-color": "#000000"
-                }
-            },
-            "ja": {
-                "desktop": {
-                    "path": "../images/en/DAG_pc_1920x60_dag_en.png",
-                    "height": "60px",
-                    "background-color": "#000000"
-                },
-                "tablet": {
-                    "path": "../images/en/DAG_mobile_768x120_en.png",
-                    "height": "60px",
-                    "background-color": "#000000"
-                },
-                "mobile": {
-                    "path": "../images/en/DAG_mobile_768x120_en.png",
+                    "path": "../images/en/dag_swap_event_mobile_768x120_en.png",
                     "height": "14.44vw",
                     "background-color": "#000000"
                 }
@@ -39,143 +22,14 @@
         "link": {
             "en": {
                 "internal": false,
-                "external": "https://store.dcentwallet.com/pages/dag-airdrop-event"
-            },
-            "ja": {
-                "internal": false,
-                "external": "https://store.dcentwallet.com/pages/dag-airdrop-event"
+                "external": "https://store.dcentwallet.com/blogs/post/dcent-earn-campaign-launch-swap-earn-dag"
             }
         },
         "period": {
-            "start": "2025-04-03T00:00:00.000Z",
-            "end": "2025-04-14T23:59:00.000Z"
+            "start": "2025-05-12T07:00:00.000Z",
+            "end": "2025-05-23T23:59:00.000Z"
         }
-    },
-    {
-        "img": {
-            "en": {
-                "desktop": {
-                    "path": "../images/en/dag_2_pc_1920x60_DAG_EN.png",
-                    "height": "60px",
-                    "background-color": "#000000"
-                },
-                "tablet": {
-                    "path": "../images/en/dag_2_mobile_768x120_en.png",
-                    "height": "60px",
-                    "background-color": "#000000"
-                },
-                "mobile": {
-                    "path": "../images/en/dag_2_mobile_768x120_en.png",
-                    "height": "14.44vw",
-                    "background-color": "#000000"
-                }
-            },
-            "ja": {
-                "desktop": {
-                    "path": "../images/en/dag_2_pc_1920x60_DAG_EN.png",
-                    "height": "60px",
-                    "background-color": "#000000"
-                },
-                "tablet": {
-                    "path": "../images/en/dag_2_mobile_768x120_en.png",
-                    "height": "60px",
-                    "background-color": "#000000"
-                },
-                "mobile": {
-                    "path": "../images/en/dag_2_mobile_768x120_en.png",
-                    "height": "14.44vw",
-                    "background-color": "#000000"
-                }
-            }
-        },
-        "link": {
-            "en": {
-                "internal": false,
-                "external": "https://store.dcentwallet.com/pages/dcent-dag-airdrop-event_v2"
-            },
-            "ja": {
-                "internal": false,
-                "external": "https://store.dcentwallet.com/pages/dcent-dag-airdrop-event_v2"
-            }
-        },
-        "period": {
-            "start": "2025-04-15T00:00:00.000Z",
-            "end": "2025-04-28T23:59:00.000Z"
-        }
-    },
-    {
-        "img": {
-            "en": {
-                "desktop": {
-                    "path": "../images/en/event_pc_1920x60_Mega_EN.png",
-                    "height": "60px",
-                    "background-color": "#262626"
-                },
-                "tablet": {
-                    "path": "../images/en/event_mobile_768x120_en.png",
-                    "height": "60px",
-                    "background-color": "#5C1520"
-                },
-                "mobile": {
-                    "path": "../images/en/event_mobile_768x120_en.png",
-                    "height": "14.44vw",
-                    "background-color": "#5C1520"
-                }
-            },
-            "ko": {
-                "desktop": {
-                    "path": "../images/ko/event_pc_1920x60__Mega_KR.png",
-                    "height": "60px",
-                    "background-color": "#262626"
-                },
-                "tablet": {
-                    "path": "../images/ko/event_mobile_768x120_kr.png",
-                    "height": "60px",
-                    "background-color": "#5C1520"
-                },
-                "mobile": {
-                    "path": "../images/ko/event_mobile_768x120_kr.png",
-                    "height": "14.44vw",
-                    "background-color": "#5C1520"
-                }
-            },
-            "ja": {
-                "desktop": {
-                    "path": "../images/ja/event_pc_1920x60__Mega_JP.png",
-                    "height": "60px",
-                    "background-color": "#262626"
-                },
-                "tablet": {
-                    "path": "../images/ja/event_mobile_768x120_ja.png",
-                    "height": "60px",
-                    "background-color": "#5C1520"
-                },
-                "mobile": {
-                    "path": "../images/ja/event_mobile_768x120_ja.png",
-                    "height": "14.44vw",
-                    "background-color": "#5C1520"
-                }
-            }
-        },
-        "link": {
-            "en": {
-                "internal": false,
-                "external": "https://forms.gle/S3n1P1RFrX2ZZKhT7"
-            },
-            "ko": {
-                "internal": false,
-                "external": "https://forms.gle/SsbfNugLJkCHUoJS9"
-            },
-            "ja": {
-                "internal": false,
-                "external": "https://forms.gle/S3n1P1RFrX2ZZKhT7"
-            }
-        },
-        "period": {
-            "start": "2025-01-06T00:00:00.000Z",
-            "end": "2025-01-10T07:59:59.000Z"
-        }
-    },
+    },    
     {
         "img": {
             "en": {
