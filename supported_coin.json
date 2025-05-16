@@ -1027,6 +1027,19 @@
     }
   },
   {
+    "id": "CHAN:5050",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/networks/network_skate.png",
+    "symbol": "ETH",
+    "name": "Skate",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "id": "ERC20/0xdac17f958d2ee523a2206206994597c13d831ec7",
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
     "symbol": "USDT",
