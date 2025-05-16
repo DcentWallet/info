@@ -101,42 +101,6 @@
             "restrictionPolicy": true
         },
         {
-            "name": "skate",
-            "title": {
-                "en": "Skate AMM",
-                "ko": "Skate AMM",
-                "ja": "Skate AMM",
-                "es": "Skate AMM",
-                "pt-BR": "Skate AMM"
-            },
-            "description": {
-                "en": "Skate AMM provides scalable and consistent asset management through a flexible architecture that spans diverse VM environments. Its stateless application design and EigenLayer-based trust mechanism enable seamless connectivity across complex ecosystems.",
-                "ko": "Skate AMM은 다양한 VM 환경을 아우르는 유연한 아키텍처를 기반으로, 자산 운용의 확장성과 일관성을 제공합니다. Stateless 애플리케이션 구조와 EigenLayer 기반의 신뢰 메커니즘을 통해 복잡한 생태계 간의 연결을 간결하게 구현합니다.",
-                "ja": "Skate AMMは、さまざまなVM環境に対応する柔軟なアーキテクチャに基づき、資産運用における拡張性と一貫性を提供します。Statelessなアプリケーション設計とEigenLayerを基盤とした信頼メカニズムにより、複雑なエコシステム間の接続をシンプルに実現します。",
-                "es": "Skate AMM ofrece una gestión de activos escalable y coherente mediante una arquitectura flexible que abarca múltiples entornos de VM. Su diseño de aplicación sin estado y el mecanismo de confianza basado en EigenLayer permiten una conexión fluida entre ecosistemas complejos.",
-                "pt-BR": "O Skate AMM oferece uma gestão de ativos escalável e consistente por meio de uma arquitetura flexível que abrange diversos ambientes de VM. Seu design de aplicação stateless e o mecanismo de confiança baseado no EigenLayer possibilitam uma conectividade simplificada entre ecossistemas complexos."
-            },
-            "link": "https://amm.skatechain.org/",
-            "kind": [],
-            "network": [
-                {
-                    "id": "skate",
-                    "name": {
-                        "en": "Skate",
-                        "ko": "Skate",
-                        "ja": "Skate",
-                        "es": "Skate",
-                        "pt-BR": "Skate"
-                    }
-                }
-            ],
-            "category": [],
-            "iconPath": "network_skate.png",
-            "type": "dapp_dcent",
-            "device": "ble_dongle",
-            "externalWindow": false
-        },
-        {
             "name": "Astarportal",
             "title": {
                 "en": "Astar Portal",
@@ -326,6 +290,42 @@
             "category": [],
             "iconPath": "icon_swapscanner.png",
             "type": "dapp",
+            "device": "ble_dongle",
+            "externalWindow": false
+        },
+        {
+            "name": "skate",
+            "title": {
+                "en": "Skate AMM",
+                "ko": "Skate AMM",
+                "ja": "Skate AMM",
+                "es": "Skate AMM",
+                "pt-BR": "Skate AMM"
+            },
+            "description": {
+                "en": "Skate AMM provides scalable and consistent asset management through a flexible architecture that spans diverse VM environments. Its stateless application design and EigenLayer-based trust mechanism enable seamless connectivity across complex ecosystems.",
+                "ko": "Skate AMM은 다양한 VM 환경을 아우르는 유연한 아키텍처를 기반으로, 자산 운용의 확장성과 일관성을 제공합니다. Stateless 애플리케이션 구조와 EigenLayer 기반의 신뢰 메커니즘을 통해 복잡한 생태계 간의 연결을 간결하게 구현합니다.",
+                "ja": "Skate AMMは、さまざまなVM環境に対応する柔軟なアーキテクチャに基づき、資産運用における拡張性と一貫性を提供します。Statelessなアプリケーション設計とEigenLayerを基盤とした信頼メカニズムにより、複雑なエコシステム間の接続をシンプルに実現します。",
+                "es": "Skate AMM ofrece una gestión de activos escalable y coherente mediante una arquitectura flexible que abarca múltiples entornos de VM. Su diseño de aplicación sin estado y el mecanismo de confianza basado en EigenLayer permiten una conexión fluida entre ecosistemas complejos.",
+                "pt-BR": "O Skate AMM oferece uma gestão de ativos escalável e consistente por meio de uma arquitetura flexível que abrange diversos ambientes de VM. Seu design de aplicação stateless e o mecanismo de confiança baseado no EigenLayer possibilitam uma conectividade simplificada entre ecossistemas complexos."
+            },
+            "link": "https://amm.skatechain.org/",
+            "kind": [],
+            "network": [
+                {
+                    "id": "skate",
+                    "name": {
+                        "en": "Skate",
+                        "ko": "Skate",
+                        "ja": "Skate",
+                        "es": "Skate",
+                        "pt-BR": "Skate"
+                    }
+                }
+            ],
+            "category": [],
+            "iconPath": "network_skate.png",
+            "type": "dapp_dcent",
             "device": "ble_dongle",
             "externalWindow": false
         },
