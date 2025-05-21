@@ -780,6 +780,19 @@
     }
   },
   {
+    "id": "CZONE:hippo",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/networks/network_hippo.png",
+    "symbol": "HP",
+    "name": "Hippo Protocol",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "id": "PARA:000105",
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/12885.png",
     "symbol": "ASTR",
