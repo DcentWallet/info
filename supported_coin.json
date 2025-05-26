@@ -1053,19 +1053,6 @@
     }
   },
   {
-    "id": "CHAN:888888888",
-    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/networks/network_ancient8.png",
-    "symbol": "ETH",
-    "name": "Ancient8",
-    "support": {
-      "biometric": true,
-      "card": true,
-      "ethCard": false,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
     "id": "ERC20/0xdac17f958d2ee523a2206206994597c13d831ec7",
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
     "symbol": "USDT",
@@ -32878,20 +32865,6 @@
     "name": "DEAPCOIN",
     "type": "ERC20",
     "contract": "0x1a3496c18d558bd9c6c8f609e1b129f67ab08163",
-    "support": {
-      "biometric": true,
-      "card": true,
-      "ethCard": true,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
-    "id": "ERC20/0x3e5a19c91266ad8ce2477b91585d1856b84062df",
-    "symbol": "A8",
-    "name": "Ancient8",
-    "type": "ERC20",
-    "contract": "0x3e5a19c91266ad8ce2477b91585d1856b84062df",
     "support": {
       "biometric": true,
       "card": true,
@@ -67318,51 +67291,6 @@
     "name": "ConutCoin",
     "type": "EDU-ERC20",
     "contract": "0x65cf11f3b60673fca6c4be72ddee1a5fd4ac6e04",
-    "support": {
-      "biometric": true,
-      "card": true,
-      "ethCard": false,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
-    "id": "CH20:888888888/0xd812d616a7c54ee1c8e9c9cd20d72090bd0d424",
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/18734.png",
-    "symbol": "A8",
-    "name": "Ancient8",
-    "type": "ANCIENT8-ERC20",
-    "contract": "0xd812d616a7c54ee1c8e9c9cd20d72090bd0d424",
-    "support": {
-      "biometric": true,
-      "card": true,
-      "ethCard": false,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
-    "id": "CH20:888888888/0x97423a68bae94b5de52d767a17abcc54c157c0e5",
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
-    "symbol": "USDC",
-    "name": "USD Coin",
-    "type": "ANCIENT8-ERC20",
-    "contract": "0x97423a68bae94b5de52d767a17abcc54c157c0e5",
-    "support": {
-      "biometric": true,
-      "card": true,
-      "ethCard": false,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
-    "id": "CH20:888888888/0x4200000000000000000000000000000000000006",
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/2396.png",
-    "symbol": "WETH",
-    "name": "Wrapped Ether",
-    "type": "ANCIENT8-ERC20",
-    "contract": "0x4200000000000000000000000000000000000006",
     "support": {
       "biometric": true,
       "card": true,
