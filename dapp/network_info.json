@@ -490,7 +490,7 @@
                     "name": "map_protocol",
                     "description": "Map Protocol",
                     "coinType": "CHAN:22776",
-                    "chainId": 146,
+                    "chainId": 22776,
                     "iconPath": "network_map.png",
                     "testnet": false,
                     "nativeVersion": {
@@ -575,6 +575,76 @@
                         "Android": "5.16.0",
                         "iOS": "5.16.1"
                     }
+                },
+                {
+                    "networkId": "ancient8",
+                    "name": "ancient8",
+                    "description": "Ancient8",
+                    "coinType": "CHAN:888888888",
+                    "chainId": 888888888,
+                    "iconPath": "network_ancient8.png",
+                    "testnet": false,
+                    "nativeVersion": {
+                        "Android": "5.16.0",
+                        "iOS": "5.16.1"
+                    },
+                    "preRelease": true
+                },
+                {
+                    "networkId": "chiliz",
+                    "name": "chiliz",
+                    "description": "Chiliz",
+                    "coinType": "CHAN:88888",
+                    "chainId": 88888,
+                    "iconPath": "network_chiliz.png",
+                    "testnet": false,
+                    "nativeVersion": {
+                        "Android": "5.16.0",
+                        "iOS": "5.16.1"
+                    },
+                    "preRelease": true
+                },
+                {
+                    "networkId": "taiko",
+                    "name": "taiko",
+                    "description": "Taiko Alethia",
+                    "coinType": "CHAN:167000",
+                    "chainId": 167000,
+                    "iconPath": "network_taiko_alethia.png",
+                    "testnet": false,
+                    "nativeVersion": {
+                        "Android": "5.16.0",
+                        "iOS": "5.16.1"
+                    },
+                    "preRelease": true
+                },
+                {
+                    "networkId": "berachain",
+                    "name": "berachain",
+                    "description": "Berachain",
+                    "coinType": "CHAN:80094",
+                    "chainId": 80094,
+                    "iconPath": "network_berachain.png",
+                    "testnet": false,
+                    "nativeVersion": {
+                        "Android": "5.16.0",
+                        "iOS": "5.16.1"
+                    },
+                    "preRelease": true
+                },
+                {
+                    "networkId": "xrpl-evm-testnet",
+                    "name": "xrpl_evm_testnet",
+                    "description": "XRPL EVM Testnet",
+                    "coinType": "EVMT:1449000",
+                    "chainId": 1449000,
+                    "iconPath": "network_xrpl_evm_testnet.png",
+                    "testnet": true,
+                    "nativeVersion": {
+                        "Android": "5.16.0",
+                        "iOS": "5.16.1"
+                    },
+                    "preRelease": true
                 }
             ]
         },
