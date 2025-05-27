@@ -32874,20 +32874,6 @@
     }
   },
   {
-    "id": "ERC20/0x3e5a19c91266ad8ce2477b91585d1856b84062df",
-    "symbol": "A8",
-    "name": "Ancient8",
-    "type": "ERC20",
-    "contract": "0x3e5a19c91266ad8ce2477b91585d1856b84062df",
-    "support": {
-      "biometric": true,
-      "card": true,
-      "ethCard": true,
-      "klayCard": false,
-      "software": true
-    }
-  },
-  {
     "id": "ERC20/0x03aa6298f1370642642415edc0db8b957783e8d6",
     "symbol": "NMT",
     "name": "NetMind Token",
@@ -35784,6 +35770,66 @@
     "name": "Gold Standard",
     "type": "ERC20",
     "contract": "0x777be1c6075c20184c4fd76344b7b0b7c858fe6b",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "ERC20/0x76887cb94cf29ec539b3219ba62104be04f26a5c",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/35942.png",
+    "symbol": "NITRO",
+    "name": "Nitro",
+    "type": "ERC20",
+    "contract": "0x76887cb94cf29ec539b3219ba62104be04f26a5c",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "ERC20/0x033bbde722ea3cdcec73cffea6581df9f9c257de",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/30074.png",
+    "symbol": "VELAR",
+    "name": "Velar",
+    "type": "ERC20",
+    "contract": "0x033bbde722ea3cdcec73cffea6581df9f9c257de",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "ERC20/0x243c9be13faba09f945ccc565547293337da0ad7",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/33697.png",
+    "symbol": "TRUF",
+    "name": "TRUF.Network",
+    "type": "ERC20",
+    "contract": "0x243c9be13faba09f945ccc565547293337da0ad7",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "ERC20/0x3567aa22cd3ab9aef23d7e18ee0d7cf16974d7e6",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/32836.png",
+    "symbol": "SAI",
+    "name": "Sharpe AI",
+    "type": "ERC20",
+    "contract": "0x3567aa22cd3ab9aef23d7e18ee0d7cf16974d7e6",
     "support": {
       "biometric": true,
       "card": true,
@@ -56383,6 +56429,21 @@
     }
   },
   {
+    "id": "BEP20/0x11a31b833d43853f8869c9eec17f60e3b4d2a753",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/19907.png",
+    "symbol": "BIOFI",
+    "name": "Biometric Financial",
+    "type": "BEP20",
+    "contract": "0x11a31b833d43853f8869c9eec17f60e3b4d2a753",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "id": "CH20:10/0x4200000000000000000000000000000000000042",
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/11840.png",
     "symbol": "OP",
@@ -56803,6 +56864,66 @@
     "name": "Sphynx Labs",
     "type": "CRO-ERC20",
     "contract": "0xa776f5b86cc520861f55a261515264e3bd86e72e",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:25/0x062e66477faf219f25d27dced647bf57c3107d52",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png",
+    "symbol": "WBTC",
+    "name": "Cronos Bridged WBTC (Cronos)",
+    "type": "CRO-ERC20",
+    "contract": "0x062e66477faf219f25d27dced647bf57c3107d52",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:25/0xc21223249ca28397b4b6541dffaecc539bff0c59",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+    "symbol": "USDC",
+    "name": "Cronos Bridged USDC (Cronos)",
+    "type": "CRO-ERC20",
+    "contract": "0xc21223249ca28397b4b6541dffaecc539bff0c59",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:25/0x66e428c3f67a68878562e79a0234c1f83c208770",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+    "symbol": "USDT",
+    "name": "Cronos Bridged USDT (Cronos)",
+    "type": "CRO-ERC20",
+    "contract": "0x66e428c3f67a68878562e79a0234c1f83c208770",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:25/0xe44fd7fcb2b1581822d0c862b68222998a0c299a",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/2396.png",
+    "symbol": "WETH",
+    "name": "Bridged WETH",
+    "type": "CRO-ERC20",
+    "contract": "0xe44fd7fcb2b1581822d0c862b68222998a0c299a",
     "support": {
       "biometric": true,
       "card": true,
@@ -58944,6 +59065,51 @@
     }
   },
   {
+    "id": "CH20:8453/0xb59c8912c83157a955f9d715e556257f432c35d7",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/33697.png",
+    "symbol": "TRUF",
+    "name": "TRUF.Network",
+    "type": "BASE-ERC20",
+    "contract": "0xb59c8912c83157a955f9d715e556257f432c35d7",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:8453/0x6797b6244fa75f2e78cdffc3a4eb169332b730cc",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/31788.png",
+    "symbol": "EAI",
+    "name": "Eagle AI",
+    "type": "BASE-ERC20",
+    "contract": "0x6797b6244fa75f2e78cdffc3a4eb169332b730cc",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:8453/0x9b700b043e9587dde9a0c29a9483e2f8fa450d54",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/29557.png",
+    "symbol": "AXGT",
+    "name": "AxonDAO Governance Token",
+    "type": "BASE-ERC20",
+    "contract": "0x9b700b043e9587dde9a0c29a9483e2f8fa450d54",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "id": "CH20:42161/0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
     "symbol": "USDT",
@@ -59872,6 +60038,36 @@
     "name": "Stargate Finance",
     "type": "ARBITRUM-ERC20",
     "contract": "0x6694340fc020c5e6b96567843da2df01b2ce1eb6",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:42161/0xb59c8912c83157a955f9d715e556257f432c35d7",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/33697.png",
+    "symbol": "TRUF",
+    "name": "TRUF.Network",
+    "type": "ARBITRUM-ERC20",
+    "contract": "0xb59c8912c83157a955f9d715e556257f432c35d7",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:42161/0x0419e8bfbbb2623728c3a6129090da4ff4e48113",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/2394.png",
+    "symbol": "TEL",
+    "name": "Telcoin",
+    "type": "ARBITRUM-ERC20",
+    "contract": "0x0419e8bfbbb2623728c3a6129090da4ff4e48113",
     "support": {
       "biometric": true,
       "card": true,
@@ -62802,6 +62998,21 @@
     }
   },
   {
+    "id": "POLYGON-ERC20/0xc708d6f2153933daa50b2d0758955be0a93a8fec",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/22929.png",
+    "symbol": "VERSE",
+    "name": "Verse",
+    "type": "POLYGON-ERC20",
+    "contract": "0xc708d6f2153933daa50b2d0758955be0a93a8fec",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "id": "HEDERA-HTS/0.0.333611",
     "symbol": "ys",
     "name": "Dcent",
@@ -63077,6 +63288,21 @@
     "name": "WELSH CORGI COIN",
     "type": "Stacks-SIP010",
     "contract": "3.SP3NE50GEXFG9SZGTT51P40X2CKYSZ5CC4ZTZ7A2G.welshcorgicoin-token.welshcorgicoin",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "SIP010/4.SP1Y5YSTAHZ88XYK1VPDH24GY0HPX5J4JECTMY4A1.velar-token.velar",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/30074.png",
+    "symbol": "VELAR",
+    "name": "Velar",
+    "type": "Stacks-SIP010",
+    "contract": "4.SP1Y5YSTAHZ88XYK1VPDH24GY0HPX5J4JECTMY4A1.velar-token.velar",
     "support": {
       "biometric": true,
       "card": false,
