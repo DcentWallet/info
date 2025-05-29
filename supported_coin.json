@@ -1053,6 +1053,58 @@
     }
   },
   {
+    "id": "CHAN:888888888",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/networks/network_ancient8.png",
+    "symbol": "ETH",
+    "name": "Ancient8",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CHAN:88888",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/networks/network_chiliz.png",
+    "symbol": "CHZ",
+    "name": "Chiliz",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CHAN:167000",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/networks/network_taiko_alethia.png",
+    "symbol": "ETH",
+    "name": "Taiko Alethia",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CHAN:80094",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/networks/network_berachain.png",
+    "symbol": "BERA",
+    "name": "Berachain",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "id": "ERC20/0xdac17f958d2ee523a2206206994597c13d831ec7",
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
     "symbol": "USDT",
@@ -32865,6 +32917,20 @@
     "name": "DEAPCOIN",
     "type": "ERC20",
     "contract": "0x1a3496c18d558bd9c6c8f609e1b129f67ab08163",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "ERC20/0x3e5a19c91266ad8ce2477b91585d1856b84062df",
+    "symbol": "A8",
+    "name": "Ancient8",
+    "type": "ERC20",
+    "contract": "0x3e5a19c91266ad8ce2477b91585d1856b84062df",
     "support": {
       "biometric": true,
       "card": true,
@@ -67291,6 +67357,411 @@
     "name": "ConutCoin",
     "type": "EDU-ERC20",
     "contract": "0x65cf11f3b60673fca6c4be72ddee1a5fd4ac6e04",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:888888888/0xd812d616a7c54ee1c8e9c9cd20d72090bd0d424",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/18734.png",
+    "symbol": "A8",
+    "name": "Ancient8",
+    "type": "ANCIENT8-ERC20",
+    "contract": "0xd812d616a7c54ee1c8e9c9cd20d72090bd0d424",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:888888888/0x97423a68bae94b5de52d767a17abcc54c157c0e5",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+    "symbol": "USDC",
+    "name": "USD Coin",
+    "type": "ANCIENT8-ERC20",
+    "contract": "0x97423a68bae94b5de52d767a17abcc54c157c0e5",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:888888888/0x4200000000000000000000000000000000000006",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/2396.png",
+    "symbol": "WETH",
+    "name": "Wrapped Ether",
+    "type": "ANCIENT8-ERC20",
+    "contract": "0x4200000000000000000000000000000000000006",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:88888/0x37c57a89812a0d492aeed7691f1610ca0a8f74a1",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+    "symbol": "USDT",
+    "name": "USDT",
+    "type": "CHILIZ-ERC20",
+    "contract": "0x37c57a89812a0d492aeed7691f1610ca0a8f74a1",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:88888/0xa37936f56249965d407e39347528a1a91eb1cbef",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+    "symbol": "USDC",
+    "name": "USDC",
+    "type": "CHILIZ-ERC20",
+    "contract": "0xa37936f56249965d407e39347528a1a91eb1cbef",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:88888/0xc2661815c69c2b3924d3dd0c2c1358a1e38a3105",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/5226.png",
+    "symbol": "PSG",
+    "name": "Paris Saint-Germain Fan Token",
+    "type": "CHILIZ-ERC20",
+    "contract": "0xc2661815c69c2b3924d3dd0c2c1358a1e38a3105",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:88888/0xfd3c73b3b09d418841dd6aff341b2d6e3aba433b",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/5225.png",
+    "symbol": "BAR",
+    "name": "FC Barcelona Fan Token",
+    "type": "CHILIZ-ERC20",
+    "contract": "0xfd3c73b3b09d418841dd6aff341b2d6e3aba433b",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:88888/0x6dab8fe8e5d425f2eb063aae58540aa04e273e0d",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/5228.png",
+    "symbol": "GAL",
+    "name": "Galatasaray Fan Token",
+    "type": "CHILIZ-ERC20",
+    "contract": "0x6dab8fe8e5d425f2eb063aae58540aa04e273e0d",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:88888/0x19ca0f4adb29e2130a56b9c9422150b5dc07f294",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/5309.png",
+    "symbol": "OG",
+    "name": "OG Fan Token",
+    "type": "CHILIZ-ERC20",
+    "contract": "0x19ca0f4adb29e2130a56b9c9422150b5dc07f294",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:88888/0xa6610b3361c4c0d206aa3364cd985016c2d89386",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/5229.png",
+    "symbol": "ASR",
+    "name": "AS Roma Fan Token",
+    "type": "CHILIZ-ERC20",
+    "contract": "0xa6610b3361c4c0d206aa3364cd985016c2d89386",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:88888/0x454038003a93cf44766af352f74bad6b745616d0",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/5224.png",
+    "symbol": "JUV",
+    "name": "Juventus Fan Token",
+    "type": "CHILIZ-ERC20",
+    "contract": "0x454038003a93cf44766af352f74bad6b745616d0",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:88888/0x6401b29f40a02578ae44241560625232a01b3f79",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/10049.png",
+    "symbol": "CITY",
+    "name": "Manchester City Fan Token",
+    "type": "CHILIZ-ERC20",
+    "contract": "0x6401b29f40a02578ae44241560625232a01b3f79",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:88888/0xc727c9c0f2647cb90b0fca64d8ddb14878716bed",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/11796.png",
+    "symbol": "INTER",
+    "name": "Inter Milan Fan Token",
+    "type": "CHILIZ-ERC20",
+    "contract": "0xc727c9c0f2647cb90b0fca64d8ddb14878716bed",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:88888/0xe9506f70be469d2369803ccf41823713bafe8154",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/5227.png",
+    "symbol": "ATM",
+    "name": "Atletico Madrid Fan Token",
+    "type": "CHILIZ-ERC20",
+    "contract": "0xe9506f70be469d2369803ccf41823713bafe8154",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:88888/0xf9c0f80a6c67b1b39bddf00ecd57f2533ef5b688",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/8538.png",
+    "symbol": "ACM",
+    "name": "AC Milan Fan Token",
+    "type": "CHILIZ-ERC20",
+    "contract": "0xf9c0f80a6c67b1b39bddf00ecd57f2533ef5b688",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:167000/0xa9d23408b9ba935c230493c40c73824df71a0975",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/31525.png",
+    "symbol": "TAIKO",
+    "name": "Taiko",
+    "type": "TAIKO-ERC20",
+    "contract": "0xa9d23408b9ba935c230493c40c73824df71a0975",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:167000/0x9c2dc7377717603eb92b2655c5f2e7997a4945bd",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+    "symbol": "USDT",
+    "name": "USDT",
+    "type": "TAIKO-ERC20",
+    "contract": "0x9c2dc7377717603eb92b2655c5f2e7997a4945bd",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:167000/0x541fd749419ca806a8bc7da8ac23d346f2df8b77",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/33312.png",
+    "symbol": "SolvBTC",
+    "name": "Solv Protocol BTC",
+    "type": "TAIKO-ERC20",
+    "contract": "0x541fd749419ca806a8bc7da8ac23d346f2df8b77",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:167000/0x93919784c523f39cacaa98ee0a9d96c3f32b593e",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/36175.png",
+    "symbol": "uniBTC",
+    "name": "Universal BTC",
+    "type": "TAIKO-ERC20",
+    "contract": "0x93919784c523f39cacaa98ee0a9d96c3f32b593e",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:167000/0xa51894664a773981c6c112c43ce576f315d5b1b6",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/2396.png",
+    "symbol": "WETH",
+    "name": "Wrapped ETH Taiko",
+    "type": "TAIKO-ERC20",
+    "contract": "0xa51894664a773981c6c112c43ce576f315d5b1b6",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:167000/0x07d83526730c7438048d55a4fc0b850e2aab6f0b",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+    "symbol": "USDC",
+    "name": "Taiko Bridged USDC",
+    "type": "TAIKO-ERC20",
+    "contract": "0x07d83526730c7438048d55a4fc0b850e2aab6f0b",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:167000/0xc4c410459fbaf8f7f86b6cee52b4fa1282ff9704",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png",
+    "symbol": "WBTC",
+    "name": "Wrapped BTC",
+    "type": "TAIKO-ERC20",
+    "contract": "0xc4c410459fbaf8f7f86b6cee52b4fa1282ff9704",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:80094/0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png",
+    "symbol": "WBTC",
+    "name": "Wrapped BTC",
+    "type": "BERA-ERC20",
+    "contract": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:80094/0x7dcc39b4d1c53cb31e1abc0e358b43987fef80f7",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-wrapped-eeth-berachain.png",
+    "symbol": "weETH",
+    "name": "Wrapped eETH",
+    "type": "BERA-ERC20",
+    "contract": "0x7dcc39b4d1c53cb31e1abc0e358b43987fef80f7",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:80094/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/29470.png",
+    "symbol": "USDe",
+    "name": "Ethena USDe",
+    "type": "BERA-ERC20",
+    "contract": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:80094/0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/29471.png",
+    "symbol": "sUSDe",
+    "name": "Staked Ethena USDe",
+    "type": "BERA-ERC20",
+    "contract": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:80094/0xecac9c5f704e954931349da37f60e39f515c11c1",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/33652.png",
+    "symbol": "LBTC",
+    "name": "Lombard Staked BTC",
+    "type": "BERA-ERC20",
+    "contract": "0xecac9c5f704e954931349da37f60e39f515c11c1",
     "support": {
       "biometric": true,
       "card": true,

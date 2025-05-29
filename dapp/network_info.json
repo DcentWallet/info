@@ -587,8 +587,7 @@
                     "nativeVersion": {
                         "Android": "5.16.0",
                         "iOS": "5.16.1"
-                    },
-                    "preRelease": true
+                    }
                 },
                 {
                     "networkId": "chiliz",
@@ -601,8 +600,7 @@
                     "nativeVersion": {
                         "Android": "5.16.0",
                         "iOS": "5.16.1"
-                    },
-                    "preRelease": true
+                    }
                 },
                 {
                     "networkId": "taiko",
@@ -615,8 +613,7 @@
                     "nativeVersion": {
                         "Android": "5.16.0",
                         "iOS": "5.16.1"
-                    },
-                    "preRelease": true
+                    }
                 },
                 {
                     "networkId": "berachain",
@@ -629,8 +626,7 @@
                     "nativeVersion": {
                         "Android": "5.16.0",
                         "iOS": "5.16.1"
-                    },
-                    "preRelease": true
+                    }
                 },
                 {
                     "networkId": "xrpl-evm-testnet",
@@ -643,8 +639,7 @@
                     "nativeVersion": {
                         "Android": "5.16.0",
                         "iOS": "5.16.1"
-                    },
-                    "preRelease": true
+                    }
                 }
             ]
         },
