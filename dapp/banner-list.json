@@ -1,8 +1,8 @@
 [
     
        {
-        "name": "drop#1-skate",
-        "title": "drop#1-skate",
+        "name": "drop1-skate",
+        "title": "drop1-skate",
         "bgColor": "#C7FF36",
         "externalWindow": true,
         "locale": {
@@ -29,8 +29,8 @@
         "endTimestamp": 1749469140000
     },
     {
-        "name": "Intract x skate",
-        "title": "Intract x skate",
+        "name": "Intract_skate",
+        "title": "Intract_skate",
         "bgColor": "#000000",
         "externalWindow": true,
         "locale": {
