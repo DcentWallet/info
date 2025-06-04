@@ -294,6 +294,42 @@
             "externalWindow": false
         },
         {
+            "name": "intract",
+            "title": {
+                "en": "Intract Quests",
+                "ko": "Intract Quests",
+                "ja": "Intract Quests",
+                "es": "Intract Quests",
+                "pt-BR": "Intract Quests"
+            },
+            "description": {
+                "en": "Tap That Drop Season Quests are happening now on Intract! Join the Web3 action, conquer quests, and unlock exclusive rewards!",
+                "ko": "Intract 에서는 지금 Tap That Drop 시즌 퀘스트 진행 중! Web3 세계에서 Intract를 통해 퀘스트를 수행하고 다양한 보상을 만나보세요.",
+                "ja": "Intract で「Tap That Drop」シーズンクエスト開催中！Web3の世界でクエストを達成して、限定報酬をゲットしよう！",
+                "es": "¡Ya están disponibles las misiones de la temporada “Tap That Drop” en Intract! Únete a la acción Web3, completa misiones y desbloquea recompensas exclusivas.",
+                "pt-BR": "As missões da temporada “Tap That Drop” já começaram no Intract! Entre em ação no mundo Web3, complete missões e desbloqueie recompensas exclusivas!"
+            },
+            "link": "https://quest.intract.io/",
+            "kind": [],
+            "network": [
+                {
+                    "id": "BASE",
+                    "name": {
+                        "en": "Base",
+                        "ko": "Base",
+                        "ja": "Base",
+                        "es": "Base",
+                        "pt-BR": "Base"
+                    }
+                }
+            ],
+            "category": [],
+            "iconPath": "icon_intract_256.png",
+            "type": "dapp_dcent",
+            "device": "ble_dongle",
+            "externalWindow": false
+        },
+        {
             "name": "skate",
             "title": {
                 "en": "Skate AMM",
@@ -313,13 +349,13 @@
             "kind": [],
             "network": [
                 {
-                    "id": "skate",
+                    "id": "BASE",
                     "name": {
-                        "en": "Skate",
-                        "ko": "Skate",
-                        "ja": "Skate",
-                        "es": "Skate",
-                        "pt-BR": "Skate"
+                        "en": "Base",
+                        "ko": "Base",
+                        "ja": "Base",
+                        "es": "Base",
+                        "pt-BR": "Base"
                     }
                 }
             ],
