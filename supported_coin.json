@@ -35905,6 +35905,66 @@
     }
   },
   {
+    "id": "ERC20/0x230ea9aed5d08afdb22cd3c06c47cf24ad501301",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/33668.png",
+    "symbol": "SPX2.0",
+    "name": "SPX6900 2.0",
+    "type": "ERC20",
+    "contract": "0x230ea9aed5d08afdb22cd3c06c47cf24ad501301",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "ERC20/0xef4461891dfb3ac8572ccf7c794664a8dd927945",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/33152.png",
+    "symbol": "WCT",
+    "name": "WalletConnect Token",
+    "type": "ERC20",
+    "contract": "0xef4461891dfb3ac8572ccf7c794664a8dd927945",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "ERC20/0xdd3b11ef34cd511a2da159034a05fcb94d806686",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/34434.png",
+    "symbol": "REKT",
+    "name": "Rekt",
+    "type": "ERC20",
+    "contract": "0xdd3b11ef34cd511a2da159034a05fcb94d806686",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "ERC20/0x61DBbBb552dc893ab3aAd09F289f811E67cEf285",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/36747.png",
+    "symbol": "SKATE",
+    "name": "Skate",
+    "type": "ERC20",
+    "contract": "0x61DBbBb552dc893ab3aAd09F289f811E67cEf285",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "id": "RRC20/0x2acc95758f8b5f583470ba265eb685a8f45fc9d5",
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/3701.png",
     "symbol": "RIF",
@@ -56510,6 +56570,21 @@
     }
   },
   {
+    "id": "BEP20/0x61DBbBb552dc893ab3aAd09F289f811E67cEf285",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/36747.png",
+    "symbol": "SKATE",
+    "name": "Skate",
+    "type": "BEP20",
+    "contract": "0x61DBbBb552dc893ab3aAd09F289f811E67cEf285",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "id": "CH20:10/0x4200000000000000000000000000000000000042",
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/11840.png",
     "symbol": "OP",
@@ -56752,6 +56827,21 @@
     "name": "Optimism Bridged WBTC (Optimism)",
     "type": "OPTIMISM-ERC20",
     "contract": "0x68f180fcce6836688e9084f035309e29bf0a2095",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:10/0xef4461891dfb3ac8572ccf7c794664a8dd927945",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/33152.png",
+    "symbol": "WCT",
+    "name": "WalletConnect Token",
+    "type": "OPTIMISM-ERC20",
+    "contract": "0xef4461891dfb3ac8572ccf7c794664a8dd927945",
     "support": {
       "biometric": true,
       "card": true,
@@ -59176,6 +59266,21 @@
     }
   },
   {
+    "id": "CH20:8453/0xb3e3c89b8d9c88b1fe96856e382959ee6291ebba",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/34434.png",
+    "symbol": "REKT",
+    "name": "Rekt",
+    "type": "BASE-ERC20",
+    "contract": "0xb3e3c89b8d9c88b1fe96856e382959ee6291ebba",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "id": "CH20:42161/0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
     "symbol": "USDT",
@@ -60134,6 +60239,21 @@
     "name": "Telcoin",
     "type": "ARBITRUM-ERC20",
     "contract": "0x0419e8bfbbb2623728c3a6129090da4ff4e48113",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:42161/0x61DBbBb552dc893ab3aAd09F289f811E67cEf285",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/36747.png",
+    "symbol": "SKATE",
+    "name": "Skate",
+    "type": "ARBITRUM-ERC20",
+    "contract": "0x61DBbBb552dc893ab3aAd09F289f811E67cEf285",
     "support": {
       "biometric": true,
       "card": true,
@@ -66418,6 +66538,51 @@
     "name": "HXRO",
     "type": "SPL-TOKEN",
     "contract": "HxhWkVpk5NS4Ltg5nij2G671CKXFRKPK8vy271Ub4uEK",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "SPL-TOKEN/GPrg1CgbBvAJS2SCuf9gF7NmQYsWudfyfWy5SUzypump",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/35545.png",
+    "symbol": "EDWIN",
+    "name": "Edwin",
+    "type": "SPL-TOKEN",
+    "contract": "GPrg1CgbBvAJS2SCuf9gF7NmQYsWudfyfWy5SUzypump",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "SPL-TOKEN/WCTk5xWdn5SYg56twGj32sUF3W4WFQ48ogezLBuYTBY",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/33152.png",
+    "symbol": "WCT",
+    "name": "WalletConnect Token",
+    "type": "SPL-TOKEN",
+    "contract": "WCTk5xWdn5SYg56twGj32sUF3W4WFQ48ogezLBuYTBY",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "SPL-TOKEN/9v6BKHg8WWKBPTGqLFQz87RxyaHHDygx8SnZEbBFmns2",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/36747.png",
+    "symbol": "SKATE",
+    "name": "Skate",
+    "type": "SPL-TOKEN",
+    "contract": "9v6BKHg8WWKBPTGqLFQz87RxyaHHDygx8SnZEbBFmns2",
     "support": {
       "biometric": true,
       "card": false,
