@@ -35950,12 +35950,12 @@
     }
   },
   {
-    "id": "ERC20/0x61DBbBb552dc893ab3aAd09F289f811E67cEf285",
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/36747.png",
+    "id": "ERC20/0x61dbbbb552dc893ab3aad09f289f811e67cef285",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/networks/network_skate.png",
     "symbol": "SKATE",
     "name": "Skate",
     "type": "ERC20",
-    "contract": "0x61DBbBb552dc893ab3aAd09F289f811E67cEf285",
+    "contract": "0x61dbbbb552dc893ab3aad09f289f811e67cef285",
     "support": {
       "biometric": true,
       "card": true,
@@ -56570,12 +56570,12 @@
     }
   },
   {
-    "id": "BEP20/0x61DBbBb552dc893ab3aAd09F289f811E67cEf285",
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/36747.png",
+    "id": "BEP20/0x61dbbbb552dc893ab3aad09f289f811e67cef285",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/networks/network_skate.png",
     "symbol": "SKATE",
     "name": "Skate",
     "type": "BEP20",
-    "contract": "0x61DBbBb552dc893ab3aAd09F289f811E67cEf285",
+    "contract": "0x61dbbbb552dc893ab3aad09f289f811e67cef285",
     "support": {
       "biometric": true,
       "card": true,
@@ -60248,12 +60248,12 @@
     }
   },
   {
-    "id": "CH20:42161/0x61DBbBb552dc893ab3aAd09F289f811E67cEf285",
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/36747.png",
+    "id": "CH20:42161/0x61dbbbb552dc893ab3aad09f289f811e67cef285",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/networks/network_skate.png",
     "symbol": "SKATE",
     "name": "Skate",
     "type": "ARBITRUM-ERC20",
-    "contract": "0x61DBbBb552dc893ab3aAd09F289f811E67cEf285",
+    "contract": "0x61dbbbb552dc893ab3aad09f289f811e67cef285",
     "support": {
       "biometric": true,
       "card": true,
@@ -66578,7 +66578,7 @@
   },
   {
     "id": "SPL-TOKEN/9v6BKHg8WWKBPTGqLFQz87RxyaHHDygx8SnZEbBFmns2",
-    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/36747.png",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/networks/network_skate.png",
     "symbol": "SKATE",
     "name": "Skate",
     "type": "SPL-TOKEN",
