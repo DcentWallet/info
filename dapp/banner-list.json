@@ -37,8 +37,8 @@
                 "imagePath_480": "app_mapo_480x160_en.png"
             }
         },
-        "startTimestamp": 1749733200000,
-        "endTimestamp": 1750863540000
+        "startTimestamp": 1749704400000,
+        "endTimestamp": 1750834740000
     },
     {
         "name": "Intract_mapo",
@@ -77,8 +77,8 @@
                 "imagePath_480": "app_mapo_intract_480x160_en.png"
             }
         },
-        "startTimestamp": 1749733200000,
-        "endTimestamp": 1750863540000
+        "startTimestamp": 1749704400000,
+        "endTimestamp": 1750834740000
     },
     {
         "name": "dcent blog",
