@@ -1,84 +1,84 @@
 [
     
        {
-        "name": "drop1-skate",
-        "title": "drop1-skate",
-        "bgColor": "#C7FF36",
+        "name": "drop1-mapo",
+        "title": "drop1-mapo",
+        "bgColor": "#8EA7E7",
         "externalWindow": true,
         "locale": {
             "en": {
                 "description": "",
-                "link": "https://link.dcentwallet.com/MyWallet/event/quest/skate",
-                "imagePath": "app_skate_380x160_en.png",
-                "imagePath_480": "app_skate_480x160_en.png"
+                "link": "https://link.dcentwallet.com/MyWallet/event/quest/map-protocol",
+                "imagePath": "app_mapo_380x160_en.png",
+                "imagePath_480": "app_mapo_480x160_en.png"
             },
             "ko": {
                 "description": "",
-                "link": "https://link.dcentwallet.com/MyWallet/event/quest/skate",
-                "imagePath": "app_skate_380x160_kr.png",
-                "imagePath_480": "app_skate_480x160_kr.png"
+                "link": "https://link.dcentwallet.com/MyWallet/event/quest/map-protocol",
+                "imagePath": "app_mapo_380x160_kr.png",
+                "imagePath_480": "app_mapo_480x160_kr.png"
             },
             "ja": {
                 "description": "",
-                "link": "https://link.dcentwallet.com/MyWallet/event/quest/skate",
-                "imagePath": "app_skate_380x160_jp.png",
-                "imagePath_480": "app_skate_480x160_jp.png"
+                "link": "https://link.dcentwallet.com/MyWallet/event/quest/map-protocol",
+                "imagePath": "app_mapo_380x160_en.png",
+                "imagePath_480": "app_mapo_480x160_en.png"
             },
             "es": {
                 "description": "",
-                "link": "https://link.dcentwallet.com/MyWallet/event/quest/skate",
-                "imagePath": "app_skate_380x160_en.png",
-                "imagePath_480": "app_skate_480x160_en.png"
+                "link": "https://link.dcentwallet.com/MyWallet/event/quest/map-protocol",
+                "imagePath": "app_mapo_380x160_en.png",
+                "imagePath_480": "app_mapo_480x160_en.png"
             },
             "pt-BR": {
                 "description": "",
-                "link": "https://link.dcentwallet.com/MyWallet/event/quest/skate",
-                "imagePath": "app_skate_380x160_en.png",
-                "imagePath_480": "app_skate_480x160_en.png"
+                "link": "https://link.dcentwallet.com/MyWallet/event/quest/map-protocol",
+                "imagePath": "app_mapo_380x160_en.png",
+                "imagePath_480": "app_mapo_480x160_en.png"
             }
         },
-        "startTimestamp": 1748390400000,
-        "endTimestamp": 1749469140000
+        "startTimestamp": 1749733200000,
+        "endTimestamp": 1750863540000
     },
     {
-        "name": "Intract_skate",
-        "title": "Intract_skate",
+        "name": "Intract_mapo",
+        "title": "Intract_mapo",
         "bgColor": "#000000",
         "externalWindow": true,
         "locale": {
             "en": {
                 "description": "",
-                "link": "https://quest.intract.io/quest/683035973a84c51accdba42e",
-                "imagePath": "app_intract_380x160_en.png",
-                "imagePath_480": "app_intract_480x160_en.png"
+                "link": "https://quest.intract.io/quest/684060b58f065a1a465e46fe",
+                "imagePath": "app_mapo_intract_380x160_en.png",
+                "imagePath_480": "app_mapo_intract_480x160_en.png"
             },
             "ko": {
                 "description": "",
-                "link": "https://quest.intract.io/quest/683035973a84c51accdba42e",
-                "imagePath": "app_intract_380x160_kr.png",
-                "imagePath_480": "app_intract_480x160_kr.png"
+                "link": "https://quest.intract.io/quest/684060b58f065a1a465e46fe",
+                "imagePath": "app_mapo_intract_380x160_kr.png",
+                "imagePath_480": "app_mapo_intract_480x160_kr.png"
             },
             "ja": {
                 "description": "",
-                "link": "https://quest.intract.io/quest/683035973a84c51accdba42e",
-                "imagePath": "app_intract_380x160_en.png",
-                "imagePath_480": "app_intract_480x160_en.png"
+                "link": "https://quest.intract.io/quest/684060b58f065a1a465e46fe",
+                "imagePath": "app_mapo_intract_380x160_en.png",
+                "imagePath_480": "app_mapo_intract_480x160_en.png"
             },
             "es": {
                 "description": "",
-                "link": "https://quest.intract.io/quest/683035973a84c51accdba42e",
-                "imagePath": "app_intract_380x160_en.png",
-                "imagePath_480": "app_intract_480x160_en.png"
+                "link": "https://quest.intract.io/quest/684060b58f065a1a465e46fe",
+                "imagePath": "app_mapo_intract_380x160_en.png",
+                "imagePath_480": "app_mapo_intract_480x160_en.png"
             },
             "pt-BR": {
                 "description": "",
-                "link": "https://quest.intract.io/quest/683035973a84c51accdba42e",
-                "imagePath": "app_intract_380x160_en.png",
-                "imagePath_480": "app_intract_480x160_en.png"
+                "link": "https://quest.intract.io/quest/684060b58f065a1a465e46fe",
+                "imagePath": "app_mapo_intract_380x160_en.png",
+                "imagePath_480": "app_mapo_intract_480x160_en.png"
             }
         },
-        "startTimestamp": 1748390400000,
-        "endTimestamp": 1749469140000
+        "startTimestamp": 1749733200000,
+        "endTimestamp": 1750863540000
     },
     {
         "name": "dcent blog",
