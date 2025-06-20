@@ -659,7 +659,7 @@
                     "networkId": "basecamp-testnet",
                     "name": "basecamp_testnet",
                     "description": "Basecamp Testnet",
-                    "coinType": "EVMT:123420001114",
+                    "coinType": "EVMT:X-CAMPT",
                     "chainId": 123420001114,
                     "iconPath": "network_basecamp.png",
                     "testnet": true,
