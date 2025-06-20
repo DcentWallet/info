@@ -644,7 +644,7 @@
                 {
                     "networkId": "story-network",
                     "name": "story_network",
-                    "description": "Story Network`",
+                    "description": "Story Network",
                     "coinType": "CHAN:1514",
                     "chainId": 1514,
                     "iconPath": "network_story_network.png",
