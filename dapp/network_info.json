@@ -640,6 +640,34 @@
                         "Android": "5.16.0",
                         "iOS": "5.16.1"
                     }
+                },
+                {
+                    "networkId": "story-network",
+                    "name": "story_network",
+                    "description": "Story Network`",
+                    "coinType": "CHAN:1514",
+                    "chainId": 1514,
+                    "iconPath": "network_story_network.png",
+                    "testnet": false,
+                    "nativeVersion": {
+                        "Android": "5.16.0",
+                        "iOS": "5.16.1"
+                    },
+                    "preRelease": true
+                },
+                {
+                    "networkId": "basecamp-testnet",
+                    "name": "basecamp_testnet",
+                    "description": "Basecamp Testnet",
+                    "coinType": "EVMT:123420001114",
+                    "chainId": 123420001114,
+                    "iconPath": "network_basecamp.png",
+                    "testnet": true,
+                    "nativeVersion": {
+                        "Android": "5.16.0",
+                        "iOS": "5.16.1"
+                    },
+                    "preRelease": true
                 }
             ]
         },
