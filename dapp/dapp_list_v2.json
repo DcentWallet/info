@@ -180,44 +180,6 @@
             "externalWindow": false
         },
         {
-            "name": "sparklesnft",
-            "title": {
-                "en": "Sparkles NFT",
-                "ko": "Sparkles NFT",
-                "ja": "Sparkles NFT",
-                "es": "Sparkles NFT",
-                "pt-BR": "Sparkles NFT"
-            },
-            "description": {
-                "en": "Sparkles is the leading NFT marketplace on Flare & Songbird. Community driven marketplace empowering the big things in web3. Discover the top new NFT Artists and collections today.",
-                "ko": "Sparkles는 Flare 및 Songbird의 선도적인 NFT 마켓플레이스이며 커뮤니티와 함께 web3의 큰 변화를 주도하고 있습니다. 오늘 최고의 NFT 아티스트와 컬렉션을 만나보세요.",
-                "ja": "Sparklesは、FlareおよびSongbirdの先駆的存在と云えるNFT系のマーケットプレイスであり、コミュニティと共にWeb3の大きな変化をリードしています。最高のNFTアーティストとコレクションとの出会いがある素晴らしい世界がここにあります。",
-                "es": "Sparkles es el líder en el mercado de NFT en Flare y Songbird. Mercado comunitario impulsado por la web3. Descubre los mejores artistas NFT y colecciones hoy.",
-                "pt-BR": "Sparkles é o líder no mercado de NFTs em Flare e Songbird. Mercado comunitário impulsionado pela web3. Descubra os melhores artistas NFT e coleções hoje."
-            },
-            "link": "https://sparklesnft.com/",
-            "kind": [
-                "songbird"
-            ],
-            "network": [
-                {
-                    "id": "songbird-mainnet",
-                    "name":  {
-                        "en": "Songbird",
-                        "ko": "송버드",
-                        "ja": "Songbird",
-                        "es": "Songbird",
-                        "pt-BR": "Songbird"
-                    }
-                }
-            ],
-            "category": [],
-            "iconPath": "icon-sparkles.png",
-            "type": "dapp",
-            "device": "ble_dongle",
-            "externalWindow": false
-        },
-        {
             "name": "KLAYswap",
             "title": {
                 "en": "KLAYswap",
@@ -551,82 +513,6 @@
             ],
             "category": [],
             "iconPath": "icon_cBridge.png",
-            "type": "dapp",
-            "device": "ble_dongle",
-            "externalWindow": false
-        },
-        {
-            "name": "klayfi",
-            "title": {
-                "en": "KlayFi",
-                "ko": "KlayFi",
-                "ja": "KlayFi",
-                "es": "KlayFi",
-                "pt-BR": "KlayFi"
-            },
-            "description": {
-                "en": "KlayFi is the most advanced Yield Optimizer protocol in the Klaytn network. It provides an optimal auto-compounding feature and maximizes assets for KLAYswap users.",
-                "ko": "KlayFi는 클레이튼 기반의 이자 수확 최적화(Yield Optimizer) 프로토콜입니다. KLAYswap 이용자에게 최적화된 자동 재예치 기능을 제공하여 투자 편의성을 높이고, 동시에 투자 자산 수익 극대화를 제공합니다.",
-                "ja": "KlayFiは、Klaytn向けの利回り最適化(Yield Optimizer)をプロトコルとしています。KLAYswapのユーザーに最適な自動再預入機能を提供し、投資の便宜性を高めて投資暗号資産の利益を最大化させるためのサービスを提供しています。",
-                "es": "KlayFi es el protocolo de optimización de rendimientos (Yield Optimizer) más avanzado en la red de Klaytn. Ofrece una función de auto-compounding optimizada y maximiza los activos para los usuarios de KLAYswap.",
-                "pt-BR": "KlayFi é o protocolo de otimização de rendimentos (Yield Optimizer) mais avançado na rede de Klaytn. Oferece uma função de auto-compounding otimizada e maximiza os ativos para os usuários do KLAYswap."
-            },
-            "link": "https://klayfi.finance/",
-            "kind": [
-                "klay"
-            ],
-            "network": [
-                {
-                    "id": "klaytn-mainnet",
-                    "name":{
-                        "en": "Klaytn",
-                        "ko": "클레이튼",
-                        "ja": "Klaytn",
-                        "es": "Klaytn",
-                        "pt-BR": "Klaytn"
-                    }
-                }
-            ],
-            "category": [],
-            "iconPath": "icon_klayfi.png",
-            "type": "dapp",
-            "device": "ble_dongle",
-            "externalWindow": false
-        },
-        {
-            "name": "KLAYSTATION",
-            "title": {
-                "en": "KLAYSTATION",
-                "ko": "KLAYSTATION",
-                "ja": "KLAYSTATION",
-                "es": "KLAYSTATION",
-                "pt-BR": "KLAYSTATION"
-            },
-            "description": {
-                "en": "The Official Staking Tool based on Klaytn Network.",
-                "ko": "클레이스테이션은 클레이튼 네트워크 기반 공식 스테이킹 툴입니다.",
-                "ja": "KLAYSTATIONは、Klaytnネットワーク向けの公式ステーキングツールです。",
-                "es": "KLAYSTATION es la herramienta destaking oficial basada en la red de Klaytn.",
-                "pt-BR": "KLAYSTATION é a ferramenta de staking oficial baseada na rede de Klaytn."
-            },
-            "link": "https://klaystation.io/dashboard",
-            "kind": [
-                "klay"
-            ],
-            "network": [
-                {
-                    "id": "klaytn-mainnet",
-                    "name":{
-                        "en": "Klaytn",
-                        "ko": "클레이튼",
-                        "ja": "Klaytn",
-                        "es": "Klaytn",
-                        "pt-BR": "Klaytn"
-                    }
-                }
-            ],
-            "category": [],
-            "iconPath": "icon_klaystation.png",
             "type": "dapp",
             "device": "ble_dongle",
             "externalWindow": false
@@ -1012,22 +898,22 @@
             "externalWindow": false
         },
         {
-            "name": "KLAYportal",
+            "name": "KaiaPotter",
             "title": {
-                "en": "KLAYportal",
-                "ko": "KLAYportal",
-                "ja": "KLAYportal",
-                "es": "KLAYportal",
-                "pt-BR": "KLAYportal"
+                "en": "KaiaPotter",
+                "ko": "KaiaPotter",
+                "ja": "KaiaPotter",
+                "es": "KaiaPotter",
+                "pt-BR": "KaiaPotter"
             },
             "description": {
-                "en": "KLAYportal was designed and developed by HashQuark as a lightweight tool to help KLAY holders participate in Klaytn staking in a simple, secure way.",
-                "ko": "클레이포탈은 해시쿼크에서 개발한 간단하고 안전한 방식으로 클레이(KLAY)를 스테이킹할 수 있는 클레이튼 스테이킹 툴입니다.",
-                "ja": "Klayportalは、HashQuarkで開発した簡単かつ安全な方法でクレイ(KLAY)をステーキングできるKlaytnステーキングツールです。",
-                "es": "KLAYportal es una herramienta de staking de Klaytn desarrollada por HashQuark para ayudar a los titulares de KLAY a participar en el staking de Klaytn de manera simple y segura.",
-                "pt-BR": "KLAYportal é uma ferramenta de staking de Klaytn desenvolvida pela HashQuark para ajudar os titulares de KLAY a participar do staking de Klaytn de forma simples e segura."
+                "en": "KaiaPotter was designed and developed by HashQuark as a lightweight tool to help KAIA holders participate in Kaia staking in a simple, secure way.",
+                "ko": "카이아포터는 해시쿼크에서 개발한 간단하고 안전한 방식으로 클레이(KLAY)를 스테이킹할 수 있는 카이아 스테이킹 툴입니다.",
+                "ja": "KaiaPotterは、HashQuarkで開発した簡単かつ安全な方法でクレイ(KLAY)をステーキングできるKlaytnステーキングツールです。",
+                "es": "KaiaPotter es una herramienta de staking de Kaia desarrollada por HashQuark para ayudar a los titulares de Kaia a participar en el staking de Klaytn de manera simple y segura.",
+                "pt-BR": "KaiaPotter é uma ferramenta de staking de Kaia desenvolvida pela HashQuark para ajudar os titulares de Kaia a participar do staking de Klaytn de forma simples e segura."
             },
-            "link": "https://klayportal.hashquark.io/#/?inApp=true",
+            "link": "https://kaiapotter.hashkey.cloud/#/?inApp=true",
             "kind": [
                 "klay"
             ],
@@ -1035,11 +921,11 @@
                 {
                     "id": "klaytn-mainnet",
                     "name": {
-                        "en": "Klaytn",
-                        "ko": "클레이튼",
-                        "ja": "Klaytn",
-                        "es": "Klaytn",
-                        "pt-BR": "Klaytn"
+                        "en": "Kaia",
+                        "ko": "카이아",
+                        "ja": "Kaia",
+                        "es": "Kaia",
+                        "pt-BR": "Kaia"
                     }
                 }
             ],
