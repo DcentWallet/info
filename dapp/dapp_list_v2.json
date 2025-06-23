@@ -292,22 +292,22 @@
             "externalWindow": false
         },
         {
-            "name": "skate",
+            "name": "skate_staking",
             "title": {
-                "en": "Skate AMM",
-                "ko": "Skate AMM",
-                "ja": "Skate AMM",
-                "es": "Skate AMM",
-                "pt-BR": "Skate AMM"
+                "en": "SKATE Staking",
+                "ko": "SKATE Staking",
+                "ja": "SKATE Staking",
+                "es": "SKATE Staking",
+                "pt-BR": "SKATE Staking"
             },
             "description": {
-                "en": "Skate AMM provides scalable and consistent asset management through a flexible architecture that spans diverse VM environments. Its stateless application design and EigenLayer-based trust mechanism enable seamless connectivity across complex ecosystems.",
-                "ko": "Skate AMM은 다양한 VM 환경을 아우르는 유연한 아키텍처를 기반으로, 자산 운용의 확장성과 일관성을 제공합니다. Stateless 애플리케이션 구조와 EigenLayer 기반의 신뢰 메커니즘을 통해 복잡한 생태계 간의 연결을 간결하게 구현합니다.",
-                "ja": "Skate AMMは、さまざまなVM環境に対応する柔軟なアーキテクチャに基づき、資産運用における拡張性と一貫性を提供します。Statelessなアプリケーション設計とEigenLayerを基盤とした信頼メカニズムにより、複雑なエコシステム間の接続をシンプルに実現します。",
-                "es": "Skate AMM ofrece una gestión de activos escalable y coherente mediante una arquitectura flexible que abarca múltiples entornos de VM. Su diseño de aplicación sin estado y el mecanismo de confianza basado en EigenLayer permiten una conexión fluida entre ecosistemas complejos.",
-                "pt-BR": "O Skate AMM oferece uma gestão de ativos escalável e consistente por meio de uma arquitetura flexível que abrange diversos ambientes de VM. Seu design de aplicação stateless e o mecanismo de confiança baseado no EigenLayer possibilitam uma conectividade simplificada entre ecossistemas complexos."
+                "en": "SKATE Staking is a multichain-native staking mechanism that enables $SKATE holders to earn EigenLayer rewards, protocol fees, inflationary incentives, and early participation bonuses.",
+                "ko": "SKATE Staking은 멀티체인 네이티브 스테이킹 메커니즘으로, $SKATE 보유자가 EigenLayer 보상, 프로토콜 수수료, 인플레이션 인센티브, 그리고 초기 참여 보너스를 받을 수 있도록 합니다.",
+                "ja": "SKATE Stakingはマルチチェーンネイティブのステーキングメカニズムであり、$SKATEの保有者がEigenLayerの報酬、プロトコル手数料、インフレーションインセンティブ、および早期参加ボーナスを獲得できるようにします。",
+                "es": "SKATE Staking es un mecanismo de staking nativo multichain que permite a los poseedores de $SKATE ganar recompensas de EigenLayer, comisiones del protocolo, incentivos inflacionarios y bonificaciones por participación temprana.",
+                "pt-BR": "SKATE Staking é um mecanismo de staking nativo multichain que permite aos detentores de $SKATE ganhar recompensas do EigenLayer, taxas do protocolo, incentivos inflacionários e bônus por participação antecipada."
             },
-            "link": "https://amm.skatechain.org/",
+            "link": "https://amm.skatechain.org/stake",
             "kind": [],
             "network": [
                 {
@@ -324,82 +324,6 @@
             "category": [],
             "iconPath": "network_skate.png",
             "type": "dapp_dcent",
-            "device": "ble_dongle",
-            "externalWindow": false
-        },
-        {
-            "name": "belt.fi",
-            "title": {
-                "en": "Belt.fi",
-                "ko": "Belt.fi",
-                "ja": "Belt.fi",
-                "es": "Belt.fi",
-                "pt-BR": "Belt.fi"
-            },
-            "description": {
-                "en": "Belt.fi is an AMM protocol with multi-strategy yield optimization on BSC that also provides aggregation through auto-compounding and yield generation for maximum returns.",
-                "ko": "Belt.fi는 바이낸스 스마트 체인에서 동작하는 AMM 기반 다중 전략 수익 최적화 프로토콜로써, 자동화 복리 및 수익 창출 집계를 통해 최대의 수익을 제공합니다.",
-                "ja": "Belt.fiは、Binance Smart Chainで動作する、AMMを使用したマルチ戦略による利益の最適化をプロトコルとしいます。複利および利益創出の自動集計を通じて最大の利益をもたらします。",
-                "es": "Belt.fi es un protocolo de optimización de rendimientos con estrategias multi-strategy en BSC que también proporciona agregación a través de la composición automática y la generación de rendimientos para maximizar las ganancias.",
-                "pt-BR": "Belt.fi é um protocolo de otimização de rendimentos com estratégias multi-strategy no BSC que também oferece agregação através de composição automática e geração de rendimentos para maximizar os rendimentos."
-            },
-            "link": "https://belt.fi/",
-            "kind": [
-                "bsc"
-            ],
-            "network": [
-                {
-                    "id": "bsc-mainnet",
-                    "name": {
-                        "en": "Binance Smart Chain",
-                        "ko": "바이낸스 스마트체인",
-                        "ja": "Binance Smart Chain",
-                        "es": "Binance Smart Chain",
-                        "pt-BR": "Binance Smart Chain"
-                    }
-                }
-            ],
-            "category": [],
-            "iconPath": "icon_belt_fi.png",
-            "type": "dapp",
-            "device": "ble_dongle",
-            "externalWindow": false
-        },
-        {
-            "name": "definix",
-            "title": {
-                "en": "Definix",
-                "ko": "Definix",
-                "ja": "Definix",
-                "es": "Definix",
-                "pt-BR": "Definix"
-            },
-            "description": {
-                "en": "The Decentralized Multi-chain Fund Management Protocol. Definix is the transparent crypto investment platform on DeFi that helps crypto investors to invest confidently and allows professional traders to earn more from their investing skill by creating and managing their own funds.",
-                "ko": "멀티체인 기반 탈중앙 자산 관리 프로토콜. 디피닉스는 암호화폐 투자자가 디파이에 투자할 수 있도록 투명성를 제공하는 암호화폐 투자 플랫폼입니다. 투자자들은 자신만의 펀드를 구성하고 투자 기술을 이용하여 더 많은 수익을 올릴 수 있습니다.",
-                "ja": "マルチチェーン向けの暗号資産管理用プロトコルです。Definixは、暗号資産を投資する者がDeFiに投資できるよう透明性を提供する暗号資産投資プラットフォームです。投資者は自分だけのファンドを構成し、投資技術を使って更に多くの利益を生み出すことができます。",
-                "es": "Protocolo de gestión de fondos de criptomonedas multi-cadena. Definix es la plataforma de inversión en criptomonedas transparente en DeFi que permite a los inversores de criptomonedas invertir con confianza y permite a los profesionales del trading obtener más beneficios de su habilidad de inversión creando y gestionando sus propios fondos.",
-                "pt-BR": "Protocolo de gerenciamento de fundos de criptomoedas multi-cadeira. Definix é a plataforma de investimento em criptomoedas transparente no DeFi que permite que os investidores em criptomoedas invistam com confiança e permita que os traders profissionais obtenham mais benefícios de suas habilidades de investimento criando e gerenciando seus próprios fundos."
-            },
-            "link": "https://definix.com/",
-            "kind": [
-                "bsc"
-            ],
-            "network": [
-                {
-                    "id": "bsc-mainnet",
-                    "name": {
-                        "en": "Binance Smart Chain",
-                        "ko": "바이낸스 스마트체인",
-                        "ja": "Binance Smart Chain",
-                        "es": "Binance Smart Chain",
-                        "pt-BR": "Binance Smart Chain"
-                    }
-                }
-            ],
-            "category": [],
-            "iconPath": "icon_definix.png",
-            "type": "dapp",
             "device": "ble_dongle",
             "externalWindow": false
         },
@@ -594,44 +518,6 @@
             "externalWindow": false
         },
         {
-            "name": "neverlose.money",
-            "title": {
-                "en": "Neverlose.money",
-                "ko": "Neverlose.money",
-                "ja": "Neverlose.money",
-                "es": "Neverlose.money",
-                "pt-BR": "Neverlose.money"
-            },
-            "description": {
-                "en": "Neverlose.money is the first-ever gamified DeFi protocol that pays a bonus to long-term investors, known as HODLers, using the penalty charge paid by users who fail to HODL.",
-                "ko": "네버루즈머니는 이더리움 기반의 게미피케이션을 적용한 암호화폐 장기 투자 촉진 프로토콜 입니다. 사용자가 스스로 목표 기간을 설정해서 코인을 락업 (Lock-up)하고, 기간을 못 지키고 출금하면 10%의 패널티가 부과되고 이를 풀에 참여하고 있는 다른 사용자들에게 보너스로 지급함으로써 장기 투자를 유도합니다.",
-                "ja": "Neverlose.moneyは、ゲーミフィケーションを導入し、Ethereum向けの暗号資産の長期投資促進をプロトコルとしています。ユーザーが自ら目標期間を設定してコインをロックアップ(Lock-up)し、期間満了せずに出金すると10%のペナルティが課せられ、これをプールに参加している他のユーザーにボーナスとして支給することで長期投資へと誘導します。",
-                "es": "Neverlose.money es el primer protocolo DeFi gamificado que paga un bono a los inversores a largo plazo, conocidos como HODLers, utilizando la carga por impago pagada por los usuarios que no logran HODL.",
-                "pt-BR": "Neverlose.money é o primeiro protocolo DeFi gamificado que paga um bônus aos investidores de longo prazo, conhecidos como HODLers, usando a carga por impago paga pelos usuários que não conseguem HODL."
-            },
-            "link": "https://neverlose.money/",
-            "kind": [
-                "eth"
-            ],
-            "network": [
-                {
-                    "id": "ethereum-mainnet",
-                    "name": {
-                        "en": "Ethereum",
-                        "ko": "이더리움",
-                        "ja": "Ethereum",
-                        "es": "Ethereum",
-                        "pt-BR": "Ethereum"
-                    }
-                }
-            ],
-            "category": [],
-            "iconPath": "icon_neverlose.png",
-            "type": "dapp",
-            "device": "ble_dongle",
-            "externalWindow": false
-        },
-        {
             "name": "compound.finance",
             "title": {
                 "en": "Compound",
@@ -784,20 +670,20 @@
             "externalWindow": false
         },
         {
-            "name": "1inch.exchange",
+            "name": "1inch",
             "title": {
-                "en": "1inch.exchange",
-                "ko": "1inch.exchange",
-                "ja": "1inch.exchange",
-                "es": "1inch.exchange",
-                "pt-BR": "1inch.exchange"
+                "en": "1inch",
+                "ko": "1inch",
+                "ja": "1inch",
+                "es": "1inch",
+                "pt-BR": "1inch"
             },
             "description": {
-                "en": "1inch Exchange is a decentralized exchange (DEX) aggregator. It's designed to roll liquidity and pricing from all major DEXes into one platform, making it easy to get the best price for the desired trade.",
-                "ko": "1inch Exchange는 모든 주요 DEX 거래소의 유동성과 가격 정보를 하나의 플랫폼에서 제공합니다. 원하는 거래의 가격을 쉽게 조회하여 토큰을 교환할 수 있습니다.",
-                "ja": "1inch Exchangeは、主要DEX(分散型取引所)の流動性と価格情報をひとつのプラットフォームで提供しています。ご希望の取引価格を簡単に照会でき、トークンをスワップも行なえます。",
-                "es": "1inch Exchange es un agregador de intercambios descentralizados (DEX) que reúne liquidez y precios de todos los principales DEXes en una sola plataforma, facilitando obtener el mejor precio para la operación deseada.",
-                "pt-BR": "1inch Exchange é um agregador de exchanges descentralizados (DEX) que reúne liquidez e preços de todos os principais DEXes em uma única plataforma, facilitando obter o melhor preço para a operação desejada."
+                "en": "1inch is a decentralized exchange (DEX) aggregator. It's designed to roll liquidity and pricing from all major DEXes into one platform, making it easy to get the best price for the desired trade.",
+                "ko": "1inch는 모든 주요 DEX 거래소의 유동성과 가격 정보를 하나의 플랫폼에서 제공합니다. 원하는 거래의 가격을 쉽게 조회하여 토큰을 교환할 수 있습니다.",
+                "ja": "1inchは、主要DEX(分散型取引所)の流動性と価格情報をひとつのプラットフォームで提供しています。ご希望の取引価格を簡単に照会でき、トークンをスワップも行なえます。",
+                "es": "1inch es un agregador de intercambios descentralizados (DEX) que reúne liquidez y precios de todos los principales DEXes en una sola plataforma, facilitando obtener el mejor precio para la operación deseada.",
+                "pt-BR": "1inch é um agregador de exchanges descentralizados (DEX) que reúne liquidez e preços de todos os principais DEXes em uma única plataforma, facilitando obter o melhor preço para a operação desejada."
             },
             "link": "https://app.1inch.io/",
             "kind": [
@@ -908,8 +794,8 @@
             },
             "description": {
                 "en": "KaiaPotter was designed and developed by HashQuark as a lightweight tool to help KAIA holders participate in Kaia staking in a simple, secure way.",
-                "ko": "카이아포터는 해시쿼크에서 개발한 간단하고 안전한 방식으로 클레이(KLAY)를 스테이킹할 수 있는 카이아 스테이킹 툴입니다.",
-                "ja": "KaiaPotterは、HashQuarkで開発した簡単かつ安全な方法でクレイ(KLAY)をステーキングできるKlaytnステーキングツールです。",
+                "ko": "카이아포터는 해시쿼크에서 개발한 간단하고 안전한 방식으로 클레이(KAIA)를 스테이킹할 수 있는 카이아 스테이킹 툴입니다.",
+                "ja": "KaiaPotterは、HashQuarkで開発した簡単かつ安全な方法でクレイ(KAIA)をステーキングできるKlaytnステーキングツールです。",
                 "es": "KaiaPotter es una herramienta de staking de Kaia desarrollada por HashQuark para ayudar a los titulares de Kaia a participar en el staking de Klaytn de manera simple y segura.",
                 "pt-BR": "KaiaPotter é uma ferramenta de staking de Kaia desenvolvida pela HashQuark para ajudar os titulares de Kaia a participar do staking de Klaytn de forma simples e segura."
             },
