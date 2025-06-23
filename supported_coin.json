@@ -56662,12 +56662,12 @@
     }
   },
   {
-    "id": "BEP20/0x5C847f2C286C2D3ae3a43705584cD3Dba0395B6b",
+    "id": "BEP20/0x5c847f2c286c2d3ae3a43705584cd3dba0395b6b",
     "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-conut_coin.png",
     "symbol": "CONUT",
     "name": "ConutCoin",
     "type": "BEP20",
-    "contract": "0x5C847f2C286C2D3ae3a43705584cD3Dba0395B6b",
+    "contract": "0x5c847f2c286c2d3ae3a43705584cd3dba0395b6b",
     "support": {
       "biometric": true,
       "card": true,
