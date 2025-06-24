@@ -32619,6 +32619,7 @@
   },
   {
     "id": "ERC20/0x10dea67478c5f8c5e2d90e5e9b26dbe60c54d800",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/31525.png",
     "symbol": "TAIKO",
     "name": "Taiko",
     "type": "ERC20",
@@ -32927,6 +32928,7 @@
   },
   {
     "id": "ERC20/0x3e5a19c91266ad8ce2477b91585d1856b84062df",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/18734.png",
     "symbol": "A8",
     "name": "Ancient8",
     "type": "ERC20",
@@ -35965,6 +35967,21 @@
     }
   },
   {
+    "id": "ERC20/0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/36148.png",
+    "symbol": "USD1",
+    "name": "USD1",
+    "type": "ERC20",
+    "contract": "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "id": "RRC20/0x2acc95758f8b5f583470ba265eb685a8f45fc9d5",
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/3701.png",
     "symbol": "RIF",
@@ -36599,6 +36616,21 @@
     "name": "XPmarket",
     "type": "TrustLine",
     "contract": "34.rXPMxBeefHGxx2K7g5qmmWq3gFsgawkoa.XPM.486222039",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "RIPPLE-TA/35.rGm7WCVp9gb4jZHWTEtGUr4dd74z2XuWhE.5553444300000000000000000000000000000000.5446212",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+    "symbol": "USDC",
+    "name": "USDC",
+    "type": "TrustLine",
+    "contract": "35.rGm7WCVp9gb4jZHWTEtGUr4dd74z2XuWhE.5553444300000000000000000000000000000000.5446212",
     "support": {
       "biometric": true,
       "card": false,
@@ -56585,6 +56617,66 @@
     }
   },
   {
+    "id": "BEP20/0x19da1f6a5c2aec9315bf16d14ce7f7163082bf82",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/19092.png",
+    "symbol": "METAQ",
+    "name": "MetaQ",
+    "type": "BEP20",
+    "contract": "0x19da1f6a5c2aec9315bf16d14ce7f7163082bf82",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "BEP20/0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/36148.png",
+    "symbol": "USD1",
+    "name": "USD1",
+    "type": "BEP20",
+    "contract": "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "BEP20/0x4bfaa776991e85e5f8b1255461cbbd216cfc714f",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/36133.png",
+    "symbol": "HOME",
+    "name": "HOME",
+    "type": "BEP20",
+    "contract": "0x4bfaa776991e85e5f8b1255461cbbd216cfc714f",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "BEP20/0x5c847f2c286c2d3ae3a43705584cd3dba0395b6b",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/original/asset-conut_coin.png",
+    "symbol": "CONUT",
+    "name": "ConutCoin",
+    "type": "BEP20",
+    "contract": "0x5c847f2c286c2d3ae3a43705584cd3dba0395b6b",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "id": "CH20:10/0x4200000000000000000000000000000000000042",
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/11840.png",
     "symbol": "OP",
@@ -59272,6 +59364,21 @@
     "name": "Rekt",
     "type": "BASE-ERC20",
     "contract": "0xb3e3c89b8d9c88b1fe96856e382959ee6291ebba",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:8453/0x4bfaa776991e85e5f8b1255461cbbd216cfc714f",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/36133.png",
+    "symbol": "HOME",
+    "name": "HOME",
+    "type": "BASE-ERC20",
+    "contract": "0x4bfaa776991e85e5f8b1255461cbbd216cfc714f",
     "support": {
       "biometric": true,
       "card": true,
@@ -66583,6 +66690,51 @@
     "name": "Skate",
     "type": "SPL-TOKEN",
     "contract": "9v6BKHg8WWKBPTGqLFQz87RxyaHHDygx8SnZEbBFmns2",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "SPL-TOKEN/8a5NY9MAdY3NjKsgPUYfqoZcmGKdZkotrjWgZM1dpump",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/36836.png",
+    "symbol": "SOLBOX",
+    "name": "SolBox",
+    "type": "SPL-TOKEN",
+    "contract": "8a5NY9MAdY3NjKsgPUYfqoZcmGKdZkotrjWgZM1dpump",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "SPL-TOKEN/J3umBWqhSjd13sag1E1aUojViWvPYA5dFNyqpKuX3WXj",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/36133.png",
+    "symbol": "HOME",
+    "name": "HOME",
+    "type": "SPL-TOKEN",
+    "contract": "J3umBWqhSjd13sag1E1aUojViWvPYA5dFNyqpKuX3WXj",
+    "support": {
+      "biometric": true,
+      "card": false,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "SPL-TOKEN/GJQpf6Zjvokd3YK5EprXqZUah9jxkn8aG4pTeWL7Gkju",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/21951.png",
+    "symbol": "OKI",
+    "name": "HDOKI",
+    "type": "SPL-TOKEN",
+    "contract": "GJQpf6Zjvokd3YK5EprXqZUah9jxkn8aG4pTeWL7Gkju",
     "support": {
       "biometric": true,
       "card": false,
