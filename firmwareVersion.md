@@ -1,5 +1,6 @@
 |Kernel Version|Release Date|Notes|
 |----|----|------|
+|v2.34.4|2025-06-30|• Added missing Spanish translation |
 |v2.34.3|2025-05-20|• Improved stability |
 |v2.34.2|2025-04-04|• Improved stability for HORIZEN (ZEN) |
 |v2.34.1|2025-04-04|• Improved stability for account management |
