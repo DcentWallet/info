@@ -1105,6 +1105,19 @@
     }
   },
   {
+    "id": "CHAN:1514",
+    "iconUrl": "https://info-repo.dcentwallet.com/images/coins/networks/network_story_network.png",
+    "symbol": "IP",
+    "name": "Story Network",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "id": "ERC20/0xdac17f958d2ee523a2206206994597c13d831ec7",
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
     "symbol": "USDT",
@@ -68079,6 +68092,207 @@
     "name": "Lombard Staked BTC",
     "type": "BERA-ERC20",
     "contract": "0xecac9c5f704e954931349da37f60e39f515c11c1",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:1514/0x1514000000000000000000000000000000000000",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/35711.png",
+    "symbol": "IP",
+    "name": "Wrapped IP",
+    "type": "STORY-ERC20",
+    "contract": "0x1514000000000000000000000000000000000000",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:1514/0x5267f7ee069ceb3d8f1c760c215569b79d0685ad",
+    "symbol": "vIP",
+    "name": "Verio IP",
+    "type": "STORY-ERC20",
+    "contract": "0x5267f7ee069ceb3d8f1c760c215569b79d0685ad",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:1514/0xd07faed671decf3c5a6cc038dad97c8efdb507c0",
+    "symbol": "stIP",
+    "name": "StakedIP Token",
+    "type": "STORY-ERC20",
+    "contract": "0xd07faed671decf3c5a6cc038dad97c8efdb507c0",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:1514/0xf1815bd50389c46847f0bda824ec8da914045d14",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+    "symbol": "USDC.e",
+    "name": "Stargate Bridged USDC (Story)",
+    "type": "STORY-ERC20",
+    "contract": "0xf1815bd50389c46847f0bda824ec8da914045d14",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:1514/0x855bd6a8c5046d97c4e063e90e40f0f010d5423a",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/34921.png",
+    "symbol": "MUSIC",
+    "name": "MUSIC by Virtuals",
+    "type": "STORY-ERC20",
+    "contract": "0x855bd6a8c5046d97c4e063e90e40f0f010d5423a",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:1514/0x5a212776066b81e449fe74396cce368dc4b14043",
+    "symbol": "WTF",
+    "name": "WhatTheFreg",
+    "type": "STORY-ERC20",
+    "contract": "0x5a212776066b81e449fe74396cce368dc4b14043",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:1514/0x2f7f07691615188b07ea8198cf47a8bb11a3f2fc",
+    "symbol": "DRIP",
+    "name": "Drip Drip by Music",
+    "type": "STORY-ERC20",
+    "contract": "0x2f7f07691615188b07ea8198cf47a8bb11a3f2fc",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:1514/0xa4f5c615f72ddeb2220471694fff1c0c3de051e1",
+    "symbol": "LYRA",
+    "name": "LYRA",
+    "type": "STORY-ERC20",
+    "contract": "0xa4f5c615f72ddeb2220471694fff1c0c3de051e1",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:1514/0xbab93b7ad7fe8692a878b95a8e689423437cc500",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/2396.png",
+    "symbol": "WETH",
+    "name": "WETH",
+    "type": "STORY-ERC20",
+    "contract": "0xbab93b7ad7fe8692a878b95a8e689423437cc500",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:1514/0x1a925792d2dadaddc52fc929a2f1e3225bcfa611",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/34712.png",
+    "symbol": "ZOO",
+    "name": "ZOO Token",
+    "type": "STORY-ERC20",
+    "contract": "0x1a925792d2dadaddc52fc929a2f1e3225bcfa611",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:1514/0x79925eb7bafa8d227c4fc0c283d03292d5cadc7e",
+    "symbol": "NARR",
+    "name": "NarrativeCoin",
+    "type": "STORY-ERC20",
+    "contract": "0x79925eb7bafa8d227c4fc0c283d03292d5cadc7e",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:1514/0x02353a3bd5c9668159cf9fd54ac61b03212fcf41",
+    "symbol": "SONA",
+    "name": "SONA",
+    "type": "STORY-ERC20",
+    "contract": "0x02353a3bd5c9668159cf9fd54ac61b03212fcf41",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:1514/0xc732227dff21e35f01089961fb4f191c8acd85bc",
+    "symbol": "LILBENJI",
+    "name": "Lil Benji",
+    "type": "STORY-ERC20",
+    "contract": "0xc732227dff21e35f01089961fb4f191c8acd85bc",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": false,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
+    "id": "CH20:1514/0x9b7b7218e2db914fea97985c00ac983a773e6b62",
+    "symbol": "KOGA",
+    "name": "KOGA",
+    "type": "STORY-ERC20",
+    "contract": "0x9b7b7218e2db914fea97985c00ac983a773e6b62",
     "support": {
       "biometric": true,
       "card": true,
