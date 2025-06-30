@@ -35995,6 +35995,21 @@
     }
   },
   {
+    "id": "ERC20/0x2f714d7b9a035d4ce24af8d9b6091c07e37f43fb",
+    "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/36977.png",
+    "symbol": "NODE",
+    "name": "NODE",
+    "type": "ERC20",
+    "contract": "0x2f714d7b9a035d4ce24af8d9b6091c07e37f43fb",
+    "support": {
+      "biometric": true,
+      "card": true,
+      "ethCard": true,
+      "klayCard": false,
+      "software": true
+    }
+  },
+  {
     "id": "RRC20/0x2acc95758f8b5f583470ba265eb685a8f45fc9d5",
     "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/3701.png",
     "symbol": "RIF",
