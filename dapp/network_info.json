@@ -667,6 +667,20 @@
                         "iOS": "5.16.1"
                     },
                     "preRelease": true
+                },
+                {
+                    "networkId": "xrpl-evm",
+                    "name": "xrpl_evm",
+                    "description": "XRPL EVM",
+                    "coinType": "CHAN:1440000",
+                    "chainId": 1440000,
+                    "iconPath": "network_xrpl_evm.png",
+                    "testnet": false,
+                    "nativeVersion": {
+                        "Android": "5.16.0",
+                        "iOS": "5.16.1"
+                    },
+                    "preRelease": true
                 }
             ]
         },
