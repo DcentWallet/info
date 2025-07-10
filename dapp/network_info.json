@@ -680,6 +680,20 @@
                         "Android": "5.16.0",
                         "iOS": "5.16.1"
                     }
+                },
+                {
+                    "networkId": "manta-pacific",
+                    "name": "manta_pacific",
+                    "description": "Manta Pacific",
+                    "coinType": "CHAN:169",
+                    "chainId": 169,
+                    "iconPath": "network_manta_pacific.png",
+                    "testnet": false,
+                    "nativeVersion": {
+                        "Android": "5.16.0",
+                        "iOS": "5.16.1"
+                    },
+                    "preRelease": true
                 }
             ]
         },
