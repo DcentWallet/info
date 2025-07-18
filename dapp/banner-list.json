@@ -1,84 +1,42 @@
 [
-    
-       {
-        "name": "drop1-mapo",
-        "title": "drop1-mapo",
-        "bgColor": "#8EA7E7",
-        "externalWindow": true,
-        "locale": {
-            "en": {
-                "description": "",
-                "link": "https://link.dcentwallet.com/MyWallet/event/quest/map-protocol",
-                "imagePath": "app_mapo_380x160_en.png",
-                "imagePath_480": "app_mapo_480x160_en.png"
-            },
-            "ko": {
-                "description": "",
-                "link": "https://link.dcentwallet.com/MyWallet/event/quest/map-protocol",
-                "imagePath": "app_mapo_380x160_kr.png",
-                "imagePath_480": "app_mapo_480x160_kr.png"
-            },
-            "ja": {
-                "description": "",
-                "link": "https://link.dcentwallet.com/MyWallet/event/quest/map-protocol",
-                "imagePath": "app_mapo_380x160_en.png",
-                "imagePath_480": "app_mapo_480x160_en.png"
-            },
-            "es": {
-                "description": "",
-                "link": "https://link.dcentwallet.com/MyWallet/event/quest/map-protocol",
-                "imagePath": "app_mapo_380x160_en.png",
-                "imagePath_480": "app_mapo_480x160_en.png"
-            },
-            "pt-BR": {
-                "description": "",
-                "link": "https://link.dcentwallet.com/MyWallet/event/quest/map-protocol",
-                "imagePath": "app_mapo_380x160_en.png",
-                "imagePath_480": "app_mapo_480x160_en.png"
-            }
-        },
-        "startTimestamp": 1749513600000,
-        "endTimestamp": 1750723140000
-    },
     {
-        "name": "Intract_mapo",
-        "title": "Intract_mapo",
-        "bgColor": "#000000",
+        "name": "drop5-dcent-teaser",
+        "title": "Drop#5 D'CENT",
+        "bgColor": "#050318",
         "externalWindow": true,
         "locale": {
             "en": {
                 "description": "",
-                "link": "https://quest.intract.io/quest/684060b58f065a1a465e46fe",
-                "imagePath": "app_mapo_intract_380x160_en.png",
-                "imagePath_480": "app_mapo_intract_480x160_en.png"
+                "link": "https://store.dcentwallet.com/blogs/post/tap-that-drop-5-dcent-wallet",
+                "imagePath": "app_teaser_380x160_en.png",
+                "imagePath_480": "app_teaser_480x160_en.png"
             },
             "ko": {
                 "description": "",
-                "link": "https://quest.intract.io/quest/684060b58f065a1a465e46fe",
-                "imagePath": "app_mapo_intract_380x160_kr.png",
-                "imagePath_480": "app_mapo_intract_480x160_kr.png"
+                "link": "https://store-kr.dcentwallet.com/blogs/post/tap-that-drop-5-dcent-wallet",
+                "imagePath": "app_teaser_380x160_kr.png",
+                "imagePath_480": "app_teaser_480x160_kr.png"
             },
             "ja": {
                 "description": "",
-                "link": "https://quest.intract.io/quest/684060b58f065a1a465e46fe",
-                "imagePath": "app_mapo_intract_380x160_en.png",
-                "imagePath_480": "app_mapo_intract_480x160_en.png"
+                "link": "https://store.dcentwallet.com/ja/blogs/post/tap-that-drop-5-dcent-wallet",
+                "imagePath": "app_teaser_380x160_jp.png",
+                "imagePath_480": "app_teaser_480x160_jp.png"
             },
             "es": {
                 "description": "",
-                "link": "https://quest.intract.io/quest/684060b58f065a1a465e46fe",
-                "imagePath": "app_mapo_intract_380x160_en.png",
-                "imagePath_480": "app_mapo_intract_480x160_en.png"
+                "link": "https://store.dcentwallet.com/ja/blogs/post/tap-that-drop-5-dcent-wallet",
+                "imagePath": "app_teaser_380x160_en.png",
+                "imagePath_480": "app_teaser_480x160_en.png"
             },
             "pt-BR": {
                 "description": "",
-                "link": "https://quest.intract.io/quest/684060b58f065a1a465e46fe",
-                "imagePath": "app_mapo_intract_380x160_en.png",
-                "imagePath_480": "app_mapo_intract_480x160_en.png"
+                "link": "https://store.dcentwallet.com/ja/blogs/post/tap-that-drop-5-dcent-wallet",
+                "imagePath": "app_teaser_380x160_en.png",
+                "imagePath_480": "app_teaser_480x160_en.png"
             }
         },
-        "startTimestamp": 1749513600000,
-        "endTimestamp": 1750723140000
+        "endTimestamp": 1753142400000
     },
     {
         "name": "dcent blog",
