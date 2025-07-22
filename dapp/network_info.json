@@ -693,6 +693,20 @@
                         "Android": "5.16.0",
                         "iOS": "5.16.1"
                     }
+                },
+                {
+                    "networkId": "xphere",
+                    "name": "xphere",
+                    "description": "Xphere",
+                    "coinType": "CHAN:20250217",
+                    "chainId": 20250217,
+                    "iconPath": "network_xphere.png",
+                    "testnet": false,
+                    "nativeVersion": {
+                        "Android": "5.16.0",
+                        "iOS": "5.16.1"
+                    },
+                    "preRelease": true
                 }
             ]
         },
