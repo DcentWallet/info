@@ -706,6 +706,20 @@
                         "Android": "5.16.0",
                         "iOS": "5.16.1"
                     }
+                },
+                {
+                    "networkId": "hyper-evm",
+                    "name": "hyper_evm",
+                    "description": "HyperEVM",
+                    "coinType": "CHAN:999",
+                    "chainId": 999,
+                    "iconPath": "network_hyper_evm.png",
+                    "testnet": false,
+                    "nativeVersion": {
+                        "Android": "5.16.0",
+                        "iOS": "5.16.1"
+                    },
+                    "preRelease": true
                 }
             ]
         },
