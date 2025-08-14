@@ -719,6 +719,20 @@
                         "Android": "5.16.0",
                         "iOS": "5.16.1"
                     }
+                },
+                {
+                    "networkId": "camp-mainnet",
+                    "name": "camp_mainnet",
+                    "description": "Camp Mainnet",
+                    "coinType": "CHAN:484",
+                    "chainId": 484,
+                    "iconPath": "network_camp.png",
+                    "testnet": false,
+                    "nativeVersion": {
+                        "Android": "5.16.0",
+                        "iOS": "5.16.1"
+                    },
+                    "preRelease": true
                 }
             ]
         },
