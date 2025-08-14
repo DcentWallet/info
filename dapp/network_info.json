@@ -726,7 +726,7 @@
                     "description": "Camp Mainnet",
                     "coinType": "CHAN:484",
                     "chainId": 484,
-                    "iconPath": "network_camp.png",
+                    "iconPath": "network_basecamp.png",
                     "testnet": false,
                     "nativeVersion": {
                         "Android": "5.16.0",
