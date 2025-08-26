@@ -726,8 +726,36 @@
                     "description": "Camp Mainnet",
                     "coinType": "CHAN:484",
                     "chainId": 484,
-                    "iconPath": "network_camp.png",
+                    "iconPath": "network_basecamp.png",
                     "testnet": false,
+                    "nativeVersion": {
+                        "Android": "5.16.0",
+                        "iOS": "5.16.1"
+                    },
+                    "preRelease": true
+                },
+                {
+                    "networkId": "humanity-protocol",
+                    "name": "humanity_protocol",
+                    "description": "Humanity Protocol",
+                    "coinType": "CHAN:6985385",
+                    "chainId": 6985385,
+                    "iconPath": "network_humanity.png",
+                    "testnet": false,
+                    "nativeVersion": {
+                        "Android": "5.16.0",
+                        "iOS": "5.16.1"
+                    },
+                    "preRelease": true
+                },
+                {
+                    "networkId": "stable-testnet",
+                    "name": "stable_testnet",
+                    "description": "Stable Testnet",
+                    "coinType": "EVMT:2201",
+                    "chainId": 2201,
+                    "iconPath": "network_stable.png",
+                    "testnet": true,
                     "nativeVersion": {
                         "Android": "5.16.0",
                         "iOS": "5.16.1"
