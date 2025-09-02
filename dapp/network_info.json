@@ -731,8 +731,7 @@
                     "nativeVersion": {
                         "Android": "5.16.0",
                         "iOS": "5.16.1"
-                    },
-                    "preRelease": true
+                    }
                 },
                 {
                     "networkId": "humanity-protocol",
@@ -745,8 +744,7 @@
                     "nativeVersion": {
                         "Android": "5.16.0",
                         "iOS": "5.16.1"
-                    },
-                    "preRelease": true
+                    }
                 },
                 {
                     "networkId": "stable-testnet",
@@ -759,8 +757,7 @@
                     "nativeVersion": {
                         "Android": "5.16.0",
                         "iOS": "5.16.1"
-                    },
-                    "preRelease": true
+                    }
                 }
             ]
         },
