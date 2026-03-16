@@ -1,5 +1,6 @@
 |Kernel Version|Release Date|Notes|
 |----|----|------|
+|v2.35.2|2026-03-16|• Improved stability |
 |v2.35.1|2025-10-20|• Improved Tezos (XTZ) Transaction stability |
 |v2.35.0|2025-09-15|• Added support for message signing |
 |v2.34.4|2025-06-30|• Added missing Spanish translation |
