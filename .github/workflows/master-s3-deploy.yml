@@ -8,23 +8,27 @@ on:
 jobs:
   build:
     runs-on: ubuntu-22.04
+    # AWS는 장기 액세스 키 대신 OIDC 역할로 접근한다. 역할은 이 레포 master push에서만 쓸 수 있다
+    permissions:
+      contents: read    # Checkout
+      id-token: write   # AWS OIDC
     steps:
       - name: Checkout source code
         uses: actions/checkout@master
 
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          # 이 레포 master push에서만 assume할 수 있는 역할이라 ARN은 비밀값이 아니다
+          role-to-assume: arn:aws:iam::564714665430:role/github-actions-dcent-info
+          aws-region: ap-northeast-2
+
       - name: Deploy
-        env:
-          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
         run: |
           aws s3 sync \
             . s3://dcentwallet-info \
             --exclude ".git/*" \
             --region ap-northeast-2 \
             --delete
-      - name: CoundFront Cache clear 
+      - name: CloudFront Cache clear
         run: aws cloudfront create-invalidation --distribution-id ${{ secrets.AWS_CF_DISTRIBUTION_ID }} --paths "/*"
-        env:
-          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          AWS_EC2_METADATA_DISABLED: true
